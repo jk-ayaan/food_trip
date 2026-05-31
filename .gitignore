@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+serve.py
+# 스크래핑 중간 산출물(로컬 디버그용)
+detail_*.html
+list_*.html
+test_*.html
+*.log
