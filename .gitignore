@@ -9,3 +9,7 @@ test_*.html
 
 __pycache__/
 *.pyc
+stay_*.html
+fest_*.html
+sights_*.html
+*_list.html
