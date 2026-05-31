@@ -121,6 +121,22 @@ footer a{text-decoration:underline}
 .dist{color:var(--sea);font-weight:800}
 .udot{width:16px;height:16px;border-radius:50%;background:#1a73e8;border:3px solid #fff;box-shadow:0 0 0 2px rgba(26,115,232,.45),0 1px 5px rgba(0,0,0,.4);animation:bfpulse 2s infinite}
 @keyframes bfpulse{0%{box-shadow:0 0 0 0 rgba(26,115,232,.5),0 1px 5px rgba(0,0,0,.4)}70%{box-shadow:0 0 0 16px rgba(26,115,232,0),0 1px 5px rgba(0,0,0,.4)}100%{box-shadow:0 0 0 0 rgba(26,115,232,0),0 1px 5px rgba(0,0,0,.4)}}
+.dd{position:relative;margin-left:8px;flex:none}
+.dd-btn{display:flex;align-items:center;gap:6px;background:var(--bg);border:1.5px solid var(--line);border-radius:14px;padding:10px 11px;font-size:13px;font-weight:700;color:var(--ink);cursor:pointer;white-space:nowrap;max-width:150px}
+.dd-btn>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dd-btn .lic{width:15px;height:15px;color:var(--sub);flex:none}
+.dd-btn .chev{width:14px;height:14px;color:var(--sub);flex:none;transition:transform .2s}
+.dd.open .dd-btn{border-color:var(--sea);background:#fff}
+.dd.open .dd-btn .chev{transform:rotate(180deg)}
+.dd-panel{position:absolute;right:0;top:calc(100% + 6px);width:208px;background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 14px 34px rgba(20,40,70,.18);padding:6px;z-index:1200;display:none;max-height:70vh;overflow:auto}
+.dd.open .dd-panel{display:block}
+.dd-h{font-size:11px;font-weight:800;color:#9aa6b2;padding:8px 10px 4px;letter-spacing:.02em}
+.dd-opt{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:9px 10px;border-radius:9px;font-size:13.5px;font-weight:600;color:var(--ink);cursor:pointer}
+@media(hover:hover){.dd-opt:hover{background:var(--bg)}}
+.dd-opt.on{background:rgba(10,110,189,.1);color:var(--sea);font-weight:800}
+.dd-opt .ck{width:16px;height:16px;flex:none;opacity:0;color:var(--sea)}
+.dd-opt.on .ck{opacity:1}
+.dd-div{height:1px;background:var(--line);margin:6px 6px}
 </style>
 </head>
 <body>
@@ -141,7 +157,10 @@ footer a{text-decoration:underline}
     </div>
   </div>
   <div style="display:flex;align-items:center"><div class="chips" id="cats" style="flex:1"></div>
-    <div class="sortwrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 6h18M6 12h12M10 18h4"/></svg><select id="sort"></select></div>
+    <div class="dd" id="dd">
+      <button class="dd-btn" id="ddBtn" type="button" aria-haspopup="true" aria-expanded="false"><svg class="lic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 6h18M6 12h12M10 18h4"/></svg><span id="ddLabel"></span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></button>
+      <div class="dd-panel" id="ddPanel" role="menu"></div>
+    </div>
   </div>
   <div class="chips" id="gus"></div>
 </div></div>
@@ -180,10 +199,10 @@ const UI={
  zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 2026-05-31`}};
 
 const LOCT={
- ko:{me:"내 위치",nearest:"거리순",within:"이내",nearme:"내 위치 기준",sortLabel:"정렬",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
- en:{me:"My location",nearest:"Nearest first",within:"away",nearme:"Near me",sortLabel:"Sort",err:"Couldn't get your location. Please allow location access.",locating:"Locating…",here:"You are here"},
- ja:{me:"現在地",nearest:"近い順",within:"以内",nearme:"現在地から",sortLabel:"並び替え",err:"位置情報を取得できません。位置情報の許可をご確認ください。",locating:"現在地を取得中…",here:"現在地"},
- zh:{me:"我的位置",nearest:"距离最近",within:"以内",nearme:"我的位置",sortLabel:"排序",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
+ ko:{me:"내 위치",nearest:"거리순",within:"이내",all:"전체",nearme:"내 위치 기준",sortLabel:"정렬",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
+ en:{me:"My location",nearest:"Nearest",within:"away",all:"All",nearme:"Near me",sortLabel:"Sort",err:"Couldn't get your location. Please allow location access.",locating:"Locating…",here:"You are here"},
+ ja:{me:"現在地",nearest:"近い順",within:"以内",all:"すべて",nearme:"現在地から",sortLabel:"並び替え",err:"位置情報を取得できません。位置情報の許可をご確認ください。",locating:"現在地を取得中…",here:"現在地"},
+ zh:{me:"我的位置",nearest:"距离最近",within:"以内",all:"全部",nearme:"我的位置",sortLabel:"排序",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
 function LT(){return LOCT[state.lang]}
 const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
@@ -210,18 +229,21 @@ function locate(){
   navigator.geolocation.getCurrentPosition(p=>{
     state.loc={lat:p.coords.latitude,lng:p.coords.longitude,acc:p.coords.accuracy};
     document.getElementById("locate").classList.add("on");
-    if(state.sort!=="dist")state.sort="dist";
-    rebuildSort();
     if(state.view==="map"){initMap();showUser();map.setView([state.loc.lat,state.loc.lng],14)}
-    render();
-  },()=>{toast(LT().err);if(state.sort==="dist"){state.sort="def";state.radius=0;rebuildSort();render()}},{enableHighAccuracy:true,timeout:9000,maximumAge:60000})}
-function rebuildSort(){const u=U(),lt=LT();
-  const base=Object.entries(u.sorts).map(([k,v])=>`<option value="${k}">${v}</option>`).join("");
-  const near=`<option value="dist">${lt.nearest}</option>`+[1,3,5,10].map(k=>`<option value="r${k}">${k}km ${lt.within}</option>`).join("");
-  const sel=document.getElementById("sort");
-  sel.innerHTML=`<optgroup label="${lt.sortLabel}">${base}</optgroup><optgroup label="📍 ${lt.nearme}">${near}</optgroup>`;
-  sel.value=(state.sort==="dist")?(state.radius>0?"r"+state.radius:"dist"):state.sort;
+    renderDD();render();
+  },()=>{toast(LT().err);let ch=false;if(state.sort==="dist"){state.sort="def";ch=true}if(state.radius>0){state.radius=0;ch=true}if(ch){renderDD();render()}},{enableHighAccuracy:true,timeout:9000,maximumAge:60000})}
+const CK='<svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M5 12l5 5L20 6"/></svg>';
+function sortName(k){return k==="dist"?LT().nearest:U().sorts[k]}
+function ddLabelText(){return sortName(state.sort)+(state.radius>0?` · ${state.radius}km`:"")}
+function renderDD(){const lt=LT();
+  let h=`<div class="dd-h">${lt.sortLabel}</div>`;
+  ["def","view","like","name","dist"].forEach(k=>h+=`<div class="dd-opt${state.sort===k?" on":""}" data-g="s" data-v="${k}"><span>${sortName(k)}</span>${CK}</div>`);
+  h+=`<div class="dd-div"></div><div class="dd-h">📍 ${lt.nearme}</div>`;
+  [[0,lt.all]].concat([1,3,5,10].map(n=>[n,`${n}km ${lt.within}`])).forEach(([v,lab])=>h+=`<div class="dd-opt${state.radius===v?" on":""}" data-g="r" data-v="${v}"><span>${lab}</span>${CK}</div>`);
+  document.getElementById("ddPanel").innerHTML=h;
+  document.getElementById("ddLabel").textContent=ddLabelText();
 }
+function ddOpen(o){document.getElementById("dd").classList.toggle("open",o);document.getElementById("ddBtn").setAttribute("aria-expanded",o?"true":"false")}
 
 const PIN='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-6.3-7-11a7 7 0 0114 0c0 4.7-7 11-7 11z"/><circle cx="12" cy="10" r="2.4"/></svg>';
 const CLK='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
@@ -310,7 +332,7 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
   document.getElementById("footer").innerHTML=u.foot+" · "+u.src;
   document.getElementById("maphint").innerHTML=u.hint;
-  rebuildSort();
+  renderDD();
   document.getElementById("locate").setAttribute("aria-label",LT().me);
   document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
   buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);render();setToolsH()}
@@ -327,10 +349,14 @@ function setView(v){state.view=v;document.querySelectorAll("#viewtog button").fo
   if(v==="map"){if(state.loc)showUser();toast(U().hint)}}
 
 let t;document.getElementById("q").addEventListener("input",e=>{clearTimeout(t);state.q=e.target.value;t=setTimeout(render,120)});
-document.getElementById("sort").addEventListener("change",e=>{const v=e.target.value;
-  if(v==="dist"||v[0]==="r"){state.sort="dist";state.radius=v[0]==="r"?+v.slice(1):0;if(!state.loc){locate();return}render()}
-  else{state.sort=v;state.radius=0;render()}});
-document.getElementById("locate").addEventListener("click",locate);
+document.getElementById("ddBtn").addEventListener("click",e=>{e.stopPropagation();ddOpen(!document.getElementById("dd").classList.contains("open"))});
+document.getElementById("ddPanel").addEventListener("click",e=>{e.stopPropagation();const o=e.target.closest(".dd-opt");if(!o)return;
+  const g=o.dataset.g,v=o.dataset.v;let need=false;
+  if(g==="s"){state.sort=v;if(v==="dist"&&!state.loc)need=true}
+  else{state.radius=+v;if(+v>0&&!state.loc)need=true}
+  renderDD();if(need)locate();else render()});
+document.addEventListener("click",e=>{if(!e.target.closest("#dd"))ddOpen(false)});
+document.getElementById("locate").addEventListener("click",()=>{if(state.sort==="def")state.sort="dist";renderDD();locate()});
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
 document.getElementById("langs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.lang=b.dataset.l;localStorage.setItem("bf_lang",state.lang);applyLang()});
