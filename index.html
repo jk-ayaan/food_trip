@@ -112,6 +112,15 @@ a{color:inherit;text-decoration:none}img{display:block}
 .top.show{opacity:1;pointer-events:auto}
 footer{max-width:1180px;margin:0 auto;padding:8px 18px calc(30px + var(--safe-b));color:#9aa6b2;font-size:11.5px;line-height:1.6;text-align:center}
 footer a{text-decoration:underline}
+.locate{position:fixed;left:16px;bottom:calc(16px + var(--safe-b));width:48px;height:48px;border-radius:50%;background:#fff;color:var(--sea);display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,.22);z-index:1100;cursor:pointer;border:0;transition:.15s}
+.locate.on{background:var(--sea);color:#fff}
+.locate:active{transform:scale(.93)}
+.locate svg{width:23px;height:23px}
+.locate[hidden]{display:none}
+.radsel{margin-left:8px}
+.dist{color:var(--sea);font-weight:800}
+.udot{width:16px;height:16px;border-radius:50%;background:#1a73e8;border:3px solid #fff;box-shadow:0 0 0 2px rgba(26,115,232,.45),0 1px 5px rgba(0,0,0,.4);animation:bfpulse 2s infinite}
+@keyframes bfpulse{0%{box-shadow:0 0 0 0 rgba(26,115,232,.5),0 1px 5px rgba(0,0,0,.4)}70%{box-shadow:0 0 0 16px rgba(26,115,232,0),0 1px 5px rgba(0,0,0,.4)}100%{box-shadow:0 0 0 0 rgba(26,115,232,0),0 1px 5px rgba(0,0,0,.4)}}
 </style>
 </head>
 <body>
@@ -132,6 +141,7 @@ footer a{text-decoration:underline}
     </div>
   </div>
   <div style="display:flex;align-items:center"><div class="chips" id="cats" style="flex:1"></div>
+    <div class="sortwrap radsel" id="radwrap" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/></svg><select id="radius"></select></div>
     <div class="sortwrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 6h18M6 12h12M10 18h4"/></svg><select id="sort"></select></div>
   </div>
   <div class="chips" id="gus"></div>
@@ -141,6 +151,7 @@ footer a{text-decoration:underline}
 <main class="grid" id="grid"></main>
 <div id="map"></div>
 <div class="maphint" id="maphint"></div>
+<button class="locate" id="locate" hidden aria-label="내 위치"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.4"/><path d="M12 2v3.2M12 18.8V22M2 12h3.2M18.8 12H22"/><circle cx="12" cy="12" r="8"/></svg></button>
 <div class="top" id="top"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 19V5M5 12l7-7 7 7"/></svg></div>
 <footer id="footer"></footer>
 
@@ -169,7 +180,13 @@ const UI={
  ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 2026-05-31`},
  zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 2026-05-31`}};
 
-const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
+const LOCT={
+ ko:{me:"내 위치",nearest:"거리순",radius:"반경",all:"전체",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
+ en:{me:"My location",nearest:"Nearest",radius:"Radius",all:"All",err:"Couldn't get your location. Please allow location access.",locating:"Locating…",here:"You are here"},
+ ja:{me:"現在地",nearest:"近い順",radius:"半径",all:"すべて",err:"位置情報を取得できません。位置情報の許可をご確認ください。",locating:"現在地を取得中…",here:"現在地"},
+ zh:{me:"我的位置",nearest:"距离最近",radius:"半径",all:"全部",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
+function LT(){return LOCT[state.lang]}
+const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
 function catName(k){const m=CAT_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
 function guName(k){const m=GU_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
@@ -177,6 +194,30 @@ function secName(k){return SECNAME[k][state.lang]||SECNAME[k].ko}
 function U(){return UI[state.lang]}
 const rows=()=>DB[state.sec]||[];
 const catColor=(()=>{const map={};return k=>{if(!(k in map)){const keys=Object.keys(map);map[k]=PALETTE[keys.length%PALETTE.length]}return map[k]}})();
+
+// ── 현재 위치 ──
+function haversine(la1,lo1,la2,lo2){const R=6371,d=x=>x*Math.PI/180;const dla=d(la2-la1),dlo=d(lo2-lo1);const a=Math.sin(dla/2)**2+Math.cos(d(la1))*Math.cos(d(la2))*Math.sin(dlo/2)**2;return 2*R*Math.asin(Math.sqrt(a))}
+function distKm(r){return state.loc&&r.lat!=null?haversine(state.loc.lat,state.loc.lng,r.lat,r.lng):null}
+function fmtDist(km){if(km==null)return"";return km<1?Math.round(km*1000)+"m":(km<10?km.toFixed(1):Math.round(km))+"km"}
+let toastT;function toast(m){const h=document.getElementById("maphint");h.innerHTML=m;h.classList.add("show");clearTimeout(toastT);toastT=setTimeout(()=>h.classList.remove("show"),2800)}
+let userMarker,userCircle;
+function showUser(){if(!mapReady||!state.loc)return;const ll=[state.loc.lat,state.loc.lng];
+  if(userMarker){userMarker.setLatLng(ll);userCircle.setLatLng(ll).setRadius(state.loc.acc||40)}
+  else{userMarker=L.marker(ll,{icon:L.divIcon({className:"",html:'<div class="udot"></div>',iconSize:[16,16],iconAnchor:[8,8]}),zIndexOffset:2000,interactive:false}).addTo(map);
+    userCircle=L.circle(ll,{radius:state.loc.acc||40,color:"#1a73e8",weight:1,fillColor:"#1a73e8",fillOpacity:.1,interactive:false}).addTo(map)}}
+function locate(){
+  if(!navigator.geolocation){toast(LT().err);return}
+  toast(LT().locating);
+  navigator.geolocation.getCurrentPosition(p=>{
+    state.loc={lat:p.coords.latitude,lng:p.coords.longitude,acc:p.coords.accuracy};
+    document.getElementById("locate").classList.add("on");
+    document.getElementById("radwrap").hidden=false;
+    state.sort="dist";rebuildSort();
+    if(state.view==="map"){initMap();showUser();map.setView([state.loc.lat,state.loc.lng],14)}
+    render();
+  },()=>toast(LT().err),{enableHighAccuracy:true,timeout:9000,maximumAge:60000})}
+function rebuildSort(){const u=U();let h=Object.entries(u.sorts).map(([k,v])=>`<option value="${k}">${v}</option>`).join("")+`<option value="dist">📍 ${LT().nearest}</option>`;const sel=document.getElementById("sort");sel.innerHTML=h;sel.value=state.sort}
+function buildRadius(){const sel=document.getElementById("radius");sel.innerHTML=`<option value="0">${LT().all}</option>`+[1,3,5,10].map(k=>`<option value="${k}">${k}km</option>`).join("");sel.value=String(state.radius)}
 
 const PIN='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-6.3-7-11a7 7 0 0114 0c0 4.7-7 11-7 11z"/><circle cx="12" cy="10" r="2.4"/></svg>';
 const CLK='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
@@ -199,11 +240,13 @@ function filtered(){
   let list=rows().filter(r=>{
     if(state.cat!=="전체"&&r.c!==state.cat)return false;
     if(state.gu!=="전체"&&r.g!==state.gu)return false;
+    if(state.radius>0&&state.loc){const dk=distKm(r);if(dk==null||dk>state.radius)return false}
     if(q){const hay=norm(tr(r.n)+tr(r.a)+r.g+r.c+(r.n&&r.n.ko||"")+tr(r.d));if(!hay.includes(q))return false}
     return true;
   });
   const s=state.sort;
-  if(s==="view")list=[...list].sort((a,b)=>(b.v||0)-(a.v||0));
+  if(s==="dist"&&state.loc)list=[...list].sort((a,b)=>(distKm(a)??1e9)-(distKm(b)??1e9));
+  else if(s==="view")list=[...list].sort((a,b)=>(b.v||0)-(a.v||0));
   else if(s==="like")list=[...list].sort((a,b)=>(b.l||0)-(a.l||0));
   else if(s==="name")list=[...list].sort((a,b)=>tr(a.n).localeCompare(tr(b.n),state.lang==="zh"?"zh":state.lang));
   return list;
@@ -228,7 +271,7 @@ function card(r){
   return `<article class="card"><div class="thumb">${img}<span class="badge" style="background:${col}">${esc(catName(r.c))}</span>${r.g?`<span class="gbadge">${esc(guName(r.g))}</span>`:""}${st?`<span class="statusb" style="background:${stColor}">${U()[st]}</span>`:""}</div>
   <div class="body"><a class="name" href="${esc(r.u)}" target="_blank" rel="noopener">${esc(tr(r.n))}</a>
   ${hl&&hl.t?`<div class="hl">${hl.ic}<span>${esc(hl.t)}</span></div>`:""}
-  ${tr(r.a)?`<div class="row">${PIN}<span>${esc(tr(r.a))}</span></div>`:""}
+  ${(tr(r.a)||state.loc)?`<div class="row">${PIN}<span>${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(tr(r.a))}</span></div>`:""}
   ${hrs&&state.sec!=="festival"?`<div class="row">${CLK}<span>${hrs}${closedTxt}</span></div>`:""}
   ${tr(r.d)?`<div class="desc">${esc(tr(r.d))}</div>`:""}
   ${(r.v||r.l)?`<div class="stat">${r.v?"👁 "+r.v.toLocaleString():""} ${r.l?"&nbsp; ♥ "+r.l:""}</div>`:""}
@@ -242,7 +285,7 @@ function initMap(){if(mapReady)return;map=L.map("map",{zoomControl:true}).setVie
   L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",{attribution:'© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/">CARTO</a>',subdomains:"abcd",maxZoom:19}).addTo(map);
   cluster=L.markerClusterGroup({maxClusterRadius:48,showCoverageOnHover:false});map.addLayer(cluster);mapReady=true}
 function popHtml(r){const tel=(r.p||"").replace(/[^0-9+]/g,"");const hl=highlight(r);const mapq=encodeURIComponent(tr(r.n)+" "+r.g);
-  return `<div class="pop">${r.t?`<img class="pimg" src="${esc(r.t)}" alt="" onerror="this.style.display='none'">`:""}<div class="pbody"><div class="pn">${esc(tr(r.n))}</div>${hl&&hl.t?`<div class="pm">${esc(hl.t)}</div>`:""}<div class="pa">${esc(catName(r.c))}${r.g?" · "+esc(guName(r.g)):""}<br>${esc(tr(r.a))}</div><div class="pacts">${tel?`<a class="call" href="tel:${tel}">${U().call}</a>`:""}<a href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${U().mapBtn}</a><a href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a></div></div></div>`}
+  return `<div class="pop">${r.t?`<img class="pimg" src="${esc(r.t)}" alt="" onerror="this.style.display='none'">`:""}<div class="pbody"><div class="pn">${esc(tr(r.n))}</div>${hl&&hl.t?`<div class="pm">${esc(hl.t)}</div>`:""}<div class="pa">${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(catName(r.c))}${r.g?" · "+esc(guName(r.g)):""}<br>${esc(tr(r.a))}</div><div class="pacts">${tel?`<a class="call" href="tel:${tel}">${U().call}</a>`:""}<a href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${U().mapBtn}</a><a href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a></div></div></div>`}
 function renderMap(list){initMap();cluster.clearLayers();const ms=[];
   list.forEach(r=>{if(r.lat==null||r.lng==null)return;const col=catColor(r.c);
     const m=L.marker([r.lat,r.lng],{icon:L.divIcon({className:"",html:`<div class="mk" style="background:${col}"></div>`,iconSize:[16,16],iconAnchor:[8,15],popupAnchor:[0,-14]})});
@@ -263,7 +306,8 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
   document.getElementById("footer").innerHTML=u.foot+" · "+u.src;
   document.getElementById("maphint").innerHTML=u.hint;
-  document.getElementById("sort").innerHTML=Object.entries(u.sorts).map(([k,v])=>`<option value="${k}"${state.sort===k?" selected":""}>${v}</option>`).join("");
+  rebuildSort();buildRadius();
+  document.getElementById("locate").setAttribute("aria-label",LT().me);
   document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
   buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);render();setToolsH()}
 
@@ -274,10 +318,14 @@ function switchSection(sec){state.sec=sec;state.cat="전체";state.gu="전체";s
   render();window.scrollTo({top:0,behavior:"instant"});setToolsH()}
 function setView(v){state.view=v;document.querySelectorAll("#viewtog button").forEach(b=>b.classList.toggle("on",b.dataset.v===v));
   document.getElementById("grid").classList.toggle("hidden",v==="map");document.getElementById("map").classList.toggle("show",v==="map");
-  render();if(v==="map"){const h=document.getElementById("maphint");h.classList.add("show");setTimeout(()=>h.classList.remove("show"),2600)}}
+  document.getElementById("locate").hidden=(v!=="map");
+  render();
+  if(v==="map"){if(state.loc)showUser();toast(U().hint)}}
 
 let t;document.getElementById("q").addEventListener("input",e=>{clearTimeout(t);state.q=e.target.value;t=setTimeout(render,120)});
-document.getElementById("sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
+document.getElementById("sort").addEventListener("change",e=>{state.sort=e.target.value;if(state.sort==="dist"&&!state.loc)locate();else render()});
+document.getElementById("radius").addEventListener("change",e=>{state.radius=+e.target.value;render()});
+document.getElementById("locate").addEventListener("click",locate);
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
 document.getElementById("langs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.lang=b.dataset.l;localStorage.setItem("bf_lang",state.lang);applyLang()});
