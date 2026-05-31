@@ -6,3 +6,6 @@ detail_*.html
 list_*.html
 test_*.html
 *.log
+
+__pycache__/
+*.pyc
