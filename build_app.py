@@ -104,7 +104,7 @@ a{color:inherit;text-decoration:none}img{display:block}
 .viewtog svg{width:15px;height:15px}
 .sortwrap{display:flex;align-items:center;gap:5px;background:var(--bg);border:1.5px solid var(--line);border-radius:14px;padding:10px 11px;margin-left:8px}
 .sortwrap svg{width:15px;height:15px;color:var(--sub);flex:none}
-.sortwrap select{border:0;background:transparent;font-weight:700;color:var(--ink);font-size:13px;outline:none;max-width:96px}
+.sortwrap select{border:0;background:transparent;font-weight:700;color:var(--ink);font-size:13px;outline:none;max-width:120px}
 .chips{display:flex;gap:7px;overflow-x:auto;padding:8px 2px 3px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
 .chip{flex:none;border:1.5px solid var(--line);background:#fff;color:var(--sub);border-radius:999px;padding:7px 13px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;transition:.12s}
@@ -199,7 +199,6 @@ footer a{text-decoration:underline}
     </div>
   </div>
   <div style="display:flex;align-items:center"><div class="chips" id="cats" style="flex:1"></div>
-    <div class="sortwrap radsel" id="radwrap" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/></svg><select id="radius"></select></div>
     <div class="sortwrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 6h18M6 12h12M10 18h4"/></svg><select id="sort"></select></div>
   </div>
   <div class="chips" id="gus"></div>
@@ -239,10 +238,10 @@ const UI={
  zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 __UPDATED__`}};
 
 const LOCT={
- ko:{me:"내 위치",nearest:"거리순",radius:"반경",all:"전체",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
- en:{me:"My location",nearest:"Nearest",radius:"Radius",all:"All",err:"Couldn't get your location. Please allow location access.",locating:"Locating…",here:"You are here"},
- ja:{me:"現在地",nearest:"近い順",radius:"半径",all:"すべて",err:"位置情報を取得できません。位置情報の許可をご確認ください。",locating:"現在地を取得中…",here:"現在地"},
- zh:{me:"我的位置",nearest:"距离最近",radius:"半径",all:"全部",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
+ ko:{me:"내 위치",nearest:"거리순",within:"이내",nearme:"내 위치 기준",sortLabel:"정렬",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
+ en:{me:"My location",nearest:"Nearest first",within:"away",nearme:"Near me",sortLabel:"Sort",err:"Couldn't get your location. Please allow location access.",locating:"Locating…",here:"You are here"},
+ ja:{me:"現在地",nearest:"近い順",within:"以内",nearme:"現在地から",sortLabel:"並び替え",err:"位置情報を取得できません。位置情報の許可をご確認ください。",locating:"現在地を取得中…",here:"現在地"},
+ zh:{me:"我的位置",nearest:"距离最近",within:"以内",nearme:"我的位置",sortLabel:"排序",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
 function LT(){return LOCT[state.lang]}
 const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
@@ -269,13 +268,18 @@ function locate(){
   navigator.geolocation.getCurrentPosition(p=>{
     state.loc={lat:p.coords.latitude,lng:p.coords.longitude,acc:p.coords.accuracy};
     document.getElementById("locate").classList.add("on");
-    document.getElementById("radwrap").hidden=false;
-    state.sort="dist";rebuildSort();
+    if(state.sort!=="dist")state.sort="dist";
+    rebuildSort();
     if(state.view==="map"){initMap();showUser();map.setView([state.loc.lat,state.loc.lng],14)}
     render();
-  },()=>toast(LT().err),{enableHighAccuracy:true,timeout:9000,maximumAge:60000})}
-function rebuildSort(){const u=U();let h=Object.entries(u.sorts).map(([k,v])=>`<option value="${k}">${v}</option>`).join("")+`<option value="dist">📍 ${LT().nearest}</option>`;const sel=document.getElementById("sort");sel.innerHTML=h;sel.value=state.sort}
-function buildRadius(){const sel=document.getElementById("radius");sel.innerHTML=`<option value="0">${LT().all}</option>`+[1,3,5,10].map(k=>`<option value="${k}">${k}km</option>`).join("");sel.value=String(state.radius)}
+  },()=>{toast(LT().err);if(state.sort==="dist"){state.sort="def";state.radius=0;rebuildSort();render()}},{enableHighAccuracy:true,timeout:9000,maximumAge:60000})}
+function rebuildSort(){const u=U(),lt=LT();
+  const base=Object.entries(u.sorts).map(([k,v])=>`<option value="${k}">${v}</option>`).join("");
+  const near=`<option value="dist">${lt.nearest}</option>`+[1,3,5,10].map(k=>`<option value="r${k}">${k}km ${lt.within}</option>`).join("");
+  const sel=document.getElementById("sort");
+  sel.innerHTML=`<optgroup label="${lt.sortLabel}">${base}</optgroup><optgroup label="📍 ${lt.nearme}">${near}</optgroup>`;
+  sel.value=(state.sort==="dist")?(state.radius>0?"r"+state.radius:"dist"):state.sort;
+}
 
 const PIN='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-6.3-7-11a7 7 0 0114 0c0 4.7-7 11-7 11z"/><circle cx="12" cy="10" r="2.4"/></svg>';
 const CLK='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
@@ -364,7 +368,7 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
   document.getElementById("footer").innerHTML=u.foot+" · "+u.src;
   document.getElementById("maphint").innerHTML=u.hint;
-  rebuildSort();buildRadius();
+  rebuildSort();
   document.getElementById("locate").setAttribute("aria-label",LT().me);
   document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
   buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);render();setToolsH()}
@@ -381,8 +385,9 @@ function setView(v){state.view=v;document.querySelectorAll("#viewtog button").fo
   if(v==="map"){if(state.loc)showUser();toast(U().hint)}}
 
 let t;document.getElementById("q").addEventListener("input",e=>{clearTimeout(t);state.q=e.target.value;t=setTimeout(render,120)});
-document.getElementById("sort").addEventListener("change",e=>{state.sort=e.target.value;if(state.sort==="dist"&&!state.loc)locate();else render()});
-document.getElementById("radius").addEventListener("change",e=>{state.radius=+e.target.value;render()});
+document.getElementById("sort").addEventListener("change",e=>{const v=e.target.value;
+  if(v==="dist"||v[0]==="r"){state.sort="dist";state.radius=v[0]==="r"?+v.slice(1):0;if(!state.loc){locate();return}render()}
+  else{state.sort=v;state.radius=0;render()}});
 document.getElementById("locate").addEventListener("click",locate);
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
