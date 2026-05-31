@@ -195,6 +195,12 @@ footer a{text-decoration:underline}
 .dd-opt .ck{width:16px;height:16px;flex:none;opacity:0;color:var(--sea)}
 .dd-opt.on .ck{opacity:1}
 .dd-div{height:1px;background:var(--line);margin:6px 6px}
+.visits{display:flex;align-items:center;justify-content:center;gap:11px;width:fit-content;max-width:90%;margin:20px auto 2px;padding:10px 18px;background:linear-gradient(135deg,#fff,#f4f8fc);border:1px solid var(--line);border-radius:999px;box-shadow:var(--shadow);font-size:12.5px;color:var(--sub);font-weight:600}
+.visits[hidden]{display:none}
+.visits .vi{display:inline-flex;align-items:center;gap:5px}
+.visits svg{width:15px;height:15px;color:var(--sea);flex:none}
+.visits b{color:var(--sea);font-weight:800;font-variant-numeric:tabular-nums;font-size:13.5px}
+.visits .vdot{width:3px;height:3px;border-radius:50%;background:#c4ccd6}
 </style>
 </head>
 <body>
@@ -229,6 +235,11 @@ footer a{text-decoration:underline}
 <div class="maphint" id="maphint"></div>
 <button class="locate" id="locate" hidden aria-label="내 위치"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.4"/><path d="M12 2v3.2M12 18.8V22M2 12h3.2M18.8 12H22"/><circle cx="12" cy="12" r="8"/></svg></button>
 <div class="top" id="top"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 19V5M5 12l7-7 7 7"/></svg></div>
+<div class="visits" id="visits" hidden>
+  <span class="vi"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/></svg><span id="vLabelTotal">누적 방문</span> <b id="vTotal">–</b></span>
+  <span class="vdot"></span>
+  <span class="vi"><span id="vLabelToday">오늘</span> <b id="vToday">–</b></span>
+</div>
 <footer id="footer"></footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -262,6 +273,7 @@ const LOCT={
  ja:{me:"現在地",nearest:"近い順",within:"以内",all:"すべて",nearme:"現在地から",sortLabel:"並び替え",err:"位置情報を取得できません。位置情報の許可をご確認ください。",locating:"現在地を取得中…",here:"現在地"},
  zh:{me:"我的位置",nearest:"距离最近",within:"以内",all:"全部",nearme:"我的位置",sortLabel:"排序",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
 function LT(){return LOCT[state.lang]}
+const VIS={ko:{total:"누적 방문",today:"오늘"},en:{total:"Total visits",today:"Today"},ja:{total:"累計訪問",today:"本日"},zh:{total:"累计访问",today:"今日"}};
 const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
 function catName(k){const m=CAT_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
@@ -390,6 +402,8 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
   document.getElementById("footer").innerHTML=u.foot+" · "+u.src;
   document.getElementById("maphint").innerHTML=u.hint;
+  document.getElementById("vLabelTotal").textContent=VIS[state.lang].total;
+  document.getElementById("vLabelToday").textContent=VIS[state.lang].today;
   renderDD();
   document.getElementById("locate").setAttribute("aria-label",LT().me);
   document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
@@ -420,7 +434,29 @@ document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.cl
 document.getElementById("langs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.lang=b.dataset.l;localStorage.setItem("bf_lang",state.lang);applyLang()});
 const topBtn=document.getElementById("top");addEventListener("scroll",()=>topBtn.classList.toggle("show",state.view==="list"&&scrollY>600),{passive:true});
 topBtn.addEventListener("click",()=>scrollTo({top:0,behavior:"smooth"}));addEventListener("resize",setToolsH);
+
+// ── 방문자수 (Abacus 무료 카운터) ──
+function countUp(el,to){to=+to||0;const from=+(el.dataset.v||0);el.dataset.v=to;const dur=750,t0=performance.now();
+  (function step(t){const p=Math.min(1,(t-t0)/dur),e=1-Math.pow(1-p,3);el.textContent=Math.round(from+(to-from)*e).toLocaleString();if(p<1)requestAnimationFrame(step)})(t0)}
+function visitorCounter(){
+  const NS="busan-when-in-2026",base="https://abacus.jasoncameron.dev";
+  const today="d"+new Date().toLocaleDateString("en-CA").replace(/-/g,"");
+  const counted=sessionStorage.getItem("bf_counted"),verb=counted?"get":"hit";
+  const j=r=>r.ok?r.json():null;
+  Promise.all([
+    fetch(`${base}/${verb}/${NS}/total`).then(j),
+    fetch(`${base}/${verb}/${NS}/${today}`).then(j)
+  ]).then(([t,d])=>{
+    sessionStorage.setItem("bf_counted","1");
+    if(t&&typeof t.value==="number"){
+      document.getElementById("visits").hidden=false;
+      countUp(document.getElementById("vTotal"),t.value);
+      countUp(document.getElementById("vToday"),(d&&d.value)||0);
+    }
+  }).catch(()=>{});
+}
 applyLang();
+visitorCounter();
 </script>
 </body>
 </html>"""
