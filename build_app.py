@@ -177,6 +177,30 @@ a{color:inherit;text-decoration:none}img{display:block}
 .pop .pacts a.sv{flex:none;width:30px;font-size:13px;font-weight:800;cursor:pointer}
 .pop .pacts a.sv.v.on{background:#2e9e5b;border-color:#2e9e5b;color:#fff}
 .pop .pacts a.sv.w.on{background:#d6457f;border-color:#d6457f;color:#fff}
+.mlbtn{display:flex;align-items:center;gap:5px;border:0;background:rgba(255,255,255,.16);color:#fff;border-radius:999px;padding:7px 11px;cursor:pointer;font-weight:800;font-size:12px}
+.mlbtn b{background:#fff;color:var(--sea);border-radius:999px;padding:1px 7px;font-size:11px;font-variant-numeric:tabular-nums}
+.mlay{position:fixed;inset:0;background:rgba(10,20,32,.48);z-index:2500;display:none;align-items:flex-end;justify-content:center}
+.mlay.show{display:flex}
+.mpanel{background:#fff;width:100%;max-width:480px;max-height:82vh;border-radius:22px 22px 0 0;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 -10px 40px rgba(0,0,0,.25)}
+@media(min-width:560px){.mlay{align-items:center;padding:20px}.mpanel{border-radius:22px}}
+.mhead{display:flex;align-items:center;justify-content:space-between;padding:16px 18px 10px}
+.mhead b{font-size:17px;letter-spacing:-.02em}
+.mclose{border:0;background:var(--bg);color:var(--sub);width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer}
+.mtabs{display:flex;gap:8px;padding:0 16px 12px}
+.mtab{flex:1;border:1.5px solid var(--line);background:#fff;color:var(--sub);border-radius:12px;padding:9px 6px;font-size:13px;font-weight:700;cursor:pointer}
+.mtab.on{background:var(--ink);border-color:var(--ink);color:#fff}
+.mlist{overflow:auto;padding:2px 12px calc(18px + var(--safe-b))}
+.mitem{display:flex;align-items:center;gap:10px;padding:11px 6px;border-bottom:1px solid var(--line);cursor:pointer}
+.mitem:last-child{border-bottom:0}
+.mitem .mi{font-size:20px;flex:none}
+.mitem .mtx{flex:1;min-width:0}
+.mitem .mn{font-weight:800;font-size:14.5px;letter-spacing:-.01em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mitem .ms{font-size:12px;color:var(--sub);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mitem .prio{flex:none}
+.mitem .sbtn{flex:none;box-shadow:none;border:1.5px solid var(--line);width:30px;height:30px}
+.mitem .sbtn svg{width:14px;height:14px}
+.mitem.gone{opacity:.5;cursor:default}
+.mempty{text-align:center;color:var(--sub);padding:44px 20px;font-weight:600;font-size:13.5px;line-height:1.7}
 .maphint{position:fixed;z-index:900;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--safe-b));background:rgba(15,28,42,.82);color:#fff;font-size:12px;font-weight:600;padding:7px 14px;border-radius:999px;pointer-events:none;opacity:0;transition:.3s}
 .maphint.show{opacity:1}
 .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--sub)}
@@ -223,7 +247,10 @@ footer a{text-decoration:underline}
 <header class="hero"><div class="wrap">
   <div class="topline">
     <div><h1>📍 <span id="brand">부산에 가면</span></h1><p id="subtitle"></p></div>
-    <div class="langs" id="langs"><button data-l="ko" class="on">한</button><button data-l="en">EN</button><button data-l="ja">日</button><button data-l="zh">中</button></div>
+    <div style="display:flex;gap:7px;align-items:flex-start;flex:none">
+      <button class="mlbtn" id="mlBtn" aria-label="내 목록"><svg viewBox="0 0 24 24" fill="currentColor" width="15" height="15"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg><b id="mlCount" hidden></b></button>
+      <div class="langs" id="langs"><button data-l="ko" class="on">한</button><button data-l="en">EN</button><button data-l="ja">日</button><button data-l="zh">中</button></div>
+    </div>
   </div>
   <div class="tabs" id="tabs"></div>
 </div></header>
@@ -257,6 +284,13 @@ footer a{text-decoration:underline}
   <span class="vi"><span id="vLabelToday">오늘</span> <b id="vToday">–</b></span>
 </div>
 <footer id="footer"></footer>
+<div class="mlay" id="mlay">
+  <div class="mpanel">
+    <div class="mhead"><b id="mlTitle">💾 내 저장</b><button class="mclose" id="mlClose" aria-label="닫기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="mtabs"><button class="mtab on" id="mlTabW" data-t="w"></button><button class="mtab" id="mlTabV" data-t="v"></button></div>
+    <div class="mlist" id="mlist"></div>
+  </div>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -293,10 +327,10 @@ const LOCT={
 function LT(){return LOCT[state.lang]}
 const VIS={ko:{total:"누적 방문",today:"오늘"},en:{total:"Total visits",today:"Today"},ja:{total:"累計訪問",today:"本日"},zh:{total:"累计访问",today:"今日"}};
 const MYT={
- ko:{mine:"내 저장",all:"전체",vList:"가본 곳",wList:"찜한 곳",visited:"가봤어요",wish:"찜",prioSort:"우선순위순",p:["","높음","보통","낮음"],pick:"추천"},
- en:{mine:"My places",all:"All",vList:"Visited",wList:"Saved",visited:"Visited",wish:"Save",prioSort:"By priority",p:["","High","Mid","Low"],pick:"pick"},
- ja:{mine:"マイリスト",all:"すべて",vList:"行った所",wList:"キープ",visited:"行った",wish:"キープ",prioSort:"優先度順",p:["","高","中","低"],pick:"おすすめ"},
- zh:{mine:"我的收藏",all:"全部",vList:"去过",wList:"收藏",visited:"去过",wish:"收藏",prioSort:"按优先级",p:["","高","中","低"],pick:"推荐"}};
+ ko:{mine:"내 저장",all:"전체",vList:"가본 곳",wList:"찜한 곳",visited:"가봤어요",wish:"찜",prioSort:"우선순위순",p:["","높음","보통","낮음"],pick:"추천",empty:"아직 없어요 — 카드의 ♥ / ✓ 버튼으로 저장해 보세요"},
+ en:{mine:"My places",all:"All",vList:"Visited",wList:"Saved",visited:"Visited",wish:"Save",prioSort:"By priority",p:["","High","Mid","Low"],pick:"pick",empty:"Nothing yet — save places with the ♥ / ✓ buttons on cards"},
+ ja:{mine:"マイリスト",all:"すべて",vList:"行った所",wList:"キープ",visited:"行った",wish:"キープ",prioSort:"優先度順",p:["","高","中","低"],pick:"おすすめ",empty:"まだありません — カードの ♥ / ✓ ボタンで保存できます"},
+ zh:{mine:"我的收藏",all:"全部",vList:"去过",wList:"收藏",visited:"去过",wish:"收藏",prioSort:"按优先级",p:["","高","中","低"],pick:"推荐",empty:"还没有 — 用卡片上的 ♥ / ✓ 按钮保存"}};
 function MT(){return MYT[state.lang]}
 const USRC={
  ko:` · 우슐랭: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">우체국 추천 맛집가이드(부산지방우정청 2024·2025)</a> — 부산·울산·경남 포함`,
@@ -308,8 +342,11 @@ const store={
  v:JSON.parse(localStorage.getItem("bf_visited")||"{}"),
  w:JSON.parse(localStorage.getItem("bf_wish")||"{}"),
  save(){localStorage.setItem("bf_visited",JSON.stringify(this.v));localStorage.setItem("bf_wish",JSON.stringify(this.w))}};
-function rid(r){return state.sec+"|"+((r.n&&r.n.ko)||"")+"|"+(((r.a&&r.a.ko)||"").slice(0,24))}
+function ridOf(sec,r){return sec+"|"+((r.n&&r.n.ko)||"")+"|"+(((r.a&&r.a.ko)||"").slice(0,24))}
+function rid(r){return ridOf(state.sec,r)}
 function myCounts(){let v=0,w=0;rows().forEach(r=>{const id=rid(r);if(store.v[id])v++;if(store.w[id])w++});return {v,w}}
+let ALLIDX=null;
+function allIdx(){if(!ALLIDX){ALLIDX={};Object.keys(DB).forEach(sec=>DB[sec].forEach(r=>{ALLIDX[ridOf(sec,r)]={sec,r}}))}return ALLIDX}
 const PRIO_COL=["","#d2453b","#e8632c","#7a8896"];
 const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,mine:"all",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
@@ -351,6 +388,7 @@ function renderDD(){const lt=LT(),mt=MT(),mc=myCounts();
   [[0,lt.all]].concat([1,3,5,10].map(n=>[n,`${n}km ${lt.within}`])).forEach(([v,lab])=>h+=`<div class="dd-opt${state.radius===v?" on":""}" data-g="r" data-v="${v}"><span>${lab}</span>${CK}</div>`);
   document.getElementById("ddPanel").innerHTML=h;
   document.getElementById("ddLabel").textContent=ddLabelText();
+  updateMlBadge();
 }
 function ddOpen(o){document.getElementById("dd").classList.toggle("open",o);document.getElementById("ddBtn").setAttribute("aria-expanded",o?"true":"false")}
 
@@ -487,11 +525,47 @@ document.addEventListener("click",e=>{
   else if(act==="w"){if(store.w[id])delete store.w[id];else store.w[id]=2}
   else if(act==="p"){store.w[id]=(store.w[id]%3)+1}
   store.save();renderDD();
+  if(e.target.closest("#mlay")){renderML();if(state.view==="list")render();return}
   const pop=e.target.closest(".pop");
   if(pop){pop.querySelectorAll("[data-act]").forEach(x=>{const a=x.dataset.act;
     if(a==="v")x.classList.toggle("on",!!store.v[id]);
     if(a==="w")x.classList.toggle("on",!!store.w[id])})}
   else render();
+});
+// ── 내 저장 목록 패널 ──
+const SECICON=Object.fromEntries(SEC.map(s=>[s.k,s.i]));
+let mlTab="w";
+function updateMlBadge(){const n=new Set(Object.keys(store.w).concat(Object.keys(store.v))).size;const el=document.getElementById("mlCount");el.hidden=!n;el.textContent=n}
+function renderML(){
+  const mt=MT(),idx=allIdx();
+  const wIds=Object.keys(store.w).sort((a,b)=>store.w[a]-store.w[b]),vIds=Object.keys(store.v);
+  document.getElementById("mlTitle").textContent="💾 "+mt.mine;
+  const tw=document.getElementById("mlTabW"),tv=document.getElementById("mlTabV");
+  tw.textContent=`♥ ${mt.wList} ${wIds.length}`;tv.textContent=`✓ ${mt.vList} ${vIds.length}`;
+  tw.classList.toggle("on",mlTab==="w");tv.classList.toggle("on",mlTab==="v");
+  const ids=mlTab==="w"?wIds:vIds;
+  const h=ids.map(id=>{
+    const e=idx[id],parts=id.split("|");
+    const name=e?tr(e.r.n):parts[1],sec=e?e.sec:parts[0];
+    const sub=e?[catName(e.r.c),e.r.g?guName(e.r.g):""].filter(Boolean).join(" · "):(parts[2]||"");
+    const p=store.w[id]||0;
+    return `<div class="mitem${e?"":" gone"}" data-mid="${esc(id)}"><span class="mi">${SECICON[sec]||"📍"}</span><div class="mtx"><div class="mn">${esc(name)}</div><div class="ms">${esc(sub)}</div></div>${mlTab==="w"&&p?`<button class="prio" data-act="p" data-id="${esc(id)}" style="background:${PRIO_COL[p]}">⚑ ${mt.p[p]}</button>`:""}<button class="sbtn ${mlTab==="w"?"w":"v"} on" data-act="${mlTab}" data-id="${esc(id)}">${mlTab==="w"?HEART:CHKI}</button></div>`}).join("");
+  document.getElementById("mlist").innerHTML=h||`<div class="mempty">${mt.empty}</div>`;
+}
+function mlOpen(o){document.getElementById("mlay").classList.toggle("show",o);if(o)renderML()}
+document.getElementById("mlBtn").addEventListener("click",()=>mlOpen(true));
+document.getElementById("mlClose").addEventListener("click",()=>mlOpen(false));
+document.getElementById("mlay").addEventListener("click",e=>{if(e.target.id==="mlay")mlOpen(false)});
+document.querySelectorAll(".mtab").forEach(b=>b.addEventListener("click",()=>{mlTab=b.dataset.t;renderML()}));
+document.getElementById("mlist").addEventListener("click",e=>{
+  if(e.target.closest("[data-act]"))return;
+  const it=e.target.closest(".mitem");if(!it||it.classList.contains("gone"))return;
+  const ent=allIdx()[it.dataset.mid];if(!ent)return;
+  mlOpen(false);
+  if(state.sec!==ent.sec)switchSection(ent.sec);
+  else{state.cat="전체";state.gu="전체";buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName)}
+  state.mine="all";state.q=tr(ent.r.n);document.getElementById("q").value=state.q;
+  renderDD();render();window.scrollTo({top:0,behavior:"instant"});
 });
 document.getElementById("locate").addEventListener("click",()=>{if(state.sort==="def")state.sort="dist";renderDD();locate()});
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
