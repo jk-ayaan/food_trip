@@ -217,6 +217,14 @@ a{color:inherit;text-decoration:none}img{display:block}
 .mitem .sbtn svg{width:14px;height:14px}
 .mitem.gone{opacity:.5;cursor:default}
 .mempty{text-align:center;color:var(--sub);padding:44px 20px;font-weight:600;font-size:13.5px;line-height:1.7}
+.mlbtn img{width:20px;height:20px;border-radius:50%;display:block}
+.llbody{padding:0 18px calc(22px + var(--safe-b));display:flex;flex-direction:column;gap:9px}
+.lldesc{font-size:13.5px;color:var(--sub);line-height:1.7;padding:0 2px 10px;text-align:center}
+.lbtn{display:flex;align-items:center;justify-content:center;gap:9px;border:1.5px solid var(--line);background:#fff;border-radius:13px;padding:12px;font-size:14.5px;font-weight:700;cursor:pointer;color:var(--ink)}
+.lbtn:active{filter:brightness(.96)}
+.lbtn.a{background:#000;color:#fff;border-color:#000}
+.lbtn.out{color:#d2453b;border-color:#f0cdc9}
+.lbtn svg,.lbtn img{width:18px;height:18px}
 .maphint{position:fixed;z-index:900;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--safe-b));background:rgba(15,28,42,.82);color:#fff;font-size:12px;font-weight:600;padding:7px 14px;border-radius:999px;pointer-events:none;opacity:0;transition:.3s}
 .maphint.show{opacity:1}
 .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--sub)}
@@ -265,6 +273,7 @@ footer a{text-decoration:underline}
     <div><h1>📍 <span id="brand">부산에 가면</span></h1><p id="subtitle"></p></div>
     <div style="display:flex;gap:7px;align-items:flex-start;flex:none">
       <button class="mlbtn" id="mlBtn" aria-label="내 목록"><svg viewBox="0 0 24 24" fill="currentColor" width="15" height="15"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg><b id="mlCount" hidden></b></button>
+      <button class="mlbtn" id="authBtn"><img id="authAv" alt="" hidden><span id="authLabel">로그인</span></button>
       <div class="langs" id="langs"><button data-l="ko" class="on">한</button><button data-l="en">EN</button><button data-l="ja">日</button><button data-l="zh">中</button></div>
     </div>
   </div>
@@ -308,9 +317,18 @@ footer a{text-decoration:underline}
     <div class="mlist" id="mlist"></div>
   </div>
 </div>
+<div class="mlay" id="llay">
+  <div class="mpanel">
+    <div class="mhead"><b id="llTitle"></b><button class="mclose" id="llClose" aria-label="닫기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="llbody" id="llBody"></div>
+  </div>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
 <script>
 const DB=__DATA__;
 const TODAY="__TODAY__";
@@ -370,11 +388,20 @@ const TSRC={
  en:` · Suwon·Ansan·Pangyo·Jeongja·Seohyeon: <a href="https://knto.or.kr" target="_blank" rel="noopener">KTO TourAPI</a>`,
  ja:` · 水原・安山・板橋・亭子・書峴: <a href="https://knto.or.kr" target="_blank" rel="noopener">韓国観光公社 TourAPI</a>`,
  zh:` · 水原·安山·板桥·亭子·书岘: <a href="https://knto.or.kr" target="_blank" rel="noopener">韩国观光公社 TourAPI</a>`};
-// ── 내 저장 (가본 곳 / 찜 + 우선순위 1~3) ──
-const store={
- v:JSON.parse(localStorage.getItem("bf_visited")||"{}"),
- w:JSON.parse(localStorage.getItem("bf_wish")||"{}"),
- save(){localStorage.setItem("bf_visited",JSON.stringify(this.v));localStorage.setItem("bf_wish",JSON.stringify(this.w))}};
+// ── Firebase: 계정 로그인(Google/Apple) + Firestore 저장 ──
+firebase.initializeApp({apiKey:"AIzaSyCes21kZAZGrTlL0rOSLjGivsXVwU4xaHs",authDomain:"food-trip-5c302.firebaseapp.com",projectId:"food-trip-5c302",storageBucket:"food-trip-5c302.firebasestorage.app",messagingSenderId:"392054177863",appId:"1:392054177863:web:b957c32238aa0f4e15b162"});
+const fbAuth=firebase.auth(),fdb=firebase.firestore();
+let fbUser=null;
+const AUTH={
+ ko:{login:"로그인",title:"로그인",desc:"로그인하면 찜 ♥ · 가본 곳 ✓ 이 계정에 저장되어 어느 기기에서든 이어볼 수 있어요.",google:"Google로 계속하기",apple:"Apple로 계속하기",logout:"로그아웃",err:"로그인에 실패했어요. 잠시 후 다시 시도해 주세요.",appleNotReady:"Apple 로그인은 준비 중이에요. Google로 로그인해 주세요."},
+ en:{login:"Sign in",title:"Sign in",desc:"Sign in to save ♥ wishlist and ✓ visited places to your account and sync across devices.",google:"Continue with Google",apple:"Continue with Apple",logout:"Sign out",err:"Sign-in failed. Please try again.",appleNotReady:"Apple sign-in is coming soon. Please use Google."},
+ ja:{login:"ログイン",title:"ログイン",desc:"ログインすると ♥ キープ・✓ 行った所がアカウントに保存され、端末間で同期されます。",google:"Googleで続行",apple:"Appleで続行",logout:"ログアウト",err:"ログインに失敗しました。もう一度お試しください。",appleNotReady:"Appleログインは準備中です。Googleをご利用ください。"},
+ zh:{login:"登录",title:"登录",desc:"登录后，收藏 ♥ 和去过 ✓ 将保存到您的账户并跨设备同步。",google:"通过 Google 继续",apple:"通过 Apple 继续",logout:"退出登录",err:"登录失败，请稍后再试。",appleNotReady:"Apple 登录即将推出，请先使用 Google。"}};
+function AT(){return AUTH[state.lang]}
+// ── 내 저장 (가본 곳 / 찜 + 우선순위 1~3) — 로그인 계정(Firestore)에 저장 ──
+const store={v:{},w:{},_t:null,
+ save(){if(!fbUser)return;clearTimeout(this._t);
+  this._t=setTimeout(()=>{fdb.collection("users").doc(fbUser.uid).set({v:store.v,w:store.w,up:firebase.firestore.FieldValue.serverTimestamp()}).catch(()=>{})},400)}};
 function ridOf(reg,sec,r){const base=sec+"|"+((r.n&&r.n.ko)||"")+"|"+(((r.a&&r.a.ko)||"").slice(0,24));return reg==="busan"?base:reg+"@"+base}
 function rid(r){return ridOf(state.region,state.sec,r)}
 function myCounts(){let v=0,w=0;rows().forEach(r=>{const id=rid(r);if(store.v[id])v++;if(store.w[id])w++});return {v,w}}
@@ -543,6 +570,8 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.getElementById("maphint").innerHTML=u.hint;
   document.getElementById("vLabelTotal").textContent=VIS[state.lang].total;
   document.getElementById("vLabelToday").textContent=VIS[state.lang].today;
+  renderAuthUI();
+  if(document.getElementById("llay").classList.contains("show"))renderLL();
   renderDD();
   document.getElementById("locate").setAttribute("aria-label",LT().me);
   document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
@@ -572,6 +601,7 @@ document.addEventListener("click",e=>{if(!e.target.closest("#dd"))ddOpen(false)}
 document.addEventListener("click",e=>{
   const b=e.target.closest("[data-act]");if(!b)return;
   e.preventDefault();
+  if(!fbUser){llOpen(true);return}
   const act=b.dataset.act,id=b.dataset.id;
   if(act==="v"){if(store.v[id])delete store.v[id];else store.v[id]=1}
   else if(act==="w"){if(store.w[id])delete store.w[id];else store.w[id]=2}
@@ -609,7 +639,49 @@ function renderML(){
   document.getElementById("mlist").innerHTML=h||`<div class="mempty">${mt.empty}</div>`;
 }
 function mlOpen(o){document.getElementById("mlay").classList.toggle("show",o);if(o)renderML()}
-document.getElementById("mlBtn").addEventListener("click",()=>mlOpen(true));
+document.getElementById("mlBtn").addEventListener("click",()=>{fbUser?mlOpen(true):llOpen(true)});
+// ── 로그인 모달 + 계정 상태 ──
+const GLOGO='<svg viewBox="0 0 24 24"><path fill="#4285F4" d="M23.5 12.3c0-.9-.1-1.5-.3-2.2H12v4.1h6.5c-.1 1.1-.8 2.7-2.4 3.8l3.7 2.9c2.3-2.1 3.7-5.1 3.7-8.6z"/><path fill="#34A853" d="M12 24c3.2 0 6-1.1 7.9-2.9l-3.7-2.9c-1 .7-2.4 1.2-4.2 1.2-3.2 0-6-2.1-7-5.1l-3.9 3C3.1 21.3 7.2 24 12 24z"/><path fill="#FBBC05" d="M5 14.3c-.2-.7-.4-1.5-.4-2.3s.2-1.6.4-2.3l-3.9-3C.4 8.3 0 10.1 0 12s.4 3.7 1.1 5.3l3.9-3z"/><path fill="#EA4335" d="M12 4.6c1.8 0 3 .8 3.7 1.4l3.3-3.2C17.9 1 15.2 0 12 0 7.2 0 3.1 2.7 1.1 6.7l3.9 3c1-3 3.8-5.1 7-5.1z"/></svg>';
+const ALOGO='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.7 12.9c0-2.4 2-3.6 2.1-3.7-1.1-1.7-2.9-1.9-3.5-1.9-1.5-.2-2.9.9-3.7.9-.8 0-1.9-.9-3.2-.8-1.6 0-3.1 1-4 2.4-1.7 3-.4 7.4 1.2 9.8.8 1.2 1.8 2.5 3.1 2.4 1.2-.1 1.7-.8 3.2-.8 1.5 0 1.9.8 3.2.8 1.3 0 2.2-1.2 3-2.4.9-1.4 1.3-2.7 1.3-2.8-.1 0-2.6-1-2.7-3.9zM14.4 5.6c.7-.8 1.1-1.9 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg>';
+function renderAuthUI(){const av=document.getElementById("authAv"),lb=document.getElementById("authLabel");
+  if(fbUser){if(fbUser.photoURL){av.src=fbUser.photoURL;av.hidden=false;lb.textContent=""}
+    else{av.hidden=true;lb.textContent=(fbUser.displayName||fbUser.email||"👤").split(" ")[0]}}
+  else{av.hidden=true;av.removeAttribute("src");lb.textContent=AT().login}}
+function renderLL(){const a=AT();
+  document.getElementById("llTitle").textContent=fbUser?(fbUser.displayName||a.title):a.title;
+  document.getElementById("llBody").innerHTML=fbUser
+    ?`<p class="lldesc">${esc(fbUser.email||"")}</p><button class="lbtn out" id="btnLogout">${a.logout}</button>`
+    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`}
+function llOpen(o){document.getElementById("llay").classList.toggle("show",o);if(o)renderLL()}
+function fbLogin(prov){
+  const p=prov==="apple"?new firebase.auth.OAuthProvider("apple.com"):new firebase.auth.GoogleAuthProvider();
+  fbAuth.signInWithPopup(p).catch(e=>{
+    if(e&&e.code==="auth/popup-blocked")fbAuth.signInWithRedirect(p);
+    else if(e&&e.code==="auth/operation-not-allowed")toast(AT().appleNotReady);
+    else if(e&&e.code!=="auth/popup-closed-by-user"&&e.code!=="auth/cancelled-popup-request")toast(AT().err)})}
+document.getElementById("authBtn").addEventListener("click",()=>llOpen(true));
+document.getElementById("llClose").addEventListener("click",()=>llOpen(false));
+document.getElementById("llay").addEventListener("click",e=>{if(e.target.id==="llay")llOpen(false)});
+document.getElementById("llBody").addEventListener("click",e=>{
+  const p=e.target.closest("[data-prov]");
+  if(p){fbLogin(p.dataset.prov);return}
+  if(e.target.closest("#btnLogout"))fbAuth.signOut().then(()=>llOpen(false))});
+fbAuth.onAuthStateChanged(async u=>{
+  fbUser=u;
+  if(u){
+    llOpen(false);
+    let cv={},cw={};
+    try{const s=await fdb.collection("users").doc(u.uid).get();if(s.exists){cv=s.data().v||{};cw=s.data().w||{}}}catch(e){}
+    // 예전 기기(localStorage) 저장분은 첫 로그인 때 계정으로 병합 (계정 데이터 우선)
+    const lv=JSON.parse(localStorage.getItem("bf_visited")||"{}"),lw=JSON.parse(localStorage.getItem("bf_wish")||"{}");
+    store.v=Object.assign({},lv,cv);store.w=Object.assign({},lw,cw);
+    if(Object.keys(lv).length||Object.keys(lw).length){
+      try{await fdb.collection("users").doc(u.uid).set({v:store.v,w:store.w},{merge:true});
+        localStorage.removeItem("bf_visited");localStorage.removeItem("bf_wish")}catch(e){}}
+  }else{store.v={};store.w={}}
+  renderAuthUI();renderDD();render();
+  if(document.getElementById("mlay").classList.contains("show"))renderML();
+});
 document.getElementById("mlClose").addEventListener("click",()=>mlOpen(false));
 document.getElementById("mlay").addEventListener("click",e=>{if(e.target.id==="mlay")mlOpen(false)});
 document.querySelectorAll(".mtab").forEach(b=>b.addEventListener("click",()=>{mlTab=b.dataset.t;renderML()}));
