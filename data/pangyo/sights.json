@@ -14,7 +14,9 @@
     "desc": "낙생대공원은 시민의 보건, 휴양 및 정서 생황에 기여함을 목적으로 판교 신도시 개발과 함께 조성한 공원이다. 전통체험 숲, 연못, 체력단련시설, 분당과 판교 일대를 내려다볼 수 있는 팔각형 판교정과 낙생정 등의 정자 쉼터 등으로 조성되었다. 또한, 백현동, 삼평동, 사송동 일대에서 발굴된 통일신라시대부터 고려시대까지 고분 5기를 이곳으로 이전하여 성남시 향토문화재 제12호로 지정해 보호하고 있으며, 이곳에서 독립만세운동이 있었던 낙생면사무소 부근인 낙생고등학교가 한눈에 조망된다. 그리고 항일의병기념탑이 건립되어 성남출신의 의병들이 펼친 항일전쟁을 기념하고 있다.",
     "address": "경기도 성남시 분당구 판교역로 87 (백현동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 7
  },
  {
   "section": "sights",
@@ -31,7 +33,9 @@
     "desc": "마루공원은 분당에서 판교로 넘어가는 탄천변에 위치한 근린공원이다. 인조잔디와 축구 골대가 있는 다목적 운동장이 있고 공원을 걷다 보면 운동기구를 곳곳에 많이 설치해 놓아 산책과 운동을 겸할 수 있다. 또, 공원 안에서 탄천을 내려다 볼수 있는 피크닉장이 20개소 조성되어 있어 사계절 다른 모습을 감상할 수 있으며, 도심속 힐링이 가능하다.",
     "address": "경기도 성남시 분당구 수내로 2"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 7
  },
  {
   "section": "sights",
@@ -84,7 +88,9 @@
     "desc": "판교공원은 판교 신도시에 조성된 제4호 근린공원으로, 숲 생태계를 보전하여 생태적 안정성을 유지함과 동시에 이용객이 숲 생태계와 호흡하여 적극적인 자연체험을 할 수 있도록 조성된 판교 신도시 개발 지구 중 가장 넓은 공원이다. 공원에는 자연체험마당, 습생초화원, 탐방로, 전원체험마당 등으로 구성되어 있으며 편의시설로는 파고라, 배드민턴장, 인공암벽 등이 설치되어 있다. 판교공원은 공원 대부분이 원시림 또는 자연식생에 가까운 8등급지로, 다양한 생물이 서식하고 있어 생태체험과 학습을 즐기기에 안성맞춤이다. 판교공원에 있는 유아숲체험원은 유치원생 이하 어린이들이 무료로 이용할 수 있는 곳으로, 표현놀이숲과 통나무 터널, 인디언 집, 밧줄 타기 등의 시설이 갖추어져 있어 어린이들이 숲속 놀이터에서 자연을 맘껏 즐길 수 있다.",
     "address": "경기도 성남시 분당구 판교공원로4길 27 (판교동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 1
  },
  {
   "section": "sights",
@@ -101,7 +107,9 @@
     "desc": "황새울공원은 분당구 황새울로에 있는 근린공원으로 면적은 37,957㎡(11,502평)이다. 봄이면 벚꽃이 만개해 많은 사람이 찾는다. 파고라, 의자, 야외탁자, 정자 등의 휴식 시설을 갖추었고, 게이트볼장과 풋살장, 운동기구 등의 운동 시설이 다수 설치되어 있으며 포토존도 있다. 공원 내에 2020년에 황새울 국민체육센터가 준공되었다. 지하 1층 지상 2층 규모의 종합체육 문화시설에는 실내 게이트볼장과 수영장, 다목적체육관, 헬스장, GX룸 등이 있어 다양한 체육시설을 이용할 수 있다.",
     "address": "경기도 성남시 분당구 황새울로 287 (수내동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 9
  },
  {
   "section": "sights",
@@ -119,7 +127,9 @@
     "address": "경기도 성남시 분당구 대왕판교로645번길 36 (삼평동)"
    }
   },
-  "homepage": "http://napoleongallery.com"
+  "homepage": "http://napoleongallery.com",
+  "rating": 1.0,
+  "rcount": 1
  },
  {
   "section": "sights",
@@ -137,7 +147,9 @@
     "address": "경기도 성남시 분당구 성남대로 550 (수내동)"
    }
   },
-  "homepage": "https://www.seongnam.go.kr/tour/culture/cultureList.do?menuIdx=1002478&returnURL=%2Fmain.do&division=concert_hall_3&idx=19"
+  "homepage": "https://www.seongnam.go.kr/tour/culture/cultureList.do?menuIdx=1002478&returnURL=%2Fmain.do&division=concert_hall_3&idx=19",
+  "rating": 4.2,
+  "rcount": 5
  },
  {
   "section": "sights",
@@ -155,7 +167,9 @@
     "address": "경기도 성남시 분당구 성남대로 808 (야탑동)"
    }
   },
-  "homepage": "https://www.snart.or.kr/web/cms/?MENUMST_ID=21527"
+  "homepage": "https://www.snart.or.kr/web/cms/?MENUMST_ID=21527",
+  "rating": 3.9,
+  "rcount": 16
  },
  {
   "section": "sights",
@@ -173,7 +187,9 @@
     "address": "경기도 성남시 분당구 성남대로 808 (야탑동)"
    }
   },
-  "homepage": "https://museum.snart.or.kr/"
+  "homepage": "https://museum.snart.or.kr/",
+  "rating": 4.4,
+  "rcount": 16
  },
  {
   "section": "sights",
@@ -191,7 +207,9 @@
     "address": "경기도 성남시 분당구 판교로 191 (판교동)"
    }
   },
-  "homepage": "https://museum.seongnam.go.kr/pangyo/main/index.do"
+  "homepage": "https://museum.seongnam.go.kr/pangyo/main/index.do",
+  "rating": 4.1,
+  "rcount": 13
  },
  {
   "section": "sights",
@@ -209,6 +227,8 @@
     "address": "경기도 성남시 분당구 판교역로146번길 20 (백현동)"
    }
   },
-  "homepage": "http://www.hmoka.org"
+  "homepage": "http://www.hmoka.org",
+  "rating": 4.4,
+  "rcount": 8
  }
 ]

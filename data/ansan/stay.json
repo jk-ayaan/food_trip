@@ -15,7 +15,9 @@
     "address": "경기도 안산시 단원구 공마루길 68"
    }
   },
-  "homepage": "http://www.pensioncity.kr"
+  "homepage": "http://www.pensioncity.kr",
+  "rating": 3.3,
+  "rcount": 19
  },
  {
   "section": "stay",
@@ -32,7 +34,9 @@
     "desc": "엠블던 호텔 웨딩&컨벤션은 경기도 안산 중심에 있는 쇼핑과 비즈니스를 한 번에 누릴 수 있는 모던하고 스타일리시한 비지니스 호텔이다. 지하 4층부터 지상 21까지 운영 중이며 여유로운 객실과 세련되고 화려한 인테리어의 품격 있는 예식 공간이 있다. 도심 풍경을 한눈에 담은 호텔로 쾌적한 객실에서 비즈니스와 여행에 최적화된 서비스를 경험할 수 있다. 지하철 중앙역 인근에 있어 대중교통 이용이 편리하며 여유로운 주차 공간으로 편하게 주차할 수 있다. 주변 관광지로는 안산 호수공원과 오이도, 소래포구, 바다 향기 테마파크가 있다.",
     "address": "경기도 안산시 단원구 중앙대로 869 (고잔동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 34
  },
  {
   "section": "stay",
@@ -50,7 +54,9 @@
     "address": "경기도 안산시 단원구 긴장불길 84-10 (대부남동)"
    }
   },
-  "homepage": "http://www.herebada.com"
+  "homepage": "http://www.herebada.com",
+  "rating": 1.0,
+  "rcount": 1
  },
  {
   "section": "stay",
@@ -67,7 +73,9 @@
     "desc": "호텔727은 경기도 안산시 단원구 초지동에 있는 호텔이다. 총 42개의 객실이 있다. 객실 타입에 따라 고사양 PC, 스파/월풀, 건식 사우나, 안마의자, 스타일러가 구비되어 있다. 전 객실에서 넷플릭스를 시청할 수 있다. 호텔 전용 주차장이 있다. 인근에 안산 와스타디움, 경기 현대 미술관, 안산 호수 공원, 안산 문화 공원 등이 있다. 지하철 수인분당선, 4호선 고잔역에서 도보로 약 20분 정도 걸린다.",
     "address": "경기도 안산시 단원구 광덕2로 58-14 (초지동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 4
  },
  {
   "section": "stay",
@@ -85,7 +93,9 @@
     "address": "경기도 안산시 단원구 동산로 81 (원시동)"
    }
   },
-  "homepage": "http://hotelsquare.co.kr/index.php"
+  "homepage": "http://hotelsquare.co.kr/index.php",
+  "rating": 3.3,
+  "rcount": 28
  },
  {
   "section": "stay",
@@ -103,7 +113,9 @@
     "address": "경기도 안산시 상록구 양지편로 22 (이동)"
    }
   },
-  "homepage": "http://www.hotelclover.co.kr/"
+  "homepage": "http://www.hotelclover.co.kr/",
+  "rating": 3.7,
+  "rcount": 6
  },
  {
   "section": "stay",
@@ -121,7 +133,9 @@
     "address": "경기도 안산시 단원구 연목이길 96 (대부북동)"
    }
   },
-  "homepage": "http://www.whiteisland.co.kr"
+  "homepage": "http://www.whiteisland.co.kr",
+  "rating": 3.7,
+  "rcount": 18
  },
  {
   "section": "stay",
@@ -139,6 +153,8 @@
     "address": "경기도 안산시 상록구 서암로2길 11 (사동)"
    }
   },
-  "homepage": "http://www.3shotel.com/"
+  "homepage": "http://www.3shotel.com/",
+  "rating": 3.4,
+  "rcount": 7
  }
 ]

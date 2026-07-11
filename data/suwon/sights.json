@@ -15,7 +15,9 @@
     "address": "경기도 수원시 권선구 서둔로 166 (서둔동)"
    }
   },
-  "homepage": "https://sscampus.ggcf.kr/"
+  "homepage": "https://sscampus.ggcf.kr/",
+  "rating": 4.4,
+  "rcount": 17
  },
  {
   "section": "sights",
@@ -51,7 +53,9 @@
     "address": "경기도 수원시 영통구 광교호수로 127 (하동)"
    }
   },
-  "homepage": "https://www.gglakepark.or.kr/theme/sample28/html/b4.php"
+  "homepage": "https://www.gglakepark.or.kr/theme/sample28/html/b4.php",
+  "rating": 4.4,
+  "rcount": 22
  },
  {
   "section": "sights",
@@ -68,7 +72,9 @@
     "desc": "아광교중앙공원은 수원특례시 광교신도시에 위치한 공원으로, 자연과 도시가 조화를 이루고 있는 곳이다. 아이들을 위한 맞춤형 놀이와 체험공간인 유아숲체험원이 조성되어 있어 아이들과 방문하기 좋다. 흔들 다리, 긴 미끄럼틀, 짚라인, 인디언집 등 단순한 놀이터가 아닌 아이들의 호기심과 모험심을 자극하는 공간이다. 또한 공원 내에는 산책로와 운동기구, 넓은 잔디밭 등이 있어 활동적으로 이용할 수 있다. 주말에 가족들과 나들이하기 좋은 공원이다.",
     "address": "경기도 수원시 영통구 이의동"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 7
  },
  {
   "section": "sights",
@@ -86,7 +92,9 @@
     "address": "경기도 수원시 영통구 광교호수로 214 광교호수공원시설 주차관리소"
    }
   },
-  "homepage": "https://www.gglakepark.or.kr/theme/sample28/html/b8.php"
+  "homepage": "https://www.gglakepark.or.kr/theme/sample28/html/b8.php",
+  "rating": 2.8,
+  "rcount": 13
  },
  {
   "section": "sights",
@@ -103,7 +111,9 @@
     "desc": "나혜석 거리는 수원 태생인 최초의 한국 여성 서양화가 정월 나혜석 여사의 업적을 기리기 위해 조성된 약 300m가량의 문화 거리로 문화예술회관, 효원공원, 야외 음악당 등을 연결하는 공간으로 이루어져 있다. 도로 내 분수대, 음악이 흐르는 화장실, 조경수가 잘 조성되어 있는 보행자 전용 도로로서 거리 공연과 같은 다양한 볼거리, 주변의 전문식당가로 먹거리가 산재해 있어 많은 사람들이 찾는 문화와 만남이 공존하는 거리다.",
     "address": "경기도 수원시 팔달구 권광로188번길 25-2 (인계동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 37
  },
  {
   "section": "sights",
@@ -121,7 +131,9 @@
     "address": "경기도 수원시 장안구 파장동"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour/cultureTour/cultureTourView.do?categoryCd=1439&mstSeqNo=425527"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour/cultureTour/cultureTourView.do?categoryCd=1439&mstSeqNo=425527",
+  "rating": 4.1,
+  "rcount": 7
  },
  {
   "section": "sights",
@@ -138,7 +150,9 @@
     "desc": "수원시 당수체육공원은 당수동 지역주민들의 공원녹지에 대한 갈증을 해소하고 주민의 화합과 시민의 건전한 여가 활동 및 생활체육 활동 증진을 도모하기 위해 개관하였다. 주요시설로는 지역주민 축제 등 다양한 커뮤니티 공간으로 활용할 수 있는 원형광장과 자연 속 조깅을 위한 칼로리트랙, 어르신들을 위한 게이트볼장 등이 있다. 특히 당수체육공원내 풋살장은 야간 경기가 가능한 조명시설을 갖추고 있어 수원시 축구동호인들에게 인기 있는 시설로서, 수원시 체육회에 사전 대관 신청 및 추첨으로 사용할 수 있다. 수원시는 지역주민의 의견을 반영 당수동 지역 균형발전을 위한 세대 맞춤형 여가, 휴식 공간으로 자리매김하기 위해 당수체육공원 규모를 확대 계획을 발표 추진하고 있으며, 현재 진행 중이다.",
     "address": "경기도 수원시 권선구 당수로 235"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 4
  },
  {
   "section": "sights",
@@ -155,7 +169,9 @@
     "desc": "대유평공원은 경기도 수원시 장안구에 위치한 대규모 공원으로, 시민들의 여가와 휴식을 위해 조성된 녹지 공간입니다. 넓은 잔디밭과 산책로를 갖추고 있으며, 주변의 자연환경과 조화를 이루어 도심 속에서 쾌적한 휴식 시간을 보낼 수 있는 장소이다. 접근성이 좋아 가족 나들이와 산책, 운동 등 다양한 활동에 적합하다.",
     "address": "경기도 수원시 장안구 수성로 175 (정자동)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 6
  },
  {
   "section": "sights",
@@ -173,7 +189,9 @@
     "address": "경기도 수원시 팔달구 매향동"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/hs01/hs01-01/pages.do?seqNo=16"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/hs01/hs01-01/pages.do?seqNo=16",
+  "rating": 4.8,
+  "rcount": 9
  },
  {
   "section": "sights",
@@ -191,7 +209,9 @@
     "address": "경기도 수원시 장안구 정조로 1087 (송죽동)"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour03/tour03-01/pages.do?seqNo=124"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour03/tour03-01/pages.do?seqNo=124",
+  "rating": 3.8,
+  "rcount": 5
  },
  {
   "section": "sights",
@@ -208,7 +228,9 @@
     "desc": "만석공원은 경기도 수원시 장안구 송죽동에 위치하고 있는 공원이다. 1998년에 조성되었으며 만석거(萬石渠)라는 저수지를 중심으로 하고 있다. 정자 이외에도 분수대, 휴게시설, 운동시설 등이 다양하게 들어서 있다.또한 공원 내에 수원미술관이 있어 예술작품을 감상할 수도 있다.",
     "address": "경기도 수원시 장안구 정조로 1088 (송죽동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 74
  },
  {
   "section": "sights",
@@ -225,7 +247,9 @@
     "desc": "수원시 매탄공원은 1989년에 조성된 공원으로, 아파트 밀집 지역에 위치하여 인근 시민들이 휴식터로 많이 찾고 있는 곳이다. 공원 내에는 다목적 운동장과 테니스장, 배드민턴장, 농구장 등의 체육시설이 들어서 있다. 다목적 운동장은 회사나 종교단체 등의 행사장으로 자주 활용된다. 숲이 우거져 산림욕 하기에도 적당한 곳이다.",
     "address": "경기도 수원시 영통구 매탄로 185 (매탄동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 10
  },
  {
   "section": "sights",
@@ -242,7 +266,9 @@
     "desc": "물봉선어린이공원은 여름철에 물놀이장으로 운영된다. 시설이 높지 않고 수심도 얕아 아이들이 물놀이하기 좋다. 물놀이장 근처에 벤치와 운동시설 등 편의시설도 마련되어 있다.\n물놀이장은 45분간 가동된 후 15분 휴식시간이 주어진다. 안전을 위해 안전요원이 배치되며, 시설물 안전을 위해 만 5세 이하 어린이는 보호자와 함께 이용해야 한다. 또한, 영·유아의 안전을 위해 만 12세 이상 청소년 이용은 자제된다. 외부용 신발은 신을 수 없고, 아쿠아슈즈 착용을 권장한다.",
     "address": "경기도 수원시 영통구 이의동"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -259,7 +285,9 @@
     "desc": "수원특례시 영통구에 위치한 반달공원은 그린빗물 인프라 조성사업의 일환으로 조성된 공원이다. 도시개발로 인한 불투수면 증가로 야기되는 물순환 왜곡현상을 개선하고자 LID(저영향개발) 시설을 설치하여 강우유출량 및 수질오염물질 부하량을 저감 시키고자 한다. 그래서 반달공원에서 다른 공원에서는 볼 수 없는 특수성포장, 식생체류지, 식생수로 등의 시설을 볼 수 있다.\n공원에는 산책로가 잘 조성되어 있어 있다. 또한 메타세쿼이아가 공원 중심부로 이어지는 길 양쪽으로 식재되어 있어 이 길을 따라 걸어도 좋다. 이외에도 운동기구, 농구장 등도 있어 가볍게 운동을 즐기기에도 좋다.",
     "address": "경기도 수원시 영통구 반달로 77 (영통동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 10
  },
  {
   "section": "sights",
@@ -276,7 +304,9 @@
     "desc": "수원특례시 영통구 도심 속에 위치한 방죽공원은 인근 주민들이 자주 찾는 휴식처이다. 다양한 조형물이 설치되어 있어 구경하는 재미가 있고, 산책로는 걷기 좋게 조성되어 있다. 또한 곳곳에 쉼터도 설치되어 있어 잠시 쉬었다 가기 좋고, 아이들이 뛰어놀기 좋은 놀이터도  있어 가족단위로 방문해도 좋다. 망포역 인근에 위치해 있어 접근성이 좋다.",
     "address": "경기도 수원시 영통구 덕영대로1484번길 10-25 (망포동)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 9
  },
  {
   "section": "sights",
@@ -294,7 +324,9 @@
     "address": "경기도 수원시 장안구 수일로233번길 93 (조원동)"
    }
   },
-  "homepage": "http://www.bohyunseonwon.org/"
+  "homepage": "http://www.bohyunseonwon.org/",
+  "rating": 4.0,
+  "rcount": 1
  },
  {
   "section": "sights",
@@ -312,7 +344,9 @@
     "address": "경기도 수원시 팔달구 남수동"
    }
   },
-  "homepage": "https://www.swcf.or.kr/?p=59&listGubun=list&page=2&viewMode=view&idx=35"
+  "homepage": "https://www.swcf.or.kr/?p=59&listGubun=list&page=2&viewMode=view&idx=35",
+  "rating": 4.7,
+  "rcount": 3
  },
  {
   "section": "sights",
@@ -330,7 +364,9 @@
     "address": "경기도 수원시 권선구 고색동"
    }
   },
-  "homepage": "https://ksun.suwon.go.kr/submain_view.asp?MenuID=sub05030103"
+  "homepage": "https://ksun.suwon.go.kr/submain_view.asp?MenuID=sub05030103",
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -348,7 +384,9 @@
     "address": "경기도 수원시 팔달구 창룡문로 56 (지동)"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour02/pages.do?seqNo=114"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour02/pages.do?seqNo=114",
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -366,7 +404,9 @@
     "address": "경기도 수원시 팔달구 수원천로 300 (남수동)"
    }
   },
-  "homepage": "http://www.suwonsa.or.kr/NEW/index.jsp"
+  "homepage": "http://www.suwonsa.or.kr/NEW/index.jsp",
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -401,7 +441,9 @@
     "address": "경기도 수원시 팔달구 정조로800번길 16 (팔달로1가)"
    }
   },
-  "homepage": "http://www.suwon.go.kr/web/visitsuwon/tour05/pages.do?seqNo=147"
+  "homepage": "http://www.suwon.go.kr/web/visitsuwon/tour05/pages.do?seqNo=147",
+  "rating": 3.9,
+  "rcount": 37
  },
  {
   "section": "sights",
@@ -419,7 +461,9 @@
     "address": "경기도 수원시 팔달구 향교로 107-9 (교동)"
    }
   },
-  "homepage": "https://www.skk-suwon.com/skin/"
+  "homepage": "https://www.skk-suwon.com/skin/",
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -437,7 +481,9 @@
     "address": "경기도 수원시 영통구 이의동"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour/cultureTour/cultureTourView.do?categoryCd=1061&mstSeqNo=425525"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour/cultureTour/cultureTourView.do?categoryCd=1061&mstSeqNo=425525",
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "sights",
@@ -455,7 +501,9 @@
     "address": "경기도 수원시 팔달구 창룡대로103번길 20"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/hs01/hs01-01/pages.do?seqNo=17"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/hs01/hs01-01/pages.do?seqNo=17",
+  "rating": 4.5,
+  "rcount": 15
  },
  {
   "section": "sights",
@@ -490,7 +538,9 @@
     "desc": "18만평에 이르는 영흥공원은 지정된 후 일몰제에 임박하여 민간개발 공원특례법에 의해 ‘영흥숲공원’으로 재탄생하였다. 방치된 숲이 수목원을 품은, 숲과 정원문화를 선도하는 수원의 대표 공원이 되었다. 구름마루길을 통해 숲과 공원전체를 입체순환방식으로 향유할 수 있고, ‘스토리가 있는 숲’에서 청소년은 함께 성장하며 생명사랑을 키우게 되고, 영통가로공원, 청소년체험숲, 비지터센터와 도란마당등에서 생활밀착형 공원과 정원문화를 누릴 수 있다. 영흥숲공원은 이름과 같이 수원시의 시민참여형 공원의 선도모델이 되어 시민에 의해 가꾸어지고 끝없이 성장하는 미래숲 천년수원(千年樹園)이 될 것이다.",
     "address": "경기도 수원시 영통구 영통로 435 (영통동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 12
  },
  {
   "section": "sights",
@@ -507,7 +557,9 @@
     "desc": "용화사는 해발 240m의 칠보산 아래 위치해 있다. 칠보산은 수원시와 화성시 경계에 있는 산으로 원래는 여덟 개의 보물이 있다 하여 팔보산으로 불렸으나 산삼, 맷돌, 잣나무, 황금 수탉, 호랑이, 절, 힘이 센 장사, 금의 여덟 가지 중에 도둑이 황금 수탉을 훔쳐 가는 바람에 일곱 가지 보물이 있다는 뜻의 칠보산으로 바꿔 부르게 되었다고 한다.\n사찰 바로 아래 주차장이 있어 접근성이 좋고 대자비전(大慈悲殿)과 대웅전이 나란히 있다. 용화사는 특히 석불로 유명하다. 대웅전 안에 모셔진 석불은 기울어진 미륵불을 보기 위해 많은 불자와 일반인들이 찾는다. 대웅전 뒤쪽으로 산신각이 있고 대자비전 오른쪽으로 범종과 전각이 있다. 사찰 규모는 그리 크지 않지만 역사를 품고 있는 사찰로 도심 가까이에서 깊은 산속 사찰을 찾는 기분을 느낄 수 있는 곳이다.",
     "address": "경기도 수원시 권선구 칠보로88번길 260 (호매실동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -542,7 +594,9 @@
     "address": "경기도 수원시 장안구 일월로 61 (천천동)"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/iwarbor/index.do"
+  "homepage": "https://www.suwon.go.kr/web/iwarbor/index.do",
+  "rating": 4.0,
+  "rcount": 164
  },
  {
   "section": "sights",
@@ -559,7 +613,9 @@
     "desc": "유네스코 세계문화유산에 등재된 수원 화성을 품고 오랜 세월의 고고한 자태를 뽐내고 있는 도심 속 공원이다, 1978년에 조성됐으며 장안문에서 화서문까지 성벽을 따라 이어져 있으며 조경이 잘되어 있어 고목과 함께 다양한 꽃들을 감상할 수 있다. 수원 화성 관광열차인 ‘어차’가 다니는 길이 있고 성벽을 따라 걸을 수 있는 산책로도 있다. 보물 서북공심돈과 보물 화서문, 화성어차, 금속 솟대작품, 산책로, 화성 복원기념비, 화성 기적비, 경기도 관광안내소와 1999년 도내 아름다운 화장실 대회에서 특별상을 수상한 공중화장실도 볼 수 있다.",
     "address": "경기도 수원시 장안구 팔달로 238 (영화동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 23
  },
  {
   "section": "sights",
@@ -577,7 +633,9 @@
     "address": "경기도 수원시 팔달구 남수동"
    }
   },
-  "homepage": "https://www.swcf.or.kr/?p=59&listGubun=list&page=1&viewMode=view&idx=43"
+  "homepage": "https://www.swcf.or.kr/?p=59&listGubun=list&page=1&viewMode=view&idx=43",
+  "rating": 3.7,
+  "rcount": 3
  },
  {
   "section": "sights",
@@ -595,7 +653,9 @@
     "address": "경기도 수원시 장안구 수일로 335 청련암"
    }
   },
-  "homepage": "http://www.cheongryeonam.net/"
+  "homepage": "http://www.cheongryeonam.net/",
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "sights",
@@ -613,7 +673,9 @@
     "address": "경기도 수원시 권선구 세화로 134 (서둔동)"
    }
   },
-  "homepage": "https://www.timevillas.com/main"
+  "homepage": "https://www.timevillas.com/main",
+  "rating": 3.7,
+  "rcount": 145
  },
  {
   "section": "sights",
@@ -631,7 +693,9 @@
     "address": "경기도 수원시 팔달구 팔달산로 108"
    }
   },
-  "homepage": "https://ggtour.or.kr/travel-info/tourism-info/725919c5-746a-11ee-b910-0242ac120002"
+  "homepage": "https://ggtour.or.kr/travel-info/tourism-info/725919c5-746a-11ee-b910-0242ac120002",
+  "rating": 3.8,
+  "rcount": 4
  },
  {
   "section": "sights",
@@ -649,7 +713,9 @@
     "address": "경기도 수원시 팔달구 정조로 780"
    }
   },
-  "homepage": "https://www.swcf.or.kr/?p=59&listGubun=list&page=1&viewMode=view&idx=44"
+  "homepage": "https://www.swcf.or.kr/?p=59&listGubun=list&page=1&viewMode=view&idx=44",
+  "rating": 3.9,
+  "rcount": 19
  },
  {
   "section": "sights",
@@ -667,7 +733,9 @@
     "address": "경기도 수원시 팔달구 행궁로 68 (팔달로3가)"
    }
   },
-  "homepage": "https://ggtour.or.kr/travel-info/tourism-info/72591ccc-746a-11ee-b910-0242ac120002"
+  "homepage": "https://ggtour.or.kr/travel-info/tourism-info/72591ccc-746a-11ee-b910-0242ac120002",
+  "rating": 4.0,
+  "rcount": 5
  },
  {
   "section": "sights",
@@ -685,7 +753,9 @@
     "address": "경기도 수원시 팔달구 팔달산로 131 (화서동)"
    }
   },
-  "homepage": "http://www.suwon.go.kr/web/visitsuwon/tour03/tour03-02/pages.do?seqNo=131"
+  "homepage": "http://www.suwon.go.kr/web/visitsuwon/tour03/tour03-02/pages.do?seqNo=131",
+  "rating": 4.3,
+  "rcount": 32
  },
  {
   "section": "sights",
@@ -703,7 +773,9 @@
     "address": "경기도 수원시 팔달구 화서문로72번길 9-7 (북수동)"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour02/pages.do?seqNo=116"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour02/pages.do?seqNo=116",
+  "rating": 3.4,
+  "rcount": 24
  },
  {
   "section": "sights",
@@ -739,7 +811,9 @@
     "address": "경기도 수원시 팔달구 동수원로 397 (인계동)"
    }
   },
-  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour03/tour03-01/pages.do?seqNo=126"
+  "homepage": "https://www.suwon.go.kr/web/visitsuwon/tour03/tour03-01/pages.do?seqNo=126",
+  "rating": 4.5,
+  "rcount": 40
  },
  {
   "section": "sights",
@@ -775,7 +849,9 @@
     "address": "경기도 수원시 영통구 광교산로 154-42 (이의동)"
    }
   },
-  "homepage": "https://www.kyonggi.ac.kr/kgumuseum/index.do"
+  "homepage": "https://www.kyonggi.ac.kr/kgumuseum/index.do",
+  "rating": 4.0,
+  "rcount": 1
  },
  {
   "section": "sights",
@@ -793,7 +869,9 @@
     "address": "경기도 수원시 장안구 조원로 18 (조원동)"
    }
   },
-  "homepage": "https://lib.goe.go.kr/gg/index.do"
+  "homepage": "https://lib.goe.go.kr/gg/index.do",
+  "rating": 4.2,
+  "rcount": 6
  },
  {
   "section": "sights",
@@ -829,7 +907,9 @@
     "address": "경기도 수원시 팔달구 효원로307번길 20 (인계동)"
    }
   },
-  "homepage": "http://www.ggac.or.kr"
+  "homepage": "http://www.ggac.or.kr",
+  "rating": 3.9,
+  "rcount": 26
  },
  {
   "section": "sights",
@@ -847,7 +927,9 @@
     "address": "경기도 수원시 영통구 월드컵로 92"
    }
   },
-  "homepage": "https://www.ngii.go.kr/map/main.do"
+  "homepage": "https://www.ngii.go.kr/map/main.do",
+  "rating": 3.9,
+  "rcount": 10
  },
  {
   "section": "sights",
@@ -883,7 +965,9 @@
     "address": "경기도 수원시 영통구 매봉로 10 (매탄동)"
    }
   },
-  "homepage": "http://www.suwonlib.go.kr/bkid"
+  "homepage": "http://www.suwonlib.go.kr/bkid",
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "sights",
@@ -901,7 +985,9 @@
     "address": "경기도 수원시 영통구 청명로 151 (영통동)"
    }
   },
-  "homepage": "http://www.suwonlib.go.kr/yt/"
+  "homepage": "http://www.suwonlib.go.kr/yt/",
+  "rating": 4.5,
+  "rcount": 11
  },
  {
   "section": "sights",
@@ -919,7 +1005,9 @@
     "address": "경기도 수원시 영통구 광교로 182 (이의동)"
    }
   },
-  "homepage": "https://smuseum.suwon.go.kr/gg/main/view"
+  "homepage": "https://smuseum.suwon.go.kr/gg/main/view",
+  "rating": 2.7,
+  "rcount": 13
  },
  {
   "section": "sights",
@@ -937,7 +1025,9 @@
     "address": "경기도 수원시 권선구 호매실로 237 (호매실동)"
    }
   },
-  "homepage": "http://www.suwonsarang.com"
+  "homepage": "http://www.suwonsarang.com",
+  "rating": 4.0,
+  "rcount": 1
  },
  {
   "section": "sights",
@@ -955,7 +1045,9 @@
     "address": "경기도 수원시 팔달구 신풍로23번길 68 (신풍동)"
    }
   },
-  "homepage": "http://www.suwonlib.go.kr/sk/"
+  "homepage": "http://www.suwonlib.go.kr/sk/",
+  "rating": 4.3,
+  "rcount": 21
  },
  {
   "section": "sights",
@@ -973,7 +1065,9 @@
     "address": "경기도 수원시 장안구 송정로 19 (송죽동)"
    }
   },
-  "homepage": "https://suma.suwon.go.kr/views/intro.do?gubun=6"
+  "homepage": "https://suma.suwon.go.kr/views/intro.do?gubun=6",
+  "rating": 4.0,
+  "rcount": 4
  },
  {
   "section": "sights",
@@ -991,7 +1085,9 @@
     "address": "경기도 수원시 팔달구 정조로 833 (신풍동)"
    }
   },
-  "homepage": "https://suma.suwon.go.kr/"
+  "homepage": "https://suma.suwon.go.kr/",
+  "rating": 4.6,
+  "rcount": 65
  },
  {
   "section": "sights",
@@ -1027,7 +1123,9 @@
     "address": "경기도 수원시 팔달구 동수원로 335 (인계동)"
    }
   },
-  "homepage": "https://www.swcf.or.kr/?p=138"
+  "homepage": "https://www.swcf.or.kr/?p=138",
+  "rating": 3.0,
+  "rcount": 3
  },
  {
   "section": "sights",
@@ -1045,7 +1143,9 @@
     "address": "경기도 수원시 영통구 광교중앙로 140 (하동)"
    }
   },
-  "homepage": "https://www.scc.or.kr/"
+  "homepage": "https://www.scc.or.kr/",
+  "rating": 3.8,
+  "rcount": 37
  },
  {
   "section": "sights",
@@ -1063,7 +1163,9 @@
     "address": "경기도 수원시 팔달구 창룡대로 21 (매향동)"
    }
   },
-  "homepage": "https://smuseum.suwon.go.kr/hs/main/view"
+  "homepage": "https://smuseum.suwon.go.kr/hs/main/view",
+  "rating": 4.2,
+  "rcount": 31
  },
  {
   "section": "sights",
@@ -1081,7 +1183,9 @@
     "address": "경기도 수원시 장안구 송정로 9 (송죽동)"
    }
   },
-  "homepage": "https://www.suwonlib.go.kr/skid/"
+  "homepage": "https://www.suwonlib.go.kr/skid/",
+  "rating": 5.0,
+  "rcount": 4
  },
  {
   "section": "sights",
@@ -1117,7 +1221,9 @@
     "address": "경기도 수원시 권선구 동탄원천로 818 (권선동)"
    }
   },
-  "homepage": "http://www.suwonlib.go.kr/jkid"
+  "homepage": "http://www.suwonlib.go.kr/jkid",
+  "rating": 5.0,
+  "rcount": 6
  },
  {
   "section": "sights",

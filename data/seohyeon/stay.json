@@ -15,7 +15,9 @@
     "address": "경기도 성남시 분당구 판교역로192번길 12 (삼평동)"
    }
   },
-  "homepage": "https://www.marriott.com/ko/hotels/selpn-courtyard-seoul-pangyo/overview/"
+  "homepage": "https://www.marriott.com/ko/hotels/selpn-courtyard-seoul-pangyo/overview/",
+  "rating": 3.4,
+  "rcount": 62
  },
  {
   "section": "stay",
@@ -33,6 +35,8 @@
     "address": "경기도 성남시 분당구 황새울로319번길 9 (서현동)"
    }
   },
-  "homepage": "http://www.srsuites.com"
+  "homepage": "http://www.srsuites.com",
+  "rating": 3.6,
+  "rcount": 9
  }
 ]

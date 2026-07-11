@@ -15,7 +15,9 @@
     "address": "경기도 수원시 팔달구 신풍로 68 (장안동)"
    }
   },
-  "homepage": "http://hoteldono.jalib.site/"
+  "homepage": "http://hoteldono.jalib.site/",
+  "rating": 3.1,
+  "rcount": 45
  },
  {
   "section": "stay",
@@ -33,7 +35,9 @@
     "address": "경기도 수원시 팔달구 경수대로466번길 28 (인계동)"
    }
   },
-  "homepage": "https://sr-silkroadhotel.com/"
+  "homepage": "https://sr-silkroadhotel.com/",
+  "rating": 3.5,
+  "rcount": 19
  },
  {
   "section": "stay",
@@ -50,7 +54,9 @@
     "desc": "수원시 장안구 연무동에 위치한 모텔나무는 광교산 입구, 경기대 정문, 보훈원 맞은편에 위치하고 있다. 방문하는 고객들이 편안히 쉴 수 있도록 최고의 친절과 청결함을 유지하도록 언제나 노력하고 있다. 객실은 일반객실, 중간객실, 넓은객실, 테라스 객실 등이 있으며, 전 객실에서는 OTT 넷플릭스 시청이 가능하다.",
     "address": "경기도 수원시 장안구 창훈로80번길 18 (연무동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "stay",
@@ -86,7 +92,9 @@
     "address": "경기도 수원시 영통구 반달로128번길 9 (영통동)"
    }
   },
-  "homepage": "http://www.amourhotel.com/kr"
+  "homepage": "http://www.amourhotel.com/kr",
+  "rating": 3.7,
+  "rcount": 7
  },
  {
   "section": "stay",
@@ -121,7 +129,9 @@
     "address": "경기도 수원시 팔달구 화서문로16번길 43 (신풍동)"
    }
   },
-  "homepage": "https://hotelyeoyeojae.modoo.at/"
+  "homepage": "https://hotelyeoyeojae.modoo.at/",
+  "rating": 4.0,
+  "rcount": 4
  },
  {
   "section": "stay",
@@ -138,7 +148,9 @@
     "desc": "오르세호텔은 수원시 팔달구 인계동에 있는 비즈니스호텔이다. 24시간 운영되는 프런트 데스크와 건물 옆 지상에 지붕 있는 넓은 주차장 있어 주차하기에 편리하다. 전 객실 금연 룸으로 운영하고 넷플릭스와 유튜브를 시청할 수 있다. 깔끔하고 모던한 인테리어에 객실마다 투숙객에게 필요한 기본적인 가구와 시설을 갖추고 있다. 주변에 번화가인 나혜석 거리와 화성 행군, 한국민속촌, 에버랜드 등 관광지가 가까이 있다. 수원 종합버스터미널이 근처에 있고 수원시청역이 가까이 있어 대중교통 이용이 편하다.",
     "address": "경기도 수원시 팔달구 인계로124번길 27-7 (인계동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 7
  },
  {
   "section": "stay",
@@ -156,7 +168,9 @@
     "address": "경기도 수원시 팔달구 권광로 132"
    }
   },
-  "homepage": "http://www.ibissuwon.com"
+  "homepage": "http://www.ibissuwon.com",
+  "rating": 3.1,
+  "rcount": 74
  },
  {
   "section": "stay",
@@ -174,7 +188,9 @@
     "address": "경기도 수원시 팔달구 권광로 132 (인계동)"
    }
   },
-  "homepage": "https://encorehotel.co.kr/24"
+  "homepage": "https://encorehotel.co.kr/24",
+  "rating": 3.1,
+  "rcount": 74
  },
  {
   "section": "stay",
@@ -192,7 +208,9 @@
     "address": "경기도 수원시 영통구 광교호수공원로 320 (하동)"
    }
   },
-  "homepage": "https://www.marriott.com/ko/default.mi"
+  "homepage": "https://www.marriott.com/ko/default.mi",
+  "rating": 2.8,
+  "rcount": 15
  },
  {
   "section": "stay",
@@ -210,7 +228,9 @@
     "address": "경기도 수원시 장안구 수성로350번길 13 (영화동)"
    }
   },
-  "homepage": "http://www.topcloudhotel.com/default/main/main.php"
+  "homepage": "http://www.topcloudhotel.com/default/main/main.php",
+  "rating": 4.4,
+  "rcount": 14
  },
  {
   "section": "stay",
@@ -228,7 +248,9 @@
     "address": "경기도 수원시 팔달구 효원로 299 (인계동)"
    }
   },
-  "homepage": "http://www.highendhotelsuwon.com/html/main.asp"
+  "homepage": "http://www.highendhotelsuwon.com/html/main.asp",
+  "rating": 3.9,
+  "rcount": 15
  },
  {
   "section": "stay",
@@ -245,7 +267,9 @@
     "desc": "해시호텔은 수원 팔달구 지역에 있는 호텔이다. 14층 건물로 1층에 9대 정도 주차할 수 있는 주차장이 있으며 객실당 1대 주차 할 수 있다. 2층 프런트에는 셀프로 체크인 할 수 있는 체크인 기계가 있고, 그 옆에는 일회용품이 종류별로 구비되어 있어 필요한 만큼 챙겨가면 된다. 또한 로비 라운지에는 커피포트와 커피, 종이컵, 일회용품 및 정수기와 전자레인지가 준비되어 있고, 냉장고에 음료는 판매하고 있다. 이 호텔은 일부 공간에서 흡연이 허용되는 부분 금연 숙소로 흡연 객실과 금연 객실로 나뉘어 있어 예약 시 체크해야 한다. 근처 수인분당선 수원역이 가까이 있어 대중교통으로 이용이 편하다. 부근에 화성행궁이 있어 둘러보기 좋다.",
     "address": "경기도 수원시 팔달구 갓매산로 72-1 (고등동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 5
  },
  {
   "section": "stay",
@@ -262,7 +286,9 @@
     "desc": "호텔 166은 인계동 나혜석 거리 있는 부티크 비즈니스 호텔이다. 건물 지상, 지하에 주차장으로 객실마다 1대 주차 할 수 있고 발렛 서비스를 이용할 수 있다. 8층 건물로 깔끔한 외관에 지하 1층은 주차장, 1층은 로비, 2~8층은 객실로 되어 있다. 이 호텔은 룸서비스를 마치 PC방처럼 라면, 덮밥, 떡볶이 등을 저렴한 가격으로 다양하게 주문할 수 있다. 객실마다 천연 라텍스 침대에 100% 오리털 침구와 경추형 큰 베개를 갖추고 있고, 일부 객실에는 편백 욕조, 스타일러가 구비되어 있다. 근처에 수·인분당선 수원시청역이 있고 인계예술공원과 효원공원이 있다.",
     "address": "경기도 수원시 팔달구 인계로166번길 24 (인계동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 16
  },
  {
   "section": "stay",
@@ -280,7 +306,9 @@
     "address": "경기도 수원시 권선구 구운로85번길 28 (구운동)"
    }
   },
-  "homepage": "http://www.hotelsaint.co.kr/"
+  "homepage": "http://www.hotelsaint.co.kr/",
+  "rating": 2.4,
+  "rcount": 10
  },
  {
   "section": "stay",
@@ -298,7 +326,9 @@
     "address": "경기도 수원시 팔달구 인계로108번길 37 (인계동)"
    }
   },
-  "homepage": "https://artehotel.jalib.site/"
+  "homepage": "https://artehotel.jalib.site/",
+  "rating": 4.1,
+  "rcount": 35
  },
  {
   "section": "stay",
@@ -315,7 +345,9 @@
     "desc": "호텔 더 스타일은 인계동에 있는 부티크 호텔이다. 건물 지하에 넓지는 않지만 깔끔하고 밝은 주차장이 있으며 발렛파킹도 가능하다. 층마다 복도 인테리어가 다르고 쾌적하게 관리가 잘 되어 있다. 전 객실에 PC가 있고 TV와 연동되어 있다. 또한 넷플릭스와 씨네 호텔 영화도 시청할 수 있다. 반려동물 동반은 안 되지만 장애인 안내 동물은 동반할 수 있다. 근처에 홈플러스가 있고 수원시청역이 있어 대중교통으로도 이용할 수 있다.",
     "address": "경기도 수원시 팔달구 인계로124번길 41-5 (인계동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 9
  },
  {
   "section": "stay",
@@ -350,6 +382,8 @@
     "address": "경기도 수원시 팔달구 갓매산로71번길 21-6 (매산로2가)"
    }
   },
-  "homepage": "http://www.suwonstayhotel.com"
+  "homepage": "http://www.suwonstayhotel.com",
+  "rating": 3.1,
+  "rcount": 16
  }
 ]

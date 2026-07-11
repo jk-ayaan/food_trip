@@ -49,6 +49,9 @@ def slim_row(r):
         out["of"] = r["office"]
     if r.get("editions"):
         out["ed"] = r["editions"]
+    if r.get("rating"):
+        out["rt"] = r["rating"]
+        out["rc"] = r.get("rcount", 0)
     return out
 
 
@@ -161,7 +164,9 @@ a{color:inherit;text-decoration:none}img{display:block}
 .row .ic{flex:none;margin-top:2px;opacity:.7}
 .row span{overflow:hidden;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical}
 .desc{font-size:12.5px;color:#75808c;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.stat{font-size:11.5px;color:#9aa6b2;font-weight:600;display:flex;gap:11px}
+.stat{font-size:11.5px;color:#9aa6b2;font-weight:600;display:flex;gap:11px;align-items:center}
+.rate{color:#e8930c;font-weight:800;font-size:12px}
+.rate i{font-style:normal;color:#9aa6b2;font-weight:600;font-size:11px;margin-left:2px}
 .acts{display:flex;gap:7px;margin-top:auto;padding-top:11px}
 .act{flex:1;display:flex;align-items:center;justify-content:center;gap:5px;padding:9px 6px;border-radius:11px;font-size:12.5px;font-weight:700;border:1.5px solid var(--line);color:var(--sub)}
 .act svg{width:14px;height:14px}
@@ -360,10 +365,10 @@ const CAT_I18N={
  "축제·행사":{en:"Festival & Event",ja:"祭り・イベント",zh:"庆典活动"},"기타":{en:"Others",ja:"その他",zh:"其他"},
  "국밥·탕":{en:"Gukbap & Soup",ja:"クッパ・スープ",zh:"汤饭"},"면류":{en:"Noodles",ja:"麺類",zh:"面食"},"카페·디저트":{en:"Cafe & Dessert",ja:"カフェ・デザート",zh:"咖啡甜点"},"회·해산물":{en:"Seafood & Hoe",ja:"刺身・海鮮",zh:"生鱼海鲜"},"일식·돈카츠":{en:"Japanese",ja:"和食・トンカツ",zh:"日料"},"양식·파스타":{en:"Western & Pasta",ja:"洋食・パスタ",zh:"西餐"},"분식":{en:"Snacks",ja:"粉食",zh:"小吃"},"치킨·호프":{en:"Chicken & Pub",ja:"チキン・ビール",zh:"炸鸡啤酒"}};
 const UI={
- ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 __UPDATED__`},
- en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated __UPDATED__`},
- ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 __UPDATED__`},
- zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 __UPDATED__`}};
+ ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",rate:"평점순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 __UPDATED__`},
+ en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",rate:"Top rated",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated __UPDATED__`},
+ ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",rate:"評価順",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 __UPDATED__`},
+ zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",rate:"评分",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 __UPDATED__`}};
 
 const LOCT={
  ko:{me:"내 위치",nearest:"거리순",within:"이내",all:"전체",nearme:"내 위치 기준",sortLabel:"정렬",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
@@ -441,7 +446,7 @@ function sortName(k){return k==="dist"?LT().nearest:k==="prio"?MT().prioSort:U()
 function ddLabelText(){const m=state.mine==="v"?" · ✓":state.mine==="w"?" · ♥":"";return sortName(state.sort)+(state.radius>0?` · ${state.radius}km`:"")+m}
 function renderDD(){const lt=LT(),mt=MT(),mc=myCounts();
   let h=`<div class="dd-h">${lt.sortLabel}</div>`;
-  ["def","view","like","name","prio","dist"].forEach(k=>h+=`<div class="dd-opt${state.sort===k?" on":""}" data-g="s" data-v="${k}"><span>${sortName(k)}</span>${CK}</div>`);
+  ["def","rate","view","like","name","prio","dist"].forEach(k=>h+=`<div class="dd-opt${state.sort===k?" on":""}" data-g="s" data-v="${k}"><span>${sortName(k)}</span>${CK}</div>`);
   h+=`<div class="dd-div"></div><div class="dd-h">💾 ${mt.mine}</div>`;
   [["all",mt.all,""],["v","✓ "+mt.vList,mc.v],["w","♥ "+mt.wList,mc.w]].forEach(([v,lab,n])=>h+=`<div class="dd-opt${state.mine===v?" on":""}" data-g="m" data-v="${v}"><span>${lab}${n!==""?` <i class="ct">${n}</i>`:""}</span>${CK}</div>`);
   h+=`<div class="dd-div"></div><div class="dd-h">📍 ${lt.nearme}</div>`;
@@ -468,6 +473,9 @@ function buildChips(elId,key,stateKey,nameFn){
   el.onclick=e=>{const b=e.target.closest(".chip");if(!b)return;state[stateKey]=b.dataset.v;[...el.children].forEach(c=>c.classList&&c.classList.toggle("on",c===b));render()};
 }
 function fstatus(r){if(!r.ps&&!r.pe)return null;if(r.pe&&r.pe<TODAY)return "ended";if(r.ps&&r.ps>TODAY)return "upcoming";return "ongoing"}
+// 평점 정렬 점수: 평가 수가 적으면 3.0 쪽으로 평활 — 리뷰 2개짜리 5.0이 상위 독식하지 않게
+function rateScore(r){return r.rt?(r.rt*r.rc+3.0*15)/(r.rc+15):-1}
+function starHtml(r){return r.rt?`<span class="rate">★ ${r.rt.toFixed(1)}<i>(${r.rc>=1000?(r.rc/1000).toFixed(1)+"k":r.rc})</i></span>`:""}
 function filtered(){
   const q=norm(state.q);
   let list=rows().filter(r=>{
@@ -481,6 +489,7 @@ function filtered(){
   });
   const s=state.sort;
   if(s==="dist"&&state.loc)list=[...list].sort((a,b)=>(distKm(a)??1e9)-(distKm(b)??1e9));
+  else if(s==="rate")list=[...list].sort((a,b)=>rateScore(b)-rateScore(a));
   else if(s==="prio")list=[...list].sort((a,b)=>(store.w[rid(a)]||9)-(store.w[rid(b)]||9));
   else if(s==="view")list=[...list].sort((a,b)=>(b.v||0)-(a.v||0));
   else if(s==="like")list=[...list].sort((a,b)=>(b.l||0)-(a.l||0));
@@ -520,7 +529,7 @@ function card(r){
   ${(tr(r.a)||state.loc)?`<div class="row">${PIN}<span>${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(tr(r.a))}</span></div>`:""}
   ${hrs&&state.sec!=="festival"?`<div class="row">${CLK}<span>${hrs}${closedTxt}</span></div>`:""}
   ${tr(r.d)?`<div class="desc">${esc(tr(r.d))}</div>`:""}
-  ${(r.v||r.l)?`<div class="stat">${r.v?"👁 "+r.v.toLocaleString():""} ${r.l?"&nbsp; ♥ "+r.l:""}</div>`:""}
+  ${(r.rt||r.v||r.l)?`<div class="stat">${starHtml(r)}${r.v?"👁 "+r.v.toLocaleString():""} ${r.l?"&nbsp; ♥ "+r.l:""}</div>`:""}
   <div class="acts">${tel?`<a class="act call" href="tel:${tel}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.9v3a2 2 0 01-2.2 2 19.8 19.8 0 01-8.6-3 19.5 19.5 0 01-6-6 19.8 19.8 0 01-3-8.6A2 2 0 014.1 2h3a2 2 0 012 1.7c.1.9.3 1.8.6 2.6a2 2 0 01-.5 2.1L8 9.6a16 16 0 006 6l1.2-1.2a2 2 0 012.1-.5c.8.3 1.7.5 2.6.6a2 2 0 011.7 2z"/></svg>${U().call}</a>`:""}
   <a class="act" href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${PIN.replace('class="ic" ','')}${U().mapBtn}</a>
   ${r.u?`<a class="act" href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a>`:""}</div></div></article>`;
@@ -532,7 +541,7 @@ function initMap(){if(mapReady)return;map=L.map("map",{zoomControl:true}).setVie
   cluster=L.markerClusterGroup({maxClusterRadius:48,showCoverageOnHover:false});map.addLayer(cluster);mapReady=true}
 function popHtml(r){const tel=(r.p||"").replace(/[^0-9+]/g,"");const hl=highlight(r);const mapq=encodeURIComponent(tr(r.n)+" "+r.g);
   const id=esc(rid(r)),iv=!!store.v[rid(r)],iw=store.w[rid(r)]||0;
-  return `<div class="pop">${r.t?`<img class="pimg" src="${esc(r.t)}" alt="" onerror="this.style.display='none'">`:""}<div class="pbody"><div class="pn">${esc(tr(r.n))}</div>${hl&&hl.t?`<div class="pm">${esc(hl.t)}</div>`:""}<div class="pa">${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(catName(r.c))}${r.g?" · "+esc(guName(r.g)):""}${r.of?`<br>📮 ${esc(r.of)} ${MT().pick}`:""}<br>${esc(tr(r.a))}</div><div class="pacts">${tel?`<a class="call" href="tel:${tel}">${U().call}</a>`:""}<a href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${U().mapBtn}</a>${r.u?`<a href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a>`:""}<a class="sv v${iv?" on":""}" data-act="v" data-id="${id}" title="${MT().visited}">✓</a><a class="sv w${iw?" on":""}" data-act="w" data-id="${id}" title="${MT().wish}">♥</a></div></div></div>`}
+  return `<div class="pop">${r.t?`<img class="pimg" src="${esc(r.t)}" alt="" onerror="this.style.display='none'">`:""}<div class="pbody"><div class="pn">${esc(tr(r.n))}</div>${hl&&hl.t?`<div class="pm">${esc(hl.t)}</div>`:""}<div class="pa">${r.rt?starHtml(r)+" · ":""}${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(catName(r.c))}${r.g?" · "+esc(guName(r.g)):""}${r.of?`<br>📮 ${esc(r.of)} ${MT().pick}`:""}<br>${esc(tr(r.a))}</div><div class="pacts">${tel?`<a class="call" href="tel:${tel}">${U().call}</a>`:""}<a href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${U().mapBtn}</a>${r.u?`<a href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a>`:""}<a class="sv v${iv?" on":""}" data-act="v" data-id="${id}" title="${MT().visited}">✓</a><a class="sv w${iw?" on":""}" data-act="w" data-id="${id}" title="${MT().wish}">♥</a></div></div></div>`}
 function renderMap(list){initMap();cluster.clearLayers();const ms=[];
   list.forEach(r=>{if(r.lat==null||r.lng==null)return;const col=catColor(r.c);
     const m=L.marker([r.lat,r.lng],{icon:L.divIcon({className:"",html:`<div class="mk" style="background:${col}"></div>`,iconSize:[16,16],iconAnchor:[8,15],popupAnchor:[0,-14]})});
