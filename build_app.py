@@ -148,7 +148,7 @@ a{color:inherit;text-decoration:none}img{display:block}
 .thumb{position:relative;aspect-ratio:16/10;background:#dde3ea;overflow:hidden}
 .thumb img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
 @media(hover:hover){.card:hover .thumb img{transform:scale(1.05)}}
-.thumb .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:32px;color:#aeb9c5}
+.thumb .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:42px;color:#aeb9c5}
 .badge{position:absolute;top:10px;left:10px;padding:5px 10px;border-radius:999px;font-size:11.5px;font-weight:800;color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.18)}
 .gbadge{position:absolute;top:10px;right:10px;padding:5px 10px;border-radius:999px;font-size:11.5px;font-weight:700;color:#fff;background:rgba(15,28,42,.62)}
 .statusb{position:absolute;bottom:10px;left:10px;padding:4px 9px;border-radius:999px;font-size:11px;font-weight:800;color:#fff}
@@ -467,6 +467,10 @@ function highlight(r){
   if(r.fee)return {ic:TAG,t:tr(r.fee)};
   return null;
 }
+const PH_EMOJI={"카페·베이커리":"☕","카페·디저트":"☕","해산물·회":"🐟","회·해산물":"🐟","고기·구이":"🥩","면·국물":"🍜","면류":"🍜","국밥·탕":"🍲","한식·백반":"🍚","중식":"🥟","일식":"🍣","일식·돈카츠":"🍣","양식·세계요리":"🍝","양식·파스타":"🍝","분식·주점":"🍢","분식":"🍢","치킨·호프":"🍗","백화점·몰":"🏬","전통시장":"🧺","호텔":"🏨","축제·행사":"🎉"};
+const SEC_PH={sights:"🏞️",food:"🍽️",usulleng:"🍽️",festival:"🎉",stay:"🏨",shopping:"🛍️"};
+function phDiv(r,hidden){const col=catColor(r.c);const e=PH_EMOJI[r.c]||SEC_PH[state.sec]||"📍";
+  return `<div class="ph" style="${hidden?"display:none;":""}background:linear-gradient(135deg,${col}1f,${col}52)">${e}</div>`}
 const HEART='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg>';
 const CHKI='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M4 12.5l5 5L20 6.5"/></svg>';
 function saveBar(r){const id=esc(rid(r)),iv=!!store.v[rid(r)],iw=store.w[rid(r)]||0,mt=MT();
@@ -480,7 +484,7 @@ function card(r){
   const mapq=encodeURIComponent(tr(r.n)+" "+r.g);
   const st=state.sec==="festival"?fstatus(r):null;
   const stColor={ongoing:"#2e9e5b",upcoming:"#0a6ebd",ended:"#9aa6b2"}[st];
-  const img=r.t?`<img loading="lazy" src="${esc(r.t)}" alt="${esc(tr(r.n))}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="ph" style="display:none">📍</div>`:`<div class="ph">📍</div>`;
+  const img=r.t?`<img loading="lazy" src="${esc(r.t)}" alt="${esc(tr(r.n))}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">${phDiv(r,true)}`:phDiv(r,false);
   const nameHref=r.u||("https://map.kakao.com/?q="+mapq);
   return `<article class="card"><div class="thumb">${img}<span class="badge" style="background:${col}">${esc(catName(r.c))}</span>${r.g?`<span class="gbadge">${esc(guName(r.g))}</span>`:""}${st?`<span class="statusb" style="background:${stColor}">${U()[st]}</span>`:""}${saveBar(r)}</div>
   <div class="body"><a class="name" href="${esc(nameHref)}" target="_blank" rel="noopener">${esc(tr(r.n))}</a>
