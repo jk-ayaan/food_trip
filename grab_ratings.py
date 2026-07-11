@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
-"""경기 지역(수원·안산·판교·정자·서현) 항목에 카카오맵 별점 매칭.
+"""카카오맵 별점 매칭 (지역 인자: busan suwon ansan pangyo jeongja seohyeon, 생략 시 전부).
 검색 결과의 lat/lon으로 300m 이내 + 이름 유사(또는 전화 일치)만 채택.
 rating(별점)·rcount(평가수) 필드 저장, 썸네일 없으면 검색 img로 보충."""
-import json, math, os, re, time, urllib.parse, urllib.request
+import json, math, os, re, sys, time, urllib.parse, urllib.request
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
-TARGETS = [
-    f"data/{r}/{s}.json"
-    for r in ("suwon", "ansan", "pangyo", "jeongja", "seohyeon")
-    for s in ("food", "sights", "stay", "shopping", "festival")
-]
+REGION_FILES = {
+    "busan": [f"data/busan/{s}.json" for s in ("food", "usulleng", "sights", "stay", "shopping")],
+    **{r: [f"data/{r}/{s}.json" for s in ("food", "sights", "stay", "shopping", "festival")]
+       for r in ("suwon", "ansan", "pangyo", "jeongja", "seohyeon")},
+}
+regions = [a for a in sys.argv[1:] if a in REGION_FILES] or list(REGION_FILES)
+TARGETS = [f for r in regions for f in REGION_FILES[r]]
 
 digits = lambda s: re.sub(r"\D", "", str(s or ""))
 norm = lambda s: re.sub(r"[\s()\[\]·.-]", "", str(s or ""))
@@ -64,6 +66,8 @@ for path in TARGETS:
         if not r.get("name_ko"):
             continue
         d = str(r.get("district", ""))
+        if "busan" in path and " " not in d:  # 부산 구·군은 지역명 보강
+            d = f"부산 {d}"
         p = pick(r, search(f"{r['name_ko']} {d}")) or pick(r, search(r["name_ko"]))
         time.sleep(0.3)
         if not p:
