@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""data/<section>.json (5개) → index.html : '부산에 가면' 멀티섹션 가이드.
-섹션탭(명소·음식·축제·숙박·쇼핑) + 지도(Leaflet/OSM) + 다국어(한·영·일·중)."""
+"""data/<section>.json (6개) → index.html : '부산에 가면' 멀티섹션 가이드.
+섹션탭(명소·음식·우슐랭·축제·숙박·쇼핑) + 지도(Leaflet/OSM) + 다국어(한·영·일·중)
++ 가본 곳 체크 · 찜(우선순위) 저장(localStorage)."""
 import json, datetime, os
 
-SECTIONS = ["sights", "food", "festival", "stay", "shopping"]
+SECTIONS = ["sights", "food", "usulleng", "festival", "stay", "shopping"]
 
 
 def mlf(i18n, field):
@@ -40,6 +41,10 @@ def slim_row(r):
         out["ps"] = r["pstart"]
     if r.get("pend"):
         out["pe"] = r["pend"]
+    if r.get("office"):
+        out["of"] = r["office"]
+    if r.get("editions"):
+        out["ed"] = r["editions"]
     return out
 
 
@@ -161,6 +166,17 @@ a{color:inherit;text-decoration:none}img{display:block}
 .pop .pacts a{flex:1;text-align:center;padding:7px 4px;border-radius:9px;font-size:11.5px;font-weight:700;border:1.5px solid var(--line);color:var(--sub)}
 .pop .pacts a.call{background:var(--sea);border-color:var(--sea);color:#fff}
 .mk{width:16px;height:16px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);border:2px solid #fff;box-shadow:0 2px 5px rgba(0,0,0,.35)}
+.savebar{position:absolute;bottom:8px;right:8px;display:flex;gap:6px;align-items:center;z-index:5}
+.sbtn{width:32px;height:32px;border-radius:50%;border:0;background:rgba(255,255,255,.94);color:#8b98a5;display:flex;align-items:center;justify-content:center;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.22);padding:0;transition:.12s}
+.sbtn svg{width:16px;height:16px}
+.sbtn:active{transform:scale(.88)}
+.sbtn.v.on{background:#2e9e5b;color:#fff}
+.sbtn.w.on{background:#d6457f;color:#fff}
+.prio{height:24px;padding:0 9px;border-radius:999px;border:0;font-size:11px;font-weight:800;color:#fff;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.22)}
+.prio:active{transform:scale(.92)}
+.pop .pacts a.sv{flex:none;width:30px;font-size:13px;font-weight:800;cursor:pointer}
+.pop .pacts a.sv.v.on{background:#2e9e5b;border-color:#2e9e5b;color:#fff}
+.pop .pacts a.sv.w.on{background:#d6457f;border-color:#d6457f;color:#fff}
 .maphint{position:fixed;z-index:900;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--safe-b));background:rgba(15,28,42,.82);color:#fff;font-size:12px;font-weight:600;padding:7px 14px;border-radius:999px;pointer-events:none;opacity:0;transition:.3s}
 .maphint.show{opacity:1}
 .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--sub)}
@@ -247,11 +263,12 @@ footer a{text-decoration:underline}
 <script>
 const DB=__DATA__;
 const TODAY="__TODAY__";
-const SEC=[{k:"sights",i:"🏞️"},{k:"food",i:"🍜"},{k:"festival",i:"🎉"},{k:"stay",i:"🏨"},{k:"shopping",i:"🛍️"}];
+const SEC=[{k:"sights",i:"🏞️"},{k:"food",i:"🍜"},{k:"usulleng",i:"📮"},{k:"festival",i:"🎉"},{k:"stay",i:"🏨"},{k:"shopping",i:"🛍️"}];
 const PALETTE=["#0e7c86","#d2453b","#e8632c","#3f51b5","#7e57c2","#2e9e5b","#b5762e","#d6457f","#7a8b27","#0a6ebd","#7a8896"];
 
 const SECNAME={
  sights:{ko:"명소",en:"Sights",ja:"名所",zh:"景点"},food:{ko:"음식",en:"Food",ja:"グルメ",zh:"美食"},
+ usulleng:{ko:"우슐랭",en:"Usulleng",ja:"郵便局グルメ",zh:"邮局美食"},
  festival:{ko:"축제",en:"Festivals",ja:"祭り",zh:"庆典"},stay:{ko:"숙박",en:"Stay",ja:"宿泊",zh:"住宿"},
  shopping:{ko:"쇼핑",en:"Shopping",ja:"買物",zh:"购物"}};
 const GU_I18N={"중구":{en:"Jung-gu",ja:"中区",zh:"中区"},"서구":{en:"Seo-gu",ja:"西区",zh:"西区"},"동구":{en:"Dong-gu",ja:"東区",zh:"东区"},"영도구":{en:"Yeongdo-gu",ja:"影島区",zh:"影岛区"},"부산진구":{en:"Busanjin-gu",ja:"釜山鎮区",zh:"釜山镇区"},"동래구":{en:"Dongnae-gu",ja:"東莱区",zh:"东莱区"},"남구":{en:"Nam-gu",ja:"南区",zh:"南区"},"북구":{en:"Buk-gu",ja:"北区",zh:"北区"},"해운대구":{en:"Haeundae-gu",ja:"海雲台区",zh:"海云台区"},"사하구":{en:"Saha-gu",ja:"沙下区",zh:"沙下区"},"금정구":{en:"Geumjeong-gu",ja:"金井区",zh:"金井区"},"강서구":{en:"Gangseo-gu",ja:"江西区",zh:"江西区"},"연제구":{en:"Yeonje-gu",ja:"蓮堤区",zh:"莲堤区"},"수영구":{en:"Suyeong-gu",ja:"水営区",zh:"水营区"},"사상구":{en:"Sasang-gu",ja:"沙上区",zh:"沙上区"},"기장군":{en:"Gijang-gun",ja:"機張郡",zh:"机张郡"}};
@@ -260,7 +277,8 @@ const CAT_I18N={
  "바다·해변":{en:"Sea & Beach",ja:"海・ビーチ",zh:"海滨"},"전망·야경":{en:"Views & Night",ja:"展望・夜景",zh:"观景"},"역사·문화재":{en:"History",ja:"歴史",zh:"历史"},"박물관·전시":{en:"Museums",ja:"博物館",zh:"博物馆"},"테마·체험":{en:"Themes",ja:"テーマ",zh:"主题"},"공원·자연":{en:"Parks & Nature",ja:"公園・自然",zh:"公园"},"거리·시장":{en:"Streets",ja:"街・市場",zh:"街市"},
  "백화점·몰":{en:"Malls",ja:"百貨店・モール",zh:"商场"},"전통시장":{en:"Markets",ja:"伝統市場",zh:"传统市场"},"면세점":{en:"Duty Free",ja:"免税店",zh:"免税店"},"거리·테마":{en:"Shopping Streets",ja:"商店街",zh:"商业街"},
  "호텔":{en:"Hotel",ja:"ホテル",zh:"酒店"},"리조트·콘도":{en:"Resort & Condo",ja:"リゾート",zh:"度假村"},"게스트하우스":{en:"Guesthouse",ja:"ゲストハウス",zh:"青年旅舍"},"모텔":{en:"Motel",ja:"モーテル",zh:"汽车旅馆"},"펜션·민박":{en:"Pension",ja:"ペンション",zh:"民宿"},
- "축제·행사":{en:"Festival & Event",ja:"祭り・イベント",zh:"庆典活动"},"기타":{en:"Others",ja:"その他",zh:"其他"}};
+ "축제·행사":{en:"Festival & Event",ja:"祭り・イベント",zh:"庆典活动"},"기타":{en:"Others",ja:"その他",zh:"其他"},
+ "국밥·탕":{en:"Gukbap & Soup",ja:"クッパ・スープ",zh:"汤饭"},"면류":{en:"Noodles",ja:"麺類",zh:"面食"},"카페·디저트":{en:"Cafe & Dessert",ja:"カフェ・デザート",zh:"咖啡甜点"},"회·해산물":{en:"Seafood & Hoe",ja:"刺身・海鮮",zh:"生鱼海鲜"},"일식·돈카츠":{en:"Japanese",ja:"和食・トンカツ",zh:"日料"},"양식·파스타":{en:"Western & Pasta",ja:"洋食・パスタ",zh:"西餐"},"분식":{en:"Snacks",ja:"粉食",zh:"小吃"},"치킨·호프":{en:"Chicken & Pub",ja:"チキン・ビール",zh:"炸鸡啤酒"}};
 const UI={
  ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 __UPDATED__`},
  en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated __UPDATED__`},
@@ -274,7 +292,26 @@ const LOCT={
  zh:{me:"我的位置",nearest:"距离最近",within:"以内",all:"全部",nearme:"我的位置",sortLabel:"排序",err:"无法获取位置，请允许定位权限。",locating:"定位中…",here:"我的位置"}};
 function LT(){return LOCT[state.lang]}
 const VIS={ko:{total:"누적 방문",today:"오늘"},en:{total:"Total visits",today:"Today"},ja:{total:"累計訪問",today:"本日"},zh:{total:"累计访问",today:"今日"}};
-const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
+const MYT={
+ ko:{mine:"내 저장",all:"전체",vList:"가본 곳",wList:"찜한 곳",visited:"가봤어요",wish:"찜",prioSort:"우선순위순",p:["","높음","보통","낮음"],pick:"추천"},
+ en:{mine:"My places",all:"All",vList:"Visited",wList:"Saved",visited:"Visited",wish:"Save",prioSort:"By priority",p:["","High","Mid","Low"],pick:"pick"},
+ ja:{mine:"マイリスト",all:"すべて",vList:"行った所",wList:"キープ",visited:"行った",wish:"キープ",prioSort:"優先度順",p:["","高","中","低"],pick:"おすすめ"},
+ zh:{mine:"我的收藏",all:"全部",vList:"去过",wList:"收藏",visited:"去过",wish:"收藏",prioSort:"按优先级",p:["","高","中","低"],pick:"推荐"}};
+function MT(){return MYT[state.lang]}
+const USRC={
+ ko:` · 우슐랭: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">우체국 추천 맛집가이드(부산지방우정청 2024·2025)</a> — 부산·울산·경남 포함`,
+ en:` · Usulleng: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">Post Office restaurant guide (Busan Regional Postal Agency, 2024·2025)</a> — incl. Ulsan & Gyeongnam`,
+ ja:` · 郵便局グルメ: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">郵便局おすすめグルメガイド(釜山地方郵政庁 2024·2025)</a> — 蔚山・慶南を含む`,
+ zh:` · 邮局美食: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">邮局推荐美食指南(釜山地方邮政厅 2024·2025)</a> — 含蔚山·庆南`};
+// ── 내 저장 (가본 곳 / 찜 + 우선순위 1~3) ──
+const store={
+ v:JSON.parse(localStorage.getItem("bf_visited")||"{}"),
+ w:JSON.parse(localStorage.getItem("bf_wish")||"{}"),
+ save(){localStorage.setItem("bf_visited",JSON.stringify(this.v));localStorage.setItem("bf_wish",JSON.stringify(this.w))}};
+function rid(r){return state.sec+"|"+((r.n&&r.n.ko)||"")+"|"+(((r.a&&r.a.ko)||"").slice(0,24))}
+function myCounts(){let v=0,w=0;rows().forEach(r=>{const id=rid(r);if(store.v[id])v++;if(store.w[id])w++});return {v,w}}
+const PRIO_COL=["","#d2453b","#e8632c","#7a8896"];
+const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,mine:"all",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
 function catName(k){const m=CAT_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
 function guName(k){const m=GU_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
@@ -303,11 +340,13 @@ function locate(){
     renderDD();render();
   },()=>{toast(LT().err);let ch=false;if(state.sort==="dist"){state.sort="def";ch=true}if(state.radius>0){state.radius=0;ch=true}if(ch){renderDD();render()}},{enableHighAccuracy:true,timeout:9000,maximumAge:60000})}
 const CK='<svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M5 12l5 5L20 6"/></svg>';
-function sortName(k){return k==="dist"?LT().nearest:U().sorts[k]}
-function ddLabelText(){return sortName(state.sort)+(state.radius>0?` · ${state.radius}km`:"")}
-function renderDD(){const lt=LT();
+function sortName(k){return k==="dist"?LT().nearest:k==="prio"?MT().prioSort:U().sorts[k]}
+function ddLabelText(){const m=state.mine==="v"?" · ✓":state.mine==="w"?" · ♥":"";return sortName(state.sort)+(state.radius>0?` · ${state.radius}km`:"")+m}
+function renderDD(){const lt=LT(),mt=MT(),mc=myCounts();
   let h=`<div class="dd-h">${lt.sortLabel}</div>`;
-  ["def","view","like","name","dist"].forEach(k=>h+=`<div class="dd-opt${state.sort===k?" on":""}" data-g="s" data-v="${k}"><span>${sortName(k)}</span>${CK}</div>`);
+  ["def","view","like","name","prio","dist"].forEach(k=>h+=`<div class="dd-opt${state.sort===k?" on":""}" data-g="s" data-v="${k}"><span>${sortName(k)}</span>${CK}</div>`);
+  h+=`<div class="dd-div"></div><div class="dd-h">💾 ${mt.mine}</div>`;
+  [["all",mt.all,""],["v","✓ "+mt.vList,mc.v],["w","♥ "+mt.wList,mc.w]].forEach(([v,lab,n])=>h+=`<div class="dd-opt${state.mine===v?" on":""}" data-g="m" data-v="${v}"><span>${lab}${n!==""?` <i class="ct">${n}</i>`:""}</span>${CK}</div>`);
   h+=`<div class="dd-div"></div><div class="dd-h">📍 ${lt.nearme}</div>`;
   [[0,lt.all]].concat([1,3,5,10].map(n=>[n,`${n}km ${lt.within}`])).forEach(([v,lab])=>h+=`<div class="dd-opt${state.radius===v?" on":""}" data-g="r" data-v="${v}"><span>${lab}</span>${CK}</div>`);
   document.getElementById("ddPanel").innerHTML=h;
@@ -337,11 +376,14 @@ function filtered(){
     if(state.cat!=="전체"&&r.c!==state.cat)return false;
     if(state.gu!=="전체"&&r.g!==state.gu)return false;
     if(state.radius>0&&state.loc){const dk=distKm(r);if(dk==null||dk>state.radius)return false}
-    if(q){const hay=norm(tr(r.n)+tr(r.a)+r.g+r.c+(r.n&&r.n.ko||"")+tr(r.d));if(!hay.includes(q))return false}
+    if(state.mine==="v"&&!store.v[rid(r)])return false;
+    if(state.mine==="w"&&!store.w[rid(r)])return false;
+    if(q){const hay=norm(tr(r.n)+tr(r.a)+r.g+r.c+(r.n&&r.n.ko||"")+tr(r.d)+(r.of||""));if(!hay.includes(q))return false}
     return true;
   });
   const s=state.sort;
   if(s==="dist"&&state.loc)list=[...list].sort((a,b)=>(distKm(a)??1e9)-(distKm(b)??1e9));
+  else if(s==="prio")list=[...list].sort((a,b)=>(store.w[rid(a)]||9)-(store.w[rid(b)]||9));
   else if(s==="view")list=[...list].sort((a,b)=>(b.v||0)-(a.v||0));
   else if(s==="like")list=[...list].sort((a,b)=>(b.l||0)-(a.l||0));
   else if(s==="name")list=[...list].sort((a,b)=>tr(a.n).localeCompare(tr(b.n),state.lang==="zh"?"zh":state.lang));
@@ -354,6 +396,10 @@ function highlight(r){
   if(r.fee)return {ic:TAG,t:tr(r.fee)};
   return null;
 }
+const HEART='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg>';
+const CHKI='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M4 12.5l5 5L20 6.5"/></svg>';
+function saveBar(r){const id=esc(rid(r)),iv=!!store.v[rid(r)],iw=store.w[rid(r)]||0,mt=MT();
+  return `<div class="savebar">${iw?`<button class="prio" data-act="p" data-id="${id}" style="background:${PRIO_COL[iw]}" title="${mt.prioSort}">⚑ ${mt.p[iw]}</button>`:""}<button class="sbtn w${iw?" on":""}" data-act="w" data-id="${id}" aria-label="${mt.wish}" title="${mt.wish}">${HEART}</button><button class="sbtn v${iv?" on":""}" data-act="v" data-id="${id}" aria-label="${mt.visited}" title="${mt.visited}">${CHKI}</button></div>`}
 function card(r){
   const col=catColor(r.c);
   const hl=highlight(r);
@@ -364,16 +410,18 @@ function card(r){
   const st=state.sec==="festival"?fstatus(r):null;
   const stColor={ongoing:"#2e9e5b",upcoming:"#0a6ebd",ended:"#9aa6b2"}[st];
   const img=r.t?`<img loading="lazy" src="${esc(r.t)}" alt="${esc(tr(r.n))}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="ph" style="display:none">📍</div>`:`<div class="ph">📍</div>`;
-  return `<article class="card"><div class="thumb">${img}<span class="badge" style="background:${col}">${esc(catName(r.c))}</span>${r.g?`<span class="gbadge">${esc(guName(r.g))}</span>`:""}${st?`<span class="statusb" style="background:${stColor}">${U()[st]}</span>`:""}</div>
-  <div class="body"><a class="name" href="${esc(r.u)}" target="_blank" rel="noopener">${esc(tr(r.n))}</a>
+  const nameHref=r.u||("https://map.kakao.com/?q="+mapq);
+  return `<article class="card"><div class="thumb">${img}<span class="badge" style="background:${col}">${esc(catName(r.c))}</span>${r.g?`<span class="gbadge">${esc(guName(r.g))}</span>`:""}${st?`<span class="statusb" style="background:${stColor}">${U()[st]}</span>`:""}${saveBar(r)}</div>
+  <div class="body"><a class="name" href="${esc(nameHref)}" target="_blank" rel="noopener">${esc(tr(r.n))}</a>
   ${hl&&hl.t?`<div class="hl">${hl.ic}<span>${esc(hl.t)}</span></div>`:""}
+  ${r.of?`<div class="row"><span class="ic">📮</span><span>${esc(r.of)} ${MT().pick}${r.ed?` · <b>${esc(r.ed)}</b>`:""}</span></div>`:""}
   ${(tr(r.a)||state.loc)?`<div class="row">${PIN}<span>${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(tr(r.a))}</span></div>`:""}
   ${hrs&&state.sec!=="festival"?`<div class="row">${CLK}<span>${hrs}${closedTxt}</span></div>`:""}
   ${tr(r.d)?`<div class="desc">${esc(tr(r.d))}</div>`:""}
   ${(r.v||r.l)?`<div class="stat">${r.v?"👁 "+r.v.toLocaleString():""} ${r.l?"&nbsp; ♥ "+r.l:""}</div>`:""}
   <div class="acts">${tel?`<a class="act call" href="tel:${tel}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.9v3a2 2 0 01-2.2 2 19.8 19.8 0 01-8.6-3 19.5 19.5 0 01-6-6 19.8 19.8 0 01-3-8.6A2 2 0 014.1 2h3a2 2 0 012 1.7c.1.9.3 1.8.6 2.6a2 2 0 01-.5 2.1L8 9.6a16 16 0 006 6l1.2-1.2a2 2 0 012.1-.5c.8.3 1.7.5 2.6.6a2 2 0 011.7 2z"/></svg>${U().call}</a>`:""}
   <a class="act" href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${PIN.replace('class="ic" ','')}${U().mapBtn}</a>
-  <a class="act" href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a></div></div></article>`;
+  ${r.u?`<a class="act" href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a>`:""}</div></div></article>`;
 }
 
 let map,cluster,mapReady=false;
@@ -381,11 +429,12 @@ function initMap(){if(mapReady)return;map=L.map("map",{zoomControl:true}).setVie
   L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",{attribution:'© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/">CARTO</a>',subdomains:"abcd",maxZoom:19}).addTo(map);
   cluster=L.markerClusterGroup({maxClusterRadius:48,showCoverageOnHover:false});map.addLayer(cluster);mapReady=true}
 function popHtml(r){const tel=(r.p||"").replace(/[^0-9+]/g,"");const hl=highlight(r);const mapq=encodeURIComponent(tr(r.n)+" "+r.g);
-  return `<div class="pop">${r.t?`<img class="pimg" src="${esc(r.t)}" alt="" onerror="this.style.display='none'">`:""}<div class="pbody"><div class="pn">${esc(tr(r.n))}</div>${hl&&hl.t?`<div class="pm">${esc(hl.t)}</div>`:""}<div class="pa">${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(catName(r.c))}${r.g?" · "+esc(guName(r.g)):""}<br>${esc(tr(r.a))}</div><div class="pacts">${tel?`<a class="call" href="tel:${tel}">${U().call}</a>`:""}<a href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${U().mapBtn}</a><a href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a></div></div></div>`}
+  const id=esc(rid(r)),iv=!!store.v[rid(r)],iw=store.w[rid(r)]||0;
+  return `<div class="pop">${r.t?`<img class="pimg" src="${esc(r.t)}" alt="" onerror="this.style.display='none'">`:""}<div class="pbody"><div class="pn">${esc(tr(r.n))}</div>${hl&&hl.t?`<div class="pm">${esc(hl.t)}</div>`:""}<div class="pa">${state.loc&&distKm(r)!=null?`<span class="dist">${fmtDist(distKm(r))}</span> · `:""}${esc(catName(r.c))}${r.g?" · "+esc(guName(r.g)):""}${r.of?`<br>📮 ${esc(r.of)} ${MT().pick}`:""}<br>${esc(tr(r.a))}</div><div class="pacts">${tel?`<a class="call" href="tel:${tel}">${U().call}</a>`:""}<a href="https://map.kakao.com/?q=${mapq}" target="_blank" rel="noopener">${U().mapBtn}</a>${r.u?`<a href="${esc(r.u)}" target="_blank" rel="noopener">${U().detail}</a>`:""}<a class="sv v${iv?" on":""}" data-act="v" data-id="${id}" title="${MT().visited}">✓</a><a class="sv w${iw?" on":""}" data-act="w" data-id="${id}" title="${MT().wish}">♥</a></div></div></div>`}
 function renderMap(list){initMap();cluster.clearLayers();const ms=[];
   list.forEach(r=>{if(r.lat==null||r.lng==null)return;const col=catColor(r.c);
     const m=L.marker([r.lat,r.lng],{icon:L.divIcon({className:"",html:`<div class="mk" style="background:${col}"></div>`,iconSize:[16,16],iconAnchor:[8,15],popupAnchor:[0,-14]})});
-    m.bindPopup(popHtml(r));ms.push(m)});
+    m.bindPopup(()=>popHtml(r));ms.push(m)});
   cluster.addLayers(ms);setTimeout(()=>map.invalidateSize(),60);
   if(ms.length){try{const b=cluster.getBounds();b.isValid()&&map.fitBounds(b.pad(.12),{maxZoom:14})}catch(e){}}}
 
@@ -400,7 +449,7 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.getElementById("subtitle").textContent=u.sub(state.sec,rows().length);
   document.getElementById("q").placeholder=u.search;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
-  document.getElementById("footer").innerHTML=u.foot+" · "+u.src;
+  document.getElementById("footer").innerHTML=u.foot+" · "+u.src+USRC[state.lang];
   document.getElementById("maphint").innerHTML=u.hint;
   document.getElementById("vLabelTotal").textContent=VIS[state.lang].total;
   document.getElementById("vLabelToday").textContent=VIS[state.lang].today;
@@ -425,9 +474,25 @@ document.getElementById("ddBtn").addEventListener("click",e=>{e.stopPropagation(
 document.getElementById("ddPanel").addEventListener("click",e=>{e.stopPropagation();const o=e.target.closest(".dd-opt");if(!o)return;
   const g=o.dataset.g,v=o.dataset.v;let need=false;
   if(g==="s"){state.sort=v;if(v==="dist"&&!state.loc)need=true}
+  else if(g==="m"){state.mine=v}
   else{state.radius=+v;if(+v>0&&!state.loc)need=true}
   renderDD();if(need)locate();else render()});
 document.addEventListener("click",e=>{if(!e.target.closest("#dd"))ddOpen(false)});
+// ── 가본 곳 ✓ / 찜 ♥ 토글 (카드·지도 팝업 공용) ──
+document.addEventListener("click",e=>{
+  const b=e.target.closest("[data-act]");if(!b)return;
+  e.preventDefault();
+  const act=b.dataset.act,id=b.dataset.id;
+  if(act==="v"){if(store.v[id])delete store.v[id];else store.v[id]=1}
+  else if(act==="w"){if(store.w[id])delete store.w[id];else store.w[id]=2}
+  else if(act==="p"){store.w[id]=(store.w[id]%3)+1}
+  store.save();renderDD();
+  const pop=e.target.closest(".pop");
+  if(pop){pop.querySelectorAll("[data-act]").forEach(x=>{const a=x.dataset.act;
+    if(a==="v")x.classList.toggle("on",!!store.v[id]);
+    if(a==="w")x.classList.toggle("on",!!store.w[id])})}
+  else render();
+});
 document.getElementById("locate").addEventListener("click",()=>{if(state.sort==="def")state.sort="dist";renderDD();locate()});
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
