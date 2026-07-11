@@ -1,0 +1,38 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "코트야드 바이 메리어트 서울 판교",
+  "district": "분당구",
+  "category": "관광호텔",
+  "lat": 37.3975623473,
+  "lng": 127.1107526546,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "코트야드 바이 메리어트 서울 판교",
+    "desc": "",
+    "address": "경기도 성남시 분당구 판교역로192번길 12 (삼평동)"
+   }
+  },
+  "homepage": "https://www.marriott.com/ko/hotels/selpn-courtyard-seoul-pangyo/overview/"
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 에스알 스위츠",
+  "district": "분당구",
+  "category": "관광호텔",
+  "lat": 37.3856055703,
+  "lng": 127.1202076886,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2588513_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 에스알 스위츠",
+    "desc": "분당의 상징인 서현역 중심에 자리잡아 비즈니스맨 및 관광객에게 최적의 위치 조건을 자랑하며, 총 66개 객실과 레스토랑&바, 연회장, 휘트니스 및 프라이빗 사우나 등을 갖추고 있는 프리미엄 비즈니스 호텔이다.  객실은 모던하고 현대적인 디자인과 스타일러, 세탁기, 전자레인지 등 생활가전이 비치되어 출장 및 여행객에게 최적의 휴식공간을 제공하고 있다.",
+    "address": "경기도 성남시 분당구 황새울로319번길 9 (서현동)"
+   }
+  },
+  "homepage": "http://www.srsuites.com"
+ }
+]

@@ -323,14 +323,14 @@ def run_stay(key="stay"):
 def main():
     target=sys.argv[1] if len(sys.argv)>1 else "all"
     keys=list(SECTIONS) if target=="all" else [target]
-    os.makedirs("data", exist_ok=True)
+    os.makedirs("data/busan", exist_ok=True)
     for key in keys:
         t0=time.time()
         rows=run_stay(key) if not SECTIONS[key]["std"] else run_standard(key)
-        json.dump(rows, open(f"data/{key}.json","w"), ensure_ascii=False, separators=(",",":"))
+        json.dump(rows, open(f"data/busan/{key}.json","w"), ensure_ascii=False, separators=(",",":"))
         coords=sum(1 for r in rows if r.get("lat"))
         en=sum(1 for r in rows if r.get("i18n",{}).get("en",{}).get("name"))
-        print(f"✅ {SECTIONS[key]['name']}({key}): {len(rows)}곳 · 좌표 {coords} · 영문명 {en} · {time.time()-t0:.0f}s → data/{key}.json\n")
+        print(f"✅ {SECTIONS[key]['name']}({key}): {len(rows)}곳 · 좌표 {coords} · 영문명 {en} · {time.time()-t0:.0f}s → data/busan/{key}.json\n")
 
 if __name__=="__main__":
     main()

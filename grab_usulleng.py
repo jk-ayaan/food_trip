@@ -29,6 +29,6 @@ for r in rows:
         }},
     })
 
-with open("data/usulleng.json", "w", encoding="utf-8") as f:
+with open("data/busan/usulleng.json", "w", encoding="utf-8") as f:
     json.dump(out, f, ensure_ascii=False, indent=1)
-print(f"data/usulleng.json 저장: {len(out)}곳")
+print(f"data/busan/usulleng.json 저장: {len(out)}곳")

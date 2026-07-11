@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""data/<section>.json (6개) → index.html : '부산에 가면' 멀티섹션 가이드.
-섹션탭(명소·음식·우슐랭·축제·숙박·쇼핑) + 지도(Leaflet/OSM) + 다국어(한·영·일·중)
-+ 가본 곳 체크 · 찜(우선순위) 저장(localStorage)."""
+"""data/<region>/<section>.json → index.html : 'Food Trip' 멀티 지역·섹션 가이드.
+지역(부산·수원·안산·판교역·정자역·서현역) × 섹션탭(명소·음식·우슐랭·축제·숙박·쇼핑)
++ 지도(Leaflet/OSM) + 다국어(한·영·일·중) + 가본 곳 체크 · 찜(우선순위) 저장(localStorage)."""
 import json, datetime, os
 
+REGIONS = ["busan", "suwon", "ansan", "pangyo", "jeongja", "seohyeon"]
 SECTIONS = ["sights", "food", "usulleng", "festival", "stay", "shopping"]
 
 
@@ -18,8 +19,11 @@ def mlf(i18n, field):
 
 def slim_row(r):
     i = r.get("i18n", {})
+    thumb = r.get("thumb", "")
+    if thumb.startswith("http://"):  # https 페이지 mixed-content 차단 방지 (visitkorea CDN은 https 지원)
+        thumb = "https://" + thumb[7:]
     out = {"c": r.get("category", "기타"), "g": r.get("district", ""),
-           "t": r.get("thumb", ""), "lat": r.get("lat"), "lng": r.get("lng"),
+           "t": thumb, "lat": r.get("lat"), "lng": r.get("lng"),
            "u": r.get("detail_url", "")}
     for short, field in [("n", "name"), ("m", "menu"), ("a", "address"),
                           ("h", "hours"), ("x", "closed"), ("d", "desc"),
@@ -50,16 +54,22 @@ def slim_row(r):
 
 data = {}
 counts = {}
-for s in SECTIONS:
-    path = f"data/{s}.json"
-    rows = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else []
-    data[s] = [slim_row(r) for r in rows if (r.get("i18n", {}).get("ko", {}).get("name") or r.get("name_ko"))]
-    counts[s] = len(data[s])
+for reg in REGIONS:
+    rd = {}
+    for s in SECTIONS:
+        path = f"data/{reg}/{s}.json"
+        rows = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else []
+        rd[s] = [slim_row(r) for r in rows if (r.get("i18n", {}).get("ko", {}).get("name") or r.get("name_ko"))]
+    if any(rd.values()):  # 데이터 있는 지역만 포함
+        data[reg] = {k: v for k, v in rd.items() if v}
+        counts[reg] = {k: len(v) for k, v in data[reg].items()}
 
 data_js = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-total = sum(counts.values())
+total = sum(sum(c.values()) for c in counts.values())
 updated = datetime.date.today().isoformat()
-print("섹션별:", counts, "총", total)
+for reg, c in counts.items():
+    print(f"{reg}: {c} 소계 {sum(c.values())}")
+print("총", total)
 
 HTML = r"""<!doctype html>
 <html lang="ko">
@@ -67,8 +77,8 @@ HTML = r"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0a6ebd">
-<meta name="description" content="부산에 가면 — 명소·음식·축제·숙박·쇼핑 __TOTAL__곳 지도·다국어 가이드. 출처 비짓부산.">
-<title>부산에 가면 · When in Busan</title>
+<meta name="description" content="Food Trip — 부산·수원·안산·판교·정자·서현 명소·음식·축제·숙박·쇼핑 __TOTAL__곳 지도·다국어 가이드.">
+<title>Food Trip · 부산에 가면 & 수도권 맛집 지도</title>
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -89,6 +99,12 @@ a{color:inherit;text-decoration:none}img{display:block}
 .langs{display:flex;gap:4px;background:rgba(255,255,255,.16);border-radius:999px;padding:3px;flex:none}
 .langs button{border:0;background:transparent;color:#fff;font-weight:700;font-size:12px;padding:6px 9px;border-radius:999px;cursor:pointer;opacity:.8}
 .langs button.on{background:#fff;color:var(--sea);opacity:1}
+.regs{display:flex;gap:6px;overflow-x:auto;margin-top:12px;padding:0 2px;scrollbar-width:none}
+.regs::-webkit-scrollbar{display:none}
+.regs[hidden]{display:none}
+.reg{flex:none;border:1.5px solid rgba(255,255,255,.32);background:rgba(255,255,255,.1);color:#fff;border-radius:999px;padding:7px 13px;font-size:12.5px;font-weight:700;cursor:pointer;display:flex;align-items:center;gap:5px;opacity:.85;white-space:nowrap}
+.reg.on{background:#fff;color:var(--sea);opacity:1;border-color:#fff}
+.reg .rn{font-size:10.5px;opacity:.6;font-weight:800}
 .tabs{display:flex;gap:6px;overflow-x:auto;margin-top:12px;padding:0 2px 0;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tab{flex:none;border:0;background:rgba(255,255,255,.14);color:#fff;border-radius:13px 13px 0 0;padding:11px 16px;font-size:14px;font-weight:700;cursor:pointer;opacity:.82;display:flex;align-items:center;gap:6px;white-space:nowrap}
@@ -252,6 +268,7 @@ footer a{text-decoration:underline}
       <div class="langs" id="langs"><button data-l="ko" class="on">한</button><button data-l="en">EN</button><button data-l="ja">日</button><button data-l="zh">中</button></div>
     </div>
   </div>
+  <div class="regs" id="regs" hidden></div>
   <div class="tabs" id="tabs"></div>
 </div></header>
 
@@ -298,6 +315,17 @@ footer a{text-decoration:underline}
 const DB=__DATA__;
 const TODAY="__TODAY__";
 const SEC=[{k:"sights",i:"🏞️"},{k:"food",i:"🍜"},{k:"usulleng",i:"📮"},{k:"festival",i:"🎉"},{k:"stay",i:"🏨"},{k:"shopping",i:"🛍️"}];
+const REGIONS=[
+ {k:"busan",i:"🌊",n:{ko:"부산",en:"Busan",ja:"釜山",zh:"釜山"},c:[35.16,129.07],z:11},
+ {k:"suwon",i:"🏯",n:{ko:"수원",en:"Suwon",ja:"水原",zh:"水原"},c:[37.28,127.01],z:12},
+ {k:"ansan",i:"🌷",n:{ko:"안산",en:"Ansan",ja:"安山",zh:"安山"},c:[37.32,126.83],z:12},
+ {k:"pangyo",i:"🚄",n:{ko:"판교역",en:"Pangyo Stn",ja:"板橋駅",zh:"板桥站"},c:[37.394761,127.111217],z:14},
+ {k:"jeongja",i:"🚇",n:{ko:"정자역",en:"Jeongja Stn",ja:"亭子駅",zh:"亭子站"},c:[37.365994,127.108727],z:14},
+ {k:"seohyeon",i:"🚉",n:{ko:"서현역",en:"Seohyeon Stn",ja:"書峴駅",zh:"书岘站"},c:[37.385166,127.123674],z:14},
+].filter(r=>DB[r.k]);
+function REG(){return REGIONS.find(r=>r.k===state.region)||REGIONS[0]}
+function regName(r){return r.n[state.lang]||r.n.ko}
+function brandText(){const r=REG();return {ko:`${r.n.ko}에 가면`,en:`When in ${r.n.en}`,ja:`${r.n.ja}に行ったら`,zh:`来${r.n.zh}`}[state.lang]}
 const PALETTE=["#0e7c86","#d2453b","#e8632c","#3f51b5","#7e57c2","#2e9e5b","#b5762e","#d6457f","#7a8b27","#0a6ebd","#7a8896"];
 
 const SECNAME={
@@ -337,24 +365,29 @@ const USRC={
  en:` · Usulleng: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">Post Office restaurant guide (Busan Regional Postal Agency, 2024·2025)</a> — incl. Ulsan & Gyeongnam`,
  ja:` · 郵便局グルメ: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">郵便局おすすめグルメガイド(釜山地方郵政庁 2024·2025)</a> — 蔚山・慶南を含む`,
  zh:` · 邮局美食: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">邮局推荐美食指南(釜山地方邮政厅 2024·2025)</a> — 含蔚山·庆南`};
+const TSRC={
+ ko:` · 수원·안산·판교·정자·서현: <a href="https://knto.or.kr" target="_blank" rel="noopener">한국관광공사 TourAPI</a>`,
+ en:` · Suwon·Ansan·Pangyo·Jeongja·Seohyeon: <a href="https://knto.or.kr" target="_blank" rel="noopener">KTO TourAPI</a>`,
+ ja:` · 水原・安山・板橋・亭子・書峴: <a href="https://knto.or.kr" target="_blank" rel="noopener">韓国観光公社 TourAPI</a>`,
+ zh:` · 水原·安山·板桥·亭子·书岘: <a href="https://knto.or.kr" target="_blank" rel="noopener">韩国观光公社 TourAPI</a>`};
 // ── 내 저장 (가본 곳 / 찜 + 우선순위 1~3) ──
 const store={
  v:JSON.parse(localStorage.getItem("bf_visited")||"{}"),
  w:JSON.parse(localStorage.getItem("bf_wish")||"{}"),
  save(){localStorage.setItem("bf_visited",JSON.stringify(this.v));localStorage.setItem("bf_wish",JSON.stringify(this.w))}};
-function ridOf(sec,r){return sec+"|"+((r.n&&r.n.ko)||"")+"|"+(((r.a&&r.a.ko)||"").slice(0,24))}
-function rid(r){return ridOf(state.sec,r)}
+function ridOf(reg,sec,r){const base=sec+"|"+((r.n&&r.n.ko)||"")+"|"+(((r.a&&r.a.ko)||"").slice(0,24));return reg==="busan"?base:reg+"@"+base}
+function rid(r){return ridOf(state.region,state.sec,r)}
 function myCounts(){let v=0,w=0;rows().forEach(r=>{const id=rid(r);if(store.v[id])v++;if(store.w[id])w++});return {v,w}}
 let ALLIDX=null;
-function allIdx(){if(!ALLIDX){ALLIDX={};Object.keys(DB).forEach(sec=>DB[sec].forEach(r=>{ALLIDX[ridOf(sec,r)]={sec,r}}))}return ALLIDX}
+function allIdx(){if(!ALLIDX){ALLIDX={};Object.keys(DB).forEach(reg=>Object.keys(DB[reg]).forEach(sec=>DB[reg][sec].forEach(r=>{ALLIDX[ridOf(reg,sec,r)]={reg,sec,r}})))}return ALLIDX}
 const PRIO_COL=["","#d2453b","#e8632c","#7a8896"];
-const state={sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,mine:"all",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
+const state={region:(()=>{const s=localStorage.getItem("bf_region");return (s&&DB[s])?s:"busan"})(),sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,mine:"all",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
 function catName(k){const m=CAT_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
 function guName(k){const m=GU_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
 function secName(k){return SECNAME[k][state.lang]||SECNAME[k].ko}
 function U(){return UI[state.lang]}
-const rows=()=>DB[state.sec]||[];
+const rows=()=>((DB[state.region]||{})[state.sec])||[];
 const catColor=(()=>{const map={};return k=>{if(!(k in map)){const keys=Object.keys(map);map[k]=PALETTE[keys.length%PALETTE.length]}return map[k]}})();
 
 // ── 현재 위치 ──
@@ -463,7 +496,7 @@ function card(r){
 }
 
 let map,cluster,mapReady=false;
-function initMap(){if(mapReady)return;map=L.map("map",{zoomControl:true}).setView([35.16,129.07],11);
+function initMap(){if(mapReady)return;map=L.map("map",{zoomControl:true}).setView(REG().c,REG().z);
   L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",{attribution:'© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/">CARTO</a>',subdomains:"abcd",maxZoom:19}).addTo(map);
   cluster=L.markerClusterGroup({maxClusterRadius:48,showCoverageOnHover:false});map.addLayer(cluster);mapReady=true}
 function popHtml(r){const tel=(r.p||"").replace(/[^0-9+]/g,"");const hl=highlight(r);const mapq=encodeURIComponent(tr(r.n)+" "+r.g);
@@ -474,20 +507,35 @@ function renderMap(list){initMap();cluster.clearLayers();const ms=[];
     const m=L.marker([r.lat,r.lng],{icon:L.divIcon({className:"",html:`<div class="mk" style="background:${col}"></div>`,iconSize:[16,16],iconAnchor:[8,15],popupAnchor:[0,-14]})});
     m.bindPopup(()=>popHtml(r));ms.push(m)});
   cluster.addLayers(ms);setTimeout(()=>map.invalidateSize(),60);
-  if(ms.length){try{const b=cluster.getBounds();b.isValid()&&map.fitBounds(b.pad(.12),{maxZoom:14})}catch(e){}}}
+  if(ms.length){try{const b=cluster.getBounds();b.isValid()&&map.fitBounds(b.pad(.12),{maxZoom:14})}catch(e){}}
+  else map.setView(REG().c,REG().z)}
 
 function render(){const list=filtered();document.getElementById("count").innerHTML=U().count(list.length);
   if(state.view==="map")renderMap(list);
   else document.getElementById("grid").innerHTML=list.length?list.map(card).join(""):`<div class="empty"><div class="em">🔍</div><p>${U().empty}</p></div>`}
 
 function setToolsH(){document.documentElement.style.setProperty("--toolsH",(document.querySelector(".tools").offsetHeight+document.querySelector(".hero").offsetHeight)+"px")}
-function buildTabs(){document.getElementById("tabs").innerHTML=SEC.map(s=>`<button class="tab${s.k===state.sec?" on":""}" data-s="${s.k}">${s.i} ${secName(s.k)}<span class="tn">${(DB[s.k]||[]).length}</span></button>`).join("")}
+function buildTabs(){const rd=DB[state.region]||{};document.getElementById("tabs").innerHTML=SEC.filter(s=>(rd[s.k]||[]).length).map(s=>`<button class="tab${s.k===state.sec?" on":""}" data-s="${s.k}">${s.i} ${secName(s.k)}<span class="tn">${rd[s.k].length}</span></button>`).join("")}
+function buildRegs(){const el=document.getElementById("regs");el.hidden=REGIONS.length<2;
+  el.innerHTML=REGIONS.map(r=>{const tot=Object.values(DB[r.k]).reduce((a,l)=>a+l.length,0);
+    return `<button class="reg${r.k===state.region?" on":""}" data-r="${r.k}">${r.i} ${regName(r)}<span class="rn">${tot}</span></button>`}).join("")}
+function switchRegion(k){state.region=k;localStorage.setItem("bf_region",k);
+  const rd=DB[k]||{};
+  if(!(rd[state.sec]||[]).length){const f=SEC.find(s=>(rd[s.k]||[]).length);state.sec=f?f.k:"food"}
+  state.cat="전체";state.gu="전체";state.q="";document.getElementById("q").value="";
+  buildRegs();
+  document.getElementById("brand").textContent=brandText();
+  document.getElementById("subtitle").textContent=U().sub(state.sec,rows().length);
+  buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);
+  if(mapReady)try{map.closePopup()}catch(e){}
+  renderDD();render();window.scrollTo({top:0,behavior:"instant"});setToolsH()}
 function applyLang(){const u=U();document.documentElement.lang=state.lang;
-  document.getElementById("brand").textContent=u.brand;
+  document.getElementById("brand").textContent=brandText();
+  buildRegs();
   document.getElementById("subtitle").textContent=u.sub(state.sec,rows().length);
   document.getElementById("q").placeholder=u.search;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
-  document.getElementById("footer").innerHTML=u.foot+" · "+u.src+USRC[state.lang];
+  document.getElementById("footer").innerHTML=u.foot+" · "+u.src+USRC[state.lang]+(REGIONS.length>1?TSRC[state.lang]:"");
   document.getElementById("maphint").innerHTML=u.hint;
   document.getElementById("vLabelTotal").textContent=VIS[state.lang].total;
   document.getElementById("vLabelToday").textContent=VIS[state.lang].today;
@@ -545,9 +593,13 @@ function renderML(){
   tw.classList.toggle("on",mlTab==="w");tv.classList.toggle("on",mlTab==="v");
   const ids=mlTab==="w"?wIds:vIds;
   const h=ids.map(id=>{
-    const e=idx[id],parts=id.split("|");
+    const e=idx[id];
+    let reg=e?e.reg:"busan",rest=id;const at=id.indexOf("@");
+    if(!e&&at>0){reg=id.slice(0,at);rest=id.slice(at+1)}
+    const parts=rest.split("|");
     const name=e?tr(e.r.n):parts[1],sec=e?e.sec:parts[0];
-    const sub=e?[catName(e.r.c),e.r.g?guName(e.r.g):""].filter(Boolean).join(" · "):(parts[2]||"");
+    const rm=REGIONS.find(x=>x.k===reg);
+    const sub=[(REGIONS.length>1&&rm)?regName(rm):"",e?catName(e.r.c):"",e&&e.r.g?guName(e.r.g):(e?"":parts[2]||"")].filter(Boolean).join(" · ");
     const p=store.w[id]||0;
     return `<div class="mitem${e?"":" gone"}" data-mid="${esc(id)}"><span class="mi">${SECICON[sec]||"📍"}</span><div class="mtx"><div class="mn">${esc(name)}</div><div class="ms">${esc(sub)}</div></div>${mlTab==="w"&&p?`<button class="prio" data-act="p" data-id="${esc(id)}" style="background:${PRIO_COL[p]}">⚑ ${mt.p[p]}</button>`:""}<button class="sbtn ${mlTab==="w"?"w":"v"} on" data-act="${mlTab}" data-id="${esc(id)}">${mlTab==="w"?HEART:CHKI}</button></div>`}).join("");
   document.getElementById("mlist").innerHTML=h||`<div class="mempty">${mt.empty}</div>`;
@@ -562,6 +614,7 @@ document.getElementById("mlist").addEventListener("click",e=>{
   const it=e.target.closest(".mitem");if(!it||it.classList.contains("gone"))return;
   const ent=allIdx()[it.dataset.mid];if(!ent)return;
   mlOpen(false);
+  if(state.region!==ent.reg){state.region=ent.reg;localStorage.setItem("bf_region",ent.reg);buildRegs();document.getElementById("brand").textContent=brandText()}
   if(state.sec!==ent.sec)switchSection(ent.sec);
   else{state.cat="전체";state.gu="전체";buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName)}
   state.mine="all";state.q=tr(ent.r.n);document.getElementById("q").value=state.q;
@@ -570,6 +623,7 @@ document.getElementById("mlist").addEventListener("click",e=>{
 document.getElementById("locate").addEventListener("click",()=>{if(state.sort==="def")state.sort="dist";renderDD();locate()});
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
+document.getElementById("regs").addEventListener("click",e=>{const b=e.target.closest(".reg");if(b&&b.dataset.r!==state.region)switchRegion(b.dataset.r)});
 document.getElementById("langs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.lang=b.dataset.l;localStorage.setItem("bf_lang",state.lang);applyLang()});
 const topBtn=document.getElementById("top");addEventListener("scroll",()=>topBtn.classList.toggle("show",state.view==="list"&&scrollY>600),{passive:true});
 topBtn.addEventListener("click",()=>scrollTo({top:0,behavior:"smooth"}));addEventListener("resize",setToolsH);
