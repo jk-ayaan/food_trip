@@ -1,0 +1,189 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "끌리몽드 키즈풀빌라",
+  "district": "울주군",
+  "category": "펜션",
+  "lat": 35.3519918977,
+  "lng": 129.3239660997,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "끌리몽드 키즈풀빌라",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 해맞이로 895-34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다담한옥",
+  "district": "울주군",
+  "category": "한옥스테이",
+  "lat": 35.5883742852,
+  "lng": 129.0598575408,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2994645_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다담한옥",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 거리지곡2길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "루이스호텔",
+  "district": "동구",
+  "category": "모텔",
+  "lat": 35.493064157,
+  "lng": 129.4292363071,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3587946_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "루이스호텔",
+    "desc": "",
+    "address": "울산광역시 동구 해수욕장2길 65 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "머큐어 앰배서더 울산",
+  "district": "북구",
+  "category": "관광호텔",
+  "lat": 35.6263660659,
+  "lng": 129.441087054,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "머큐어 앰배서더 울산",
+    "desc": "",
+    "address": "울산광역시 북구 강동산하2로 7 (산하동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "배내골 걸리버 펜션",
+  "district": "울주군",
+  "category": "펜션",
+  "lat": 35.5333684142,
+  "lng": 129.0087357678,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2576114_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "배내골 걸리버 펜션",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 배내로 1013-27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 (장생포점)",
+  "district": "남구",
+  "category": "관광호텔",
+  "lat": 35.5028009736,
+  "lng": 129.3773294441,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2709169_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 (장생포점)",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 211"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비엔베뉴",
+  "district": "울주군",
+  "category": "게스트하우스",
+  "lat": 35.3871855988,
+  "lng": 129.346702026,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비엔베뉴",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 진하해변길 34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라스테이 울산",
+  "district": "남구",
+  "category": "관광호텔",
+  "lat": 35.5374489506,
+  "lng": 129.3291771106,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2723308_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신라스테이 울산",
+    "desc": "",
+    "address": "울산광역시 남구 삼산로 200 (달동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에스콘디테",
+  "district": "남구",
+  "category": "펜션",
+  "lat": 35.5363019298,
+  "lng": 129.3330295849,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "에스콘디테",
+    "desc": "",
+    "address": "울산광역시 남구 왕생로30번길 4 (달동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여우비관광호텔",
+  "district": "남구",
+  "category": "관광호텔",
+  "lat": 35.539340788,
+  "lng": 129.3495252826,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3579494_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여우비관광호텔",
+    "desc": "",
+    "address": "울산광역시 남구 산업로647번길 14 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "울산 굿모닝 관광호텔",
+  "district": "동구",
+  "category": "관광호텔",
+  "lat": 35.5174531111,
+  "lng": 129.4306299415,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3586853_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 굿모닝 관광호텔",
+    "desc": "",
+    "address": "울산광역시 동구 바드래1길 15"
+   }
+  }
+ }
+]

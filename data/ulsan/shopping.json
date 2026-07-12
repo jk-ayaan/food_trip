@@ -1,0 +1,155 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "덕하시장",
+  "district": "울주군",
+  "category": "상설시장",
+  "lat": 35.491475905,
+  "lng": 129.3060748637,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3549146_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕하시장",
+    "desc": "",
+    "address": "울산광역시 울주군 청량읍 상남리 578"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신정 평화시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.5383733648,
+  "lng": 129.3035654303,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3073172_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신정 평화시장",
+    "desc": "",
+    "address": "울산광역시 남구 봉월로67번길 17"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "언양알프스시장",
+  "district": "울주군",
+  "category": "5일장",
+  "lat": 35.5637421696,
+  "lng": 129.1253163948,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3549510_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "언양알프스시장",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 장터1길 12-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "울산 수암시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.5270166321,
+  "lng": 129.3207948028,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3581939_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 수암시장",
+    "desc": "",
+    "address": "울산광역시 남구 수암로128번길 12 (야음동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "울산업스퀘어",
+  "district": "남구",
+  "category": "전문매장",
+  "lat": 35.5413875802,
+  "lng": 129.3389289269,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2844754_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산업스퀘어",
+    "desc": "",
+    "address": "울산광역시 남구 화합로 185 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "일산수산물판매센터",
+  "district": "동구",
+  "category": "전문매장",
+  "lat": 35.5000718136,
+  "lng": 129.4350800443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3549073_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "일산수산물판매센터",
+    "desc": "",
+    "address": "울산광역시 동구 일산진11길 150"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "장생포고래박물관",
+  "district": "남구",
+  "category": "특산물판매점",
+  "lat": 35.5032009945,
+  "lng": 129.3808374607,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3454245_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장생포고래박물관",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 244"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "학성새벽시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.5564941039,
+  "lng": 129.333009573,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3581986_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학성새벽시장",
+    "desc": "",
+    "address": "울산광역시 중구 새벽시장3길 20 (학성동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "호계장·호계공설시장 (1,6일)",
+  "district": "북구",
+  "category": "5일장",
+  "lat": 35.6236925313,
+  "lng": 129.3558029063,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3048898_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호계장·호계공설시장 (1,6일)",
+    "desc": "",
+    "address": "울산광역시 북구 호계3길 17-11"
+   }
+  }
+ }
+]

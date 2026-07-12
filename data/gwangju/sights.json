@@ -1,0 +1,1685 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "경암근린공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.1783221177,
+  "lng": 126.8000977994,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3528384_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경암근린공원",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 하남대로54번안길 133 (하남동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "관덕정의 각궁",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1419253355,
+  "lng": 126.9118638245,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3350246_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "관덕정의 각궁",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 사직길 49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 경찰충혼탑",
+  "district": "전남광주통합특별시",
+  "category": "기념탑·기념비",
+  "lat": 35.142541996,
+  "lng": 126.9155968119,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3366737_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 경찰충혼탑",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 사직길 49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 송정동 떡갈비 골목",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.1397152706,
+  "lng": 126.7943076079,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3367489_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 송정동 떡갈비 골목",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 광산로29번길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 수완호수공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.1879824765,
+  "lng": 126.8202596628,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2822565_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 수완호수공원",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 장신로82번길 57 공원관리사무소"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 충효동 왕버들 군",
+  "district": "전남광주통합특별시",
+  "category": "관광자원",
+  "lat": 35.1848719954,
+  "lng": 127.0009520932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3350350_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 충효동 왕버들 군",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 충효샘길 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 평촌마을",
+  "district": "전남광주통합특별시",
+  "category": "농어촌체험",
+  "lat": 35.1756287576,
+  "lng": 127.0105542557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3367188_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 평촌마을",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 평촌길 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주폴리",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.1826203741,
+  "lng": 126.890259159,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3367394_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주폴리",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 비엔날레로 111"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주호",
+  "district": "전남광주통합특별시",
+  "category": "호수",
+  "lat": 35.1840804198,
+  "lng": 127.0010882121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3368304_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주호",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 충효샘길 7 (충효동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립 5·18 민주묘지",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2325767086,
+  "lng": 126.9415422558,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/1587681_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국립 5·18 민주묘지",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 민주로 200 (운정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금남로",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.1538517467,
+  "lng": 126.9106747413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3459973_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금남로",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 금남로 일대"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "너릿재공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.0803774303,
+  "lng": 126.9535616807,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3366810_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "너릿재공원",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 남문로 48-8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "녹색에너지체험관 (광주전남지역본부)",
+  "district": "전남광주통합특별시",
+  "category": "기타 산업관광지",
+  "lat": 35.2274311559,
+  "lng": 126.8416345612,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3040988_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "녹색에너지체험관 (광주전남지역본부)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 첨단과기로 123"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "덕산너덜 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "자연생태관광지",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2917917_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕산너덜 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도림사(광주)",
+  "district": "전남광주통합특별시",
+  "category": "사찰",
+  "lat": 35.1666995405,
+  "lng": 126.7007374404,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3366540_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도림사(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 도림하길 33"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동리단길 카페거리",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.1492525371,
+  "lng": 126.9267289927,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3337270_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동리단길 카페거리",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 동명동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "두남제",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2437804781,
+  "lng": 126.7462953738,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3366471_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두남제",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 광산동 277"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "뜻모아센터",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.1892060356,
+  "lng": 126.9076407902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3353753_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뜻모아센터",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 서하로245번길 42 (오치동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무등산 리프트모노레일",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.1487918186,
+  "lng": 126.9468577811,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "무등산 리프트모노레일",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 지호로164번길 14-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무등산 정상3봉 (무등산 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "산",
+  "lat": 35.1442791515,
+  "lng": 126.9888819591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2614778_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "무등산 정상3봉 (무등산 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550 (금곡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무등산 주상절리대",
+  "district": "전남광주통합특별시",
+  "category": "관광자원",
+  "lat": 35.1202403693,
+  "lng": 126.9990150009,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3029123_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무등산 주상절리대",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 용연동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무양서원",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2099969896,
+  "lng": 126.8401045774,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3033521_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무양서원",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 산월로21번길 26"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백마능선 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "산",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2614814_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "백마능선 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부용정",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.0697627681,
+  "lng": 126.8366333845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3367718_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부용정",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 칠석동 129"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산동교친수공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.1897079853,
+  "lng": 126.8619975926,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3528420_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산동교친수공원",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 동림동 130-15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼거동 고인돌",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1522951414,
+  "lng": 126.6725736251,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3530000_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼거동 고인돌",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 삼거동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "상무시민공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.1537505721,
+  "lng": 126.8403948478,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3367442_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상무시민공원",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 상무공원로 101"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "새인봉 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "산",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2614817_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "새인봉 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서석대 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "관광자원",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2614821_image2_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "서석대 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선교기념비",
+  "district": "전남광주통합특별시",
+  "category": "기념탑·기념비",
+  "lat": 35.1396061822,
+  "lng": 126.9135887299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3344449_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선교기념비",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 제중로 56 (양림동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소잉(에이핸즈협동조합)",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.2077143361,
+  "lng": 126.8650829796,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3353808_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소잉(에이핸즈협동조합)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 첨단연신로108번길 31-15 (신용동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "시리단길",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.2164158666,
+  "lng": 126.8494896971,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2951513_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시리단길",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 임방울대로826번길 19-20 (쌍암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "시무지기 폭포 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "폭포",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3350476_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시무지기 폭포 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신광사(광주)",
+  "district": "전남광주통합특별시",
+  "category": "사찰",
+  "lat": 35.168922767,
+  "lng": 126.9402606368,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3367697_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신광사(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 삼정로66번길 42-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신선대와 억새평전 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "자연생태관광지",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2614830_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "신선대와 억새평전 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "쌍암공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.2234149822,
+  "lng": 126.8439400132,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3366478_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쌍암공원",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 첨단중앙로182번길 23 (쌍암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "약사암(광주)",
+  "district": "전남광주통합특별시",
+  "category": "사찰",
+  "lat": 35.1223174593,
+  "lng": 126.9722478684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3510767_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "약사암(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 증심사길160번길 89"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "양과동정",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.0866390922,
+  "lng": 126.8634139313,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3454552_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "양과동정",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 양과동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "양림동 펭귄마을공예거리",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.1402200475,
+  "lng": 126.9162912532,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3351460_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양림동 펭귄마을공예거리",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 백서로 92-8 (양림동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영사재",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1946380905,
+  "lng": 126.7032198592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3366527_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영사재",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 명곡길 170-30"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영산강 자전거길",
+  "district": "전남광주통합특별시",
+  "category": "자연생태관광지",
+  "lat": 35.1384632138,
+  "lng": 126.8287545923,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3368223_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영산강 자전거길",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 서창둑길 377"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영산강문화관",
+  "district": "전남광주통합특별시",
+  "category": "기타 산업관광지",
+  "lat": 35.0659535982,
+  "lng": 126.7611568167,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3032248_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영산강문화관",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 승촌보길 90"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오남제",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2150813011,
+  "lng": 126.7674081089,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3366558_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오남제",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 임곡용동길 166"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "왕동저수지",
+  "district": "전남광주통합특별시",
+  "category": "강",
+  "lat": 35.1950132321,
+  "lng": 126.7142160986,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3367363_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕동저수지",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 본량동서로 259"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "운림동 미술관거리",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.1342185802,
+  "lng": 126.953699209,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3366781_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운림동 미술관거리",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 증심사길 9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "운암서원(광주)",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1532028131,
+  "lng": 126.9693640149,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3367204_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운암서원(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1040"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "운천사마애여래좌상",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1418410394,
+  "lng": 126.8542355879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3367228_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운천사마애여래좌상",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 금호운천길 85-15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "운천저수지",
+  "district": "전남광주통합특별시",
+  "category": "강",
+  "lat": 35.1471654718,
+  "lng": 126.8562352777,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3367313_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운천저수지",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 운천로 165"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원각사(광주)",
+  "district": "전남광주통합특별시",
+  "category": "사찰",
+  "lat": 35.1508243988,
+  "lng": 126.915907688,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3029155_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원각사(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 중앙로 197"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원효사(광주)",
+  "district": "전남광주통합특별시",
+  "category": "사찰",
+  "lat": 35.1486258304,
+  "lng": 126.9857793462,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3028444_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원효사(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1514-35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월계동장고분",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2136021794,
+  "lng": 126.8425514931,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3528399_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월계동장고분",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 월계로 155 (월계동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월봉서원·빙월당",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2358674659,
+  "lng": 126.7452012233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3510731_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월봉서원·빙월당",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 광곡길 133"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유애서원",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1844548426,
+  "lng": 126.8051527542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3576610_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유애서원",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 용아로 460 (흑석동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유한회사더담희",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.2191965932,
+  "lng": 126.8781870875,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유한회사더담희",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 용두마을길 6 (본촌동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "의상봉 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "산",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2614844_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "의상봉 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이장우가옥",
+  "district": "전남광주통합특별시",
+  "category": "고택",
+  "lat": 35.1406171882,
+  "lng": 126.9141331006,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3368360_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이장우가옥",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 양촌길 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "입석대 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "관광자원",
+  "lat": 35.1172379909,
+  "lng": 127.0026147583,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2614847_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "입석대 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 이서면 영평리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장불재 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "자연생태관광지",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2614853_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "장불재 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정엄정려비",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1408366225,
+  "lng": 126.9149969077,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3367421_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정엄정려비",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 서서평길 24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제봉산 마법의 숲 체험원",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.0924380522,
+  "lng": 126.8405130327,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3576622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제봉산 마법의 숲 체험원",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 압촌동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "조선대학교 장미원",
+  "district": "전남광주통합특별시",
+  "category": "테마공원",
+  "lat": 35.1412534704,
+  "lng": 126.9285012591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3368240_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조선대학교 장미원",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 조선대4길 2 (서석동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "증심사 계곡 안산암질용암",
+  "district": "전남광주통합특별시",
+  "category": "관광자원",
+  "lat": 35.1332076931,
+  "lng": 126.9602458781,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2614859_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "증심사 계곡 안산암질용암",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 증심사길 71"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "증심사(광주)",
+  "district": "전남광주통합특별시",
+  "category": "사찰",
+  "lat": 35.1287583574,
+  "lng": 126.9697618157,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3368268_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "증심사(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 증심사길 177"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "지공너덜 (무등산권 국가지질공원)",
+  "district": "전남광주통합특별시",
+  "category": "자연생태관광지",
+  "lat": 35.1441458348,
+  "lng": 126.9890013959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2614864_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "지공너덜 (무등산권 국가지질공원)",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "지산재",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.0817175985,
+  "lng": 126.8736825915,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3367778_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지산재",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 지산재길 51"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "창작농성골",
+  "district": "전남광주통합특별시",
+  "category": "농어촌체험",
+  "lat": 35.1532764973,
+  "lng": 126.892068068,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3032306_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "창작농성골",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 농성동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "청풍쉼터",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.1619794786,
+  "lng": 126.9622283138,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3367215_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍쉼터",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1550"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "충민사",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1519696177,
+  "lng": 126.9692640546,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3367576_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "충민사",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 무등로 1050"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "충장로",
+  "district": "전남광주통합특별시",
+  "category": "이색거리",
+  "lat": 35.1465610212,
+  "lng": 126.9176493076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3351399_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "충장로",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 서석로 37 (충장로1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "취병조형유허비",
+  "district": "전남광주통합특별시",
+  "category": "기념탑·기념비",
+  "lat": 35.2208120504,
+  "lng": 126.8173729858,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3528403_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "취병조형유허비",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 비아안길 19"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "칠송정",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.2369950633,
+  "lng": 126.7420486971,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3530034_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "칠송정",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 광곡길 73"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "컬러브릿지협동조합",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.1411366209,
+  "lng": 126.9169078423,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "컬러브릿지협동조합",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 백서로 101-2 (양림동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "푸른길분수공원",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.153621491,
+  "lng": 126.9268760931,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3528409_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "푸른길분수공원",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 동명로67번길 22-44"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "푸른마을공동체센터",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.1530215418,
+  "lng": 126.9258956386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3548038_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "푸른마을공동체센터",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 동명로67번길 29 (산수동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "풍암호수",
+  "district": "전남광주통합특별시",
+  "category": "호수",
+  "lat": 35.1276401393,
+  "lng": 126.8705150584,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3367472_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍암호수",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 풍암동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "필문 이선제부조묘",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.0928769754,
+  "lng": 126.8454986925,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3366767_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "필문 이선제부조묘",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 구만산길 34"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "학산사",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1091722542,
+  "lng": 126.8393154996,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3367299_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학산사",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 불암길 82-100"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "환벽당",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1857719297,
+  "lng": 127.003104658,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3028480_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "환벽당",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 환벽당길 10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "환벽당 ·조대",
+  "district": "전남광주통합특별시",
+  "category": "유적지",
+  "lat": 35.1855608382,
+  "lng": 127.0028269101,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3350747_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "환벽당 ·조대",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 환벽당길 10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "효천물빛노닐터",
+  "district": "전남광주통합특별시",
+  "category": "공원",
+  "lat": 35.1037955152,
+  "lng": 126.8649522567,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3029374_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효천물빛노닐터",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 효천로 140 (임암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "Yun Marbling",
+  "district": "전남광주통합특별시",
+  "category": "이색체험",
+  "lat": 35.1576532469,
+  "lng": 126.8604235345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2996391_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "Yun Marbling",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 상무오월로3번길 24-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고싸움놀이전수교육관",
+  "district": "전남광주통합특별시",
+  "category": "문화전수시설",
+  "lat": 35.0697294541,
+  "lng": 126.837538861,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3367587_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고싸움놀이전수교육관",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 고싸움로 2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광산문화원",
+  "district": "전남광주통합특별시",
+  "category": "문화원",
+  "lat": 35.1424455318,
+  "lng": 126.7951296891,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3366502_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광산문화원",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 상무대로 265"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 동구문화원",
+  "district": "전남광주통합특별시",
+  "category": "문화원",
+  "lat": 35.150118962,
+  "lng": 126.9181741721,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3367381_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 동구문화원",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 예술길 18-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 북구문화원",
+  "district": "전남광주통합특별시",
+  "category": "문화원",
+  "lat": 35.1728940911,
+  "lng": 126.9136656663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3421301_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 북구문화원",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 향토문화로 65 (중흥동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 송정다가치문화도서관",
+  "district": "전남광주통합특별시",
+  "category": "도서관",
+  "lat": 35.1449147758,
+  "lng": 126.7998069918,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/1587327_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 송정다가치문화도서관",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 송정공원로 8-13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주 전통문화관",
+  "district": "전남광주통합특별시",
+  "category": "전시관",
+  "lat": 35.1336797291,
+  "lng": 126.9523771168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2733546_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주 전통문화관",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 의재로 222"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주광역시 서구문화원",
+  "district": "전남광주통합특별시",
+  "category": "문화원",
+  "lat": 35.1318478187,
+  "lng": 126.8599131134,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3367251_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주광역시 서구문화원",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 풍금로 182"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주비엔날레전시관",
+  "district": "전남광주통합특별시",
+  "category": "전시관",
+  "lat": 35.1826203741,
+  "lng": 126.890259159,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3351379_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주비엔날레전시관",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 비엔날레로 111"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주시립미술관",
+  "district": "전남광주통합특별시",
+  "category": "미술관·화랑",
+  "lat": 35.1832174547,
+  "lng": 126.8858428681,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3368411_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주시립미술관",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 하서로 52"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주야외음악당",
+  "district": "전남광주통합특별시",
+  "category": "공연장",
+  "lat": 35.160019493,
+  "lng": 126.8513576102,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3367264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주야외음악당",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 내방로 111"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광주자동차극장",
+  "district": "전남광주통합특별시",
+  "category": "영화관",
+  "lat": 35.2206801686,
+  "lng": 126.9024237945,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "광주자동차극장",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 우치로 649 (생용동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립아시아문화전당",
+  "district": "전남광주통합특별시",
+  "category": "전시관",
+  "lat": 35.1460861028,
+  "lng": 126.9192936186,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3083359_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국립아시아문화전당",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 문화전당로 38 (광산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금호평생교육관",
+  "district": "전남광주통합특별시",
+  "category": "도서관",
+  "lat": 35.1450970088,
+  "lng": 126.9005647433,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3366693_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금호평생교육관",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 중앙로 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "빛고을시민문화관",
+  "district": "전남광주통합특별시",
+  "category": "공연장",
+  "lat": 35.1479301594,
+  "lng": 126.9086750662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3366705_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빛고을시민문화관",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 천변좌로338번길 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수피아여자중고등학교",
+  "district": "전남광주통합특별시",
+  "category": "학교",
+  "lat": 35.1368703131,
+  "lng": 126.9096335919,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3366679_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수피아여자중고등학교",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 백서로 13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우제길미술관",
+  "district": "전남광주통합특별시",
+  "category": "미술관·화랑",
+  "lat": 35.1317742306,
+  "lng": 126.9430502112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3510753_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우제길미술관",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 의재로 140-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "호랑가시나무 아트폴리곤",
+  "district": "전남광주통합특별시",
+  "category": "미술관·화랑",
+  "lat": 35.1380591062,
+  "lng": 126.9119083618,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2953077_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "호랑가시나무 아트폴리곤",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 제중로47번길 22 (양림동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "5·18민주화운동 기록관",
+  "district": "전남광주통합특별시",
+  "category": "기념관",
+  "lat": 35.1496023298,
+  "lng": 126.9167687536,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3532032_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "5·18민주화운동 기록관",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 금남로 221 (금남로3가)"
+   }
+  }
+ }
+]

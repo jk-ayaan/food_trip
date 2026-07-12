@@ -1,0 +1,6938 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "가마오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3057279944,
+  "lng": 126.2466098987,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3477972_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가마오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 청수리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "가문이오름(감은이오름)",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.4018299117,
+  "lng": 126.6876111209,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3477392_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가문이오름(감은이오름)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "가새기오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4893700755,
+  "lng": 126.5038611983,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3477882_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가새기오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오라삼동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "가세오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3931758821,
+  "lng": 126.7231832338,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3477261_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가세오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 녹산로 554"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "가시리국산화풍력발전단지",
+  "district": "서귀포시",
+  "category": "발전소",
+  "lat": 33.3939370848,
+  "lng": 126.7341100468,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3026692_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가시리국산화풍력발전단지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 녹산로 464-78"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "가시오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2236315617,
+  "lng": 126.2500169782,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3477513_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가시오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 하모이삼로21번길 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "각시바위오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2777271543,
+  "lng": 126.5259918298,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3477364_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "각시바위오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 호근동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "갈마못(갈뫼못)",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.3873529469,
+  "lng": 126.8116979172,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3477231_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갈마못(갈뫼못)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "감낭오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3250274801,
+  "lng": 126.3497088457,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3477406_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "감낭오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 동광리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "갑선이오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3608276172,
+  "lng": 126.7818122232,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3523545_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갑선이오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강정포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2271624839,
+  "lng": 126.4750196034,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3552095_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강정포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 말질로 291"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "개오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.423862104,
+  "lng": 126.7682286281,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3526894_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "개오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍이리로57번길 162"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "개오리오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4262287923,
+  "lng": 126.6125115262,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3478047_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "개오리오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 봉개동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "갯거리오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3101086116,
+  "lng": 126.4578470138,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3585200_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갯거리오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대포동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "거린사슴",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3073171985,
+  "lng": 126.4543696003,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3477397_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거린사슴",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 1100로 823"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "거슨새미오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4521283086,
+  "lng": 126.7610119406,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3477804_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거슨새미오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고근산",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2668281661,
+  "lng": 126.5139125656,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3477254_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고근산",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서호동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고내포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.4670588041,
+  "lng": 126.3379150223,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3589219_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고내포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내리 1111-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고산일과해안도로",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.256424536,
+  "lng": 126.2099419548,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3551727_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고산일과해안도로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 영락하동로 9-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고스트타운",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4763969581,
+  "lng": 126.3568659412,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3396881_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고스트타운",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 부룡수길 35-14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "곽지해수욕장",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.4485353054,
+  "lng": 126.3031045774,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3053130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곽지해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 곽지리 1565"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "관음사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4237615317,
+  "lng": 126.5581440803,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3384664_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "관음사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 산록북로 660"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광명사(제주)",
+  "district": "서귀포시",
+  "category": "사찰",
+  "lat": 33.249045297,
+  "lng": 126.4190406356,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3477436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광명사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문상로17번길 51"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광치기해변",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.4515393485,
+  "lng": 126.9246505478,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3400775_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광치기해변",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 고성리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "괴오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.356088341,
+  "lng": 126.3754586925,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3585540_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "괴오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 봉성리 산41"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "교래 삼다수마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4315819724,
+  "lng": 126.6746449016,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3586318_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "교래 삼다수마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 교래3길 98"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구두리오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.4124065362,
+  "lng": 126.6885413552,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3585175_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구두리오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구두미포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2368272299,
+  "lng": 126.5965116372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3550576_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구두미포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 보목동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구시물",
+  "district": "제주시",
+  "category": "약수터",
+  "lat": 33.456530549,
+  "lng": 126.4097117919,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3403406_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구시물",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 상귀리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구엄리 돌염전",
+  "district": "제주시",
+  "category": "강",
+  "lat": 33.4789303956,
+  "lng": 126.3812109878,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3555529_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구엄리 돌염전",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 구엄리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구엄어촌체험마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4839964391,
+  "lng": 126.3772556628,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3384779_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구엄어촌체험마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 713"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구엄포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.4843297214,
+  "lng": 126.376411284,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3553813_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구엄포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 구엄리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "궷물오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3971037558,
+  "lng": 126.4075105427,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3531515_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "궷물오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 유수암리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "귤림서원",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5060574951,
+  "lng": 126.5276032002,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3477852_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "귤림서원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 이도일동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "귤향기 감귤체험농장",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4649252707,
+  "lng": 126.4857633249,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "귤향기 감귤체험농장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 3118"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금능석물원",
+  "district": "제주시",
+  "category": "수목원",
+  "lat": 33.3854910837,
+  "lng": 126.2267487402,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3053373_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금능석물원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 176"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금능포구",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.3902295795,
+  "lng": 126.2351090186,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2947286_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금능포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금룡사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.5539724801,
+  "lng": 126.7536019143,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3408135_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금룡사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 김녕로 148-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3555289743,
+  "lng": 126.3059091921,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3352435_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금악리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금호리조트 제주",
+  "district": "서귀포시",
+  "category": "관광단지",
+  "lat": 33.2740331563,
+  "lng": 126.703084902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3024967_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금호리조트 제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 522-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금호리조트 제주아쿠아나",
+  "district": "서귀포시",
+  "category": "테마공원",
+  "lat": 33.2737526275,
+  "lng": 126.7028238197,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3024967_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금호리조트 제주아쿠아나",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 522-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김녕미로공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.5363247299,
+  "lng": 126.7720396084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3556269_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김녕미로공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 만장굴길 122"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김녕항",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.5580773628,
+  "lng": 126.7400446641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3555158_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김녕항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 김녕항1길 50-13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "나바론하늘길",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.9612503055,
+  "lng": 126.2866221544,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2863868_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "나바론하늘길",
+    "desc": "",
+    "address": "제주특별자치도 제주시 추자면 대서리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "낙천아홉굿마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.3278474553,
+  "lng": 126.226422273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3553876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낙천아홉굿마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 낙수로 97"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "낙타트레킹",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.4026812788,
+  "lng": 126.7786837609,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3551827_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낙타트레킹",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 번영로 2564-21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남원 큰엉해안",
+  "district": "서귀포시",
+  "category": "해안",
+  "lat": 33.2733776834,
+  "lng": 126.7037237502,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3550525_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남원 큰엉해안",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 522-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "넥슨컴퓨터박물관",
+  "district": "제주시",
+  "category": "산업관광지",
+  "lat": 33.4721633588,
+  "lng": 126.4857714937,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2721573_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "넥슨컴퓨터박물관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 3198-8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "노리매공원",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.2825728584,
+  "lng": 126.2873513183,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3390386_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노리매공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 중산간서로 2260-15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "노을해안로",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.2563744294,
+  "lng": 126.2027620245,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3552564_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노을해안로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 영락리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "녹산로 유채꽃도로",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.3532755098,
+  "lng": 126.771635499,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3588469_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "녹산로 유채꽃도로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시로565번길 20"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "논짓물",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.2365767524,
+  "lng": 126.3887657618,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3550644_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "논짓물",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 예래해안로 256 (하예동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "높은오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4573282459,
+  "lng": 126.7928118419,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3527004_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "높은오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "느지리오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3629135599,
+  "lng": 126.2607962828,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3585556_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "느지리오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 봉수대길 5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "다려도",
+  "district": "제주시",
+  "category": "섬",
+  "lat": 33.5572322923,
+  "lng": 126.6953319009,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3565199_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다려도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 북촌리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "다이나믹 메이즈 제주",
+  "district": "서귀포시",
+  "category": "테마공원",
+  "lat": 33.3990984383,
+  "lng": 126.784749984,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3390006_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다이나믹 메이즈 제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 번영로 2644"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "다희연",
+  "district": "제주시",
+  "category": "기타 산업관광지",
+  "lat": 33.4789799258,
+  "lng": 126.700663785,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3411202_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다희연",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 266-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "답다니탑망대",
+  "district": "제주시",
+  "category": "유명건물",
+  "lat": 33.5249205816,
+  "lng": 126.9526464263,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3411179_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "답다니탑망대",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 연평리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "당산봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3078071658,
+  "lng": 126.1727968238,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3477884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당산봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 고산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "당케포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.3247853896,
+  "lng": 126.8451186744,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3389992_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당케포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 민속해안로 566-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대평포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2365152273,
+  "lng": 126.3620208614,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3551164_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대평포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 창천리 914-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대포주상절리",
+  "district": "서귀포시",
+  "category": "해안",
+  "lat": 33.2389326421,
+  "lng": 126.4264985478,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3535261_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대포주상절리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 36-24 (중문동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대포포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2377274199,
+  "lng": 126.4392113608,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3550926_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대포포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대포동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대포해안",
+  "district": "서귀포시",
+  "category": "해안",
+  "lat": 33.2380216246,
+  "lng": 126.4260597168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3550955_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대포해안",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 36-30"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도너리오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3243994944,
+  "lng": 126.332088168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3477170_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도너리오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 한창로 775"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도두봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.5067925638,
+  "lng": 126.4672362102,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3523614_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도두봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도두항길 4-17 (도두일동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도두항",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.5061675974,
+  "lng": 126.4650003076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3553941_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도두항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도공로 2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도리미오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4315668324,
+  "lng": 126.7697172117,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3585580_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도리미오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도치돌 알파카목장",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4097517134,
+  "lng": 126.366772133,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3555308_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도치돌 알파카목장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 도치돌길 303"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도치돌목장",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4097517134,
+  "lng": 126.366772133,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도치돌목장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 도치돌길 303"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "돈내코 원앙폭포",
+  "district": "서귀포시",
+  "category": "계곡",
+  "lat": 33.3005255267,
+  "lng": 126.5820170154,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3589084_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돈내코 원앙폭포",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 돈내코로 137"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "돌하르방미술관",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.5396035971,
+  "lng": 126.6896605755,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3077599_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돌하르방미술관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 북촌서1길 70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동광리농촌체험마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.3076403586,
+  "lng": 126.3399267501,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3024315_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동광리농촌체험마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 동광로 126"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동백포레스트",
+  "district": "서귀포시",
+  "category": "수목원",
+  "lat": 33.300348631,
+  "lng": 126.6362150996,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동백포레스트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 생기악로 53-38"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동일리포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.225489535,
+  "lng": 126.2401122413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3552201_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동일리포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 동일하모로98번길 14-32"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "두맹이골목",
+  "district": "제주시",
+  "category": "이색거리",
+  "lat": 33.5120458378,
+  "lng": 126.5349218725,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3384820_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두맹이골목",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동문로16길 17-4 (일도이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "둔지봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.5012456847,
+  "lng": 126.7973021108,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3527439_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "둔지봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 한동리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "뒤굽은이오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.479730911,
+  "lng": 126.767113557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3526922_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뒤굽은이오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "따라비 오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3859437827,
+  "lng": 126.750331045,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3535905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "따라비 오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "루나폴",
+  "district": "서귀포시",
+  "category": "테마공원",
+  "lat": 33.2514073999,
+  "lng": 126.3219962251,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3423685_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "루나폴",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 1836"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마라도",
+  "district": "서귀포시",
+  "category": "섬",
+  "lat": 33.1186461893,
+  "lng": 126.2671011468,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3516583_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마라도",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 마라로101번길 46"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마라도 가파도 정기여객선",
+  "district": "서귀포시",
+  "category": "유람선",
+  "lat": 33.210094298,
+  "lng": 126.2583887734,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3552479_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마라도 가파도 정기여객선",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 최남단해안로 120"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마라도 등대",
+  "district": "서귀포시",
+  "category": "등대",
+  "lat": 33.1170102919,
+  "lng": 126.2692287758,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3400790_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마라도 등대",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 마라로 (165, 마라도항로표지관리소)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마라도가는여객선",
+  "district": "서귀포시",
+  "category": "유람선",
+  "lat": 33.2074256509,
+  "lng": 126.2905304868,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3405582_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마라도가는여객선",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 송악관광로 424"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "맥파이 브루어리",
+  "district": "제주시",
+  "category": "식음료",
+  "lat": 33.5031897997,
+  "lng": 126.6172288105,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3396588_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "맥파이 브루어리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동회천1길 23"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "명월대",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.3890302004,
+  "lng": 126.2662091182,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3477863_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명월대",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 명월리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "모구리오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.4081287094,
+  "lng": 126.8290126084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3477496_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모구리오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 난산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "모지오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3962624499,
+  "lng": 126.7728760781,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3477483_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모지오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "모충사",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5161427755,
+  "lng": 126.5455208585,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3555224_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모충사",
+    "desc": "",
+    "address": "제주특별자치도 제주시 건입동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무수천",
+  "district": "제주시",
+  "category": "계곡",
+  "lat": 33.4627665614,
+  "lng": 126.4470472947,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3384742_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무수천",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 무수천길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "물드리네",
+  "district": "제주시",
+  "category": "전통체험",
+  "lat": 33.3227424721,
+  "lng": 126.2269445635,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3556215_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물드리네",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 낙산로 4-28"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "물뫼힐링팜",
+  "district": "제주시",
+  "category": "이색체험",
+  "lat": 33.4642655959,
+  "lng": 126.3965683162,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3553545_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물뫼힐링팜",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 예원로 51"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "물영아리오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3268525509,
+  "lng": 126.716996389,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3552664_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물영아리오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태수로 552"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "미깡창고",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4605140048,
+  "lng": 126.4452558345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3037389_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미깡창고",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 중산간서로 6710-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "미악산",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3005945221,
+  "lng": 126.5542194241,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3585154_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미악산",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 인정오름로 387-63"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "미천굴",
+  "district": "서귀포시",
+  "category": "동굴",
+  "lat": 33.3833177616,
+  "lng": 126.8415509789,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3401661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미천굴",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 중산간동로 4150-30"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "바늘오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4537041957,
+  "lng": 126.6540100777,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3477944_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바늘오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 교래리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "바리메오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3930648051,
+  "lng": 126.3752995443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3523666_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바리메오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 어음리 산1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "발자국화석공원",
+  "district": "서귀포시",
+  "category": "관광자원",
+  "lat": 33.2173857035,
+  "lng": 126.2931467063,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3024681_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "발자국화석공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 형제해안로 192"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "방사탑(제주)",
+  "district": "제주시",
+  "category": "기념탑·기념비",
+  "lat": 33.54749654,
+  "lng": 126.650530461,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3384840_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방사탑(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신흥로1길 25"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "방선문",
+  "district": "제주시",
+  "category": "계곡",
+  "lat": 33.4542936092,
+  "lng": 126.5169053039,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/1802002_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방선문",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오라이동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "방주교회",
+  "district": "서귀포시",
+  "category": "종교성지",
+  "lat": 33.3051886051,
+  "lng": 126.3877920933,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3400771_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방주교회",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 산록남로762번길 113"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백제사",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4488149673,
+  "lng": 126.4243079199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3477831_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백제사",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 광령남6길 54"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "법화사",
+  "district": "서귀포시",
+  "category": "사찰",
+  "lat": 33.2652385684,
+  "lng": 126.4580035612,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3384572_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "법화사",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 하원북로35번길 15-28 법화사"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "법환포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2372286829,
+  "lng": 126.515710296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3550911_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "법환포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 법환동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "베릿네오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2474788502,
+  "lng": 126.4220098576,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3552607_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베릿네오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문동 2314-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "벵가스테이",
+  "district": "서귀포시",
+  "category": "관광단지",
+  "lat": 33.4594882342,
+  "lng": 126.9100849593,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3477459_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "벵가스테이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일주동로4120번길 23-20"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "별도봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.5192286663,
+  "lng": 126.5531117946,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3527105_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별도봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 화북일동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "별방진",
+  "district": "제주시",
+  "category": "성",
+  "lat": 33.5262082208,
+  "lng": 126.8843912035,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3100106_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별방진",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 하도리 3354"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "보덕사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4917036061,
+  "lng": 126.5324919902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3407066_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보덕사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 독짓골8길 26"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "보림사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.5175093027,
+  "lng": 126.5462929822,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3477912_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보림사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사라봉동길 61"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "보목포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2392465705,
+  "lng": 126.606774583,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3550692_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보목포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 보목포로 46 (보목동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "복신미륵",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5155645816,
+  "lng": 126.5154401529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3555142_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복신미륵",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동한두기길 7-6 (용담일동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "북촌리 4·3길",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.546052868,
+  "lng": 126.6886966222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3069280_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북촌리 4·3길",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 북촌3길 3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "불탑사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.5291588377,
+  "lng": 126.5978743444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3053877_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "불탑사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 원당로16길 41"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "붉은오름자연휴양림",
+  "district": "서귀포시",
+  "category": "자연휴양림",
+  "lat": 33.3952748674,
+  "lng": 126.6742707606,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3023770_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "붉은오름자연휴양림",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 남조로 1487-73"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비밀의 숲",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4537780343,
+  "lng": 126.7552818445,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3354187_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비밀의 숲",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리 2173"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비양도",
+  "district": "제주시",
+  "category": "섬",
+  "lat": 33.4096328399,
+  "lng": 126.2257094042,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3556298_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비양도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비양봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4085746459,
+  "lng": 126.2271120833,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3585371_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비양봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비체올린",
+  "district": "제주시",
+  "category": "이색체험",
+  "lat": 33.3494560488,
+  "lng": 126.2182391712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3554826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비체올린",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 판조로 253-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사계해변",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.2282014158,
+  "lng": 126.3084395842,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3421436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사계해변",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사라봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.5176259547,
+  "lng": 126.5461513246,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3053499_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사라봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사라봉동길 61"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사라봉(모충사) 의병항쟁기념탑",
+  "district": "제주시",
+  "category": "기념탑·기념비",
+  "lat": 33.5161733522,
+  "lng": 126.5470457247,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3400689_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사라봉(모충사) 의병항쟁기념탑",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사라봉길 75"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사라봉공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.5160372422,
+  "lng": 126.5462013564,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3026884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사라봉공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사라봉길 75 (건입동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사라오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3642521899,
+  "lng": 126.6050441353,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3523460_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사라오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 신례리 산 2-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사수항",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.5096313338,
+  "lng": 126.4795239664,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3553747_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사수항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 319 (도두이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산굼부리",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4323127375,
+  "lng": 126.6928183084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3354255_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산굼부리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 비자림로 768"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산방굴사(제주)",
+  "district": "서귀포시",
+  "category": "사찰",
+  "lat": 33.2372560486,
+  "lng": 126.3133472902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3384460_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산방굴사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 산방로 218-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산방산 유람선",
+  "district": "서귀포시",
+  "category": "유람선",
+  "lat": 33.2370675236,
+  "lng": 126.3352176189,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3552058_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산방산 유람선",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순해안로106번길 16"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산양큰엉곶",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.29072971,
+  "lng": 126.2503099104,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산양큰엉곶",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 청수리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산지 등대",
+  "district": "제주시",
+  "category": "등대",
+  "lat": 33.5209144715,
+  "lng": 126.5456624039,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3384639_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산지 등대",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사라봉동길 108-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "산천단곰솔",
+  "district": "제주시",
+  "category": "관광자원",
+  "lat": 33.4476699442,
+  "lng": 126.5547604989,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3384586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산천단곰솔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 516로 3041-24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼매봉",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.2439117723,
+  "lng": 126.5468824444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3527376_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼매봉",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서홍동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼양해수욕장",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5255284819,
+  "lng": 126.5852560795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3039520_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "삼양해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼양이동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼양해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.525339511,
+  "lng": 126.5788233094,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3553473_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼양해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼양삼동 2582-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼의악오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4398681468,
+  "lng": 126.5620989268,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3527472_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼의악오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 아라일동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "상가리야자숲",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4394649613,
+  "lng": 126.3584888528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2847712_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "상가리야자숲",
+    "desc": "",
+    "address": "제주특별자치도 제주시 고하상로 326"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "상효원수목원",
+  "district": "서귀포시",
+  "category": "수목원",
+  "lat": 33.3072442933,
+  "lng": 126.5860192949,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3533613_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상효원수목원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 산록남로 2847-37"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "새미은총의동산",
+  "district": "제주시",
+  "category": "종교성지",
+  "lat": 33.3483050542,
+  "lng": 126.3237716904,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3554891_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새미은총의동산",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 새미소길 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "새별프렌즈",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.3615847697,
+  "lng": 126.3636734821,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3577302_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새별프렌즈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 평화로 1529"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "새섬공원",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.2397485318,
+  "lng": 126.5588092829,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3551805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새섬공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로 43"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "새신오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.2978565065,
+  "lng": 126.2379580475,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3477985_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새신오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 청수리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "새연교",
+  "district": "서귀포시",
+  "category": "다리",
+  "lat": 33.2378293118,
+  "lng": 126.559612034,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3011809_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새연교",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서홍동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서건도",
+  "district": "서귀포시",
+  "category": "섬",
+  "lat": 33.2540292433,
+  "lng": 126.4927119133,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3026836_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서건도",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 강정동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서광차밭",
+  "district": "서귀포시",
+  "category": "기타 산업관광지",
+  "lat": 33.3059564173,
+  "lng": 126.289381178,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3024741_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서광차밭",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 신화역사로 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀다원",
+  "district": "서귀포시",
+  "category": "기타 산업관광지",
+  "lat": 33.3128299569,
+  "lng": 126.5966821327,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3400178_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀다원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 516로 717 (상효동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포 알토산마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.3085528077,
+  "lng": 126.7803857597,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3477470_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포 알토산마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 토산중앙로16번길 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포 용왕난드르마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.2354376484,
+  "lng": 126.3670621143,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3401762_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포 용왕난드르마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 대평감산로 8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포 패류화석산지",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.2398207377,
+  "lng": 126.5582787717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3391817_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포 패류화석산지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로 43 (서홍동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포 하논분화구",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.2543967165,
+  "lng": 126.5462294883,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3025081_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포 하논분화구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주동로 8823"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포유람선",
+  "district": "서귀포시",
+  "category": "유람선",
+  "lat": 33.239193032,
+  "lng": 126.5584621032,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3551839_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포유람선",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로 40"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포자연휴양림",
+  "district": "서귀포시",
+  "category": "자연휴양림",
+  "lat": 33.3108197268,
+  "lng": 126.4630826543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3023727_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포자연휴양림",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 1100로 882"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포항",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.239159804,
+  "lng": 126.5648726592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3550946_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포항",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로72번길 14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포해양도립공원",
+  "district": "서귀포시",
+  "category": "도립공원",
+  "lat": 33.2398207377,
+  "lng": 126.5582787717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3035387_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포해양도립공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로 43 (서홍동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서프라이즈 테마파크",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4652169011,
+  "lng": 126.6596065516,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3332496_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서프라이즈 테마파크",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 남조로 2243"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "석예원 본초 족욕 성산점",
+  "district": "서귀포시",
+  "category": "헬스투어",
+  "lat": 33.4421097515,
+  "lng": 126.9195734269,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3011969_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "석예원 본초 족욕 성산점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로25번길 34"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선녀와나무꾼",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4792299475,
+  "lng": 126.7037135147,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3077594_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선녀와나무꾼",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선흘리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선운정사",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4293874894,
+  "lng": 126.3071574318,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3399959_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선운정사",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 구몰동길 65"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선임교",
+  "district": "서귀포시",
+  "category": "다리",
+  "lat": 33.247055995,
+  "lng": 126.5547483594,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3477147_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선임교",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문로105번길 37"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선흘2리마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4569075855,
+  "lng": 126.7142936617,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3400662_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선흘2리마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 569-36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "섭지코지",
+  "district": "서귀포시",
+  "category": "해안",
+  "lat": 33.430250088,
+  "lng": 126.9280674087,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "섭지코지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 107"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "섯알오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2042091988,
+  "lng": 126.2815563372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3383862_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "섯알오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 상모리 1618"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성불오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4594588218,
+  "lng": 126.8086881941,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3527023_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성불오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 중산간동로 2532"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성산세화해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.510090917,
+  "lng": 126.9065285449,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3355631_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산세화해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달리 112-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성산일출봉 [유네스코 세계자연유산]",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.4581111174,
+  "lng": 126.9415156012,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2944282_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "성산일출봉 [유네스코 세계자연유산]",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 284-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성산포JC공원",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.4548306763,
+  "lng": 126.9262142246,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3550586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산포JC공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 고성리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성산포유람선",
+  "district": "서귀포시",
+  "category": "유람선",
+  "lat": 33.4729843609,
+  "lng": 126.9345186424,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3396216_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산포유람선",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 성산등용로 130-21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성읍녹차마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.3813449392,
+  "lng": 126.7906832086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3009638_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성읍녹차마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간동로 4778 녹차가공공장"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성읍민속마을",
+  "district": "서귀포시",
+  "category": "민속마을",
+  "lat": 33.388430228,
+  "lng": 126.7882138165,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3551564_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성읍민속마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성이시돌목장",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.3501687835,
+  "lng": 126.3267463901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3350731_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성이시돌목장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 산록남로 53"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성판악",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3848945984,
+  "lng": 126.6203951135,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3077604_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성판악",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 516로 1865"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세기알해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5577304412,
+  "lng": 126.7563127037,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3535971_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세기알해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 김녕리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세천포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2696137381,
+  "lng": 126.6741708395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3552546_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세천포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 위미리 799-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소남머리",
+  "district": "서귀포시",
+  "category": "해안",
+  "lat": 33.2443787372,
+  "lng": 126.5689416339,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3477284_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소남머리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로 145 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소머리오름(우도봉)",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4915605829,
+  "lng": 126.9651405598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3527092_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소머리오름(우도봉)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 연평리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소정방폭포",
+  "district": "서귀포시",
+  "category": "폭포",
+  "lat": 33.2452065509,
+  "lng": 126.5769659202,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3384477_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소정방폭포",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로214번길 17-17 (동홍동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소천지",
+  "district": "서귀포시",
+  "category": "해안",
+  "lat": 33.2417795599,
+  "lng": 126.6027220992,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3551992_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소천지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로485번길 2 (보목동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "속골유원지",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.2405340402,
+  "lng": 126.5262315324,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3071719_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "속골유원지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 호근동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "손지오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4564732156,
+  "lng": 126.8195400994,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3565192_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "손지오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송아오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3372049375,
+  "lng": 126.2381599336,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3477988_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송아오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 용금로 545"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송악산 진지동굴",
+  "district": "서귀포시",
+  "category": "동굴",
+  "lat": 33.1991210589,
+  "lng": 126.2935109685,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3400222_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송악산 진지동굴",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 상모리 238"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송악산전망대",
+  "district": "서귀포시",
+  "category": "유명건물",
+  "lat": 33.1981045181,
+  "lng": 126.2943831374,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3400264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송악산전망대",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 상모리 2-13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "쇠소깍",
+  "district": "서귀포시",
+  "category": "계곡",
+  "lat": 33.254275717,
+  "lng": 126.6224173342,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3536099_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쇠소깍",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 쇠소깍로 104 (하효동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수목원테마파크(아이스뮤지엄)",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4706885565,
+  "lng": 126.4879352279,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3372289_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수목원테마파크(아이스뮤지엄)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 은수길 69"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수산봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.473847651,
+  "lng": 126.3828359615,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3527226_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수산봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 수산리 산1-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수악(물오름)",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.324667743,
+  "lng": 126.6094946439,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3477492_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수악(물오름)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 516로 1042"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수월봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.2947890147,
+  "lng": 126.1634201497,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3354312_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수월봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 고산리 3760"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수월봉과 차귀해안",
+  "district": "제주시",
+  "category": "해안",
+  "lat": 33.2941224154,
+  "lng": 126.1630063111,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3556238_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수월봉과 차귀해안",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 노을해안로 1013-70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "순례자의 교회",
+  "district": "제주시",
+  "category": "종교성지",
+  "lat": 33.319830957,
+  "lng": 126.1805486613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3585352_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순례자의 교회",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 일주서로 3960-24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "쉼한모금",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.2937431939,
+  "lng": 126.4224782273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3391736_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쉼한모금",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 산록남로 1258 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신산공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.505279902,
+  "lng": 126.533791569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3554934_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신산공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신산로 92-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신양섭지해수욕장",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.430250088,
+  "lng": 126.9280674087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3024202_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신양섭지해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 107"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신창풍차해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.3431254722,
+  "lng": 126.172134988,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3354424_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신창풍차해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 한경해안로 485"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신촌 4·3 성터",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5377303544,
+  "lng": 126.6131117136,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3389779_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신촌 4·3 성터",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신촌리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신촌향사",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5365417182,
+  "lng": 126.620683305,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3555044_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신촌향사",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신촌5길 27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신풍리 밭담길",
+  "district": "서귀포시",
+  "category": "이색거리",
+  "lat": 33.3619034434,
+  "lng": 126.8405765535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3024046_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신풍리 밭담길",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 신풍하동로 39"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신풍리체험휴양마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.3619201078,
+  "lng": 126.8405571105,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3401530_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신풍리체험휴양마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 신풍하동로 39"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신화테마파크",
+  "district": "서귀포시",
+  "category": "기타 산업관광지",
+  "lat": 33.3065177523,
+  "lng": 126.3076045827,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3550541_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신화테마파크",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 신화역사로304번길 98"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아끈다랑쉬 오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4754212946,
+  "lng": 126.8302942866,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3528332_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아끈다랑쉬 오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 세화리 2593"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아날로그감귤밭",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4579895705,
+  "lng": 126.4633015454,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3549281_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "아날로그감귤밭",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해안마을5길 124-85 (해안동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아부오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4473291064,
+  "lng": 126.7776133886,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3011827_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아부오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아쿠아플라넷 제주",
+  "district": "서귀포시",
+  "category": "테마공원",
+  "lat": 33.4328331325,
+  "lng": 126.9278590339,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2986980_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아쿠아플라넷 제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 95"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안덕계곡",
+  "district": "서귀포시",
+  "category": "계곡",
+  "lat": 33.2573294533,
+  "lng": 126.3529100773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3023810_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안덕계곡",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 감산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안덕월라봉",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2436725784,
+  "lng": 126.3497828747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3026650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안덕월라봉",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 감산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안돌오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4573054352,
+  "lng": 126.7560844718,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3523657_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안돌오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리 산 66-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안성리수국길",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.2696992239,
+  "lng": 126.2837741374,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3585277_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안성리수국길",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 안성리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "알뜨르비행장 및 일본군 비행기 격납고",
+  "district": "서귀포시",
+  "category": "유적지",
+  "lat": 33.2031230704,
+  "lng": 126.2727654572,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3024362_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "알뜨르비행장 및 일본군 비행기 격납고",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 상모리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "알작지",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.4962044339,
+  "lng": 126.4412414879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3555454_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "알작지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 테우해안로 60"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "액티브파크 제주",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.3811722638,
+  "lng": 126.2360869133,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2858455_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "액티브파크 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능남로 76"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "어승생",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3856593715,
+  "lng": 126.5067521811,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3555172_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "어승생",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해안동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "어영공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.5183749384,
+  "lng": 126.4875702904,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3053314_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "어영공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 451 (용담삼동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "엉덩물계곡",
+  "district": "서귀포시",
+  "category": "계곡",
+  "lat": 33.2479286727,
+  "lng": 126.4139105501,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3523648_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엉덩물계곡",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 색달동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "엉또돌다카페앤농원",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.2633393524,
+  "lng": 126.494353229,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3071687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엉또돌다카페앤농원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 월산로 30 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "엉또폭포",
+  "district": "서귀포시",
+  "category": "폭포",
+  "lat": 33.2672723157,
+  "lng": 126.4984055673,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3536058_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엉또폭포",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 엉또로 104 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "엉알해안",
+  "district": "제주시",
+  "category": "해안",
+  "lat": 33.2994219009,
+  "lng": 126.1676196819,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3556301_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엉알해안",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 고산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "에코랜드테마파크",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4564874302,
+  "lng": 126.6670616591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3396943_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에코랜드테마파크",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 번영로 1278-169"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연대포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.4950293341,
+  "lng": 126.4267094451,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3553736_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연대포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 외도이동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연북정",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5402304438,
+  "lng": 126.6359680033,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3556247_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연북정",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조천리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연화못(하가못)",
+  "district": "제주시",
+  "category": "호수",
+  "lat": 33.4547464297,
+  "lng": 126.3475200185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3396892_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연화못(하가못)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 하가로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "열대과일농장 유진팡",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.339945959,
+  "lng": 126.7425272126,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2976895_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "열대과일농장 유진팡",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 원님로399번길 31-7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "열안지오름(봉개동)",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4726124405,
+  "lng": 126.6055499659,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3477961_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "열안지오름(봉개동)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 봉개동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "열안지오름(오라동)",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4265967334,
+  "lng": 126.5207167107,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3556206_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "열안지오름(오라동)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 산록북로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영주산",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.4042093891,
+  "lng": 12.79737228191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3528268_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영주산",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "예래포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2335157559,
+  "lng": 126.3745753937,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3550554_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예래포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 예래해안로 97"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "예술공간 이아",
+  "district": "제주시",
+  "category": "이색체험",
+  "lat": 33.5111846177,
+  "lng": 126.5221091172,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3552794_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예술공간 이아",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로14길 21 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오백나한",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3545294146,
+  "lng": 126.5027115669,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3528372_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오백나한",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 하원동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오조마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.4701955919,
+  "lng": 126.9229030466,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3477340_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오조마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 오조로 85"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오조포구",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.4573829903,
+  "lng": 126.9149845836,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3552705_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오조포구",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 오조로 33"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "와이리조트 제주",
+  "district": "서귀포시",
+  "category": "관광단지",
+  "lat": 33.2426334601,
+  "lng": 126.3278570231,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3552753_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "와이리조트 제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순중앙로124번길 75"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "왕이메오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3421787614,
+  "lng": 126.3750562608,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "왕이메오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 광평리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "외돌개(제주)",
+  "district": "서귀포시",
+  "category": "관광자원",
+  "lat": 33.2402621646,
+  "lng": 126.546215918,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3552175_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "외돌개(제주)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서흥동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용눈이오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4588064928,
+  "lng": 126.8320556271,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3011830_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용눈이오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달논길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용담공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.5081292873,
+  "lng": 126.5150125811,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3554960_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용담공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 용담일동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용담해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5155784156,
+  "lng": 126.5121043316,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3556229_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용담해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 687-8 (용담이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용두암",
+  "district": "제주시",
+  "category": "해안",
+  "lat": 33.5147812884,
+  "lng": 126.5125098697,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3011868_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용두암",
+    "desc": "",
+    "address": "제주특별자치도 제주시 용두암길 15 (용담이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용두암해수랜드",
+  "district": "제주시",
+  "category": "이색찜질방",
+  "lat": 33.5158588206,
+  "lng": 126.504568869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3055849_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용두암해수랜드",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 630"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용수성지",
+  "district": "제주시",
+  "category": "종교성지",
+  "lat": 33.3228915301,
+  "lng": 126.1677385965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3553800_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용수성지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 용수1길 108"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용연",
+  "district": "제주시",
+  "category": "계곡",
+  "lat": 33.5152118184,
+  "lng": 126.5139125156,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3555211_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용연",
+    "desc": "",
+    "address": "제주특별자치도 제주시 흥운길 73 (용담이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용연구름다리",
+  "district": "제주시",
+  "category": "다리",
+  "lat": 33.5149285237,
+  "lng": 126.5143124879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3527081_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용연구름다리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 용담이동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우도",
+  "district": "제주시",
+  "category": "섬",
+  "lat": 33.51950171,
+  "lng": 126.951030025,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3554771_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼양고수물길 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우도 등대",
+  "district": "제주시",
+  "category": "등대",
+  "lat": 33.4920855483,
+  "lng": 126.9665931996,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3554035_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우도 등대",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도봉길 105"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우도산호해변 홍조단괴 서빈백사",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5026812286,
+  "lng": 126.9437532672,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3011874_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우도산호해변 홍조단괴 서빈백사",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 252"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "운진항",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2095276929,
+  "lng": 126.2583110141,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3551609_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운진항",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 하모리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원당사지",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5290560802,
+  "lng": 126.5984742947,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3477919_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원당사지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 원당로16길 41"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월령 선인장군락지",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.3780278479,
+  "lng": 126.2157082002,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3399984_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월령 선인장군락지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 월령리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월령포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.3785527991,
+  "lng": 126.2163109139,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3553679_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월령포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 월령리 317-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월영사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4778338147,
+  "lng": 126.4140192709,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3477811_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월영사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 하귀동남2길 40-16"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월정리해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5566117438,
+  "lng": 126.7949343757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3553602_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월정리해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 월정리 652-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월정사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4667615657,
+  "lng": 126.5100972799,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/1618608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월정사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 아연로 216-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "위미1리어촌체험마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.2710355577,
+  "lng": 126.6587526977,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3400618_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "위미1리어촌체험마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 위미해안로 43"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "위미항",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.2713050304,
+  "lng": 126.662391266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3390157_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "위미항",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 위미중앙로196번길 6-13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "윗세오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3608206597,
+  "lng": 126.5199599283,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3527014_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "윗세오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 광령리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유수암마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4413793435,
+  "lng": 126.4030877096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3477725_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유수암마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 유수암평화길 14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이상한나라의 앨리스",
+  "district": "서귀포시",
+  "category": "이색체험",
+  "lat": 33.2889726923,
+  "lng": 126.3218259602,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3024622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이상한나라의 앨리스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 중산간서로 1881"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이중섭 거주지",
+  "district": "서귀포시",
+  "category": "유적지",
+  "lat": 33.2455757555,
+  "lng": 126.5644169991,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3401275_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이중섭 거주지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이중섭로 29"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이중섭거리",
+  "district": "서귀포시",
+  "category": "이색거리",
+  "lat": 33.2455202067,
+  "lng": 126.5644697732,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3403036_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이중섭거리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이중섭로 29 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이호테우해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.4974183784,
+  "lng": 126.4531570913,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3354566_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이호테우해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도리로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "일출랜드",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.3811208022,
+  "lng": 126.8428064761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3515611_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "일출랜드",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 중산간동로 4150-30"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "자구내포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.309390205,
+  "lng": 126.1651502316,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3553716_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자구내포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 노을해안로 1161"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "자구리문화예술공원(자구리공원)",
+  "district": "서귀포시",
+  "category": "공원",
+  "lat": 33.241942872,
+  "lng": 126.5675084795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3463972_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자구리문화예술공원(자구리공원)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로 120-12 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "저지문화예술인마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.3395412444,
+  "lng": 126.2671268084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3400929_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "저지문화예술인마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 저지14길 28-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "저지오름(닥몰오름,새오름)",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3338221918,
+  "lng": 126.2517754921,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3400730_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "저지오름(닥몰오름,새오름)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 중산간서로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "전농로 벚꽃거리",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5045936021,
+  "lng": 126.5171791396,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3523366_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전농로 벚꽃거리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼도일동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "절부암",
+  "district": "제주시",
+  "category": "관광자원",
+  "lat": 33.323827528,
+  "lng": 126.167108075,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3555030_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "절부암",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 용수리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "점보빌리지",
+  "district": "서귀포시",
+  "category": "테마공원",
+  "lat": 33.2763404987,
+  "lng": 126.3055443214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3402943_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "점보빌리지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 평화로319번길 31-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정물알오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3393282866,
+  "lng": 126.3249106803,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3585443_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정물알오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금악리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정물오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3380257364,
+  "lng": 126.3302158047,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3077589_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정물오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금악리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정의향교",
+  "district": "서귀포시",
+  "category": "유적지",
+  "lat": 33.3869055872,
+  "lng": 126.8000850448,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3384553_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정의향교",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍서문로 14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정의현성",
+  "district": "서귀포시",
+  "category": "성",
+  "lat": 33.3852280274,
+  "lng": 126.8021126853,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3551950_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정의현성",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 글라스하우스",
+  "district": "서귀포시",
+  "category": "유명건물",
+  "lat": 33.4291280857,
+  "lng": 126.9340141417,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3096277_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 글라스하우스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 고성리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 노루생태관찰원",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.4444547805,
+  "lng": 126.6266209993,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3389767_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 노루생태관찰원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 명림로 520"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 동백마을",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.3203953813,
+  "lng": 126.7451829828,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3543045_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 동백마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 한신로531번길 22-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 무지개해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5093895815,
+  "lng": 126.4724745846,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3384416_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 무지개해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도두일동 1734"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 삼양동 유적",
+  "district": "제주시",
+  "category": "유적지",
+  "lat": 33.5232982139,
+  "lng": 126.5877975763,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3555204_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 삼양동 유적",
+    "desc": "",
+    "address": "제주특별자치도 제주시 선사로2길 13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 서귀포 산방산",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.2424277101,
+  "lng": 126.3140110065,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3536261_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 서귀포 산방산",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 성산항",
+  "district": "서귀포시",
+  "category": "항구·포구",
+  "lat": 33.4725482235,
+  "lng": 126.9299218287,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3550600_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 성산항",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 성산등용로 129-21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 성읍마을 고창환 고택",
+  "district": "서귀포시",
+  "category": "고택",
+  "lat": 33.387294434,
+  "lng": 126.8001350317,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3552193_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 성읍마을 고창환 고택",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍서문로 4-7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 성읍마을 고평오 고택",
+  "district": "서귀포시",
+  "category": "고택",
+  "lat": 33.3859918271,
+  "lng": 126.8018154715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3551937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 성읍마을 고평오 고택",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍정의현로34번길 5-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 센트럴파크",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4332262333,
+  "lng": 126.6745670935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3034545_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 센트럴파크",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 비자림로 606"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 스위스마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.4939389994,
+  "lng": 126.6767932932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3396964_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 스위스마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 함와로 566-27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 우도 천진항 대합실",
+  "district": "제주시",
+  "category": "유람선",
+  "lat": 33.4928352215,
+  "lng": 126.9515555965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3556224_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 우도 천진항 대합실",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 토끼섬 문주란 자생지",
+  "district": "제주시",
+  "category": "관광자원",
+  "lat": 33.520231492,
+  "lng": 126.908342042,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3554060_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 토끼섬 문주란 자생지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 문주란로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주4·3평화공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.4498540414,
+  "lng": 126.6177605342,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3539011_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주4·3평화공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 명림로 430"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주대 벚꽃길",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.4579467077,
+  "lng": 126.5624123787,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3477793_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주대 벚꽃길",
+    "desc": "",
+    "address": "제주특별자치도 제주시 제주대학로 102"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주도 관광특구",
+  "district": "",
+  "category": "관광단지",
+  "lat": 33.391158595,
+  "lng": 126.4961418675,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3556321_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주도 관광특구",
+    "desc": "",
+    "address": "제주특별자치도"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주도 국가지질공원",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.4569020299,
+  "lng": 126.7142575546,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3433085_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주도 국가지질공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 569-36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주맥주",
+  "district": "제주시",
+  "category": "식음료",
+  "lat": 33.3584804108,
+  "lng": 126.2412647465,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주맥주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능농공길 62-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주별빛누리공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.4446063059,
+  "lng": 126.5491971626,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3308520_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주별빛누리공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 선돌목동길 60 (오등동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주불빛정원",
+  "district": "제주시",
+  "category": "수목원",
+  "lat": 33.4226259562,
+  "lng": 126.4089792859,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3555479_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주불빛정원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 평화로 2346"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주샘주 양조장",
+  "district": "제주시",
+  "category": "식음료",
+  "lat": 33.44446963,
+  "lng": 126.3374100177,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3556312_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주샘주 양조장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애원로 283"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주성지",
+  "district": "제주시",
+  "category": "성",
+  "lat": 33.5102931048,
+  "lng": 126.5255810579,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3556191_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주성지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오현길 61"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주아이브리조트",
+  "district": "서귀포시",
+  "category": "관광단지",
+  "lat": 33.2887088265,
+  "lng": 126.4976384869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2767077_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주아이브리조트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 산록남로 1966-34 (영남동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주자연생태공원",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.4387918874,
+  "lng": 126.8227318948,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3401487_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주자연생태공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 금백조로 448"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주절물자연휴양림",
+  "district": "제주시",
+  "category": "자연휴양림",
+  "lat": 33.4400774642,
+  "lng": 126.6252156649,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주절물자연휴양림",
+    "desc": "",
+    "address": "제주특별자치도 제주시 명림로 584"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주탐나라공화국",
+  "district": "제주시",
+  "category": "이색체험",
+  "lat": 33.3345121647,
+  "lng": 126.3256857208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2676395_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주탐나라공화국",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한창로 897"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주항",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.5200699382,
+  "lng": 126.5342384162,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3554913_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 임항로 111"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주해녀항일운동기념탑",
+  "district": "제주시",
+  "category": "기념탑·기념비",
+  "lat": 33.5225027447,
+  "lng": 126.8639930584,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3384607_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주해녀항일운동기념탑",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해녀박물관길 26"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주허브동산",
+  "district": "서귀포시",
+  "category": "기타 산업관광지",
+  "lat": 33.3304565115,
+  "lng": 126.8155933234,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3551486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주허브동산",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 돈오름로 170"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제지기오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.241993534,
+  "lng": 126.609568724,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3527121_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제지기오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 보목동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "조랑말체험공원",
+  "district": "서귀포시",
+  "category": "이색체험",
+  "lat": 33.383477154,
+  "lng": 126.7356684832,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3071962_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조랑말체험공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 녹산로 381-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "조천함덕해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5427390309,
+  "lng": 126.6690845131,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3553692_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조천함덕해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 525"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "졸띠유채밭",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.4497589013,
+  "lng": 126.9192593887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3013261_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "졸띠유채밭",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 동류암로 8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "종달리 수국길",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5077301412,
+  "lng": 126.9111143136,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2799758_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "종달리 수국길",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "종달리 해안도로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.4829243983,
+  "lng": 126.901724033,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3368571_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "종달리 해안도로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "종달리해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.4963286013,
+  "lng": 126.9097146979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3553836_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "종달리해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "중문색달해수욕장",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.2454289066,
+  "lng": 126.4112108397,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3552513_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문색달해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 색달동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "지미봉",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.4992031582,
+  "lng": 126.9020069661,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3523585_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지미봉",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "창꼼",
+  "district": "제주시",
+  "category": "관광자원",
+  "lat": 33.5524884484,
+  "lng": 126.7000343788,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3095515_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "창꼼",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 북촌리 393"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천아오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3969294468,
+  "lng": 126.4499096413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3526993_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천아오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 광령리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천왕사(제주)",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.4082872226,
+  "lng": 126.4939972225,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3034437_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천왕사(제주)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 2528-111 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천제연폭포",
+  "district": "서귀포시",
+  "category": "폭포",
+  "lat": 33.2526559999,
+  "lng": 126.4184294967,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3552156_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천제연폭포",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 132"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천주교 대정성지",
+  "district": "서귀포시",
+  "category": "성",
+  "lat": 33.2535839778,
+  "lng": 126.2607820469,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3391703_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천주교 대정성지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 추사로247번길 102"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천지연 걸매생태공원",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.2499640127,
+  "lng": 126.5551177065,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3391902_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천지연 걸매생태공원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서홍로 4-42"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천지연폭포",
+  "district": "서귀포시",
+  "category": "폭포",
+  "lat": 33.2447452147,
+  "lng": 126.559561883,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2918130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천지연폭포",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서홍동 666-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "청수곶자왈",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.302292458,
+  "lng": 126.2590505609,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3524874_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청수곶자왈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 연명로 348"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "추자도",
+  "district": "제주시",
+  "category": "섬",
+  "lat": 33.9518128033,
+  "lng": 126.3076233112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3539200_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "추자도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 추자면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "추자도 등대",
+  "district": "제주시",
+  "category": "등대",
+  "lat": 33.9554316656,
+  "lng": 126.2964103208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3528997_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "추자도 등대",
+    "desc": "",
+    "address": "제주특별자치도 제주시 추자면 영흥리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "토토아뜰리에",
+  "district": "제주시",
+  "category": "이색체험",
+  "lat": 33.4698485725,
+  "lng": 126.4131000861,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3585130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토토아뜰리에",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고성북길 112"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "파더스가든",
+  "district": "서귀포시",
+  "category": "수목원",
+  "lat": 33.2801410085,
+  "lng": 126.3647390979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3368161_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파더스가든",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 병악로 44-33"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "판포포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.3654401002,
+  "lng": 126.1996321009,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3352661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "판포포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 판포리 2877-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "평대해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5332400681,
+  "lng": 126.8406003954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3396561_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평대해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 평대리 1994-20"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "평화통일 불사리탑",
+  "district": "제주시",
+  "category": "사찰",
+  "lat": 33.5319646966,
+  "lng": 126.6362431688,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3384918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평화통일 불사리탑",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 일주동로 884"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "포레스트 공룡사파리",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4630929367,
+  "lng": 126.7095828183,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3553643_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포레스트 공룡사파리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 474-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "폭낭오름",
+  "district": "제주시",
+  "category": "산",
+  "lat": 33.3522277635,
+  "lng": 126.3822415228,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3478039_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "폭낭오름",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 봉성리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "표선해수욕장",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.3256630271,
+  "lng": 126.8424244429,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3034601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "표선해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 민속해안로 592"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하고수동해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5142746145,
+  "lng": 126.9574573668,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3555264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하고수동해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 연평리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하늬복이오름",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3266196561,
+  "lng": 126.3932189204,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3477441_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하늬복이오름",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 상천리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하도어촌체험마을",
+  "district": "제주시",
+  "category": "농어촌체험",
+  "lat": 33.5199453433,
+  "lng": 126.9040729746,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3412991_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하도어촌체험마을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하도해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5135348561,
+  "lng": 126.8988152454,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3100092_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하도해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1973"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하례감귤체험농장",
+  "district": "서귀포시",
+  "category": "농어촌체험",
+  "lat": 33.2913520887,
+  "lng": 126.6165503401,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하례감귤체험농장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 하례로 504"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하멜기념비",
+  "district": "서귀포시",
+  "category": "기념탑·기념비",
+  "lat": 33.2337481229,
+  "lng": 126.3146500324,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3551524_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하멜기념비",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계리 112-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하모해변",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.2113219743,
+  "lng": 126.2605635569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3391622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하모해변",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 하모리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하우목동항",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.5095971276,
+  "lng": 126.9435281264,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3553456_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하우목동항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 352"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한담해변",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.4627838378,
+  "lng": 126.310106426,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3413993_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한담해변",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로1길 26-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한라산 백록담",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.3072442933,
+  "lng": 126.5860192949,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3035595_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한라산 백록담",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 산록남로 2847-37 (상효동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한라산 영실",
+  "district": "서귀포시",
+  "category": "산",
+  "lat": 33.3402306397,
+  "lng": 126.4803110551,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3552115_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한라산 영실",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 영실로 246"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한라생태숲",
+  "district": "제주시",
+  "category": "수목원",
+  "lat": 33.431941822,
+  "lng": 126.598232081,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3027023_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한라생태숲",
+    "desc": "",
+    "address": "제주특별자치도 제주시 516로 2596"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한라수목원",
+  "district": "제주시",
+  "category": "수목원",
+  "lat": 33.4697692812,
+  "lng": 126.4921487719,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3541991_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한라수목원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 수목원길 72"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한림공원",
+  "district": "제주시",
+  "category": "공원",
+  "lat": 33.3886659647,
+  "lng": 126.2415557152,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3553983_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한림공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 300"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한림항",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.4190907055,
+  "lng": 126.2625726517,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3554865_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한림항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림해안로 192"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "함덕해수욕장 (함덕 서우봉 해변)",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.5439000013,
+  "lng": 126.668356772,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3354600_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "함덕해수욕장 (함덕 서우봉 해변)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 519-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해맞이해안로",
+  "district": "제주시",
+  "category": "자연생태관광지",
+  "lat": 33.5504226979,
+  "lng": 126.7427251632,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3555389_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해맞이해안로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 김녕리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해품은체험농장",
+  "district": "서귀포시",
+  "category": "기타 산업관광지",
+  "lat": 33.4445035069,
+  "lng": 126.8933089807,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3577234_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해품은체험농장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 서성일로 1073"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "협재포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.399528676,
+  "lng": 126.2431108927,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3553775_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "협재포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "협재해수욕장",
+  "district": "제주시",
+  "category": "해수욕장",
+  "lat": 33.393776477,
+  "lng": 126.239441896,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3096066_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "협재해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 329-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "형제섬",
+  "district": "서귀포시",
+  "category": "섬",
+  "lat": 33.2080147675,
+  "lng": 126.3092288523,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3526989_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "형제섬",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "형제해안도로",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.238261531,
+  "lng": 126.3157581698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3552077_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "형제해안도로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계리 3682"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화북포구",
+  "district": "제주시",
+  "category": "항구·포구",
+  "lat": 33.5255364838,
+  "lng": 126.5645634332,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3555293_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화북포구",
+    "desc": "",
+    "address": "제주특별자치도 제주시 화북1동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화순곶자왈 생태탐방숲길",
+  "district": "서귀포시",
+  "category": "수목원",
+  "lat": 33.2635062261,
+  "lng": 126.3323756109,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3370590_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화순곶자왈 생태탐방숲길",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순서동로 151"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화순금모래해수욕장",
+  "district": "서귀포시",
+  "category": "해수욕장",
+  "lat": 33.2407004292,
+  "lng": 126.333514908,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3023852_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화순금모래해수욕장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순해안로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화조원",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4113377321,
+  "lng": 126.3720160859,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3587015_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화조원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애원로 804"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "황우지해안열두굴",
+  "district": "서귀포시",
+  "category": "동굴",
+  "lat": 33.2420288662,
+  "lng": 126.5607118442,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3399937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황우지해안열두굴",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서홍동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "효명사",
+  "district": "서귀포시",
+  "category": "사찰",
+  "lat": 33.3233287582,
+  "lng": 126.5941765584,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3026593_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효명사",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 516로 815-41 효명사"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "휴림",
+  "district": "제주시",
+  "category": "테마공원",
+  "lat": 33.4438100372,
+  "lng": 126.4287993085,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3017664_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "휴림",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 광령남서길 40"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "1100고지습지",
+  "district": "서귀포시",
+  "category": "자연생태관광지",
+  "lat": 33.3576728826,
+  "lng": 126.463014942,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3314907_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "1100고지습지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 1100로 1555"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "5.16 도로숲터널",
+  "district": "서귀포시",
+  "category": "터널",
+  "lat": 33.3140386947,
+  "lng": 126.6304291801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3400599_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "5.16 도로숲터널",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 신례천로 267-110"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김만덕기념관",
+  "district": "제주시",
+  "category": "기념관",
+  "lat": 33.515906449,
+  "lng": 126.5304138429,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3396630_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김만덕기념관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 산지로 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김영갑갤러리두모악",
+  "district": "서귀포시",
+  "category": "미술관·화랑",
+  "lat": 33.37240806,
+  "lng": 126.8542667942,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3548157_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김영갑갤러리두모악",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 삼달로 137"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김택화 미술관",
+  "district": "제주시",
+  "category": "미술관·화랑",
+  "lat": 33.5437886593,
+  "lng": 126.6531914254,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3552971_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김택화 미술관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신흥로 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "나이롱책방",
+  "district": "제주시",
+  "category": "대형서점",
+  "lat": 33.5116956936,
+  "lng": 126.523447878,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3553414_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나이롱책방",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로8길 17 (이도일동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "노형수퍼마켙",
+  "district": "제주시",
+  "category": "미술관·화랑",
+  "lat": 33.4650081095,
+  "lng": 126.455218756,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3350682_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노형수퍼마켙",
+    "desc": "",
+    "address": "제주특별자치도 제주시 노형로 89"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "바이나흐튼 크리스마스박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.291341969,
+  "lng": 126.3278198313,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3548182_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바이나흐튼 크리스마스박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 평화로 654"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "박물관은살아있다 제주",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.2546667452,
+  "lng": 126.4092858005,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3548296_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "박물관은살아있다 제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 42"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "밤수지맨드라미 북스토어",
+  "district": "제주시",
+  "category": "대형서점",
+  "lat": 33.520743198,
+  "lng": 126.9484913275,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3553400_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밤수지맨드라미 북스토어",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 530"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "빛의 벙커",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3548819_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빛의 벙커",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 서성일로1168번길 89-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼매봉도서관",
+  "district": "서귀포시",
+  "category": "도서관",
+  "lat": 33.2448561932,
+  "lng": 126.551973649,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3383849_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼매봉도서관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로153번길 15 (서홍동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포문화원",
+  "district": "서귀포시",
+  "category": "문화원",
+  "lat": 33.2509974498,
+  "lng": 126.5688303839,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3548124_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포문화원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동홍로 30 (동홍동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포시립기당미술관",
+  "district": "서귀포시",
+  "category": "미술관·화랑",
+  "lat": 33.2447978549,
+  "lng": 126.5512403807,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3548141_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포시립기당미술관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로153번길 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서귀포천문과학문화관",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 33.2888776636,
+  "lng": 126.460411156,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3477154_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포천문과학문화관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 1100로 506-1 천문과학문화관"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서복전시관",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 33.2449259259,
+  "lng": 126.5706414743,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3023951_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서복전시관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로 156-8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성김대건신부표착기념관",
+  "district": "제주시",
+  "category": "기념관",
+  "lat": 33.3228915301,
+  "lng": 126.1677385965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3396988_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성김대건신부표착기념관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 용수1길 108"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성산포 해녀물질공연장",
+  "district": "서귀포시",
+  "category": "공연장",
+  "lat": 33.4628688824,
+  "lng": 126.9388907191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3024646_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산포 해녀물질공연장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 284-34"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세계술박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.3540344982,
+  "lng": 126.8176314979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3548789_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계술박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 한마음초등로 431"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세계자동차&피아노 박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.2834376347,
+  "lng": 126.3499458641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3548503_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계자동차&피아노 박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 중산간서로 1610"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세계조가비박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.2474447916,
+  "lng": 126.5516736169,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3548310_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계조가비박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 284"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아라리오뮤지엄 동문모텔2",
+  "district": "제주시",
+  "category": "미술관·화랑",
+  "lat": 33.5149843124,
+  "lng": 126.5293750659,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3556937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아라리오뮤지엄 동문모텔2",
+    "desc": "",
+    "address": "제주특별자치도 제주시 산지로 23"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아프리카 박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.2398992429,
+  "lng": 126.4290955229,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3548215_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아프리카 박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "왈종미술관",
+  "district": "서귀포시",
+  "category": "미술관·화랑",
+  "lat": 33.2453287076,
+  "lng": 126.5736773135,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3548093_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왈종미술관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로214번길 30"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유민 아르누보 뮤지엄",
+  "district": "서귀포시",
+  "category": "미술관·화랑",
+  "lat": 33.4335552242,
+  "lng": 126.924678737,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3548711_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유민 아르누보 뮤지엄",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 107"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "자연사랑미술관",
+  "district": "서귀포시",
+  "category": "미술관·화랑",
+  "lat": 33.3556696951,
+  "lng": 126.771952084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3547993_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자연사랑미술관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시로613번길 46"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 추사관",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 33.2498068953,
+  "lng": 126.2785639201,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3548271_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 추사관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 추사로 44"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주 탑동해변공연장",
+  "district": "제주시",
+  "category": "공연장",
+  "lat": 33.5179061303,
+  "lng": 126.5243032176,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3411244_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 탑동해변공연장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로 2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주고산리유적안내센터",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.3044852037,
+  "lng": 126.1659113851,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2986687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주고산리유적안내센터",
+    "desc": "",
+    "address": "제주특별자치도 제주시 노을해안로 1100"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주과학탐구체험관",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.4266496763,
+  "lng": 126.5314546657,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3585158_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주과학탐구체험관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 산록북로 421-1 (오라이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주국제컨벤션센터",
+  "district": "서귀포시",
+  "category": "컨벤션센터",
+  "lat": 33.2412740186,
+  "lng": 126.4244958917,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3582910_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주국제컨벤션센터",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 224"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주국제평화센터",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 33.2443708606,
+  "lng": 126.4220626997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3577136_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주국제평화센터",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 227-24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주돌마을공원",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.353778349,
+  "lng": 126.253752654,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3477744_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주돌마을공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능남로 421"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주돌문화공원",
+  "district": "제주시",
+  "category": "박물관",
+  "lat": 33.4466495807,
+  "lng": 126.6640038158,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3586284_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주돌문화공원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 남조로 2023"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주라프",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.4868513788,
+  "lng": 126.7069686133,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3477649_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주라프",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 115-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주문학관",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.4813850713,
+  "lng": 126.5178573851,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2949529_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주문학관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연북로 339 (도남동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주민속촌",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.3213162956,
+  "lng": 126.8431022619,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3534943_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주민속촌",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 민속해안로 631-34"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주아트센터",
+  "district": "제주시",
+  "category": "공연장",
+  "lat": 33.4751107281,
+  "lng": 126.5155327293,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3400756_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주아트센터",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오남로 231 제주아트센터"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주웰컴센터",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.4857565119,
+  "lng": 126.499189464,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3066908_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주웰컴센터",
+    "desc": "",
+    "address": "제주특별자치도 제주시 선덕로 23 (연동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주유리박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.2784468371,
+  "lng": 126.3701775526,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3024533_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주유리박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간서로 1403"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주커피박물관 바움",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.4398957772,
+  "lng": 126.8991669121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3548483_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주커피박물관 바움",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 서성일로1168번길 89-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주통일관",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.5068796745,
+  "lng": 126.5306251413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3552956_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주통일관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼성로 46 (일도이동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주특별자치도립미술관",
+  "district": "제주시",
+  "category": "미술관·화랑",
+  "lat": 33.4525489265,
+  "lng": 126.4897521473,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3053670_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주특별자치도립미술관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 2894-78"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주항공우주박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.3043706422,
+  "lng": 126.2996275451,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3546884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주항공우주박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 218"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주항일기념관",
+  "district": "제주시",
+  "category": "기념관",
+  "lat": 33.5410109898,
+  "lng": 126.6407703457,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3333429_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주항일기념관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신북로 303"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주해양동물박물관",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.4295156573,
+  "lng": 126.8551404096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3548447_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주해양동물박물관",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 서성일로 689-21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제주현대미술관",
+  "district": "제주시",
+  "category": "미술관·화랑",
+  "lat": 33.339874518,
+  "lng": 126.2656713719,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3553250_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주현대미술관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 저지14길 35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "조천읍도서관",
+  "district": "제주시",
+  "category": "도서관",
+  "lat": 33.5377090094,
+  "lng": 126.6676791949,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3553088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조천읍도서관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 일주동로 1189"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "초콜릿랜드",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.24976735,
+  "lng": 126.4133188934,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3023917_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "초콜릿랜드",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로110번길 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "테디베어하우스 테지움",
+  "district": "제주시",
+  "category": "박물관",
+  "lat": 33.41204355,
+  "lng": 126.3935836397,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3034398_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "테디베어하우스 테지움",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 평화로 2159"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "피규어뮤지엄제주",
+  "district": "서귀포시",
+  "category": "박물관",
+  "lat": 33.281971215,
+  "lng": 126.3553982011,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3548566_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "피규어뮤지엄제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 한창로 243"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한국야구명예전당",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 33.2605730556,
+  "lng": 126.4984223827,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3077579_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한국야구명예전당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간서로 97-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "헬로키티아일랜드",
+  "district": "서귀포시",
+  "category": "전시관",
+  "lat": 33.2900841569,
+  "lng": 126.3521344149,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3548380_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "헬로키티아일랜드",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 한창로 340"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "훈데르트바서파크",
+  "district": "제주시",
+  "category": "전시관",
+  "lat": 33.4930408093,
+  "lng": 126.9549441872,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "훈데르트바서파크",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 32-12"
+   }
+  }
+ }
+]

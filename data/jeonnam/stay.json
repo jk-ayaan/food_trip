@@ -1,0 +1,2399 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "강진 자연드림",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.4977541698,
+  "lng": 126.7952593764,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강진 자연드림",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 대구면 백사1길 38"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "개울한옥민박",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.5159721453,
+  "lng": 126.6616456733,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2573738_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "개울한옥민박",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 옥천면 도림길 81"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "거목장민박",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.5084470868,
+  "lng": 126.6067506789,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3021963_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거목장민박",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 삼산면 민박촌길 63"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고유한관광농원펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.6845607383,
+  "lng": 127.2762320498,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2813477_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고유한관광농원펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 연강예회길 299-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고집불통송가네",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.4415633214,
+  "lng": 126.631441776,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고집불통송가네",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 북평면 동해길 108-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고택 한옥에서",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.2376996952,
+  "lng": 127.0206073559,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2917547_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고택 한옥에서",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 창평면 돌담길 88-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "곡전재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.2035703599,
+  "lng": 127.51390358,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "곡전재",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 토지면 곡전재길 15-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "골드마운틴하우스 (유한회사진도휴식)",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.4817629973,
+  "lng": 126.3770576294,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "골드마운틴하우스 (유한회사진도휴식)",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 고군면 원포길 226"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "구림전통한옥민박",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7635103514,
+  "lng": 126.6215098969,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "구림전통한옥민박",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 군서면 죽정서원길 5-42"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "금천재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0326989172,
+  "lng": 126.7551803905,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "금천재",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 금천면 금영로 954-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "기찬빌리지",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.790475035,
+  "lng": 126.6849592028,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "기찬빌리지",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 영암읍 기찬랜드로 41"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "기찬재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7919693222,
+  "lng": 126.6856118867,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "기찬재",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 영암읍 기찬랜드로 19-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "남성각",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7836457461,
+  "lng": 126.3779531268,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남성각",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 보리마당로50번길 2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "낭만밤바다호스텔(낭만밤바다펜션리조트)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7374461216,
+  "lng": 127.7413455512,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "낭만밤바다호스텔(낭만밤바다펜션리조트)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 이순신광장로 159"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "너와 나의 둥지",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7410561431,
+  "lng": 126.7181380382,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2991323_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "너와 나의 둥지",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 42-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "노을한옥",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.8511907141,
+  "lng": 127.5232450962,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "노을한옥",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 해룡면 와온2길 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "누스테이 목포",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7839623936,
+  "lng": 126.3789696961,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "누스테이 목포",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 보리마당로52번길 9-1 (서산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다올재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9550838683,
+  "lng": 127.4806934163,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다올재",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 금곡길 60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다향소축",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.578899862,
+  "lng": 126.7489142648,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2575743_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다향소축",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 도암면 다산초당1길 7-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달빛미소",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7405256433,
+  "lng": 126.7179158487,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "달빛미소",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 성전면 달빛한옥길 49"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달빛미소",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7405200884,
+  "lng": 126.717926959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2706151_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달빛미소",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 49"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달빛한옥 수류화개",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7391480054,
+  "lng": 126.7170159613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2808465_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "달빛한옥 수류화개",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달빛한옥민박 별유풍경",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7402229174,
+  "lng": 126.7189990939,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2991340_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달빛한옥민박 별유풍경",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 32"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "담빛채",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.794559248,
+  "lng": 126.4293344374,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "담빛채",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 평화로 38-2 (상동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도담헌",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9454627828,
+  "lng": 127.4838989351,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도담헌",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 상인제길 35 (인제동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도래미하우스",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9975568248,
+  "lng": 126.8248528839,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도래미하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 다도면 동력길 18-26"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "두륜산관광펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.4957210571,
+  "lng": 126.6263131533,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "두륜산관광펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 삼산면 대흥사길 88-56"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "두언27",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.8371481635,
+  "lng": 127.5416882792,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "두언27",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 율촌면 두언길 27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "등대게스트하우스",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.790192344,
+  "lng": 126.3848412502,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2686452_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "등대게스트하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 노적봉길 6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "땅끝남도의향기",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.4397470131,
+  "lng": 126.6408826574,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "땅끝남도의향기",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 북평면 동촌길 42-27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "땅끝방갈로펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.3090901871,
+  "lng": 126.5179743288,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2567854_image2_1.PNG",
+  "i18n": {
+   "ko": {
+    "name": "땅끝방갈로펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 송지면 갈산길 50"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "뜰애펜션",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.8921414359,
+  "lng": 127.509475822,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "뜰애펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 574-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라마다프라자 바이윈덤 여수",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7170457484,
+  "lng": 127.74829824,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2709005_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라마다프라자 바이윈덤 여수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 강남로 11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라테라스 코브 스위트(라테라스 부티크 리조트 앤 스파)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7087912587,
+  "lng": 127.7565088433,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2621522_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라테라스 코브 스위트(라테라스 부티크 리조트 앤 스파)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 진모1길 29-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "르그랑블루 리조트",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.6875356737,
+  "lng": 127.7778297425,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "르그랑블루 리조트",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 무술목길 34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리버파크(순천리버파크관광호스텔)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 35.0737274161,
+  "lng": 127.2353592131,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "리버파크(순천리버파크관광호스텔)",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 주암면 주암호길 27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리인목포게스트하우스",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7906228047,
+  "lng": 126.3820053792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2707009_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리인목포게스트하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 마인계터로38번길 6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마루오",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.0193064952,
+  "lng": 126.7857641309,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2600690_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마루오",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 배멧3길 5-8 (빛가람동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마실한옥",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7867399223,
+  "lng": 126.3828442872,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마실한옥",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로 36-7 (대의동2가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마음의 고향",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0327873097,
+  "lng": 126.3913070306,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마음의 고향",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 현경면 현해로 335-31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "매죽헌2(매죽헌한옥민박)",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0690641287,
+  "lng": 127.4016335779,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2571486_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "매죽헌2(매죽헌한옥민박)",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 월등면 외동길 56"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "머무르다목포",
+  "district": "전남광주통합특별시",
+  "category": "홈스테이",
+  "lat": 34.7813404367,
+  "lng": 126.3771171455,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "머무르다목포",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해안로163번길 46-2 (금화동, 금화아파트)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "목양산방",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.8897166737,
+  "lng": 127.5074843911,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2573640_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목양산방",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 대대1길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "목임당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9518544531,
+  "lng": 127.2017485787,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "목임당",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 문덕면 가내길 18-33"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "목포 올레",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7927752401,
+  "lng": 126.3758975341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2571160_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목포 올레",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 열린길 18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "목포가족관광호텔",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 34.792061575,
+  "lng": 126.3846523329,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "목포가족관광호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 호남로64번길 28"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무안비치호텔",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 34.9682778553,
+  "lng": 126.3869645383,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2596892_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "무안비치호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 톱머리길 36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "백패커스인여수",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7452813826,
+  "lng": 127.7429118825,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2709140_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백패커스인여수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 공화남2길 14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "벌교소형관광호텔",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.8429942665,
+  "lng": 127.3528019255,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "벌교소형관광호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 벌교읍 신정길 4-41"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베니키아호텔 여수",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7565620029,
+  "lng": 127.6591411456,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3555333_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베니키아호텔 여수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 시청서6길 19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "별바라기집",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7408672685,
+  "lng": 126.7177380782,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2991363_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별바라기집",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 46"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "보금자리",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7398757135,
+  "lng": 126.7177492124,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2991370_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보금자리",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 55"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "보성바다스토리리조트",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.6398813739,
+  "lng": 127.0500168872,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "보성바다스토리리조트",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 회천면 남부관광로 1668"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "블루망고 풀빌라펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.6608611615,
+  "lng": 127.7940845558,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2798039_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "블루망고 풀빌라펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 계동해안길 90"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "블루온리조트",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.6553411324,
+  "lng": 127.7246157629,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "블루온리조트",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 평사로 313"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사계절 해오름 한옥펜션",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9076618563,
+  "lng": 127.3443010443,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사계절 해오름 한옥펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 낙안면 조정래길 786-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사나래한옥",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.8371234192,
+  "lng": 126.9027472023,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사나래한옥",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장평면 우산병동길 436-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사단법인 한국천연염색 숨",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9050694457,
+  "lng": 127.1204069089,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2707628_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사단법인 한국천연염색 숨",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 복내면 개기로 1529-45"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사슴이랑배랑농원",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.1876981153,
+  "lng": 126.5913549443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2681200_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사슴이랑배랑농원",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 해보면 밀재로 1147-34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "산들바다애(산들바다애 한옥민박)",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.4386525604,
+  "lng": 126.6329083835,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산들바다애(산들바다애 한옥민박)",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 북평면 동해길 108-29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "산에는 꽃이피네",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9986705629,
+  "lng": 126.823311326,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산에는 꽃이피네",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 동력길 20-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "샤르망호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.8043192147,
+  "lng": 126.4265844446,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "샤르망호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 신흥로59번길 5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "세하",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.9400304009,
+  "lng": 127.5036890021,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "세하",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 하풍동길 60 (풍덕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소리터",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7621799636,
+  "lng": 126.6226153871,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소리터",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 군서면 죽정서원길 9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "순천만 해룡성고택",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9199465254,
+  "lng": 127.5024785074,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2588422_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천만 해룡성고택",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 홍두길 136 (홍내동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "순천만민속한옥펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.891352606,
+  "lng": 127.507762103,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2632328_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천만민속한옥펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 대대2길 33 (대대동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "순천만숲",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.8972685866,
+  "lng": 127.5065148402,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3021462_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천만숲",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 374-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "순천만쉼표펜션",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.8879195718,
+  "lng": 127.5027542965,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "순천만쉼표펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 726-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "쉬리펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 35.2045689918,
+  "lng": 127.6014208485,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2988823_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쉬리펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 섬진강대로 4310-46 쉬리팬션"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 은신희",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0344008468,
+  "lng": 126.7159893682,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이 은신희",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 금성관길 38-5 (과원동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이여유담",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0514152998,
+  "lng": 126.8641119695,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이여유담",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 남평읍 동촌로 226"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이황룡",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.2949723093,
+  "lng": 126.7701058703,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3073129_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스테이황룡",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 행복1길 5-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라스테이 여수",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7441816061,
+  "lng": 127.748716958,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신라스테이 여수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 수정3길 8 (수정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신안비치호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7859758847,
+  "lng": 126.3685150159,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3592078_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신안비치호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해안로 2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "양참사댁(양동호 가옥 / 한옥152)",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9843847639,
+  "lng": 126.911423348,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2594823_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양참사댁(양동호 가옥 / 한옥152)",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 도곡면 달아실길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여락재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7407284068,
+  "lng": 126.7184380198,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2803651_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "여락재",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 38"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여수 베네치아 호텔앤리조트",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7458398082,
+  "lng": 127.7518721955,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2698432_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수 베네치아 호텔앤리조트",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 오동도로 61-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여수 유탑 마리나 호텔&리조트",
+  "district": "전남광주통합특별시",
+  "category": "서비스드레지던스",
+  "lat": 34.744451054,
+  "lng": 127.7506417828,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2823725_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수 유탑 마리나 호텔&리조트",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 오동도로 61-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여수夜호스텔",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7390515747,
+  "lng": 127.7458034548,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "여수夜호스텔",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 하멜로 60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여수밤바다 힐링파크 호스텔",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.706522079,
+  "lng": 127.7571144031,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "여수밤바다 힐링파크 호스텔",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 진모1길 29-38"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여수한옥체험관",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7485512874,
+  "lng": 127.6300855578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3021504_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수한옥체험관",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 소라면 상관길 47"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연경당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0156899854,
+  "lng": 127.5859520697,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2918180_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연경당",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 중흥로 13-40"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "영산나루",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.9979269981,
+  "lng": 126.7048745837,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영산나루",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 주면1길 14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오래된 숲(송산)",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.6530355573,
+  "lng": 126.8901667154,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오래된 숲(송산)",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장흥읍 송산길 59"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오브헤리티지",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.5466266196,
+  "lng": 127.1371420931,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오브헤리티지",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 도양읍 용정등넘길 73"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월출산 달빛정원",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7708378382,
+  "lng": 126.6537624307,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2576023_image2_1.PNG",
+  "i18n": {
+   "ko": {
+    "name": "월출산 달빛정원",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 군서면 월암길 116-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월출산 청풍명월",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7698768483,
+  "lng": 126.6545568287,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월출산 청풍명월",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 군서면 월암길 116-29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "윤은재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0334703344,
+  "lng": 126.7122647206,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "윤은재",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 향교길 36-14 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이화당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.0401456127,
+  "lng": 126.773917439,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3070773_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "이화당",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 금천면 촌곡길 66"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "인서리공원 홰경당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.9738252474,
+  "lng": 127.585980916,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "인서리공원 홰경당",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 남문길 65"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "자연담은(자연담은펜션)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.6984230861,
+  "lng": 127.7629057701,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "자연담은(자연담은펜션)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 돌산로 3086"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "자연스토리",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.5091247685,
+  "lng": 126.60551466,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "자연스토리",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 삼산면 민박촌길 77"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "장흥 달바위펜션(Full Moon 달바위펜션)",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.6741983379,
+  "lng": 126.9659706476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2568012_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장흥 달바위펜션(Full Moon 달바위펜션)",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 안양면 비동동촌길 46"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "조약도 한옥체험",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.3732251982,
+  "lng": 126.8880014691,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "조약도 한옥체험",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 약산면 구암길 80"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "좋은세상리조트 글램핑펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 35.1828810978,
+  "lng": 127.3574567862,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "좋은세상리조트 글램핑펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 죽곡면 대황강로 1397-45"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "좋은집 게스트하우스",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7903367378,
+  "lng": 126.3827525422,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2706114_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "좋은집 게스트하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 마인계터로40번길 2-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "주식회사 더 오래뜰(게스트하우스 오래뜰)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7943501009,
+  "lng": 126.3782306228,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2568913_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주식회사 더 오래뜰(게스트하우스 오래뜰)",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 북교길 27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "주월재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7793454817,
+  "lng": 127.1673781343,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주월재",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 다전길 33-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지뜨 호스텔(지뜨펜션)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7369102195,
+  "lng": 127.7499475908,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지뜨 호스텔(지뜨펜션)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 여수시민로 1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산햇살",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.2433737803,
+  "lng": 127.4894519307,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2708603_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산햇살",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 마산면 화엄사로 386-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산호수리조트",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 35.2796408205,
+  "lng": 127.4266426448,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2594998_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산호수리조트",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 산동면 구만제로 610"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산휴가관광펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 35.2074936403,
+  "lng": 127.4402321926,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지리산휴가관광펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 구례읍 산수동1길 87"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "진도하루",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.4247817634,
+  "lng": 126.2835755353,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "진도하루",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 의신면 만길안길 51-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "진아리랑 호스텔",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.722136921,
+  "lng": 127.7526921712,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "진아리랑 호스텔",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 강남2길 6-18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "채원당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.2757836324,
+  "lng": 127.3070171906,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/1974014_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "채원당",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 오곡면 기차마을로 217-28"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청우 황토펜션(보성그린빌펜션)",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.7244614424,
+  "lng": 127.0897363154,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청우 황토펜션(보성그린빌펜션)",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 보성읍 사동길 54"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청풍자연농원",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.8552136476,
+  "lng": 126.9383019578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2684838_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍자연농원",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 청풍면 석치길 22-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "춘화당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7913477405,
+  "lng": 126.3830941544,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "춘화당",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로59번길 35-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "케이스테이관광호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.6201626378,
+  "lng": 126.7935010123,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "케이스테이관광호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 군동면 청자로 299"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코너레지던스호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.3204954405,
+  "lng": 126.7473733871,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2808592_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "코너레지던스호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 개포로 179"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "태양아래월출산",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7398423959,
+  "lng": 126.7184685944,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "태양아래월출산",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 성전면 달빛한옥길 17-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "포유호스텔",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7439871577,
+  "lng": 127.7472143164,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "포유호스텔",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 오동도로 46"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "폴링인블루펜션",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.6691155801,
+  "lng": 127.7817326468,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "폴링인블루펜션",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 월암길 125"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하늘누리",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.6379340993,
+  "lng": 127.0338794627,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하늘누리",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 안양면 수문전원길 36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하월",
+  "district": "전남광주통합특별시",
+  "category": "민박",
+  "lat": 34.6436007247,
+  "lng": 127.7214607798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2804906_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "하월",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 평사로 160"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "학은재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7864010293,
+  "lng": 126.3802361926,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "학은재",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 유동로 51"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해남유스호스텔",
+  "district": "전남광주통합특별시",
+  "category": "유스호스텔",
+  "lat": 34.4956460842,
+  "lng": 126.6274602768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3543064_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "해남유스호스텔",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 삼산면 대흥사길 88-88"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해로당",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7397396195,
+  "lng": 126.717854762,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2991384_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해로당",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 57"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해마루호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.9255381525,
+  "lng": 127.6970113001,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2783457_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해마루호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 항만9로 113 (중동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해양모텔",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 34.7979254845,
+  "lng": 126.4262401853,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/1972283_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해양모텔",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 통일대로 11-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해오름 민박",
+  "district": "전남광주통합특별시",
+  "category": "민박",
+  "lat": 34.9076979681,
+  "lng": 127.3445926842,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해오름 민박",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 낙안면 조정래길 786-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "행복동1가",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7861261772,
+  "lng": 126.3874105654,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "행복동1가",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해안로 235-4 (행복동1가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "행복한하루",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.8920386612,
+  "lng": 127.5089980884,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "행복한하루",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 대대2길 46-9 (대대동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 JCS 여수",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7036696347,
+  "lng": 127.7579394038,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 JCS 여수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 돌산로 3169-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 더 스타",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.2702956886,
+  "lng": 126.5066409699,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3455198_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 더 스타",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 옥당로 74"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 마띠유",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7451536512,
+  "lng": 127.7447783885,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3592243_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 마띠유",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 오동도로 20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔락희 광양",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.9243132781,
+  "lng": 127.6963225031,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3512704_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔락희 광양",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 항만9로 97"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔지뜨",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 34.9337452655,
+  "lng": 127.5192905699,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3066772_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔지뜨",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 팔마2길 11 (연향동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔청담",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 34.809079735,
+  "lng": 126.4232679565,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2803570_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔청담",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 비파로124번길 6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔케니여수",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 34.7413177426,
+  "lng": 127.731665744,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2803529_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔케니여수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 충무로 54-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔팰리스",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 35.0631582967,
+  "lng": 126.5241472994,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/1972244_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔팰리스",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 함평천우길 32"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "화담재",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 34.7390369026,
+  "lng": 126.7167576535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2803479_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화담재",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 달빛한옥길 3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "화양",
+  "district": "전남광주통합특별시",
+  "category": "한옥스테이",
+  "lat": 35.2528476092,
+  "lng": 126.9986366939,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "화양",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 창평면 화양길 79-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "화이트빌리지",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 35.1841144708,
+  "lng": 127.3678447277,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2720996_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화이트빌리지",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 죽곡면 대황강로 1598-96"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "휴블리제",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 35.4131964111,
+  "lng": 126.8516567705,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "휴블리제",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 북하면 백양로 611-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "휴앤고 게스트하우스",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7448536403,
+  "lng": 127.7422091764,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "휴앤고 게스트하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 동문로 94"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "히든비치 리조트 풀빌라",
+  "district": "전남광주통합특별시",
+  "category": "펜션",
+  "lat": 34.7104829555,
+  "lng": 127.769168805,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3062939_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "히든비치 리조트 풀빌라",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 마상포길 39-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "(주)수다방 게스트하우스(목포게스트하우스수다방)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7902228591,
+  "lng": 126.382585893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2574971_image2_1.PNG",
+  "i18n": {
+   "ko": {
+    "name": "(주)수다방 게스트하우스(목포게스트하우스수다방)",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 마인계터로40번길 2-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "GRIDA(그리다 리조트)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7202425635,
+  "lng": 127.745459518,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "GRIDA(그리다 리조트)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 강남해안로 60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "K-PARK(케이파크)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.6997312498,
+  "lng": 127.7615808525,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "K-PARK(케이파크)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 돌산로 3108"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "KEY WEST",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 34.7377960505,
+  "lng": 127.7395040369,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "KEY WEST",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 이순신광장로 139"
+   }
+  }
+ }
+]

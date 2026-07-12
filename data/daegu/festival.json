@@ -1,0 +1,202 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "금호강 바람소리길 축제",
+  "district": "북구",
+  "category": "일반축제",
+  "lat": 35.9114710201,
+  "lng": 128.6049579024,
+  "phone": "053-320-5120",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3538016_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "금호강 바람소리길 축제",
+    "desc": "",
+    "address": "대구광역시 북구 산격동"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "남구청년예술제",
+  "district": "남구",
+  "category": "일반축제",
+  "lat": 35.8313351328,
+  "lng": 128.5769959299,
+  "phone": "053-664-3118",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3526916_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남구청년예술제",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 478 (대명동)"
+   }
+  },
+  "pstart": "2025-09-25",
+  "pend": "2025-09-26",
+  "period": "2025.09.25~2025.09.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "달성 100대 피아노",
+  "district": "달성군",
+  "category": "일반축제",
+  "lat": 35.8087913858,
+  "lng": 128.4760693326,
+  "phone": "053-668-4253",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3525359_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성 100대 피아노",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 사문진로1길 33-18"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "대구 국가유산 야행",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 35.8719391638,
+  "lng": 128.5929267304,
+  "phone": "053-661-2195",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3520409_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 국가유산 야행",
+    "desc": "",
+    "address": "대구광역시 중구 경상감영길 99 (포정동)"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-30",
+  "period": "2025.08.29~2025.08.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "대구 동구 어울림한마당 두두다동",
+  "district": "동구",
+  "category": "일반축제",
+  "lat": 35.85996181,
+  "lng": 128.6928627093,
+  "phone": "053-662-4072",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3548863_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 동구 어울림한마당 두두다동",
+    "desc": "",
+    "address": "대구광역시 동구 금호강변로 278 (율하동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "떡볶이 페스티벌",
+  "district": "북구",
+  "category": "일반축제",
+  "lat": 35.8804436428,
+  "lng": 128.5867964789,
+  "phone": "070-7510-3091",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3563131_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "떡볶이 페스티벌",
+    "desc": "",
+    "address": "대구광역시 북구 고성로 191 (고성동3가)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서리지 가족 체험 페스티벌",
+  "district": "북구",
+  "category": "일반축제",
+  "lat": 35.9659168854,
+  "lng": 128.5646877112,
+  "phone": "010-2318-8808",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3545498_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서리지 가족 체험 페스티벌",
+    "desc": "",
+    "address": "대구광역시 북구 동호동"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "수성못페스티벌",
+  "district": "수성구",
+  "category": "일반축제",
+  "lat": 35.829419486,
+  "lng": 128.6206032541,
+  "phone": "053-668-1500",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3527690_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수성못페스티벌",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 112 (두산동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "수성빛예술제",
+  "district": "수성구",
+  "category": "일반축제",
+  "lat": 35.829419486,
+  "lng": 128.6206032541,
+  "phone": "053-668-1504",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3578312_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수성빛예술제",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 112 (두산동)"
+   }
+  },
+  "pstart": "2025-12-24",
+  "pend": "2026-01-04",
+  "period": "2025.12.24~2026.01.04"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 달성 대구현대미술제",
+  "district": "달성군",
+  "category": "전시회",
+  "lat": 35.8379573803,
+  "lng": 128.4679803509,
+  "phone": "053-668-4242",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3524187_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 달성 대구현대미술제",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 강정본길 57-1"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-10-12",
+  "period": "2025.09.13~2025.10.12"
+ }
+]

@@ -1,0 +1,1804 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "갑천",
+  "district": "유성구",
+  "category": "강",
+  "lat": 36.3628471396,
+  "lng": 127.3626169166,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3564738_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갑천",
+    "desc": "",
+    "address": "대전광역시 유성구 구성동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광수사",
+  "district": "유성구",
+  "category": "사찰",
+  "lat": 36.3423455726,
+  "lng": 127.2985204289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3564962_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광수사",
+    "desc": "",
+    "address": "대전광역시 유성구 학하서로63번길 26 (계산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립대전숲체원",
+  "district": "유성구",
+  "category": "자연휴양림",
+  "lat": 36.3235448131,
+  "lng": 127.2910049426,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "국립대전숲체원",
+    "desc": "",
+    "address": "대전광역시 유성구 숲체원로 124 (성북동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립대전현충원 보훈둘레길",
+  "district": "유성구",
+  "category": "안보관광지",
+  "lat": 36.3622460736,
+  "lng": 127.2985587765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3512563_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국립대전현충원 보훈둘레길",
+    "desc": "",
+    "address": "대전광역시 유성구 현충원로 251"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금강로하스 대청공원 (암석식물원)",
+  "district": "대덕구",
+  "category": "수목원",
+  "lat": 36.4714477773,
+  "lng": 127.4726180019,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3336206_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금강로하스 대청공원 (암석식물원)",
+    "desc": "",
+    "address": "대전광역시 대덕구 미호동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금강로하스대청공원",
+  "district": "대덕구",
+  "category": "공원",
+  "lat": 36.4736697622,
+  "lng": 127.4735845216,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3542250_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금강로하스대청공원",
+    "desc": "",
+    "address": "대전광역시 대덕구 미호동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금강로하스산호빛공원",
+  "district": "대덕구",
+  "category": "공원",
+  "lat": 36.4541238369,
+  "lng": 127.4208120024,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2913025_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금강로하스산호빛공원",
+    "desc": "",
+    "address": "대전광역시 대덕구 석봉동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "길치문화공원",
+  "district": "대덕구",
+  "category": "공원",
+  "lat": 36.362129508,
+  "lng": 127.4599887832,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3565054_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "길치문화공원",
+    "desc": "",
+    "address": "대전광역시 대덕구 신상로 65-100 (비래동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김정선생묘소일원",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 36.3576223794,
+  "lng": 127.4986187867,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3033446_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "김정선생묘소일원",
+    "desc": "",
+    "address": "대전광역시 동구 회남로 117"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "꿀잼도시 대전홍보관",
+  "district": "유성구",
+  "category": "이색체험",
+  "lat": 36.3752377361,
+  "lng": 127.382198162,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3452996_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꿀잼도시 대전홍보관",
+    "desc": "",
+    "address": "대전광역시 유성구 엑스포로 1 (도룡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남간정사",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 36.3477310948,
+  "lng": 127.456620032,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3565240_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남간정사",
+    "desc": "",
+    "address": "대전광역시 동구 충정로 53"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남선공원",
+  "district": "서구",
+  "category": "공원",
+  "lat": 36.34530253,
+  "lng": 127.3967004547,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3565624_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남선공원",
+    "desc": "",
+    "address": "대전광역시 서구 남선로 66"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "내원사(대전)",
+  "district": "서구",
+  "category": "사찰",
+  "lat": 36.3226600246,
+  "lng": 127.3600265707,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3034979_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "내원사(대전)",
+    "desc": "",
+    "address": "대전광역시 서구 배재로197번길 200"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "노고산",
+  "district": "동구",
+  "category": "산",
+  "lat": 36.4241507101,
+  "lng": 127.4891622601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3346960_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노고산",
+    "desc": "",
+    "address": "대전광역시 동구 직동 산31-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대동벽화마을",
+  "district": "동구",
+  "category": "농어촌체험",
+  "lat": 36.3336214935,
+  "lng": 127.4507848261,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3565164_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대동벽화마을",
+    "desc": "",
+    "address": "대전광역시 동구 백룡로48번길 일대"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전 신흥사",
+  "district": "유성구",
+  "category": "사찰",
+  "lat": 36.3341528947,
+  "lng": 127.3453470164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2767235_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전 신흥사",
+    "desc": "",
+    "address": "대전광역시 유성구 동서대로735번길 24-9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전 엑스포 아쿠아리움",
+  "district": "유성구",
+  "category": "테마공원",
+  "lat": 36.3751571874,
+  "lng": 127.3820481776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3371547_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전 엑스포 아쿠아리움",
+    "desc": "",
+    "address": "대전광역시 유성구 엑스포로 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전광역시청 시민잔디광장",
+  "district": "서구",
+  "category": "공원",
+  "lat": 36.3504850621,
+  "lng": 127.3849680306,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3565586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전광역시청 시민잔디광장",
+    "desc": "",
+    "address": "대전광역시 서구 둔산로 100"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전교통문화연수원",
+  "district": "유성구",
+  "category": "이색체험",
+  "lat": 36.3772070293,
+  "lng": 127.3863644022,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3564729_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전교통문화연수원",
+    "desc": "",
+    "address": "대전광역시 유성구 대덕대로 480"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전엑스포과학공원",
+  "district": "유성구",
+  "category": "공원",
+  "lat": 36.3759931713,
+  "lng": 127.3802705364,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3486427_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전엑스포과학공원",
+    "desc": "",
+    "address": "대전광역시 유성구 대덕대로 480 (도룡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전엑스포시민광장",
+  "district": "서구",
+  "category": "공원",
+  "lat": 36.3688691234,
+  "lng": 127.3880005938,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3565600_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전엑스포시민광장",
+    "desc": "",
+    "address": "대전광역시 서구 둔산대로 169"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전역 동광장",
+  "district": "동구",
+  "category": "공원",
+  "lat": 36.3342294989,
+  "lng": 127.4362194451,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3526671_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전역 동광장",
+    "desc": "",
+    "address": "대전광역시 동구 새둑길 143 (소제동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전트래블라운지",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 36.3305103683,
+  "lng": 127.4300006577,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3378565_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전트래블라운지",
+    "desc": "",
+    "address": "대전광역시 동구 중앙로 187-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대청호",
+  "district": "동구",
+  "category": "호수",
+  "lat": 36.4011148323,
+  "lng": 127.5101665667,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3303866_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대청호",
+    "desc": "",
+    "address": "대전광역시 동구"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대청호 마산동 쉼터",
+  "district": "동구",
+  "category": "호수",
+  "lat": 36.3812776529,
+  "lng": 127.4787615831,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2911872_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대청호 마산동 쉼터",
+    "desc": "",
+    "address": "대전광역시 동구 마산동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대청호자연수변공원",
+  "district": "동구",
+  "category": "공원",
+  "lat": 36.3726452347,
+  "lng": 127.4747177362,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3542255_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대청호자연수변공원",
+    "desc": "",
+    "address": "대전광역시 동구 추동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대흥동 문화예술의거리",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 36.3258969262,
+  "lng": 127.4254345237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3526650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대흥동 문화예술의거리",
+    "desc": "",
+    "address": "대전광역시 중구 대흥동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도산서원(대전)",
+  "district": "서구",
+  "category": "유적지",
+  "lat": 36.3440748834,
+  "lng": 127.3961838684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3035024_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도산서원(대전)",
+    "desc": "",
+    "address": "대전광역시 서구 남선로 8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동화울수변공원",
+  "district": "유성구",
+  "category": "공원",
+  "lat": 36.4246461906,
+  "lng": 127.3946179292,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3564849_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동화울수변공원",
+    "desc": "",
+    "address": "대전광역시 유성구 관평동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "디즈니스토어 현대프리미엄아울렛 대전점",
+  "district": "유성구",
+  "category": "이색체험",
+  "lat": 36.4234825045,
+  "lng": 127.3985342768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3453482_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "디즈니스토어 현대프리미엄아울렛 대전점",
+    "desc": "",
+    "address": "대전광역시 유성구 테크노중앙로 123 (용산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마치광장",
+  "district": "서구",
+  "category": "공원",
+  "lat": 36.297737476,
+  "lng": 127.3375042576,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3542516_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마치광장",
+    "desc": "",
+    "address": "대전광역시 서구 구봉로131번길 27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "만인산 자연휴양림",
+  "district": "동구",
+  "category": "자연휴양림",
+  "lat": 36.2022976798,
+  "lng": 127.4547630291,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3350787_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만인산 자연휴양림",
+    "desc": "",
+    "address": "대전광역시 동구 산내로 106"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "만인산푸른학습원",
+  "district": "동구",
+  "category": "자연휴양림",
+  "lat": 36.2021449168,
+  "lng": 127.4545991589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3033301_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "만인산푸른학습원",
+    "desc": "",
+    "address": "대전광역시 동구 산내로 106"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무수천하마을",
+  "district": "중구",
+  "category": "농어촌체험",
+  "lat": 36.2773188187,
+  "lng": 127.4069819337,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3542538_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무수천하마을",
+    "desc": "",
+    "address": "대전광역시 중구 운남로85번길 5 (무수동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "문충사",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 36.3243616037,
+  "lng": 127.4598925974,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3033490_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "문충사",
+    "desc": "",
+    "address": "대전광역시 동구 동부로73번길 44"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "박팽년선생유허비",
+  "district": "동구",
+  "category": "기념탑·기념비",
+  "lat": 36.3478532292,
+  "lng": 127.4524342918,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3071299_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "박팽년선생유허비",
+    "desc": "",
+    "address": "대전광역시 동구 우암로326번길 28"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "발명교육센터 창의발명체험관",
+  "district": "유성구",
+  "category": "이색체험",
+  "lat": 36.3772399899,
+  "lng": 127.3655718175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3453224_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "발명교육센터 창의발명체험관",
+    "desc": "",
+    "address": "대전광역시 유성구 과학로 82"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "법동 석장승",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3676061288,
+  "lng": 127.430166301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3033154_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "법동 석장승",
+    "desc": "",
+    "address": "대전광역시 대덕구 법동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "보문산 행복 숲 둘레길",
+  "district": "중구",
+  "category": "자연생태관광지",
+  "lat": 36.3093154326,
+  "lng": 127.4222602576,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3062387_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "보문산 행복 숲 둘레길",
+    "desc": "",
+    "address": "대전광역시 중구 대사동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "보문산마애여래좌상",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 36.3069770168,
+  "lng": 127.4338565068,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3063084_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "보문산마애여래좌상",
+    "desc": "",
+    "address": "대전광역시 중구 석교동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "복전암",
+  "district": "중구",
+  "category": "사찰",
+  "lat": 36.3068270309,
+  "lng": 127.4336870816,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3071501_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "복전암",
+    "desc": "",
+    "address": "대전광역시 중구 부사로 70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉소루",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 36.3090796806,
+  "lng": 127.4409585926,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3063118_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "봉소루",
+    "desc": "",
+    "address": "대전광역시 중구 봉소루로 29"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비래사",
+  "district": "대덕구",
+  "category": "사찰",
+  "lat": 36.3731086461,
+  "lng": 127.4508892981,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3344254_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비래사",
+    "desc": "",
+    "address": "대전광역시 대덕구 비래골길 47-74"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "뿌리공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 36.2845065219,
+  "lng": 127.3864280203,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3569387_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뿌리공원",
+    "desc": "",
+    "address": "대전광역시 중구 뿌리공원로 79 뿌리공원"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사교루",
+  "district": "유성구",
+  "category": "유적지",
+  "lat": 36.385930928,
+  "lng": 127.3805730172,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3032328_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "사교루",
+    "desc": "",
+    "address": "대전광역시 유성구 대덕대로556번길 104"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼매당",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 36.345845193,
+  "lng": 127.4562173419,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3565230_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼매당",
+    "desc": "",
+    "address": "대전광역시 동구 가양동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼정생태공원",
+  "district": "대덕구",
+  "category": "자연생태관광지",
+  "lat": 36.4497501466,
+  "lng": 127.4661608403,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3542221_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼정생태공원",
+    "desc": "",
+    "address": "대전광역시 대덕구 대청로424번길 510"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "상보안 유원지",
+  "district": "서구",
+  "category": "공원",
+  "lat": 36.2767094214,
+  "lng": 127.3429904464,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3346995_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상보안 유원지",
+    "desc": "",
+    "address": "대전광역시 서구 흑석동 738"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "상소동 산림욕장",
+  "district": "동구",
+  "category": "자연휴양림",
+  "lat": 36.2313640959,
+  "lng": 127.4710996743,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3320755_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상소동 산림욕장",
+    "desc": "",
+    "address": "대전광역시 동구 상소동 산 1-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서대전공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 36.3209750271,
+  "lng": 127.4119386413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3063035_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서대전공원",
+    "desc": "",
+    "address": "대전광역시 중구 계룡로904번길 30 (문화동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소제동",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 36.3342267754,
+  "lng": 127.4392858375,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3526662_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소제동",
+    "desc": "",
+    "address": "대전광역시 동구 소제동 일원"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수운교도솔천",
+  "district": "유성구",
+  "category": "종교성지",
+  "lat": 36.4198652044,
+  "lng": 127.339575765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3032165_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수운교도솔천",
+    "desc": "",
+    "address": "대전광역시 유성구 자운로245번길 80"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "숭현서원지",
+  "district": "유성구",
+  "category": "유적지",
+  "lat": 36.3799348117,
+  "lng": 127.4041960664,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3065109_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "숭현서원지",
+    "desc": "",
+    "address": "대전광역시 유성구 엑스포로251번길 36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "스카이로드",
+  "district": "중구",
+  "category": "이색체험",
+  "lat": 36.3291465966,
+  "lng": 127.4278175564,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3564665_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스카이로드",
+    "desc": "",
+    "address": "대전광역시 중구 은행동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안동권씨유회당종가일원",
+  "district": "중구",
+  "category": "고택",
+  "lat": 36.2776965146,
+  "lng": 127.4047932299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3063060_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "안동권씨유회당종가일원",
+    "desc": "",
+    "address": "대전광역시 중구 운남로 63"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "옥류각",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3727420263,
+  "lng": 127.4511642837,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3032939_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옥류각",
+    "desc": "",
+    "address": "대전광역시 대덕구 비래골길 47-73 (비래동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "옥오재",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3780715475,
+  "lng": 127.4273190487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3033197_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옥오재",
+    "desc": "",
+    "address": "대전광역시 대덕구 계족로 750"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "왕버드나무군락지",
+  "district": "대덕구",
+  "category": "자연생태관광지",
+  "lat": 36.4686007791,
+  "lng": 127.4669297,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3032893_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "왕버드나무군락지",
+    "desc": "",
+    "address": "대전광역시 대덕구 미호동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용화사(대전)",
+  "district": "서구",
+  "category": "사찰",
+  "lat": 36.2998707966,
+  "lng": 127.3505613663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3077505_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "용화사(대전)",
+    "desc": "",
+    "address": "대전광역시 서구 가수원로 71-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우리들공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 36.3274661918,
+  "lng": 127.4254733664,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "우리들공원",
+    "desc": "",
+    "address": "대전광역시 중구 중앙로138번길 30"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우암사적공원",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 36.3481671989,
+  "lng": 127.4589725875,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3565175_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우암사적공원",
+    "desc": "",
+    "address": "대전광역시 동구 충정로 53"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유림공원",
+  "district": "유성구",
+  "category": "공원",
+  "lat": 36.3607306283,
+  "lng": 127.3577063021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2674957_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유림공원",
+    "desc": "",
+    "address": "대전광역시 유성구 어은로 27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유성 관광특구",
+  "district": "유성구",
+  "category": "관광단지",
+  "lat": 36.3776292298,
+  "lng": 127.3878559242,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3032116_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유성 관광특구",
+    "desc": "",
+    "address": "대전광역시 유성구 대덕대로 480"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유성 족욕체험장",
+  "district": "유성구",
+  "category": "온천",
+  "lat": 36.3550449502,
+  "lng": 127.3454325546,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3350822_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유성 족욕체험장",
+    "desc": "",
+    "address": "대전광역시 유성구 봉명동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유성온천지구",
+  "district": "유성구",
+  "category": "온천",
+  "lat": 36.355344905,
+  "lng": 127.3448131576,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3035142_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유성온천지구",
+    "desc": "",
+    "address": "대전광역시 유성구 봉명동 574"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "유회당사당",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 36.2788325595,
+  "lng": 127.4083789899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3063051_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유회당사당",
+    "desc": "",
+    "address": "대전광역시 중구 운남로85번길 32-20"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "은구비공원",
+  "district": "유성구",
+  "category": "공원",
+  "lat": 36.3750839329,
+  "lng": 127.3233784299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3564870_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "은구비공원",
+    "desc": "",
+    "address": "대전광역시 유성구 노은동로 166 (지족동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "을미기공원",
+  "district": "대덕구",
+  "category": "공원",
+  "lat": 36.4427777451,
+  "lng": 127.4113409377,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2913045_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "을미기공원",
+    "desc": "",
+    "address": "대전광역시 대덕구 대덕대로1448번길 120 (신일동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이시직공정려각",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3619180566,
+  "lng": 127.4394906219,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3033275_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이시직공정려각",
+    "desc": "",
+    "address": "대전광역시 대덕구 송촌동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인쇄거리",
+  "district": "동구",
+  "category": "이색거리",
+  "lat": 36.3341266098,
+  "lng": 127.4293367291,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3033366_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인쇄거리",
+    "desc": "",
+    "address": "대전광역시 동구 중앙로203번길 82-1 (정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "자광사(대전)",
+  "district": "유성구",
+  "category": "사찰",
+  "lat": 36.3378741127,
+  "lng": 127.3126776163,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2689629_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자광사(대전)",
+    "desc": "",
+    "address": "대전광역시 유성구 학하동로63번길 50-8 (학하동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장동만남공원",
+  "district": "대덕구",
+  "category": "공원",
+  "lat": 36.4132232824,
+  "lng": 127.438644856,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3542199_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장동만남공원",
+    "desc": "",
+    "address": "대전광역시 대덕구 장동 353"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장동산림욕장",
+  "district": "대덕구",
+  "category": "자연휴양림",
+  "lat": 36.4055714493,
+  "lng": 127.442530828,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3033644_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장동산림욕장",
+    "desc": "",
+    "address": "대전광역시 대덕구 산디로 79-70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제월당",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3780715475,
+  "lng": 127.4273190487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3033118_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제월당",
+    "desc": "",
+    "address": "대전광역시 대덕구 계족로 750"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "진잠향교",
+  "district": "유성구",
+  "category": "유적지",
+  "lat": 36.3001090289,
+  "lng": 127.3149756527,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3032273_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진잠향교",
+    "desc": "",
+    "address": "대전광역시 유성구 교촌로 6 (교촌동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "찬샘마을",
+  "district": "동구",
+  "category": "농어촌체험",
+  "lat": 36.4173818704,
+  "lng": 127.4796577394,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3542275_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "찬샘마을",
+    "desc": "",
+    "address": "대전광역시 동구 냉천로 703"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "창계숭절사",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 36.2844479441,
+  "lng": 127.3723015063,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3059500_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "창계숭절사",
+    "desc": "",
+    "address": "대전광역시 중구 대둔산로137번길 67"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "초연물외암각",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3728281082,
+  "lng": 127.4500838223,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3032947_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "초연물외암각",
+    "desc": "",
+    "address": "대전광역시 대덕구 비래동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "추동인공생태습지",
+  "district": "동구",
+  "category": "자연생태관광지",
+  "lat": 36.3724451577,
+  "lng": 127.4691182418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3542481_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "추동인공생태습지",
+    "desc": "",
+    "address": "대전광역시 동구 추동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "취백정",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.4679370467,
+  "lng": 127.4714265378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3033183_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "취백정",
+    "desc": "",
+    "address": "대전광역시 대덕구 대청로526번길 45-24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "테미공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3526665_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "테미공원",
+    "desc": "",
+    "address": "대전광역시 중구 보문로199번길 37-36 (대흥동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "테미근린공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 36.3192226254,
+  "lng": 127.4218489142,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "테미근린공원",
+    "desc": "",
+    "address": "대전광역시 중구 보문로199번길 37-36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "평송청소년문화센터",
+  "district": "서구",
+  "category": "이색체험",
+  "lat": 36.3659028647,
+  "lng": 127.3918669952,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3344609_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평송청소년문화센터",
+    "desc": "",
+    "address": "대전광역시 서구 둔산대로 201"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "회덕향교",
+  "district": "대덕구",
+  "category": "유적지",
+  "lat": 36.3842012982,
+  "lng": 127.4215110682,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3033223_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "회덕향교",
+    "desc": "",
+    "address": "대전광역시 대덕구 대전로1397번안길 126"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "흑석유원지",
+  "district": "서구",
+  "category": "공원",
+  "lat": 36.260244542,
+  "lng": 127.3376163705,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3542486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "흑석유원지",
+    "desc": "",
+    "address": "대전광역시 서구 흑석동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대덕문예회관",
+  "district": "대덕구",
+  "category": "공연장",
+  "lat": 36.3741302138,
+  "lng": 127.4206947483,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3033032_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대덕문예회관",
+    "desc": "",
+    "address": "대전광역시 대덕구 대전로 1348 (읍내동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대덕문화원",
+  "district": "대덕구",
+  "category": "문화원",
+  "lat": 36.3741052155,
+  "lng": 127.420630866,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/1944903_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대덕문화원",
+    "desc": "",
+    "address": "대전광역시 대덕구 대전로 1348"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전 가수원도서관",
+  "district": "서구",
+  "category": "도서관",
+  "lat": 36.3017122245,
+  "lng": 127.3489475718,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3033558_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전 가수원도서관",
+    "desc": "",
+    "address": "대전광역시 서구 가수원로 91-11 (가수원동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전 중구문화원",
+  "district": "중구",
+  "category": "문화원",
+  "lat": 36.3232360987,
+  "lng": 127.4242708114,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3063104_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전 중구문화원",
+    "desc": "",
+    "address": "대전광역시 중구 대흥로 109 (대흥동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전대학교30주년기념관",
+  "district": "동구",
+  "category": "기념관",
+  "lat": 36.3353019905,
+  "lng": 127.4583035528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3008947_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전대학교30주년기념관",
+    "desc": "",
+    "address": "대전광역시 동구 대학로 62 (용운동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전대학교박물관",
+  "district": "동구",
+  "category": "박물관",
+  "lat": 36.3353019905,
+  "lng": 127.4583035528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3033412_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전대학교박물관",
+    "desc": "",
+    "address": "대전광역시 동구 대학로 62 대전대학교"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전서구문화원",
+  "district": "서구",
+  "category": "문화원",
+  "lat": 36.3446135222,
+  "lng": 127.385557026,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3585043_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전서구문화원",
+    "desc": "",
+    "address": "대전광역시 서구 계룡로553번길 38"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전선사박물관",
+  "district": "유성구",
+  "category": "박물관",
+  "lat": 36.3718398688,
+  "lng": 127.3238951378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3032106_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전선사박물관",
+    "desc": "",
+    "address": "대전광역시 유성구 노은동로 126"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전시립박물관",
+  "district": "유성구",
+  "category": "박물관",
+  "lat": 36.3369051804,
+  "lng": 127.3353561691,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3031739_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전시립박물관",
+    "desc": "",
+    "address": "대전광역시 유성구 도안대로 398 (상대동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전어린이회관",
+  "district": "유성구",
+  "category": "공연장",
+  "lat": 36.3638797168,
+  "lng": 127.3266089995,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3031966_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전어린이회관",
+    "desc": "",
+    "address": "대전광역시 유성구 월드컵대로 32 대전월드컵경기장"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대전전통나래관",
+  "district": "동구",
+  "category": "전시관",
+  "lat": 36.3350238727,
+  "lng": 127.4374054282,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3071283_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대전전통나래관",
+    "desc": "",
+    "address": "대전광역시 동구 철갑2길 2 (소제동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대청호자연생태관",
+  "district": "동구",
+  "category": "전시관",
+  "lat": 36.3733117559,
+  "lng": 127.4708375091,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2605601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대청호자연생태관",
+    "desc": "",
+    "address": "대전광역시 동구 천개동로 41"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "석봉도서관",
+  "district": "대덕구",
+  "category": "도서관",
+  "lat": 36.4508159254,
+  "lng": 127.4232257656,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "석봉도서관",
+    "desc": "",
+    "address": "대전광역시 대덕구 대덕대로 1579 (석봉동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "여진불교미술관",
+  "district": "유성구",
+  "category": "미술관·화랑",
+  "lat": 36.4107618735,
+  "lng": 127.4061089452,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3032083_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "여진불교미술관",
+    "desc": "",
+    "address": "대전광역시 유성구 엑스포로 624"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이응노 미술관",
+  "district": "서구",
+  "category": "미술관·화랑",
+  "lat": 36.3668637804,
+  "lng": 127.3870118474,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2834129_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이응노 미술관",
+    "desc": "",
+    "address": "대전광역시 서구 둔산대로 157"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천연기념물센터",
+  "district": "서구",
+  "category": "전시관",
+  "lat": 36.3678804286,
+  "lng": 127.3925224386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3565563_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천연기념물센터",
+    "desc": "",
+    "address": "대전광역시 서구 유등로 927 (만년동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "충남대학교 정심화국제문화회관",
+  "district": "유성구",
+  "category": "공연장",
+  "lat": 36.3625690784,
+  "lng": 127.3448407368,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3031813_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "충남대학교 정심화국제문화회관",
+    "desc": "",
+    "address": "대전광역시 유성구 대학로 99 (궁동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "카이스트 강당·노천극장",
+  "district": "유성구",
+  "category": "공연장",
+  "lat": 36.3717460903,
+  "lng": 127.3608473894,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3079346_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "카이스트 강당·노천극장",
+    "desc": "",
+    "address": "대전광역시 유성구 대학로 291"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한남대학교 성지관",
+  "district": "대덕구",
+  "category": "공연장",
+  "lat": 36.354113079,
+  "lng": 127.421797972,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3565120_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한남대학교 성지관",
+    "desc": "",
+    "address": "대전광역시 대덕구 한남로 70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한밭교육박물관",
+  "district": "동구",
+  "category": "박물관",
+  "lat": 36.3377317492,
+  "lng": 127.4290949864,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3560876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한밭교육박물관",
+    "desc": "",
+    "address": "대전광역시 동구 우암로 96 (삼성동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화폐박물관",
+  "district": "유성구",
+  "category": "박물관",
+  "lat": 36.3774844946,
+  "lng": 127.3705574757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3459553_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화폐박물관",
+    "desc": "",
+    "address": "대전광역시 유성구 과학로 80-67"
+   }
+  }
+ }
+]

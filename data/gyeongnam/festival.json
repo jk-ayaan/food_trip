@@ -1,0 +1,302 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "감악산 꽃별 여행",
+  "district": "거창군",
+  "category": "일반축제",
+  "lat": 35.5896644164,
+  "lng": 127.9175273118,
+  "phone": "055-940-8227",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3539719_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "감악산 꽃별 여행",
+    "desc": "",
+    "address": "경상남도 거창군 신원면 연수사길 452"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-10-12",
+  "period": "2025.09.19~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "김해뮤직페스티벌 연어",
+  "district": "김해시",
+  "category": "일반축제",
+  "lat": 35.2522311829,
+  "lng": 128.8920398207,
+  "phone": "055-340-7900~01",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3551006_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "김해뮤직페스티벌 연어",
+    "desc": "",
+    "address": "경상남도 김해시 가야테마길 161 (어방동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "김해분청도자기축제",
+  "district": "김해시",
+  "category": "문화관광축제",
+  "lat": 35.2517674455,
+  "lng": 128.7459053654,
+  "phone": "055-330-3244",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3546549_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김해분청도자기축제",
+    "desc": "",
+    "address": "경상남도 김해시 진례면 분청로 17"
+   }
+  },
+  "pstart": "2025-11-04",
+  "pend": "2025-11-09",
+  "period": "2025.11.04~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "대장경기록문화축제",
+  "district": "합천군",
+  "category": "일반축제",
+  "lat": 35.7673871185,
+  "lng": 128.1365143052,
+  "phone": "055-930-4697",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3559875_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대장경기록문화축제",
+    "desc": "",
+    "address": "경상남도 합천군 가야면 가야산로 1160"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-11-02",
+  "period": "2025.10.24~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "사천에어쇼",
+  "district": "사천시",
+  "category": "일반축제",
+  "lat": 35.0911816485,
+  "lng": 128.0699132182,
+  "phone": "055-831-2061",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3566649_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "사천에어쇼",
+    "desc": "",
+    "address": "경상남도 사천시 사천읍 정의리"
+   }
+  },
+  "pstart": "2026-10-22",
+  "pend": "2026-10-25",
+  "period": "2026.10.22~2026.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "아라가야문화제",
+  "district": "함안군",
+  "category": "일반축제",
+  "lat": 35.269512004,
+  "lng": 128.4030015382,
+  "phone": "055-585-9400",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3530803_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아라가야문화제",
+    "desc": "",
+    "address": "경상남도 함안군 가야읍 고분길 153-31"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "진주의 수호자들 - 유등빛을 지켜라",
+  "district": "진주시",
+  "category": "일반축제",
+  "lat": 35.190531773,
+  "lng": 128.080104157,
+  "phone": "010-4123-7112",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3542288_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진주의 수호자들 - 유등빛을 지켜라",
+    "desc": "",
+    "address": "경상남도 진주시 남강로 626 (본성동)"
+   }
+  },
+  "pstart": "2025-10-05",
+  "pend": "2025-10-19",
+  "period": "2025.10.05~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "창원산단 문화축제",
+  "district": "창원시",
+  "category": "일반축제",
+  "lat": 35.2213639824,
+  "lng": 128.6734819584,
+  "phone": "070-5117-3755",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3562932_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "창원산단 문화축제",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 외동반림로 9 (중앙동)"
+   }
+  },
+  "pstart": "2025-11-08",
+  "pend": "2025-11-09",
+  "period": "2025.11.08~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "프로젝트 유어사이드 in 진주",
+  "district": "진주시",
+  "category": "기타행사",
+  "lat": 35.1779388961,
+  "lng": 128.0886204093,
+  "phone": "055-795-3246",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3523340_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "프로젝트 유어사이드 in 진주",
+    "desc": "",
+    "address": "경상남도 진주시 강남동"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-07",
+  "period": "2025.09.05~2025.09.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "하동 북천 코스모스 메밀꽃 축제",
+  "district": "하동군",
+  "category": "일반축제",
+  "lat": 35.109365039,
+  "lng": 127.8741465725,
+  "phone": "055-884-7416",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3540960_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하동 북천 코스모스 메밀꽃 축제",
+    "desc": "",
+    "address": "경상남도 하동군 북천면 경서대로 2253-9"
+   }
+  },
+  "pstart": "2025-10-02",
+  "pend": "2025-10-19",
+  "period": "2025.10.02~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "하동별맛축제",
+  "district": "하동군",
+  "category": "일반축제",
+  "lat": 35.0594575822,
+  "lng": 127.7625159968,
+  "phone": "055-880-6582~4",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3559708_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하동별맛축제",
+    "desc": "",
+    "address": "경상남도 하동군 하동읍 비파리"
+   }
+  },
+  "pstart": "2025-11-07",
+  "pend": "2025-11-09",
+  "period": "2025.11.07~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "합천 호러 축제 고스트파크",
+  "district": "합천군",
+  "category": "기타행사",
+  "lat": 35.5484940723,
+  "lng": 128.0730785888,
+  "phone": "055-931-9303",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3507592_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "합천 호러 축제 고스트파크",
+    "desc": "",
+    "address": "경상남도 합천군 용주면 합천호수로 757"
+   }
+  },
+  "pstart": "2025-08-01",
+  "pend": "2025-08-17",
+  "period": "2025.08.01~2025.08.17"
+ },
+ {
+  "section": "festival",
+  "name_ko": "합천황토한우축제",
+  "district": "합천군",
+  "category": "일반축제",
+  "lat": 35.5601470965,
+  "lng": 128.1601289425,
+  "phone": "055-933-0050",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3544918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "합천황토한우축제",
+    "desc": "",
+    "address": "경상남도 합천군 합천읍 문화로 62"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 진주전통공예비엔날레",
+  "district": "진주시",
+  "category": "기타행사",
+  "lat": 35.1785527282,
+  "lng": 128.0892925564,
+  "phone": "055-749-8707",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3548860_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 진주전통공예비엔날레",
+    "desc": "",
+    "address": "경상남도 진주시 진주대로879번길 18 (강남동)"
+   }
+  },
+  "pstart": "2025-10-01",
+  "pend": "2025-11-16",
+  "period": "2025.10.01~2025.11.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 코리아드라마페스티벌",
+  "district": "진주시",
+  "category": "기타행사",
+  "lat": 35.1899681714,
+  "lng": 128.0926947349,
+  "phone": "홈페이지 참조",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3536872_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 코리아드라마페스티벌",
+    "desc": "",
+    "address": "경상남도 진주시 논개길 103 (옥봉동)"
+   }
+  },
+  "pstart": "2025-10-04",
+  "pend": "2025-10-19",
+  "period": "2025.10.04~2025.10.19"
+ }
+]

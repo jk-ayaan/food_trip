@@ -1,0 +1,274 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "골드브라운호텔",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 35.1447806716,
+  "lng": 126.9179409931,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3054482_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골드브라운호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 백서로125번길 32-5 (금동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그라운드4",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 35.1495746221,
+  "lng": 126.9207656231,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그라운드4",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 서석로 85 (대의동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "김냇과",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 35.1528213947,
+  "lng": 126.9158187571,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "김냇과",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 구성로204번길 13 (대인동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "볼튼호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.1510343734,
+  "lng": 126.8499468484,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2630541_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "볼튼호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 상무연하로 31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 광주용봉점",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.1795263621,
+  "lng": 126.895158803,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 광주용봉점",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 저불로 55 (용봉동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비지니스호텔듀",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.1490495142,
+  "lng": 126.9108692891,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비지니스호텔듀",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 구성로144번길 9 (수기동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아리네 게스트하우스",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 35.1416504368,
+  "lng": 126.9160162417,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2817869_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "아리네 게스트하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 남구 천변좌로428번길 6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여로(산수동 한옥체험시설)",
+  "district": "전남광주통합특별시",
+  "category": "게스트하우스",
+  "lat": 35.1531798459,
+  "lng": 126.9251984745,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2918288_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여로(산수동 한옥체험시설)",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 동계로 16-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "유)한성 마드리드 광주호텔",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.1387237021,
+  "lng": 126.79347715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2698259_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유)한성 마드리드 광주호텔",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 광산로19번길 11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이끌림 비지니스호텔 하남",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.1612101945,
+  "lng": 126.8020202784,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2780067_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이끌림 비지니스호텔 하남",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 무진대로212번길 14-27 (우산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "일번지 호텔 충장로점",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.1490495101,
+  "lng": 126.9106248659,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "일번지 호텔 충장로점",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 천변우로 355 (수기동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "탑클라우드호텔(광주점)",
+  "district": "전남광주통합특별시",
+  "category": "관광호텔",
+  "lat": 35.2205042717,
+  "lng": 126.8481841546,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2698527_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "탑클라우드호텔(광주점)",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 임방울대로825번길 57-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 5월 (Hotel The May)",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 35.1545895749,
+  "lng": 126.852777065,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 5월 (Hotel The May)",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 상무번영로 51"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔반트",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 35.1443890545,
+  "lng": 126.9182520865,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔반트",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 문화전당로23번길 12-1 (금동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔얌 광주구시청점",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 35.1405589454,
+  "lng": 126.9190993296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3054335_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔얌 광주구시청점",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 양림로115번길 15 (학동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔여기어때 광주역점",
+  "district": "전남광주통합특별시",
+  "category": "모텔",
+  "lat": 35.1613814244,
+  "lng": 126.9090330311,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2542009_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔여기어때 광주역점",
+    "desc": "",
+    "address": "전남광주통합특별시 북구 중흥로140번길 19 (중흥동)"
+   }
+  }
+ }
+]

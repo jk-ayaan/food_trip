@@ -1,0 +1,1122 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "경기 김치페스타",
+  "district": "수원시",
+  "category": "박람회",
+  "lat": 37.2858799237,
+  "lng": 127.0594632301,
+  "phone": "031-774-3312",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3553726_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경기 김치페스타",
+    "desc": "",
+    "address": "경기도 수원시 영통구 광교중앙로 140 (하동)"
+   }
+  },
+  "pstart": "2025-11-09",
+  "pend": "2025-11-09",
+  "period": "2025.11.09~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "경기미디저트페스타",
+  "district": "수원시",
+  "category": "박람회",
+  "lat": 37.2858799237,
+  "lng": 127.0594632301,
+  "phone": "031-774-3312",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3531335_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경기미디저트페스타",
+    "desc": "",
+    "address": "경기도 수원시 영통구 광교중앙로 140 (하동)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-26",
+  "period": "2025.10.25~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "고양 동물교감치유 문화제",
+  "district": "고양시",
+  "category": "일반축제",
+  "lat": 37.6579815492,
+  "lng": 126.7700763468,
+  "phone": "031-8075-4603",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3549011_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고양 동물교감치유 문화제",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 중앙로 1271-4 (장항동)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-25",
+  "period": "2025.10.25~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "고양가을꽃축제",
+  "district": "고양시",
+  "category": "일반축제",
+  "lat": 37.6538792239,
+  "lng": 126.7686654803,
+  "phone": "031-908-7750",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3529657_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고양가을꽃축제",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 호수로 595"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-30",
+  "period": "2025.09.19~2025.09.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "과천청년축제",
+  "district": "과천시",
+  "category": "일반축제",
+  "lat": 37.4323812611,
+  "lng": 126.9966203812,
+  "phone": "010-9771-2090",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3540280_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "과천청년축제",
+    "desc": "",
+    "address": "경기도 과천시 도서관길 36 (별양동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "광명동굴 빛 축제",
+  "district": "광명시",
+  "category": "일반축제",
+  "lat": 37.4243548415,
+  "lng": 126.8648909266,
+  "phone": "010-2163-3522",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3551196_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "광명동굴 빛 축제",
+    "desc": "",
+    "address": "경기도 광명시 가학로85번길 142 (가학동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-25",
+  "period": "2025.10.24~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "광주시 남한산성문화제",
+  "district": "광주시",
+  "category": "일반축제",
+  "lat": 37.4767712288,
+  "lng": 127.1885044553,
+  "phone": "031-789-5741~5",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3550901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주시 남한산성문화제",
+    "desc": "",
+    "address": "경기도 광주시 남한산성면 남한산성로 731"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-21",
+  "period": "2025.09.19~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "구리 빛 축제",
+  "district": "구리시",
+  "category": "일반축제",
+  "lat": 37.5825191614,
+  "lng": 127.1386448674,
+  "phone": "031-550-2485",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3563527_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구리 빛 축제",
+    "desc": "",
+    "address": "경기도 구리시 교문동"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-12-31",
+  "period": "2025.10.18~2025.12.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "구리 코스모스 축제",
+  "district": "구리시",
+  "category": "일반축제",
+  "lat": 37.5745310968,
+  "lng": 127.1328789538,
+  "phone": "031-550-2065",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3378833_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구리 코스모스 축제",
+    "desc": "",
+    "address": "경기도 구리시 코스모스길14번길 249 (토평동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "국립농업박물관 문화제 '쉼(休), 머무르다'",
+  "district": "수원시",
+  "category": "기타행사",
+  "lat": 37.2746965149,
+  "lng": 126.9826871782,
+  "phone": "031-324-9114~5",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3561428_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국립농업박물관 문화제 '쉼(休), 머무르다'",
+    "desc": "",
+    "address": "경기도 수원시 권선구 수인로 154 (서둔동)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-11",
+  "period": "2025.11.01~2025.11.11"
+ },
+ {
+  "section": "festival",
+  "name_ko": "김포 라베니체축제",
+  "district": "김포시",
+  "category": "일반축제",
+  "lat": 37.6437176409,
+  "lng": 126.6755687199,
+  "phone": "031-980-5113",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3480370_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "김포 라베니체축제",
+    "desc": "",
+    "address": "경기도 김포시 초당로 54 (장기동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "김포 해병대 문화축제",
+  "district": "김포시",
+  "category": "일반축제",
+  "lat": 37.6400684369,
+  "lng": 126.5394646034,
+  "phone": "031-980-5110",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3480376_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김포 해병대 문화축제",
+    "desc": "",
+    "address": "경기도 김포시 대곶면 대명항1로 110-36"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-01",
+  "period": "2025.11.01~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "도시숲 예술치유",
+  "district": "화성시",
+  "category": "연극",
+  "lat": 37.1669527885,
+  "lng": 127.1024487705,
+  "phone": "02-458-3315",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3558561_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도시숲 예술치유",
+    "desc": "",
+    "address": "경기도 화성시 동탄순환대로 69 (송동)"
+   }
+  },
+  "pstart": "2025-10-28",
+  "pend": "2025-11-01",
+  "period": "2025.10.28~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "드론봇 페스티벌",
+  "district": "양주시",
+  "category": "일반축제",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "031-8082-6161",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3113993_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "드론봇 페스티벌",
+    "desc": "",
+    "address": "경기도 양주시 광적면 삼일로 52"
+   }
+  },
+  "pstart": "2025-10-31",
+  "pend": "2025-11-02",
+  "period": "2025.10.31~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "렛츠런파크 서울 가을야간축제 별밤마중 Festival",
+  "district": "과천시",
+  "category": "일반축제",
+  "lat": 37.4440606773,
+  "lng": 127.0086578462,
+  "phone": "010-6237-6620",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3532126_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "렛츠런파크 서울 가을야간축제 별밤마중 Festival",
+    "desc": "",
+    "address": "경기도 과천시 경마공원대로 107 (주암동)"
+   }
+  },
+  "pstart": "2025-09-06",
+  "pend": "2025-09-21",
+  "period": "2025.09.06~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "리얼 트레저 페스티벌",
+  "district": "수원시",
+  "category": "일반축제",
+  "lat": 37.2738832007,
+  "lng": 127.0096292,
+  "phone": "070-8706-1099",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3547559_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리얼 트레저 페스티벌",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 효원로 1 (매산로3가)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-01",
+  "period": "2025.11.01~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "북내 금당천 삼색별미축제",
+  "district": "여주시",
+  "category": "일반축제",
+  "lat": 37.3277002492,
+  "lng": 127.681122407,
+  "phone": "031-887-3483",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3568656_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북내 금당천 삼색별미축제",
+    "desc": "",
+    "address": "경기도 여주시 북내면 당우리"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-27",
+  "period": "2025.09.26~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "선인장&다육식물展",
+  "district": "고양시",
+  "category": "일반축제",
+  "lat": 37.6645195058,
+  "lng": 126.760463152,
+  "phone": "031-8008-9540",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3537211_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "선인장&다육식물展",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 호수로 731 (장항동)"
+   }
+  },
+  "pstart": "2025-09-24",
+  "pend": "2025-09-28",
+  "period": "2025.09.24~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "성남페스티벌",
+  "district": "성남시",
+  "category": "일반축제",
+  "lat": 37.3803506411,
+  "lng": 127.1211938588,
+  "phone": "031-783-8000",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3380106_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "성남페스티벌",
+    "desc": "",
+    "address": "경기도 성남시 분당구 성남대로 550 (수내동)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-28",
+  "period": "2025.09.19~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "세계꽃 · 문화관광축제 호수야 놀자",
+  "district": "고양시",
+  "category": "일반축제",
+  "lat": 37.6553373919,
+  "lng": 126.7689209714,
+  "phone": "031-927-9974",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3367528_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계꽃 · 문화관광축제 호수야 놀자",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 호수로 595 (장항동)"
+   }
+  },
+  "pstart": "2025-10-08",
+  "pend": "2025-10-12",
+  "period": "2025.10.08~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "세계예술인한반도평화대회",
+  "district": "파주시",
+  "category": "기타행사",
+  "lat": 37.7880679075,
+  "lng": 126.6993124807,
+  "phone": "02-3673-1020",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3518549_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계예술인한반도평화대회",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 헤이리마을길 70-21"
+   }
+  },
+  "pstart": "2025-08-10",
+  "pend": "2025-09-08",
+  "period": "2025.08.10~2025.09.08"
+ },
+ {
+  "section": "festival",
+  "name_ko": "소사복숭아축제",
+  "district": "부천시",
+  "category": "일반축제",
+  "lat": 37.4816630099,
+  "lng": 126.7611737737,
+  "phone": "032-651-1576",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2837140_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "소사복숭아축제",
+    "desc": "",
+    "address": "경기도 부천시 소사구 성주로23번길 22 (송내동)"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-30",
+  "period": "2025.08.29~2025.08.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "수원재즈페스티벌",
+  "district": "수원시",
+  "category": "일반축제",
+  "lat": 37.2833192997,
+  "lng": 127.0700734505,
+  "phone": "070-4242-0838",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3525374_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수원재즈페스티벌",
+    "desc": "",
+    "address": "경기도 수원시 영통구 광교호수로 165 (하동)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "안산사이언스밸리(ASV) 과학축제",
+  "district": "안산시",
+  "category": "일반축제",
+  "lat": 37.3002159808,
+  "lng": 126.8377246364,
+  "phone": "010-2874-6881",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3555824_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안산사이언스밸리(ASV) 과학축제",
+    "desc": "",
+    "address": "경기도 안산시 상록구 한양대학로 55 (사동)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-02",
+  "period": "2025.11.01~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "안양춤축제",
+  "district": "안양시",
+  "category": "일반축제",
+  "lat": 37.3901883031,
+  "lng": 126.9613442188,
+  "phone": "031-687-0545",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3491689_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안양춤축제",
+    "desc": "",
+    "address": "경기도 안양시 동안구 관평로 149 중앙공원관리부속"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양강섬예술축제",
+  "district": "양평군",
+  "category": "전통공연",
+  "lat": 37.4831816818,
+  "lng": 127.4986816658,
+  "phone": "031-772-2622",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3560780_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "양강섬예술축제",
+    "desc": "",
+    "address": "경기도 양평군 양평읍 양평체육공원길 13"
+   }
+  },
+  "pstart": "2025-11-08",
+  "pend": "2025-11-08",
+  "period": "2025.11.08~2025.11.08"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양주국가유산 야행",
+  "district": "양주시",
+  "category": "일반축제",
+  "lat": 37.78510751,
+  "lng": 127.0295156915,
+  "phone": "031-8082-5673",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3527468_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양주국가유산 야행",
+    "desc": "",
+    "address": "경기도 양주시 부흥로1399번길 15 (유양동)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-21",
+  "period": "2025.09.19~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양평빙송어축제",
+  "district": "양평군",
+  "category": "일반축제",
+  "lat": 37.514550408,
+  "lng": 127.6574135888,
+  "phone": "031-775-5205",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3108393_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양평빙송어축제",
+    "desc": "",
+    "address": "경기도 양평군 곱다니길 55-2"
+   }
+  },
+  "pstart": "2025-12-06",
+  "pend": "2026-03-02",
+  "period": "2025.12.06~2026.03.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "용인청년페스티벌",
+  "district": "용인시",
+  "category": "일반축제",
+  "lat": 37.2496832314,
+  "lng": 127.165174104,
+  "phone": "031-6193-2791",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3541778_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "용인청년페스티벌",
+    "desc": "",
+    "address": "경기도 용인시 처인구 동백죽전대로 61 (삼가동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "운정호수공원 불꽃축제",
+  "district": "파주시",
+  "category": "일반축제",
+  "lat": 37.7201602411,
+  "lng": 126.7601366119,
+  "phone": "031-950-8433",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3566581_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운정호수공원 불꽃축제",
+    "desc": "",
+    "address": "경기도 파주시 경의로 1151 (와동동)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-01",
+  "period": "2025.11.01~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "의왕백운호수축제",
+  "district": "의왕시",
+  "category": "일반축제",
+  "lat": 37.3834399412,
+  "lng": 127.0091872809,
+  "phone": "031-345-2536",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3541063_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "의왕백운호수축제",
+    "desc": "",
+    "address": "경기도 의왕시 학현로 199-7 (학의동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전국해양스포츠제전",
+  "district": "시흥시",
+  "category": "일반축제",
+  "lat": 37.3267988841,
+  "lng": 126.6734082927,
+  "phone": "031-310-6931~6933",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3489241_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전국해양스포츠제전",
+    "desc": "",
+    "address": "경기도 시흥시 정왕동"
+   }
+  },
+  "pstart": "2025-08-30",
+  "pend": "2025-09-02",
+  "period": "2025.08.30~2025.09.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제10회 부천국제브레이킹대회(BIBC)",
+  "district": "부천시",
+  "category": "기타행사",
+  "lat": 37.5037883025,
+  "lng": 126.7660282681,
+  "phone": "032-320-6345",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3531483_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "제10회 부천국제브레이킹대회(BIBC)",
+    "desc": "",
+    "address": "경기도 부천시 원미구 길주로 210 (중동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제3회 발달장애인 문화예술페스티벌",
+  "district": "수원시",
+  "category": "기타행사",
+  "lat": 37.2614073374,
+  "lng": 127.0359410498,
+  "phone": "031-5191-3304",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3517332_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "제3회 발달장애인 문화예술페스티벌",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 효원로307번길 20 (인계동)"
+   }
+  },
+  "pstart": "2025-09-10",
+  "pend": "2025-09-10",
+  "period": "2025.09.10~2025.09.10"
+ },
+ {
+  "section": "festival",
+  "name_ko": "튼튼 펫 페스타",
+  "district": "화성시",
+  "category": "기타행사",
+  "lat": 37.1992404182,
+  "lng": 127.0855160695,
+  "phone": "010-3577-2985",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3536376_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "튼튼 펫 페스타",
+    "desc": "",
+    "address": "경기도 화성시 동부대로 1063-3 (오산동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-21",
+  "period": "2025.09.20~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "파주 케이컬처페스티벌",
+  "district": "파주시",
+  "category": "일반축제",
+  "lat": 37.7852432234,
+  "lng": 126.6985404091,
+  "phone": "031-956-2497",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3549414_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파주 케이컬처페스티벌",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 얼음실로 40"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-27",
+  "period": "2025.09.20~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "평택 원평나루 억새축제",
+  "district": "평택시",
+  "category": "일반축제",
+  "lat": 36.9844984904,
+  "lng": 127.081480734,
+  "phone": "070-8874-3026",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3534771_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평택 원평나루 억새축제",
+    "desc": "",
+    "address": "경기도 평택시 평택동"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "평택호 물빛축제",
+  "district": "평택시",
+  "category": "일반축제",
+  "lat": 36.921491829,
+  "lng": 126.9222413036,
+  "phone": "070-8874-3026",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3506298_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평택호 물빛축제",
+    "desc": "",
+    "address": "경기도 평택시 현덕면 평택호길 159"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-09-13",
+  "period": "2025.09.13~2025.09.13"
+ },
+ {
+  "section": "festival",
+  "name_ko": "포천 산정호수 명성산 억새꽃축제",
+  "district": "포천시",
+  "category": "일반축제",
+  "lat": 38.0683604037,
+  "lng": 127.3239666411,
+  "phone": "031-535-5135",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3555383_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포천 산정호수 명성산 억새꽃축제",
+    "desc": "",
+    "address": "경기도 포천시 영북면 산정호수로411번길 108"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "포천 한탄강 세계드론제전",
+  "district": "포천시",
+  "category": "일반축제",
+  "lat": 38.082987131,
+  "lng": 127.2085962208,
+  "phone": "031-538-3510~2",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3536593_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포천 한탄강 세계드론제전",
+    "desc": "",
+    "address": "경기도 포천시 관인면 창동로 832"
+   }
+  },
+  "pstart": "2025-10-09",
+  "pend": "2025-10-12",
+  "period": "2025.10.09~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "포천백운계곡 동장군축제",
+  "district": "포천시",
+  "category": "일반축제",
+  "lat": 38.0730419918,
+  "lng": 127.4095586709,
+  "phone": "031-536-9917",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3580521_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포천백운계곡 동장군축제",
+    "desc": "",
+    "address": "경기도 포천시 포화로 236-11"
+   }
+  },
+  "pstart": "2025-12-20",
+  "pend": "2026-02-22",
+  "period": "2025.12.20~2026.02.22"
+ },
+ {
+  "section": "festival",
+  "name_ko": "포천시 청년축제",
+  "district": "포천시",
+  "category": "일반축제",
+  "lat": 37.8891984878,
+  "lng": 127.2006276068,
+  "phone": "031-538-2561",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3546716_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포천시 청년축제",
+    "desc": "",
+    "address": "경기도 포천시 호국로 1518"
+   }
+  },
+  "pstart": "2025-10-11",
+  "pend": "2025-10-12",
+  "period": "2025.10.11~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "화성시 도농 어울림축제",
+  "district": "화성시",
+  "category": "일반축제",
+  "lat": 37.1995598559,
+  "lng": 127.0871853538,
+  "phone": "031-236-7103",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3498243_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화성시 도농 어울림축제",
+    "desc": "",
+    "address": "경기도 화성시 동부대로 1063-2 (오산동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-21",
+  "period": "2025.09.20~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 경기콘텐츠페스티벌",
+  "district": "수원시",
+  "category": "박람회",
+  "lat": 37.2858799237,
+  "lng": 127.0594632301,
+  "phone": "070-7575-3102",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3532267_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 경기콘텐츠페스티벌",
+    "desc": "",
+    "address": "경기도 수원시 영통구 광교중앙로 140 (하동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-27",
+  "period": "2025.09.26~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 대한민국 AI교육 페스티벌",
+  "district": "고양시",
+  "category": "박람회",
+  "lat": 37.6689881691,
+  "lng": 126.7458171427,
+  "phone": "010-4045-6953",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3562158_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 대한민국 AI교육 페스티벌",
+    "desc": "",
+    "address": "경기도 고양시 일산서구 킨텍스로 217-60 (대화동)"
+   }
+  },
+  "pstart": "2025-11-21",
+  "pend": "2025-11-22",
+  "period": "2025.11.21~2025.11.22"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 대한민국 산림박람회",
+  "district": "광주시",
+  "category": "박람회",
+  "lat": 37.3526075818,
+  "lng": 127.3276231368,
+  "phone": "02-482-7647",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3537064_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 대한민국 산림박람회",
+    "desc": "",
+    "address": "경기도 광주시 곤지암읍 경충대로 727"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-21",
+  "period": "2025.10.18~2025.10.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 뷰티썸 수원",
+  "district": "수원시",
+  "category": "박람회",
+  "lat": 37.2858799237,
+  "lng": 127.0594632301,
+  "phone": "02-6121-6418",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3552008_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 뷰티썸 수원",
+    "desc": "",
+    "address": "경기도 수원시 영통구 광교중앙로 140 (하동)"
+   }
+  },
+  "pstart": "2025-10-31",
+  "pend": "2025-11-02",
+  "period": "2025.10.31~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 안성맞춤 상설공연 “톡톡달콤 페스티벌”",
+  "district": "안성시",
+  "category": "기타행사",
+  "lat": 37.0564357215,
+  "lng": 127.4516758566,
+  "phone": "031-677-2554",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3558601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 안성맞춤 상설공연 “톡톡달콤 페스티벌”",
+    "desc": "",
+    "address": "경기도 안성시 죽산면 용설호수길 101"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-01",
+  "period": "2025.11.01~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 양주관아지에서 만나는 특별한 주말",
+  "district": "양주시",
+  "category": "기타행사",
+  "lat": 37.78510751,
+  "lng": 127.0295156915,
+  "phone": "031-8082-5676",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3546299_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 양주관아지에서 만나는 특별한 주말",
+    "desc": "",
+    "address": "경기도 양주시 부흥로1399번길 15 (유양동)"
+   }
+  },
+  "pstart": "2025-10-01",
+  "pend": "2025-10-31",
+  "period": "2025.10.01~2025.10.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 에듀의왕! 어울림축제",
+  "district": "의왕시",
+  "category": "기타행사",
+  "lat": 37.3056701893,
+  "lng": 126.9537833824,
+  "phone": "031-345-3440",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3550999_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 에듀의왕! 어울림축제",
+    "desc": "",
+    "address": "경기도 의왕시 왕송못동로 307 (월암동)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-25",
+  "period": "2025.10.25~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 우리쌀 우리술 K-라이스페스타",
+  "district": "고양시",
+  "category": "박람회",
+  "lat": 37.6689881691,
+  "lng": 126.7458171427,
+  "phone": "070-4681-5717",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3532329_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 우리쌀 우리술 K-라이스페스타",
+    "desc": "",
+    "address": "경기도 고양시 일산서구 킨텍스로 217-60 (대화동)"
+   }
+  },
+  "pstart": "2025-11-28",
+  "pend": "2025-11-30",
+  "period": "2025.11.28~2025.11.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 이천펫축제",
+  "district": "이천시",
+  "category": "기타행사",
+  "lat": 37.2913267465,
+  "lng": 127.3806506302,
+  "phone": "031-645-3683",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3521787_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 이천펫축제",
+    "desc": "",
+    "address": "경기도 이천시 신둔면 도자예술로62번길 123"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-09-14",
+  "period": "2025.09.13~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 제7회 BMF(블랙뮤직페스티벌)",
+  "district": "의정부시",
+  "category": "대중콘서트",
+  "lat": 37.7481534845,
+  "lng": 127.0297139555,
+  "phone": "031-828-5841~2",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3551013_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 제7회 BMF(블랙뮤직페스티벌)",
+    "desc": "",
+    "address": "경기도 의정부시 가능동"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-25",
+  "period": "2025.10.25~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 파주포크페스티벌",
+  "district": "파주시",
+  "category": "대중콘서트",
+  "lat": 37.8897734643,
+  "lng": 126.7417751478,
+  "phone": "031-950-8431~5",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3541083_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 파주포크페스티벌",
+    "desc": "",
+    "address": "경기도 파주시 문산읍 임진각로 164"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 한글날 문화행사",
+  "district": "여주시",
+  "category": "기타행사",
+  "lat": 37.3048294176,
+  "lng": 127.6128375714,
+  "phone": "031-881-9692, 9740",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3540327_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 한글날 문화행사",
+    "desc": "",
+    "address": "경기도 여주시 세종대왕면 영릉로 269-10"
+   }
+  },
+  "pstart": "2025-10-09",
+  "pend": "2025-10-09",
+  "period": "2025.10.09~2025.10.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "WOW 다놀자! 양평페스타",
+  "district": "양평군",
+  "category": "일반축제",
+  "lat": 37.4987368948,
+  "lng": 127.5782878872,
+  "phone": "031-770-1500",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3554410_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "WOW 다놀자! 양평페스타",
+    "desc": "",
+    "address": "경기도 양평군 용문면 연수로 209"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-26",
+  "period": "2025.10.25~2025.10.26"
+ }
+]

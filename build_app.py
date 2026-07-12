@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
-"""data/<region>/<section>.json → index.html : 'Food Trip' 멀티 지역·섹션 가이드.
-지역(부산·수원·안산·판교역·정자역·서현역) × 섹션탭(명소·음식·우슐랭·축제·숙박·쇼핑)
-+ 지도(Leaflet/OSM) + 다국어(한·영·일·중) + 가본 곳 체크 · 찜(우선순위) 저장(localStorage)."""
+"""data/<region>/<section>.json → index.html + pack/<region>.json : '그곳에 가면' 전국 가이드.
+지역(부산 + 전국 시·도 + 수도권 상세) × 섹션탭(명소·음식·우슐랭·축제·숙박·쇼핑).
+데이터는 지역별 pack JSON으로 분리(lazy-load) — 선택한 지역만 내려받음.
+지도(Leaflet/OSM) + 다국어(한·영·일·중) + 계정 저장(찜·가본 곳)."""
 import json, datetime, os
 
-REGIONS = ["busan", "suwon", "ansan", "pangyo", "jeongja", "seohyeon"]
+REGIONS = ["busan", "seoul", "incheon", "gyeonggi", "suwon", "ansan", "pangyo",
+           "jeongja", "seohyeon", "gangwon", "daejeon", "sejong", "chungbuk",
+           "chungnam", "daegu", "gyeongbuk", "ulsan", "gyeongnam", "gwangju",
+           "jeonbuk", "jeonnam", "jeju"]
 SECTIONS = ["sights", "food", "usulleng", "festival", "stay", "shopping"]
 
 
@@ -55,7 +59,7 @@ def slim_row(r):
     return out
 
 
-data = {}
+os.makedirs("pack", exist_ok=True)
 counts = {}
 for reg in REGIONS:
     rd = {}
@@ -63,16 +67,18 @@ for reg in REGIONS:
         path = f"data/{reg}/{s}.json"
         rows = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else []
         rd[s] = [slim_row(r) for r in rows if (r.get("i18n", {}).get("ko", {}).get("name") or r.get("name_ko"))]
-    if any(rd.values()):  # 데이터 있는 지역만 포함
-        data[reg] = {k: v for k, v in rd.items() if v}
-        counts[reg] = {k: len(v) for k, v in data[reg].items()}
+    if any(rd.values()):  # 데이터 있는 지역만 pack 생성
+        packed = {k: v for k, v in rd.items() if v}
+        with open(f"pack/{reg}.json", "w", encoding="utf-8") as f:
+            json.dump(packed, f, ensure_ascii=False, separators=(",", ":"))
+        counts[reg] = {k: len(v) for k, v in packed.items()}
 
-data_js = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+meta_js = json.dumps(counts, ensure_ascii=False, separators=(",", ":"))
 total = sum(sum(c.values()) for c in counts.values())
 updated = datetime.date.today().isoformat()
 for reg, c in counts.items():
     print(f"{reg}: {c} 소계 {sum(c.values())}")
-print("총", total)
+print("총", total, f"· pack {len(counts)}개 지역")
 
 HTML = r"""<!doctype html>
 <html lang="ko">
@@ -80,8 +86,8 @@ HTML = r"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0a6ebd">
-<meta name="description" content="Food Trip — 부산·수원·안산·판교·정자·서현 명소·음식·축제·숙박·쇼핑 __TOTAL__곳 지도·다국어 가이드.">
-<title>Food Trip · 부산에 가면 & 수도권 맛집 지도</title>
+<meta name="description" content="그곳에 가면 — 전국 시·도 명소·음식·축제·숙박·쇼핑 __TOTAL__곳. 카카오 별점·지도·다국어 여행 가이드.">
+<title>그곳에 가면 · Food Trip Korea</title>
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -335,17 +341,46 @@ footer a{text-decoration:underline}
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
 <script>
-const DB=__DATA__;
+const REGMETA=__REGMETA__;
+const DB={};
 const TODAY="__TODAY__";
 const SEC=[{k:"sights",i:"🏞️"},{k:"food",i:"🍜"},{k:"usulleng",i:"📮"},{k:"festival",i:"🎉"},{k:"stay",i:"🏨"},{k:"shopping",i:"🛍️"}];
 const REGIONS=[
  {k:"busan",i:"🌊",n:{ko:"부산",en:"Busan",ja:"釜山",zh:"釜山"},c:[35.16,129.07],z:11},
+ {k:"seoul",i:"🏙️",n:{ko:"서울",en:"Seoul",ja:"ソウル",zh:"首尔"},c:[37.55,126.99],z:11},
+ {k:"incheon",i:"🛳️",n:{ko:"인천",en:"Incheon",ja:"仁川",zh:"仁川"},c:[37.45,126.7],z:11},
+ {k:"gyeonggi",i:"🌇",n:{ko:"경기",en:"Gyeonggi",ja:"京畿",zh:"京畿"},c:[37.4,127.2],z:9},
  {k:"suwon",i:"🏯",n:{ko:"수원",en:"Suwon",ja:"水原",zh:"水原"},c:[37.28,127.01],z:12},
  {k:"ansan",i:"🌷",n:{ko:"안산",en:"Ansan",ja:"安山",zh:"安山"},c:[37.32,126.83],z:12},
  {k:"pangyo",i:"🚄",n:{ko:"판교역",en:"Pangyo Stn",ja:"板橋駅",zh:"板桥站"},c:[37.394761,127.111217],z:14},
  {k:"jeongja",i:"🚇",n:{ko:"정자역",en:"Jeongja Stn",ja:"亭子駅",zh:"亭子站"},c:[37.365994,127.108727],z:14},
  {k:"seohyeon",i:"🚉",n:{ko:"서현역",en:"Seohyeon Stn",ja:"書峴駅",zh:"书岘站"},c:[37.385166,127.123674],z:14},
-].filter(r=>DB[r.k]);
+ {k:"gangwon",i:"🏔️",n:{ko:"강원",en:"Gangwon",ja:"江原",zh:"江原"},c:[37.8,128.2],z:9},
+ {k:"daejeon",i:"🔬",n:{ko:"대전",en:"Daejeon",ja:"大田",zh:"大田"},c:[36.35,127.38],z:12},
+ {k:"sejong",i:"🏛️",n:{ko:"세종",en:"Sejong",ja:"世宗",zh:"世宗"},c:[36.48,127.29],z:12},
+ {k:"chungbuk",i:"🌿",n:{ko:"충북",en:"Chungbuk",ja:"忠北",zh:"忠北"},c:[36.8,127.7],z:9},
+ {k:"chungnam",i:"🌾",n:{ko:"충남",en:"Chungnam",ja:"忠南",zh:"忠南"},c:[36.5,126.8],z:9},
+ {k:"daegu",i:"🌞",n:{ko:"대구",en:"Daegu",ja:"大邱",zh:"大邱"},c:[35.87,128.6],z:11},
+ {k:"gyeongbuk",i:"🏯",n:{ko:"경북",en:"Gyeongbuk",ja:"慶北",zh:"庆北"},c:[36.3,128.7],z:9},
+ {k:"ulsan",i:"🐋",n:{ko:"울산",en:"Ulsan",ja:"蔚山",zh:"蔚山"},c:[35.54,129.31],z:11},
+ {k:"gyeongnam",i:"🦀",n:{ko:"경남",en:"Gyeongnam",ja:"慶南",zh:"庆南"},c:[35.3,128.3],z:9},
+ {k:"gwangju",i:"🎨",n:{ko:"광주",en:"Gwangju",ja:"光州",zh:"光州"},c:[35.16,126.85],z:12},
+ {k:"jeonbuk",i:"🍲",n:{ko:"전북",en:"Jeonbuk",ja:"全北",zh:"全北"},c:[35.7,127.1],z:9},
+ {k:"jeonnam",i:"🌊",n:{ko:"전남",en:"Jeonnam",ja:"全南",zh:"全南"},c:[34.8,126.9],z:9},
+ {k:"jeju",i:"🍊",n:{ko:"제주",en:"Jeju",ja:"済州",zh:"济州"},c:[33.38,126.55],z:10},
+].filter(r=>REGMETA[r.k]);
+// ── 지역 데이터 lazy-load: 선택한 지역의 pack만 내려받음 ──
+const _loading={};
+function ensureRegion(k){
+  if(DB[k])return Promise.resolve();
+  if(_loading[k])return _loading[k];
+  return _loading[k]=fetch("pack/"+k+".json").then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
+    .then(d=>{DB[k]=d;ALLIDX=null})
+    .catch(e=>{delete _loading[k];throw e});
+}
+function showLoading(){document.getElementById("count").innerHTML="";
+  document.getElementById("grid").innerHTML=`<div class="empty"><div class="em">⏳</div><p>${U().loading}</p></div>`}
+function showLoadErr(){document.getElementById("grid").innerHTML=`<div class="empty"><div class="em">⚠️</div><p>${U().loadErr}</p></div>`}
 function REG(){return REGIONS.find(r=>r.k===state.region)||REGIONS[0]}
 function regName(r){return r.n[state.lang]||r.n.ko}
 function brandText(){const r=REG();return {ko:`${r.n.ko}에 가면`,en:`When in ${r.n.en}`,ja:`${r.n.ja}に行ったら`,zh:`来${r.n.zh}`}[state.lang]}
@@ -365,10 +400,10 @@ const CAT_I18N={
  "축제·행사":{en:"Festival & Event",ja:"祭り・イベント",zh:"庆典活动"},"기타":{en:"Others",ja:"その他",zh:"其他"},
  "국밥·탕":{en:"Gukbap & Soup",ja:"クッパ・スープ",zh:"汤饭"},"면류":{en:"Noodles",ja:"麺類",zh:"面食"},"카페·디저트":{en:"Cafe & Dessert",ja:"カフェ・デザート",zh:"咖啡甜点"},"회·해산물":{en:"Seafood & Hoe",ja:"刺身・海鮮",zh:"生鱼海鲜"},"일식·돈카츠":{en:"Japanese",ja:"和食・トンカツ",zh:"日料"},"양식·파스타":{en:"Western & Pasta",ja:"洋食・パスタ",zh:"西餐"},"분식":{en:"Snacks",ja:"粉食",zh:"小吃"},"치킨·호프":{en:"Chicken & Pub",ja:"チキン・ビール",zh:"炸鸡啤酒"}};
 const UI={
- ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",rate:"평점순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 __UPDATED__`},
- en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",rate:"Top rated",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated __UPDATED__`},
- ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",rate:"評価順",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 __UPDATED__`},
- zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",rate:"评分",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 __UPDATED__`}};
+ ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",rate:"평점순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",loading:"불러오는 중…",loadErr:"데이터를 불러오지 못했어요. 네트워크 확인 후 새로고침해 주세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 __UPDATED__`},
+ en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",rate:"Top rated",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",loading:"Loading…",loadErr:"Failed to load data. Check your network and refresh.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated __UPDATED__`},
+ ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",rate:"評価順",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",loading:"読み込み中…",loadErr:"データを読み込めませんでした。再読み込みしてください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 __UPDATED__`},
+ zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",rate:"评分",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",loading:"加载中…",loadErr:"数据加载失败，请刷新。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 __UPDATED__`}};
 
 const LOCT={
  ko:{me:"내 위치",nearest:"거리순",within:"이내",all:"전체",nearme:"내 위치 기준",sortLabel:"정렬",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
@@ -389,10 +424,10 @@ const USRC={
  ja:` · 郵便局グルメ: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">郵便局おすすめグルメガイド(釜山地方郵政庁 2024·2025)</a> — 蔚山・慶南を含む`,
  zh:` · 邮局美食: <a href="https://jk-ayaan.github.io/usulleng/" target="_blank" rel="noopener">邮局推荐美食指南(釜山地方邮政厅 2024·2025)</a> — 含蔚山·庆南`};
 const TSRC={
- ko:` · 수원·안산·판교·정자·서현: <a href="https://knto.or.kr" target="_blank" rel="noopener">한국관광공사 TourAPI</a>`,
- en:` · Suwon·Ansan·Pangyo·Jeongja·Seohyeon: <a href="https://knto.or.kr" target="_blank" rel="noopener">KTO TourAPI</a>`,
- ja:` · 水原・安山・板橋・亭子・書峴: <a href="https://knto.or.kr" target="_blank" rel="noopener">韓国観光公社 TourAPI</a>`,
- zh:` · 水原·安山·板桥·亭子·书岘: <a href="https://knto.or.kr" target="_blank" rel="noopener">韩国观光公社 TourAPI</a>`};
+ ko:` · 전국 시·도 및 수도권 상세: <a href="https://knto.or.kr" target="_blank" rel="noopener">한국관광공사 TourAPI</a>`,
+ en:` · Nationwide & metro areas: <a href="https://knto.or.kr" target="_blank" rel="noopener">KTO TourAPI</a>`,
+ ja:` · 全国市・道: <a href="https://knto.or.kr" target="_blank" rel="noopener">韓国観光公社 TourAPI</a>`,
+ zh:` · 全国市·道: <a href="https://knto.or.kr" target="_blank" rel="noopener">韩国观光公社 TourAPI</a>`};
 // ── Firebase: 계정 로그인(Google/Apple) + Firestore 저장 ──
 firebase.initializeApp({apiKey:"AIzaSyCes21kZAZGrTlL0rOSLjGivsXVwU4xaHs",authDomain:"food-trip-5c302.firebaseapp.com",projectId:"food-trip-5c302",storageBucket:"food-trip-5c302.firebasestorage.app",messagingSenderId:"392054177863",appId:"1:392054177863:web:b957c32238aa0f4e15b162"});
 const fbAuth=firebase.auth(),fdb=firebase.firestore();
@@ -413,7 +448,7 @@ function myCounts(){let v=0,w=0;rows().forEach(r=>{const id=rid(r);if(store.v[id
 let ALLIDX=null;
 function allIdx(){if(!ALLIDX){ALLIDX={};Object.keys(DB).forEach(reg=>Object.keys(DB[reg]).forEach(sec=>DB[reg][sec].forEach(r=>{ALLIDX[ridOf(reg,sec,r)]={reg,sec,r}})))}return ALLIDX}
 const PRIO_COL=["","#d2453b","#e8632c","#7a8896"];
-const state={region:(()=>{const s=localStorage.getItem("bf_region");return (s&&DB[s])?s:"busan"})(),sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,mine:"all",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
+const state={region:(()=>{const s=localStorage.getItem("bf_region");return (s&&REGMETA[s])?s:"busan"})(),sec:"food",q:"",cat:"전체",gu:"전체",sort:"def",view:"list",radius:0,loc:null,mine:"all",lang:(()=>{const s=localStorage.getItem("bf_lang");if(s)return s;const n=(navigator.language||"ko").slice(0,2);return ["en","ja","zh"].includes(n)?n:"ko"})()};
 function tr(o){if(!o)return "";const L=state.lang;if(L==="zh")return o.en||o.ko||"";return o[L]||o.en||o.ko||""}
 function catName(k){const m=CAT_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
 function guName(k){const m=GU_I18N[k];if(!m)return k;return state.lang==="ko"?k:(m[state.lang]||k)}
@@ -555,20 +590,24 @@ function render(){const list=filtered();document.getElementById("count").innerHT
   else document.getElementById("grid").innerHTML=list.length?list.map(card).join(""):`<div class="empty"><div class="em">🔍</div><p>${U().empty}</p></div>`}
 
 function setToolsH(){document.documentElement.style.setProperty("--toolsH",(document.querySelector(".tools").offsetHeight+document.querySelector(".hero").offsetHeight)+"px")}
-function buildTabs(){const rd=DB[state.region]||{};document.getElementById("tabs").innerHTML=SEC.filter(s=>(rd[s.k]||[]).length).map(s=>`<button class="tab${s.k===state.sec?" on":""}" data-s="${s.k}">${s.i} ${secName(s.k)}<span class="tn">${rd[s.k].length}</span></button>`).join("")}
+function buildTabs(){const rm=REGMETA[state.region]||{};document.getElementById("tabs").innerHTML=SEC.filter(s=>rm[s.k]).map(s=>`<button class="tab${s.k===state.sec?" on":""}" data-s="${s.k}">${s.i} ${secName(s.k)}<span class="tn">${rm[s.k]}</span></button>`).join("")}
 function buildRegs(){const el=document.getElementById("regs");el.hidden=REGIONS.length<2;
-  el.innerHTML=REGIONS.map(r=>{const tot=Object.values(DB[r.k]).reduce((a,l)=>a+l.length,0);
-    return `<button class="reg${r.k===state.region?" on":""}" data-r="${r.k}">${r.i} ${regName(r)}<span class="rn">${tot}</span></button>`}).join("")}
+  el.innerHTML=REGIONS.map(r=>{const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
+    return `<button class="reg${r.k===state.region?" on":""}" data-r="${r.k}">${r.i} ${regName(r)}<span class="rn">${tot>=1000?(tot/1000).toFixed(1)+"k":tot}</span></button>`}).join("")}
+function regionUI(){
+  document.getElementById("subtitle").textContent=U().sub(state.sec,rows().length);
+  buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);
+  if(mapReady)try{map.closePopup()}catch(e){}
+  renderDD();render();setToolsH()}
 function switchRegion(k){state.region=k;localStorage.setItem("bf_region",k);
-  const rd=DB[k]||{};
-  if(!(rd[state.sec]||[]).length){const f=SEC.find(s=>(rd[s.k]||[]).length);state.sec=f?f.k:"food"}
+  const rm=REGMETA[k]||{};
+  if(!rm[state.sec]){const f=SEC.find(s=>rm[s.k]);state.sec=f?f.k:"food"}
   state.cat="전체";state.gu="전체";state.q="";document.getElementById("q").value="";
   buildRegs();
   document.getElementById("brand").textContent=brandText();
-  document.getElementById("subtitle").textContent=U().sub(state.sec,rows().length);
-  buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);
-  if(mapReady)try{map.closePopup()}catch(e){}
-  renderDD();render();window.scrollTo({top:0,behavior:"instant"});setToolsH()}
+  buildTabs();showLoading();
+  ensureRegion(k).then(()=>{if(state.region!==k)return;regionUI();window.scrollTo({top:0,behavior:"instant"})})
+    .catch(showLoadErr)}
 function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.getElementById("brand").textContent=brandText();
   buildRegs();
@@ -584,7 +623,9 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   renderDD();
   document.getElementById("locate").setAttribute("aria-label",LT().me);
   document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
-  buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);render();setToolsH()}
+  buildTabs();
+  if(DB[state.region]){buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);render()}
+  setToolsH()}
 
 function switchSection(sec){state.sec=sec;state.cat="전체";state.gu="전체";state.q="";document.getElementById("q").value="";
   document.getElementById("subtitle").textContent=U().sub(sec,rows().length);
@@ -644,7 +685,8 @@ function renderML(){
     const rm=REGIONS.find(x=>x.k===reg);
     const sub=[(REGIONS.length>1&&rm)?regName(rm):"",e?catName(e.r.c):"",e&&e.r.g?guName(e.r.g):(e?"":parts[2]||"")].filter(Boolean).join(" · ");
     const p=store.w[id]||0;
-    return `<div class="mitem${e?"":" gone"}" data-mid="${esc(id)}"><span class="mi">${SECICON[sec]||"📍"}</span><div class="mtx"><div class="mn">${esc(name)}</div><div class="ms">${esc(sub)}</div></div>${mlTab==="w"&&p?`<button class="prio" data-act="p" data-id="${esc(id)}" style="background:${PRIO_COL[p]}">⚑ ${mt.p[p]}</button>`:""}<button class="sbtn ${mlTab==="w"?"w":"v"} on" data-act="${mlTab}" data-id="${esc(id)}">${mlTab==="w"?HEART:CHKI}</button></div>`}).join("");
+    const gone=!e&&!REGMETA[reg];  // 지역 pack 미로딩이면 클릭 시 로드 (완전 삭제된 항목만 gone)
+    return `<div class="mitem${gone?" gone":""}" data-mid="${esc(id)}"><span class="mi">${SECICON[sec]||"📍"}</span><div class="mtx"><div class="mn">${esc(name)}</div><div class="ms">${esc(sub)}</div></div>${mlTab==="w"&&p?`<button class="prio" data-act="p" data-id="${esc(id)}" style="background:${PRIO_COL[p]}">⚑ ${mt.p[p]}</button>`:""}<button class="sbtn ${mlTab==="w"?"w":"v"} on" data-act="${mlTab}" data-id="${esc(id)}">${mlTab==="w"?HEART:CHKI}</button></div>`}).join("");
   document.getElementById("mlist").innerHTML=h||`<div class="mempty">${mt.empty}</div>`;
 }
 function mlOpen(o){document.getElementById("mlay").classList.toggle("show",o);if(o)renderML()}
@@ -697,7 +739,19 @@ document.querySelectorAll(".mtab").forEach(b=>b.addEventListener("click",()=>{ml
 document.getElementById("mlist").addEventListener("click",e=>{
   if(e.target.closest("[data-act]"))return;
   const it=e.target.closest(".mitem");if(!it||it.classList.contains("gone"))return;
-  const ent=allIdx()[it.dataset.mid];if(!ent)return;
+  const id=it.dataset.mid,ent=allIdx()[id];
+  if(!ent){ // 미로딩 지역: pack 로드 후 이동
+    let reg="busan",rest=id;const at=id.indexOf("@");
+    if(at>0){reg=id.slice(0,at);rest=id.slice(at+1)}
+    if(!REGMETA[reg])return;
+    const parts=rest.split("|");
+    mlOpen(false);switchRegion(reg);
+    ensureRegion(reg).then(()=>{
+      if(REGMETA[reg][parts[0]]){state.sec=parts[0];buildTabs()}
+      state.mine="all";state.q=parts[1]||"";document.getElementById("q").value=state.q;
+      regionUI()}).catch(()=>{});
+    return;
+  }
   mlOpen(false);
   if(state.region!==ent.reg){state.region=ent.reg;localStorage.setItem("bf_region",ent.reg);buildRegs();document.getElementById("brand").textContent=brandText()}
   if(state.sec!==ent.sec)switchSection(ent.sec);
@@ -734,12 +788,14 @@ function visitorCounter(){
   }).catch(()=>{});
 }
 applyLang();
+showLoading();
+ensureRegion(state.region).then(()=>regionUI()).catch(showLoadErr);
 visitorCounter();
 </script>
 </body>
 </html>"""
 
-out = (HTML.replace("__DATA__", data_js).replace("__TOTAL__", str(total))
+out = (HTML.replace("__REGMETA__", meta_js).replace("__TOTAL__", str(total))
            .replace("__TODAY__", updated).replace("__UPDATED__", updated))
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(out)

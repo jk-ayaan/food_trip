@@ -1,0 +1,6955 @@
+[
+ {
+  "section": "food",
+  "name_ko": "가랑드",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2827410854,
+  "lng": 127.3015424956,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "가랑드",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 곡성읍 낙동원로 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가우도친구집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.5325972175,
+  "lng": 126.7789321912,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2823330_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가우도친구집",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 가우도길 2-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강남집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7636307887,
+  "lng": 127.6668652904,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2871676_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강남집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 학동6길 1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강의리추어탕",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.2645807925,
+  "lng": 126.9043003018,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2839809_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강의리추어탕",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 강의길 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강진만갯벌탕",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6403545044,
+  "lng": 126.77470773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3575983_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강진만갯벌탕",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 동성로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강진만한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6348550048,
+  "lng": 126.7676640386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2871590_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강진만한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 보은로 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강화식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3616898589,
+  "lng": 126.4449191893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2876633_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 굴비로 9-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "개성순두부전문점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3164042784,
+  "lng": 126.7502315674,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "개성순두부전문점",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 개포로 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갯마을식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0012561968,
+  "lng": 126.1397134314,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "갯마을식당",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 증도중앙길 40-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "거북선횟집 하모샤브샤브",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7162209533,
+  "lng": 127.7548115805,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2932054_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거북선횟집 하모샤브샤브",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 강남동로 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "거북이초밥",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.9264602876,
+  "lng": 127.6979584156,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2861424_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "거북이초밥",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 항만9로 126"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경도회관 본점",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7218280888,
+  "lng": 127.7218809837,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경도회관 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 대경도길 2-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경해루",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.316920891,
+  "lng": 126.7504482027,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2906816_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경해루",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 완도읍 개포로 12-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고구려초밥 금당본점",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.9483270721,
+  "lng": 127.5257590752,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2858608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고구려초밥 금당본점",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 기적의도서관길 31 고구려초밥"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고려회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.8472908268,
+  "lng": 127.3423110718,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2861587_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "고려회관",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 채동선로 294"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고산촌집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2245590449,
+  "lng": 126.9930573461,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2846414_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "고산촌집",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 산덕연동길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고서회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.2240449099,
+  "lng": 126.9751394997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2846427_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "고서회관",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 원등1길 16-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고소먹방",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7581064097,
+  "lng": 127.6669709769,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2729848_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고소먹방",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 선소로 59 (학동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고향식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0029227161,
+  "lng": 126.1422298346,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2891417_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고향식당",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 문준경길 165"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고흥삼계탕",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8063663643,
+  "lng": 126.4362141002,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고흥삼계탕",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 복산길6번길 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고흥한우직판장",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.6126608217,
+  "lng": 127.2974875283,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고흥한우직판장",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 고흥읍 고흥로 1892-67"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곡성가든",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 35.3017723513,
+  "lng": 127.1447030893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2901763_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곡성가든",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 배감길 16-19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "골목집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7321658039,
+  "lng": 127.7209502469,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2912072_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골목집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 어항로 23-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "과역기사님식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6771324585,
+  "lng": 127.3611414598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2788459_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "과역기사님식당",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 과역면 고흥로 2959-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "관산식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6177074041,
+  "lng": 127.2931155634,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2832491_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "관산식당",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 고흥로 1896"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "광양 소낭구",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9777052168,
+  "lng": 127.577306578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2891269_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "광양 소낭구",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 서평로 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "광양정",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9347760687,
+  "lng": 127.7007440694,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2891319_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "광양정",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 발섬4길 17-12 (중동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구백가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9837706346,
+  "lng": 126.8930055435,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2864672_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구백가든",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 천태로 1020"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구지가",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0506855423,
+  "lng": 126.9065721266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2790987_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구지가",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 화순읍 지강로 650"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "국동칼국수",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7251386293,
+  "lng": 127.7103235767,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2931212_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국동칼국수",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 신월로 578-1 (신월동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "궁전회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.2782747162,
+  "lng": 127.2895047838,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "궁전회관",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 곡성읍 중앙로 54"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그냥경양식 (그냥)",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4843580927,
+  "lng": 126.2637453237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2798040_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그냥경양식 (그냥)",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 철마길 3-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그린식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7254443051,
+  "lng": 126.5680072023,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그린식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 학산면 독천로 171-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금동숯불구이식육식당",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.9345780496,
+  "lng": 126.6727067608,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2877594_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "금동숯불구이식육식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 고분로 1014"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금빈회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.9515621674,
+  "lng": 127.4879845327,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2858596_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금빈회관",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 장명4길 8 금빈회관"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금성냉면",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.8087186993,
+  "lng": 126.4253733342,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2906783_image3_1.gif",
+  "i18n": {
+   "ko": {
+    "name": "금성냉면",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 옥암로 109"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "기찬메밀국수 영암농협본점",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7958247398,
+  "lng": 126.7034157786,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2877616_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "기찬메밀국수 영암농협본점",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 영암로 1588 기찬장터"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "길상식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9919495925,
+  "lng": 127.3438545088,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "길상식당",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 승주읍 승암교길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "까망감",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3958758993,
+  "lng": 127.0001051584,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2833063_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "까망감",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 추월산로 900-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "깨비게장",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.733604557,
+  "lng": 127.7224084162,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2783530_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "깨비게장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 봉산남3길 23-8 (봉산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽃게랑 낙지랑",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.8088361253,
+  "lng": 126.4724108438,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꽃게랑 낙지랑",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 삼향읍 남악리"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽃돌게장1번가",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7330907882,
+  "lng": 127.7259942263,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2858395_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꽃돌게장1번가",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 봉산2로 36"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽃피는 무화家",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8412221721,
+  "lng": 126.3522206828,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꽃피는 무화家",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 압해읍 압해로 393-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나눌터",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9326286341,
+  "lng": 127.5140688342,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2931007_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나눌터",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 팔마1길 4 (연향동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나무포",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7918310285,
+  "lng": 126.3836190964,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "나무포",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 수문로 19-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나폴리횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7331188507,
+  "lng": 127.7426455476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2866786_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나폴리횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 진두해안길 68"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남경회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7998585093,
+  "lng": 126.4207128487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2843980_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남경회관",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 하당로68번길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남녘들밥상",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9404442971,
+  "lng": 127.5068137172,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2858574_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남녘들밥상",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 하풍동길 21 오션팰리스"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남도예담",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.335323771,
+  "lng": 126.9620600665,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2740532_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남도예담",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 월산면 담장로 143"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남원식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7426205398,
+  "lng": 127.7412009877,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2916012_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "남원식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 관문2길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남진이네게장갈치명가",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7354988168,
+  "lng": 127.7239971179,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2866808_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남진이네게장갈치명가",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 봉산1로 49"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남창농원",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.4529056961,
+  "lng": 126.8455590832,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2891516_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남창농원",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 남창로 340-22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남평한우촌",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 35.0473599145,
+  "lng": 126.8470135803,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2924915_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남평한우촌",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 남평1로 82-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남평할매집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0318928143,
+  "lng": 126.7170337822,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남평할매집",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 금성관길 2 (중앙동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "낭만24포차",
+  "district": "전남광주통합특별시",
+  "category": "분식·주점",
+  "lat": 34.7377434091,
+  "lng": 127.747033935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2866825_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낭만24포차",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 하멜로 78"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "낭만카페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.738773734,
+  "lng": 127.7403817135,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2866844_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낭만카페",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 고소5길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "녹양관",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.774290018,
+  "lng": 126.9743952234,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "녹양관",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장평중앙길 49"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "농가밥상 여미락",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9301566321,
+  "lng": 127.510755299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3443456_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "농가밥상 여미락",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 국가정원1호길 162-11 (풍덕동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "농부애빵 마시쿠만",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.8418443194,
+  "lng": 126.3519318045,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2857146_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "농부애빵 마시쿠만",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 압해로 401"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다강한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6418793761,
+  "lng": 126.7772769115,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2840023_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다강한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 강진읍 중앙로 193"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다다한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7565516418,
+  "lng": 127.7024512454,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다다한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 여문1로 89"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다도해회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.4649800017,
+  "lng": 127.4543108068,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다도해회관",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 봉래면 나로도항길 103-18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다향보성녹돈촌",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6703285741,
+  "lng": 127.0865934832,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다향보성녹돈촌",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 회천면 남부관광로 2320"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "달님이네맛집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4851968838,
+  "lng": 126.2635119911,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2844143_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달님이네맛집",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 서문길 8-21 진도청년회의소"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "달빛뜨락",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2687448379,
+  "lng": 126.9412719243,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2843367_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "달빛뜨락",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 한수동로 155"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담소정",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2015559456,
+  "lng": 126.9846670013,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "담소정",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 고서면 잣정길 133"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담양밤부리",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3331800296,
+  "lng": 126.9890632853,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2833110_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "담양밤부리",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 죽향문화로 403"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담양숯불갈비",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.8051413649,
+  "lng": 126.4278370925,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "담양숯불갈비",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 옥암로 65"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담양앞집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3100713593,
+  "lng": 126.9788897714,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2841777_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "담양앞집",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 죽향문화로 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담양애꽃",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2730587717,
+  "lng": 126.9726384833,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2847514_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "담양애꽃",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 죽향대로 723 담양애꽃"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담양제과",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3197369897,
+  "lng": 126.9822614503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2843283_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "담양제과",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 추성로 1318"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담화",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.282665824,
+  "lng": 126.9611948092,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2843244_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "담화",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 면앙정로 368"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "당머리첫집 하모샤브샤브",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7294885061,
+  "lng": 127.731346628,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2931165_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당머리첫집 하모샤브샤브",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 남산남1길 34 (남산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대가",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2023059447,
+  "lng": 126.9895887696,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2846445_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대가",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 가사문학로 619"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대감게장",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7603449311,
+  "lng": 127.6602298438,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2923873_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대감게장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 시청서2길 51-8 (학동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대갓집 숯불직화구이",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.9712143412,
+  "lng": 127.5808758756,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대갓집 숯불직화구이",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 서천2길 27"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대대선창집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8895028368,
+  "lng": 127.5091148087,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대대선창집",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 542"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대복삼계탕",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9395310901,
+  "lng": 127.7007133948,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2871752_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대복삼계탕",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 시청로 82"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대사랑 운수대통밥",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3238448999,
+  "lng": 126.9847000192,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2833089_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "대사랑 운수대통밥",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 객사4길 38-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대성식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7397957345,
+  "lng": 127.7341794519,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대성식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 교동남1길 5-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대성회식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3189762002,
+  "lng": 126.7494732391,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2840064_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대성회식당",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 해변공원로 59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대숲골농원",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9046761057,
+  "lng": 127.5075395624,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3571182_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대숲골농원",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 학동길 54 (대룡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "덕양은혜곱창 덕양점",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.7980985371,
+  "lng": 127.6315397303,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2923826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕양은혜곱창 덕양점",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 하세동길 7-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "덕인관",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3059774057,
+  "lng": 126.9805369516,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "덕인관",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 죽향대로 1121"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "덕인홍어집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7891480189,
+  "lng": 126.3849523765,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "덕인홍어집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로73번길 1-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도원경",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9025929499,
+  "lng": 127.5042954554,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2798817_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도원경",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 309 (대룡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "독천골",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8002198615,
+  "lng": 126.4378418827,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "독천골",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 미항로 197 (옥암동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "독천낙지마당",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7253526634,
+  "lng": 126.568896015,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2924846_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "독천낙지마당",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 학산면 영산로 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돌문어상회",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7377434091,
+  "lng": 127.747033935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2931190_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돌문어상회",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 하멜로 78 (종화동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돌쇠정 본점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7332121863,
+  "lng": 126.5261245962,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2877675_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "돌쇠정 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 삼호읍 녹색로 1538"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돌집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7878009656,
+  "lng": 126.3859995387,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2843987_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돌집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 번화로 67"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동락식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7990770252,
+  "lng": 126.6958135919,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동락식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 영암읍 서문로 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동서식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7564074554,
+  "lng": 127.7164333593,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2858491_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동서식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 장군산길 71"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동악산장",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2639980914,
+  "lng": 127.262851947,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2014019_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동악산장",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 곡성읍 도림로 119"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동원정",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3590845907,
+  "lng": 126.4444192986,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2876682_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동원정",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 법성면 법성포로3길 12-19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "두가헌 두바퀴쉼터",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2389833629,
+  "lng": 127.3725984578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2800384_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두가헌 두바퀴쉼터",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 고달면 두계길 35"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "둥근지붕",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0193529962,
+  "lng": 126.9085005141,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "둥근지붕",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 도곡면 지강로 260"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "등대식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3945160057,
+  "lng": 126.4037359273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2876725_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "등대식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 홍농읍 계마길 61"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "따뜻한섬온도",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2945223547,
+  "lng": 126.7697920208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2839857_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "따뜻한섬온도",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 행복1길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뚝방국수",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.318059352,
+  "lng": 126.9793534175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2798611_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "뚝방국수",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 천변5길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뜰채",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7996993396,
+  "lng": 126.3685563492,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2876089_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "뜰채",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해양대학로 229 (죽교동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "레드힐카페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3502763114,
+  "lng": 126.3875523513,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2876755_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레드힐카페",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 백수읍 해안로 917"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "레이디벅스 장성",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3032215728,
+  "lng": 126.7818046265,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2901779_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레이디벅스 장성",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 청운길 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리고",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0838417732,
+  "lng": 127.0034627438,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2783560_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리고",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 화순읍 큰재전원길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리비에르",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.046032319,
+  "lng": 126.8489273331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2892965_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "리비에르",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 남평읍 강변1길 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마띠유",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 34.7910871316,
+  "lng": 127.5688592868,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마띠유",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 소라면 서부로 791"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마애",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.6238431279,
+  "lng": 127.6359743022,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2866586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마애",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 화백길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만나숯불갈비",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.6777053109,
+  "lng": 126.9081506423,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "만나숯불갈비",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장흥읍 물레방앗간길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "매실한우 광양불고기",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.9698866843,
+  "lng": 127.579237164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2861453_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "매실한우 광양불고기",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 서천1길 46"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "메란명가",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2781192583,
+  "lng": 127.2941765979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2915875_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "메란명가",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 곡성읍 곡성로 822"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명가은",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.1767676758,
+  "lng": 127.0198422947,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2852803_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "명가은",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 반석길 48-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명가정",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3220843134,
+  "lng": 127.003815038,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2843206_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "명가정",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 깊은실길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명인집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7989030868,
+  "lng": 126.4222460698,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "명인집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 하당로30번길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명품전복궁",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3158931968,
+  "lng": 126.7485511713,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2856876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명품전복궁",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 완도읍 개포로 34-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모도상회",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.4159141786,
+  "lng": 126.3371210324,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2904792_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모도상회",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 의신면 초평길 54"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모란추어탕",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.6409959739,
+  "lng": 126.767155601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2891374_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모란추어탕",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 강진읍 탑동길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모란한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6396129234,
+  "lng": 126.7748521799,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2871607_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모란한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 강진읍 오감길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모래골",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3632475278,
+  "lng": 126.4156189784,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2877473_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모래골",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 백수읍 해안로 1389"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모리씨 빵가게",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.8457521212,
+  "lng": 127.3429388337,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2861593_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "모리씨 빵가게",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 태백산맥길 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모리아101",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.8468626979,
+  "lng": 126.4906305368,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2877701_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "모리아101",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 일로읍 일로신흥길 59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모이핀",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.6878828791,
+  "lng": 127.7790990672,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3479346_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모이핀",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 무술목길 50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "목월빵집.cafe",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2148765864,
+  "lng": 127.4659325154,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "목월빵집.cafe",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 구례읍 서시천로 85"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "목포식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0642331529,
+  "lng": 126.5228112809,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "목포식당",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 시장길 32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "몽소베이커리 고구마빵",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.570342929,
+  "lng": 126.6071908222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2923366_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "몽소베이커리 고구마빵",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 해남읍 남부순환로 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "몽에뚜와르 제빵소",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2997134289,
+  "lng": 126.93367737,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2876067_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "몽에뚜와르 제빵소",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 수북면 한수동로 524"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "무안명가",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9683445099,
+  "lng": 126.386659008,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2891366_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "무안명가",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 망운면 톱머리길 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "묵돌이식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7457603251,
+  "lng": 127.6527697551,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2923776_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "묵돌이식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 소호4길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "묵은지",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4811500534,
+  "lng": 126.2596485379,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "묵은지",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 남동1길 12-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문가든",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.6330088887,
+  "lng": 126.6540518561,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2840460_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문가든",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 계곡면 오류골길 64"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문자네통장어",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7496104308,
+  "lng": 127.6838391609,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2871688_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문자네통장어",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 웅천4길 12-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문정한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2749202837,
+  "lng": 126.5137707784,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2877501_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문정한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 중앙로5길 16-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미락식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.313338076,
+  "lng": 126.7576365478,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2906848_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "미락식당",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 군내11번길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미양기사식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0865774422,
+  "lng": 126.498179581,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미양기사식당",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 함영로 1373"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미항횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.8002504148,
+  "lng": 126.4379696482,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미항횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 미항로 197-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "민속촌 영광점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2730896471,
+  "lng": 126.4964556944,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2877508_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "민속촌 영광점",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 신남로1길 54-22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "밀향기",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2579665183,
+  "lng": 126.5059941103,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2877523_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밀향기",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 함영로 3448"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다동산",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.2993775439,
+  "lng": 126.5277431453,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2923321_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "바다동산",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 송지면 땅끝마을길 52"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다식탁",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 34.7383487641,
+  "lng": 127.7393707013,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2742509_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다식탁",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 중앙5길 5 (중앙동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다하우스",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6326429803,
+  "lng": 127.0311548319,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3516562_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 안양면 수문용곡로 139"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "밥먹으러 임성가는길",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.822684066,
+  "lng": 126.4420104168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2877840_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "밥먹으러 임성가는길",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 신기길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백길천사횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.8617038865,
+  "lng": 126.0530633396,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2891422_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백길천사횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 자은면 자은서부1길 86-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백도식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9642817132,
+  "lng": 127.5766042051,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "백도식당",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 덕례길 68"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백운국수방",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.9383286139,
+  "lng": 127.710287586,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2871809_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "백운국수방",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 눈소5길 45-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백제회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.3163899731,
+  "lng": 127.4568779178,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2790824_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백제회관",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 산동면 지리산온천로 260-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백천선어마을",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.7491114842,
+  "lng": 127.7414535793,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "백천선어마을",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 공화남2길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뱀부스",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 34.9431111612,
+  "lng": 127.5356305638,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2858550_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뱀부스",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 상성길 279"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "번영회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.0095526377,
+  "lng": 126.8214556646,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2865463_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "번영회관",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 세남로 1330 번영회관"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벌교우렁집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8512291649,
+  "lng": 127.3359559755,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "벌교우렁집",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 벌교읍 채동선로 367"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "법성토우",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3605399836,
+  "lng": 126.4445692484,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2877531_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "법성토우",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 법성면 법성포로3길 26-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "법성포굴비정식",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.3612370742,
+  "lng": 126.4414056237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2876864_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "법성포굴비정식",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 법성면 법성포로 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벙커",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.4538620694,
+  "lng": 126.8077260078,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2840040_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "벙커",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 마량면 까막섬로 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베트남식당&마트",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 35.3214284661,
+  "lng": 126.9823308458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2852780_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "베트남식당&마트",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 중앙로 92-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벽오동 본점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2314752068,
+  "lng": 127.0093112898,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "벽오동 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 의병로 41"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "병암산장",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0970144708,
+  "lng": 127.6032790151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2891265_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "병암산장",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 신재로 1678-67"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "병영서가네",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7111861325,
+  "lng": 126.8164106704,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2843950_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "병영서가네",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 병영면 병영성로 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "병영연탄불고기",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.7125693101,
+  "lng": 126.8163911939,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2871614_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "병영연탄불고기",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 병영면 병영성로 87"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보성 한우직판장",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.6732283428,
+  "lng": 127.0921706999,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "보성 한우직판장",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 회천면 우암1길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보성식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6815652904,
+  "lng": 127.3608830384,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2861328_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "보성식당",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 고흥로 3009"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "본동기사식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3167670989,
+  "lng": 126.5175186318,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "본동기사식당",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 송지면 땅끝해안로 1796"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "봄177",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 34.7376933472,
+  "lng": 127.7431426103,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2916007_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봄177",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 이순신광장로 177-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부부식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2089105531,
+  "lng": 127.4636495364,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2790608_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부부식당",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 구례읍 구례2길 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부영식육식당맛대맛",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0458154981,
+  "lng": 126.838339385,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2865439_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부영식육식당맛대맛",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 지석로 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "불타는용궁짬뽕",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 35.0535502389,
+  "lng": 126.9735800286,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2872971_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "불타는용궁짬뽕",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 칠충로 11 축산물판매장"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "불태산진원성",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2732175487,
+  "lng": 126.8359589142,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2840222_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "불태산진원성",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 고산로 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "브레드백",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0197112851,
+  "lng": 126.9082477497,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2865156_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "브레드백",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 지강로 262"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "브루웍스",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.9472989378,
+  "lng": 127.498411503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3444514_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브루웍스",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 역전길 61"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "비스터",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0238284371,
+  "lng": 126.7994711415,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2865415_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "비스터",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 정보화길 50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "빙그레식당 본점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3425815739,
+  "lng": 126.7299688295,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2857181_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빙그레식당 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 청해진로 1565-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사거리식육식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3977885917,
+  "lng": 126.4479152491,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2876888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사거리식육식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 홍농읍 홍농로 487"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사계절횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.1905971321,
+  "lng": 127.3712803698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2789605_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사계절횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 오곡면 대황강로 1589"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사랑방",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4818500702,
+  "lng": 126.2655424466,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/1023774_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사랑방",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 쌍정2길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사평다슬기수제비",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.052264399,
+  "lng": 126.9810182928,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2865383_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "사평다슬기수제비",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 서양로 79"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산골짜기",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3177496497,
+  "lng": 126.732308651,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/1023760_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산골짜기",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 황룡면 홍길동로 388-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산마을도토리",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.044777824,
+  "lng": 126.9035725383,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3570758_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산마을도토리",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 도곡면 화남길 9-38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼대광양불고기집",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.9701588672,
+  "lng": 127.5787344231,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "삼대광양불고기집",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 서천1길 52"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼학집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.739137667,
+  "lng": 127.7452840528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2787597_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼학집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 이순신광장로 200-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "상화식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3171736598,
+  "lng": 126.7516203162,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2840075_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상화식당",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 해변공원로 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서목",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7206390167,
+  "lng": 127.7035909463,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2931311_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서목",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 신월5길 68-1 (신월동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선경준치회집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7808126142,
+  "lng": 126.3707704964,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2858648_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선경준치회집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해안로57번길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선미식당",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 35.0096531046,
+  "lng": 126.5167687078,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "선미식당",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 엄다길 62"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "섬마을회정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8488276181,
+  "lng": 126.2278953862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2856853_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "섬마을회정식",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 압해로 1844"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "섬진강 다슬기",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.1969518722,
+  "lng": 127.5260415706,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "섬진강 다슬기",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 토지면 섬진강대로 5041"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "섬진강민물장어",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.2743975346,
+  "lng": 127.1369794696,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2865025_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "섬진강민물장어",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 리문6길 32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "섬진강재첩국수",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.2000834257,
+  "lng": 127.603690209,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2771368_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "섬진강재첩국수",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 토지면 섬진강대로 4276"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성균관",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.8094518923,
+  "lng": 126.4218597381,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "성균관",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 비파로 135"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성내식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.5757477209,
+  "lng": 126.5976248666,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2856955_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성내식당",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 명문길 19-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7856706585,
+  "lng": 126.3865189882,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2891403_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "성식당",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 수강로4번길 6 (영해동1가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성실산장어숯불구이",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.5257067162,
+  "lng": 127.135764949,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "성실산장어숯불구이",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 도양읍 비봉로 177"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소금항카페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.996885076,
+  "lng": 126.176965788,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2858379_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소금항카페",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 지도증도로 1053-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소래기냉면",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7945314795,
+  "lng": 126.4297149597,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2876101_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "소래기냉면",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 미항로 81 (상동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소문난식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6087387821,
+  "lng": 127.2823611723,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2861335_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "소문난식당",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 홍교당촌길 7 일반음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소바집 본점",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.323650447,
+  "lng": 126.9829112936,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2833146_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "소바집 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 객사2길 11-24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "솔레일",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7477716512,
+  "lng": 127.6782313647,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2916044_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솔레일",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 웅남3길 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송원식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2755418172,
+  "lng": 127.1350907185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2865031_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송원식당",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 옥과면 리문4길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송이식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2323805496,
+  "lng": 127.4879384585,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2791137_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송이식당",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 마산면 화엄사로 255"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송죽회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.2281060243,
+  "lng": 127.0023453243,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2847994_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "송죽회관",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 창평면 창평현로 476"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송치마을",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0608265197,
+  "lng": 127.4221236516,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2858351_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송치마을",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 송치안길 88"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송현불고기",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 35.05077965,
+  "lng": 126.7217023473,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2866414_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송현불고기",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 건재로 193"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수복식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6803327934,
+  "lng": 126.9081450239,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2868065_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수복식당",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 건산로 42"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수인관",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7142691054,
+  "lng": 126.8155856677,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2823321_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수인관",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 병영면 병영성로 107-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수일식",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.798047846,
+  "lng": 126.4355254729,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수일식",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 평화로 103"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순심원",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.7398179594,
+  "lng": 127.7344794251,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "순심원",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 교동남1길 5-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순천 산들담은 순천본점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9175587487,
+  "lng": 127.5514214951,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2858527_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천 산들담은 순천본점",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 해룡면 정채봉길 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순천만 일번가",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8874141714,
+  "lng": 127.508473252,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3592374_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "순천만 일번가",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 520"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순천만가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8925747225,
+  "lng": 127.5095952451,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "순천만가든",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 576"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순천만전라도밥상",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8873891642,
+  "lng": 127.5078899698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2858539_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천만전라도밥상",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 순천만길 496-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순천양조장",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 34.9475044752,
+  "lng": 127.4987309141,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3337143_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천양조장",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 역전길 57 (조곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "숲과브런치",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.264876541,
+  "lng": 127.4682004717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3578433_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "숲과브런치",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 광의면 노고단로 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스테이케이션",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0242808217,
+  "lng": 126.7790507125,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2873000_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스테이케이션",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 빛가람동 159-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "슬로시티약초밥상",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2392772815,
+  "lng": 127.0198323843,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2847535_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "슬로시티약초밥상",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 돌담길 102"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시골마당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6862177841,
+  "lng": 126.7134953353,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2891393_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시골마당",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 성전면 송계로 829"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시골집순두부 목포본점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8067385381,
+  "lng": 126.435814127,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "시골집순두부 목포본점",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 복산길6번길 44"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신가가마솥",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9745696051,
+  "lng": 127.5858142449,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2861506_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신가가마솥",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 희양현로 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신대초밥",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.9277159518,
+  "lng": 127.5520100738,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2858368_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신대초밥",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 매안2길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신창손순대국밥",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.6932083469,
+  "lng": 126.3561183338,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2798158_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신창손순대국밥",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 산이면 관광레저로 1673"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신촌브루",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.4660546743,
+  "lng": 127.1129322978,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2861354_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신촌브루",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 대신로 122"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신호등회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.4805057743,
+  "lng": 126.2654036016,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신호등회관",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 남동1길 66"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "싱글벙글빵집",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7419734064,
+  "lng": 127.7421453664,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "싱글벙글빵집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 관문1길 13-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "싱싱회마을",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.680816068,
+  "lng": 126.9078533702,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "싱싱회마을",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장흥읍 건산로 48"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쌍교숯불갈비 담양 본점",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 35.253299548,
+  "lng": 126.9522352321,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2841807_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "쌍교숯불갈비 담양 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 송강정로 212"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아구할미 서대대감",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7398485168,
+  "lng": 127.7347905082,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아구할미 서대대감",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 교동남2길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아키올로지",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3408980177,
+  "lng": 126.9548327875,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2843141_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아키올로지",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 도개안길 75"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아트리움",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2489846741,
+  "lng": 126.8652791487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2840234_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아트리움",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 불태3로 138-59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "약산흑염소가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0528811146,
+  "lng": 126.9880676556,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "약산흑염소가든",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 화순읍 상삼2길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "약선명가",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.013545808,
+  "lng": 126.7723099063,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2892977_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "약선명가",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 황동2길 3-5 (빛가람동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "약수닭집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7324850674,
+  "lng": 127.7125370859,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2910426_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "약수닭집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 구봉2길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "양각리키친",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3187980647,
+  "lng": 126.9739122139,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2847965_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "양각리키친",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 추성로 1239"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "양지쌈밥",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9550200348,
+  "lng": 127.4834931723,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "양지쌈밥",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 금곡길 8 (행동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "어가일식",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.3237256406,
+  "lng": 126.7477093914,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어가일식",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 완도읍 해변공원로113번길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "어텐션플리즈",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3708707366,
+  "lng": 127.0200401396,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2832623_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "어텐션플리즈",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 금성산성길 271"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에트글라스",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3731148894,
+  "lng": 127.0178263899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2833183_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "에트글라스",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 금성산성길 282-19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "엑스포해물예찬",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7331188507,
+  "lng": 127.7426455476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2931109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엑스포해물예찬",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 진두해안길 68"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "여수대표짬뽕",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.77555696,
+  "lng": 127.6512246899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2923402_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "여수대표짬뽕",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 무선8길 17 (선원동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "여수돼지국밥",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.7654971619,
+  "lng": 127.6619656723,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2923362_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "여수돼지국밥",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 학동서1길 12 (학동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "여수맛집 봉초밥",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.7570341456,
+  "lng": 127.6576051572,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2923323_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수맛집 봉초밥",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 시청서5길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "여수밥상갈치야",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6066309983,
+  "lng": 127.7874281776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2783537_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수밥상갈치야",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 향일암로 378"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "여수장터",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7307160898,
+  "lng": 127.7280468858,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2931205_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수장터",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 어항단지로 205"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "염산골손맛집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2119917906,
+  "lng": 126.3760401148,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "염산골손맛집",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 염산면 향화로5길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영광굴비정식",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.3587512795,
+  "lng": 126.4434888334,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2876932_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영광굴비정식",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 법성포로3길 6-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영광맛집 호타루",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 35.2741923125,
+  "lng": 126.4972194882,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2876950_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영광맛집 호타루",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 대하길 35"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영광백수식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2827400702,
+  "lng": 126.4205983041,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2876969_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영광백수식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 백수읍 천마길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영광토우",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2906764637,
+  "lng": 126.4916473523,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2951214_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영광토우",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 월현로 210"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영란횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7861594519,
+  "lng": 126.3840775257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2742434_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영란횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 번화로 42-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영일관",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9751107476,
+  "lng": 127.7190969808,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영일관",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 옥곡면 신금산단5길 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영천수산",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.6515815938,
+  "lng": 126.9757203452,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2844064_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영천수산",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 안양로 151"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "예원",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.243157115,
+  "lng": 127.4881326082,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "예원",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 마산면 화엄사로 381"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "예향",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6384685621,
+  "lng": 126.7721191147,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2371888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예향",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 강진읍 보은로3길 11-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "예향한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0300290981,
+  "lng": 126.714772917,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "예향한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 나주천1길 79"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옛날그집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7405900903,
+  "lng": 127.7342072069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2866563_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옛날그집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 통제영3길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옛날두부",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0587164829,
+  "lng": 126.983042953,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2923888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옛날두부",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 시장길 33 재명상사"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오데온",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2719149035,
+  "lng": 126.8350784696,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2840245_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오데온",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 노사로 514"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오리앤오리",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6718729236,
+  "lng": 126.9256075847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2868072_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오리앤오리",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 우드랜드길 84"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오마이밥",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3178457042,
+  "lng": 126.9921022935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2833206_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "오마이밥",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 죽향대로 1302-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오성회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7394487401,
+  "lng": 127.7450896172,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오성회관",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 이순신광장로 206"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오죽헌한정식",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7583451702,
+  "lng": 127.6611075954,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오죽헌한정식",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 시청서1길 36"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오케이목장가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0707959478,
+  "lng": 126.999080124,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2872768_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오케이목장가든",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 안양산로 72"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오페라하우스",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 35.176728958,
+  "lng": 127.0296469847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2846493_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오페라하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 가사문학로 1149"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오프더커프",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2878198618,
+  "lng": 126.9060995568,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2891354_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오프더커프",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 대전면 추성1로 425-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옥담",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2721088155,
+  "lng": 126.9688971719,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2846527_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옥담",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 연산길 89-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옥정가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2628729306,
+  "lng": 126.7562829,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2840256_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옥정가든",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 구대해길 65-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "완도어반",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3155351082,
+  "lng": 126.7610195314,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2844036_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "완도어반",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 장보고대로 334"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕곡가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9676520631,
+  "lng": 126.6705950242,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2798516_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "왕곡가든",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 왕곡면 나주서부로 389"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕궁",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.7918754839,
+  "lng": 126.3845995642,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3423299_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕궁",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 호남로64번길 28-1 (대안동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕성식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6408710367,
+  "lng": 126.7701053445,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2840051_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕성식당",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 보은로3길 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "요리온(YORION)",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 35.3401675311,
+  "lng": 126.954043987,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2754500_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "요리온(YORION)",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 월산면 도개길 15-56"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용궁해물탕",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.5690818564,
+  "lng": 126.6009164045,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/689594_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용궁해물탕",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 해남읍 행운길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용천식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4155280994,
+  "lng": 126.3364044379,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2798061_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "용천식당",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 의신면 초평길 64"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우남식당",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 35.0468571193,
+  "lng": 126.8426250917,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2798573_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "우남식당",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 남평읍 남평2로 50-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우리식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.5471197482,
+  "lng": 126.7280974174,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2840010_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우리식당",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 도암중앙로 81"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우사골설렁탕",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7537659675,
+  "lng": 127.7096701296,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "우사골설렁탕",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 여서1로 116"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우정식육식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8058273862,
+  "lng": 126.4270732545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2844005_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우정식육식당",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 신흥로69번길 18-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조동경낙지",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.954781163,
+  "lng": 127.4829182289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2788230_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조동경낙지",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 금곡길 11 (행동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조순대떡볶이",
+  "district": "전남광주통합특별시",
+  "category": "분식·주점",
+  "lat": 34.791003355,
+  "lng": 126.3843218319,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3423260_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조순대떡볶이",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로75번길 20-2 (대안동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조제일돌곱창",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.7847568047,
+  "lng": 126.3823860421,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2843965_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조제일돌곱창",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해안로173번길 28"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조제일숯불갈비",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 35.3006307773,
+  "lng": 126.9799093652,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "원조제일숯불갈비",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 마두길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조창평시장국밥",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.2381662124,
+  "lng": 127.0149189581,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2846576_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "원조창평시장국밥",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 사동길 14-25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "월하당",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.9819319786,
+  "lng": 126.7287756438,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2866654_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월하당",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 봉황로 110-39 (부덕동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유딜라이트",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0430465884,
+  "lng": 126.8515577304,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2861487_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유딜라이트",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 강변1길 36"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유성횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.8080150213,
+  "lng": 126.3655980772,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유성횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 청호로219번길 34-15 (산정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유자골고흥한우프라자",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.8235407784,
+  "lng": 127.345964126,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유자골고흥한우프라자",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 동강면 고흥로 4797"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유정해장국",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7407151054,
+  "lng": 127.7358876126,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2871210_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유정해장국",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 통제영5길 8-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유진정",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0394506828,
+  "lng": 126.9056919286,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2865368_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유진정",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 지강로 514-6 진해가든"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "윤뜰",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0227632348,
+  "lng": 126.7138065151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2861533_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "윤뜰",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 재신길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "율포봇재가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6688370616,
+  "lng": 127.08578248,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2871862_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "율포봇재가든",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 남부관광로 2299"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "율포회센터",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6669177969,
+  "lng": 127.0837299296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2924870_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "율포회센터",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 남부관광로 2272"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "은성면옥",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9310264519,
+  "lng": 127.6985721338,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2861525_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "은성면옥",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 길호4길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "은하횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.6652356599,
+  "lng": 127.7933761724,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2931043_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "은하횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 계동해안길 39-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이대순두부",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3170954379,
+  "lng": 127.4562224016,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이대순두부",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 산동면 지리산온천로 257"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이학식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.001106213,
+  "lng": 126.1396801044,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이학식당",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 증도면 증도중앙길 39"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이화식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7491996149,
+  "lng": 127.6982406894,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2866491_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이화식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 문수5길 46"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이화식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.481136242,
+  "lng": 126.2643370144,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2904822_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이화식당",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 남동1길 55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이화원",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 35.0220673171,
+  "lng": 126.7870945009,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2891328_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이화원",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 상야1길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일로일로",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.857522756,
+  "lng": 126.4996433712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2893000_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "일로일로",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 일로읍 삼일로 613"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일로장터백반",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8472627115,
+  "lng": 126.4942163214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2871828_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "일로장터백반",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 시장길 17-12 일로장터백반"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자매식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7252747685,
+  "lng": 127.7128316869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2858487_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자매식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 어항단지로 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자산어보",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 34.9476576586,
+  "lng": 127.5232565346,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2858520_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자산어보",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 대석1길 27 해정"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자영이네",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4809612849,
+  "lng": 126.2657952231,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2844161_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자영이네",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 쌍정2길 15-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "작은갤러리",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.391712867,
+  "lng": 126.2598895076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2856910_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "작은갤러리",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 임회면 헌복동길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장끄방횟집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.9780551397,
+  "lng": 127.5751234272,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2891276_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장끄방횟집",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 서평1길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장미가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.4246559198,
+  "lng": 126.9969824802,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "장미가든",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 용면 추월산로 1284"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장안식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0609418868,
+  "lng": 126.5245556513,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2872996_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장안식당",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평천우길 54"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장어명가 청산",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.3606510267,
+  "lng": 126.441244542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2876992_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장어명가 청산",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 법성면 법성포로 15-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장원회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.9757527976,
+  "lng": 127.585358699,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2891284_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장원회관",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 매천로 821-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장터남악점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.810010991,
+  "lng": 126.4722997142,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2893006_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장터남악점",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 삼향읍 남악5로52번길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전사마",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.3179429619,
+  "lng": 126.7481872654,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전사마",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 완도읍 장보고대로 197"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전원일기",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.1371160922,
+  "lng": 126.4932398893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2867218_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전원일기",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 학동로 1398-14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전통식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2080358053,
+  "lng": 126.9867944279,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전통식당",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 고서면 고읍현길 38-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정가네원조꼬막회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.8480852255,
+  "lng": 127.3448441624,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "정가네원조꼬막회관",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 벌교읍 조정래길 55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정남진우리한우",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.6752638312,
+  "lng": 126.9029511598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2787662_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정남진우리한우",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장흥읍 토요시장2길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정다운식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7111550278,
+  "lng": 127.7648608309,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3578466_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정다운식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 마상포길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정원",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9354733883,
+  "lng": 127.5505655586,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2876297_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "정원",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 해룡면 매안로 137"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제일회식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0134839404,
+  "lng": 126.3916685792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2877906_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제일회식당",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 망운면 망운로 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제크와돈까스",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 35.3547532689,
+  "lng": 127.0289897574,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2833220_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제크와돈까스",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 금성산성길 72"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "조선쫄복탕",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7808738228,
+  "lng": 126.3771310441,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2876206_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "조선쫄복탕",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해안로 115"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "종원식육식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7474152743,
+  "lng": 126.4732094777,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2892988_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "종원식육식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 세가래2길 26-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "주포수산 민물장어구이",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 35.0872876275,
+  "lng": 126.4470952006,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주포수산 민물장어구이",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 주포로 563"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "죽림 그림",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7623498789,
+  "lng": 127.638056733,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2915952_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "죽림 그림",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 죽림2길 23-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "죽림원가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3367289321,
+  "lng": 126.9482001476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3053925_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "죽림원가든",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 월산면 가산길 358"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "죽순닭국수",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.324022622,
+  "lng": 126.9826057557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2846599_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "죽순닭국수",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 객사3길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "증도황궁짜장",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 35.0017255843,
+  "lng": 126.1394967724,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2891484_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "증도황궁짜장",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 증도중앙길 40-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지리산갈비촌",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 35.2153097789,
+  "lng": 127.4606024188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2791480_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산갈비촌",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 구례읍 의료원길 37"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지리산수라간",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2396991603,
+  "lng": 127.4874744218,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2783480_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산수라간",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 마산면 화엄사로 336"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지리산식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.243157115,
+  "lng": 127.4881326082,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지리산식당",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 마산면 화엄사로 381"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진도아리랑회센터",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.4801558322,
+  "lng": 126.2665923941,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2868085_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진도아리랑회센터",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 쌍정1길 8-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진미국밥",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.0136541531,
+  "lng": 126.7736903371,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2865145_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진미국밥",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 황동2길 4-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진미회관",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7001062032,
+  "lng": 127.7613364196,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2910605_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진미회관",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 돌산로 3112"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "차도리가든",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9966618771,
+  "lng": 127.6037537715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2891295_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "차도리가든",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 옥룡면 신재로 337"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "창평국밥",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.2385494934,
+  "lng": 127.0143828844,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2846625_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "창평국밥",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 사동길 12-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "창평전통안두부",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2306891737,
+  "lng": 127.0087085847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2847942_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "창평전통안두부",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 창평면 의병로 31"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "천일식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.5706122138,
+  "lng": 126.5993165084,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "천일식당",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 해남읍 읍내길 20-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청계참다슬기",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.311606602,
+  "lng": 127.2628340636,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2873010_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청계참다슬기",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 청계동로 409"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청광도예원",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7244669773,
+  "lng": 127.0885364207,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2859520_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청광도예원",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 사동길 52-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청자골종가집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6472761022,
+  "lng": 126.7838817553,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청자골종가집",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 군동면 종합운동장길 106-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청자식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.5718959191,
+  "lng": 126.7988711556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2784816_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청자식당",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 칠량면 칠량로 76-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청자연",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3039097762,
+  "lng": 126.7457605826,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2852659_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청자연",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 황룡면 구석길 53-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청전식육점식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3079828238,
+  "lng": 126.9857808808,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2847927_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청전식육점식당",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 무정로 48"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청정게장촌",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7331018287,
+  "lng": 127.7220362393,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2866497_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청정게장촌",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 봉산남4길 23-32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청풍한우",
+  "district": "전남광주통합특별시",
+  "category": "고기·구이",
+  "lat": 34.9293350514,
+  "lng": 127.5425747494,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2858503_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍한우",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 상성길 103"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "초동순두부",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2525370219,
+  "lng": 126.8635930974,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2841179_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "초동순두부",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 초동길 1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "최대감벌교꼬막",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9049899247,
+  "lng": 127.3437456049,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3444310_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "최대감벌교꼬막",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 낙안면 삼일로 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "최선장식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.314287968,
+  "lng": 126.7574920932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2844051_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "최선장식당",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 군내3번길 23-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "칠링스카페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3225894617,
+  "lng": 126.983258512,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2846648_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "칠링스카페",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 객사2길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 라피끄",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.694784846,
+  "lng": 127.7768879742,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2866471_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 라피끄",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 무술목길 142-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 모카힐",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7381877215,
+  "lng": 127.7422843394,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2866641_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 모카힐",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 고소3길 70"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 어그원",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.9226609316,
+  "lng": 127.5501409222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2857122_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 어그원",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 송산2길 22-102"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 포",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7389903712,
+  "lng": 127.7400845114,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2931323_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 포",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 고소5길 16 (고소동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 항해",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7282801561,
+  "lng": 127.7225779812,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2923600_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 항해",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 국포1로 27"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페더비치",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.3189762002,
+  "lng": 126.7494732391,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2906859_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페더비치",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 해변공원로 59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페델마르",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7888588535,
+  "lng": 126.3660568305,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2858628_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페델마르",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 해양대학로 77"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페밀크레페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3304605325,
+  "lng": 126.9679152267,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "카페밀크레페",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 월산면 담장로 67"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페아더맨",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0417042159,
+  "lng": 126.9655199247,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2867245_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페아더맨",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 연양1길 28"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페와온",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.8485465956,
+  "lng": 127.5248866864,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2876322_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "카페와온",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 해룡면 와온길 107"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페잇다",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2726841368,
+  "lng": 126.8277402116,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2840269_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "카페잇다",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 덕천길 37"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페하이클래스",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.6925573536,
+  "lng": 127.7789489613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2931347_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페하이클래스",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 무술목길 114"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페호시담",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3896037731,
+  "lng": 126.9641029529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2833055_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "카페호시담",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 추령로 375-21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피니 목포역점",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7911672599,
+  "lng": 126.3864216428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3423326_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커피니 목포역점",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로 98 (호남동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피창고로",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.795756357,
+  "lng": 126.4306259605,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2876224_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "커피창고로",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 평화로 51 (상동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "코다리하우스",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7393947803,
+  "lng": 127.676440067,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "코다리하우스",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 웅천남6로 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "코롬방제과점",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7898895934,
+  "lng": 126.3844246276,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3423285_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코롬방제과점",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로75번길 7 (무안동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "키친205",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0612529607,
+  "lng": 126.5244500971,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2798083_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "키친205",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 함평천우길 52"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "태동반점",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.7900367827,
+  "lng": 126.3834302673,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2844018_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태동반점",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 마인계터로40번길 10-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "태백산맥 꼬막맛집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8479796796,
+  "lng": 127.3447330644,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "태백산맥 꼬막맛집",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 벌교읍 벌교천2길 58-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "터진만두",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7283287501,
+  "lng": 127.6415128474,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2871167_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "터진만두",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 소호로 253-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "통만두집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7411428252,
+  "lng": 127.7352932089,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "통만두집",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 통제영4길 12 (중앙동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "통큰샤브",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7603311424,
+  "lng": 127.6659543428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2923650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통큰샤브",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 망마로 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "트윈브릿지",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.5733876695,
+  "lng": 126.3060617128,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2840106_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트윈브릿지",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 문내면 관광레저로 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "평화국밥",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.6839512763,
+  "lng": 127.3692239144,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2861376_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "평화국밥",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 과역로 951"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "포레스트96",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 35.0638410001,
+  "lng": 126.9886812159,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2872745_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포레스트96",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 신기중앙길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "포테이블",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 35.0559472067,
+  "lng": 126.9745159969,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "포테이블",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 화순읍 한고을길 8-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풍경채",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.6122717105,
+  "lng": 127.2818277981,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2861404_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "풍경채",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 흥양길 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풍성한 집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3591873761,
+  "lng": 126.4455941915,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2877090_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍성한 집",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 법성면 법성포로3길 60"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풍차",
+  "district": "전남광주통합특별시",
+  "category": "중식",
+  "lat": 34.8599849365,
+  "lng": 126.7485657841,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2892992_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "풍차",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 금정면 여운재로 996"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "피읖 카페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7131853431,
+  "lng": 127.7641136224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2866529_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "피읖 카페",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산로 3292-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "필그림",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.3034764661,
+  "lng": 126.7442246189,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2840284_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "필그림",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 구석길 71"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하나로식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8276197899,
+  "lng": 126.1116367395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2784824_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하나로식당",
+    "desc": "",
+    "address": "전남광주통합특별시 신안군 암태면 장단고길 33-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하얀집 낙지전문점",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.754353843,
+  "lng": 127.6548637982,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하얀집 낙지전문점",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 장성1길 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한미르",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7911921285,
+  "lng": 126.3785612257,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한미르",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 유달로 112"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한성식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2827845133,
+  "lng": 126.4207593997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2877113_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한성식당",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 백수읍 천마길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한재골하얀집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.2854337184,
+  "lng": 126.8882623079,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한재골하얀집",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 대전면 방축동길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해남고구마빵 피낭시에",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.5709288368,
+  "lng": 126.5988248773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2856971_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해남고구마빵 피낭시에",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 읍내길 8 피낭시에"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해남땅끝전망대카페",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.2947474622,
+  "lng": 126.5250351589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3452239_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해남땅끝전망대카페",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 송지면 땅끝마을길 100"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해미연",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0239864072,
+  "lng": 126.7788618475,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2861556_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "해미연",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 석전2길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해빔 본점",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7946925778,
+  "lng": 126.4300454818,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2876269_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "해빔 본점",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 미항로 83 (상동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해연",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.8336086969,
+  "lng": 127.3227825748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2861598_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "해연",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 장좌월곡길 166-27"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해촌산장어숯불구이",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7432202909,
+  "lng": 127.7307130011,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해촌산장어숯불구이",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 충무로 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해풍게장",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7616616252,
+  "lng": 127.6703567017,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2866541_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해풍게장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 신기남4길 26"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "행복한임금님",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.318234518,
+  "lng": 126.9902524475,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2866450_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "행복한임금님",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 지침6길 78-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호랭이게장",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7338961703,
+  "lng": 127.7212224013,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2923942_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호랭이게장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 봉산남3길 13 (봉산동, 연립주택)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "화랑식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0645053543,
+  "lng": 126.5234195533,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2798089_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "화랑식당",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 시장길 96"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "화순집",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.0674128534,
+  "lng": 126.9906726179,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2872718_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화순집",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 부처샘길 1-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "화순하다",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0708847982,
+  "lng": 126.9973969372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2872695_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화순하다",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 유천길 48-13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황금소나무",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.3157984496,
+  "lng": 126.97657872,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2866697_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황금소나무",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 천변5길 54-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황룡우시장국밥집",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 35.2898451087,
+  "lng": 126.7699365698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2852671_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "황룡우시장국밥집",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 황룡면 강변로 521-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황토와참숯",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9849744447,
+  "lng": 126.9623188445,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/612678_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황토와참숯",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 능주면 학포로 1877"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "효비초밥",
+  "district": "전남광주통합특별시",
+  "category": "일식",
+  "lat": 35.0178094329,
+  "lng": 126.7852225492,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2866676_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효비초밥",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 문화로 216"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "흙이야기",
+  "district": "전남광주통합특별시",
+  "category": "양식·세계요리",
+  "lat": 34.7482086811,
+  "lng": 126.4153506763,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/1974357_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "흙이야기",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 삼호읍 용당로 34"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "01DORA",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2787971568,
+  "lng": 127.3056422345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2864884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "01DORA",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 기차마을로 260"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "3대곰탕",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.6765914632,
+  "lng": 126.9031372221,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "3대곰탕",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장흥읍 토요시장3길 16-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "B´s coffee (비스커피)",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2773806872,
+  "lng": 127.3077670836,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "B´s coffee (비스커피)",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 오곡면 기차마을로 234"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "GGT POT",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.0518681087,
+  "lng": 126.8689809723,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3493019_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "GGT POT",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 동촌로 236-42"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "KAFE52",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 35.2434293417,
+  "lng": 126.6762321477,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2840313_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "KAFE52",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 영장로 1800"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "NCNP",
+  "district": "전남광주통합특별시",
+  "category": "카페·베이커리",
+  "lat": 34.7732144217,
+  "lng": 127.7461886626,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2866719_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "NCNP",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 망양로 201"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]구백식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.7387902548,
+  "lng": 127.7320741059,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2609776_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]구백식당",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 여객선터미널길 18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]대한식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9762277488,
+  "lng": 127.5856058874,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]대한식당",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 매일시장길 12-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]물망초설렁탕",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7415899341,
+  "lng": 127.7316629596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2630786_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]물망초설렁탕",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 충무로 54-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]전주식당",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 35.065938454,
+  "lng": 126.5190949012,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2616398_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]전주식당",
+    "desc": "",
+    "address": "전남광주통합특별시 함평군 함평읍 신기산길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]풍미통닭",
+  "district": "전남광주통합특별시",
+  "category": "한식·백반",
+  "lat": 34.9325008712,
+  "lng": 127.5141410539,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2607833_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]풍미통닭",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 팔마1길 2 (연향동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게] 다순구미감자탕",
+  "district": "전남광주통합특별시",
+  "category": "면·국물",
+  "lat": 34.7932366097,
+  "lng": 126.3948625139,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게] 다순구미감자탕",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 자유로 48"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게]푸른솔아구집",
+  "district": "전남광주통합특별시",
+  "category": "해산물·회",
+  "lat": 34.7860010762,
+  "lng": 126.3803917444,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게]푸른솔아구집",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 번화로 8-1"
+   }
+  }
+ }
+]

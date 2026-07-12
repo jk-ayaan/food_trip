@@ -1,0 +1,70 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "목향재",
+  "district": "",
+  "category": "한옥스테이",
+  "lat": 36.5019762504,
+  "lng": 127.2398991344,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2594631_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "목향재",
+    "desc": "",
+    "address": "세종특별자치시 만남로6길 33"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청벽비발디",
+  "district": "장군",
+  "category": "펜션",
+  "lat": 36.4382192561,
+  "lng": 127.216477963,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청벽비발디",
+    "desc": "",
+    "address": "세종특별자치시 장군면 금송로 161"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "학림재",
+  "district": "장군",
+  "category": "한옥스테이",
+  "lat": 36.5510558482,
+  "lng": 127.1899356188,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "학림재",
+    "desc": "",
+    "address": "세종특별자치시 장군면 태산길 75-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "학림재",
+  "district": "장군",
+  "category": "한옥스테이",
+  "lat": 36.5510558482,
+  "lng": 127.1899356188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2707656_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학림재",
+    "desc": "",
+    "address": "세종특별자치시 장군면 태산길 75-3"
+   }
+  }
+ }
+]

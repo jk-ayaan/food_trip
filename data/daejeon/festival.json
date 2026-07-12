@@ -1,0 +1,222 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "내인생의 한방축제",
+  "district": "동구",
+  "category": "일반축제",
+  "lat": 36.330929786,
+  "lng": 127.4311616537,
+  "phone": "042-221-1551",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3518010_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "내인생의 한방축제",
+    "desc": "",
+    "address": "대전광역시 동구 태전로 1 (중동)"
+   }
+  },
+  "pstart": "2025-08-08",
+  "pend": "2025-08-16",
+  "period": "2025.08.08~2025.08.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "대덕힐링콘서트",
+  "district": "대덕구",
+  "category": "일반축제",
+  "lat": 36.3648816382,
+  "lng": 127.4412987135,
+  "phone": "042-936-2400",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3546985_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "대덕힐링콘서트",
+    "desc": "",
+    "address": "대전광역시 대덕구 동춘당로 80 (송촌동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "대전 동구동락 축제",
+  "district": "동구",
+  "category": "일반축제",
+  "lat": 36.3350238727,
+  "lng": 127.4374054282,
+  "phone": "042-251-6673",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3532414_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전 동구동락 축제",
+    "desc": "",
+    "address": "대전광역시 동구 철갑2길 2 (소제동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "대전ART마임페스티벌",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 36.3267634148,
+  "lng": 127.4209793431,
+  "phone": "042-257-1231",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3349617_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전ART마임페스티벌",
+    "desc": "",
+    "address": "대전광역시 중구 중앙로 101"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "유성국화축제",
+  "district": "유성구",
+  "category": "일반축제",
+  "lat": 36.3607306283,
+  "lng": 127.3577063021,
+  "phone": "042-611-2678",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3546705_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유성국화축제",
+    "desc": "",
+    "address": "대전광역시 유성구 어은로 27 (봉명동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-11-02",
+  "period": "2025.10.18~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "유성독서대전",
+  "district": "유성구",
+  "category": "일반축제",
+  "lat": 36.3607306283,
+  "lng": 127.3577063021,
+  "phone": "042-611-6629",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3544872_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "유성독서대전",
+    "desc": "",
+    "address": "대전광역시 유성구 어은로 27 (봉명동)"
+   }
+  },
+  "pstart": "2025-10-11",
+  "pend": "2025-10-12",
+  "period": "2025.10.11~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "유성재즈&맥주페스타",
+  "district": "유성구",
+  "category": "일반축제",
+  "lat": 36.3607306283,
+  "lng": 127.3577063021,
+  "phone": "042-611-2080",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3338823_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유성재즈&맥주페스타",
+    "desc": "",
+    "address": "대전광역시 유성구 어은로 27 (봉명동)"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-31",
+  "period": "2025.08.29~2025.08.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 대전 소통공감행사 \"청끌夜\"",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 36.3185923049,
+  "lng": 127.4310258892,
+  "phone": "042-368-8832",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3553822_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 대전 소통공감행사 \"청끌夜\"",
+    "desc": "",
+    "address": "대전광역시 중구 대종로 373 (부사동)"
+   }
+  },
+  "pstart": "2025-10-31",
+  "pend": "2025-11-16",
+  "period": "2025.10.31~2025.11.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 유성온천 크리스마스 축제",
+  "district": "유성구",
+  "category": "기타행사",
+  "lat": 36.3607306283,
+  "lng": 127.3577063021,
+  "phone": "042-611-2080",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3574143_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 유성온천 크리스마스 축제",
+    "desc": "",
+    "address": "대전광역시 유성구 어은로 27 (봉명동)"
+   }
+  },
+  "pstart": "2025-12-05",
+  "pend": "2025-12-07",
+  "period": "2025.12.05~2025.12.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025년 제20회 인문주간",
+  "district": "유성구",
+  "category": "기타행사",
+  "lat": 36.3844891614,
+  "lng": 127.3656327264,
+  "phone": "042-869-6114",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3551428_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025년 제20회 인문주간",
+    "desc": "",
+    "address": "대전광역시 유성구 가정로 201 (가정동)"
+   }
+  },
+  "pstart": "2025-10-27",
+  "pend": "2025-11-02",
+  "period": "2025.10.27~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2026 선양 맨몸마라톤",
+  "district": "유성구",
+  "category": "스포츠경기",
+  "lat": 36.3761070383,
+  "lng": 127.3797705782,
+  "phone": "042-580-1827",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3572757_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2026 선양 맨몸마라톤",
+    "desc": "",
+    "address": "대전광역시 유성구 대덕대로 480 (도룡동)"
+   }
+  },
+  "pstart": "2026-01-01",
+  "pend": "2026-01-01",
+  "period": "2026.01.01~2026.01.01"
+ }
+]

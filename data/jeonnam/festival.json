@@ -1,0 +1,102 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "남도영화제 시즌2 광양",
+  "district": "전남광주통합특별시",
+  "category": "영화",
+  "lat": 34.9390810874,
+  "lng": 127.6976497858,
+  "phone": "061-727-2272",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3536359_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남도영화제 시즌2 광양",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 중마중앙로 99 (중동)"
+   }
+  },
+  "pstart": "2025-10-23",
+  "pend": "2025-10-27",
+  "period": "2025.10.23~2025.10.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "담양 다미담주 페스티벌 쓰담쓰담 야시장",
+  "district": "전남광주통합특별시",
+  "category": "기타행사",
+  "lat": 35.3223061188,
+  "lng": 126.980808736,
+  "phone": "010-9903-0209",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3559417_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "담양 다미담주 페스티벌 쓰담쓰담 야시장",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 담주4길 24-46"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-11-08",
+  "period": "2025.10.25~2025.11.08"
+ },
+ {
+  "section": "festival",
+  "name_ko": "한국전력과 함께하는 2025 희망·사랑 나눔 콘서트",
+  "district": "전남광주통합특별시",
+  "category": "클래식",
+  "lat": 35.3016853956,
+  "lng": 126.7675670383,
+  "phone": "070-4242-0838",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3547385_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한국전력과 함께하는 2025 희망·사랑 나눔 콘서트",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 장성읍 문화로 110"
+   }
+  },
+  "pstart": "2025-10-29",
+  "pend": "2025-10-29",
+  "period": "2025.10.29~2025.10.29"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 동서화합 영·호남 문화예술관광박람회",
+  "district": "전남광주통합특별시",
+  "category": "박람회",
+  "lat": 35.3256086468,
+  "lng": 126.9880941182,
+  "phone": "062-945-5670",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3517338_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 동서화합 영·호남 문화예술관광박람회",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 담양읍 죽녹원로 134"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-21",
+  "period": "2025.09.19~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025섬진강국제실험예술제(SIEAF)",
+  "district": "전남광주통합특별시",
+  "category": "전시회",
+  "lat": 35.1919998595,
+  "lng": 127.3775297835,
+  "phone": "010-2344-5004",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3534861_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025섬진강국제실험예술제(SIEAF)",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 죽곡면 섬진강로 1012"
+   }
+  },
+  "pstart": "2025-10-23",
+  "pend": "2025-10-27",
+  "period": "2025.10.23~2025.10.27"
+ }
+]

@@ -1,0 +1,495 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "강화 인삼센터",
+  "district": "강화군",
+  "category": "전문매장",
+  "lat": 37.7421168236,
+  "lng": 126.4924882782,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/1163172_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 인삼센터",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 강화대로 335"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강화 중앙시장",
+  "district": "강화군",
+  "category": "상설시장",
+  "lat": 37.7475993708,
+  "lng": 126.4841777761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3350664_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화 중앙시장",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 강화대로 430"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강화젓갈",
+  "district": "강화군",
+  "category": "특산물판매점",
+  "lat": 37.7007946382,
+  "lng": 126.3784665487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/1946482_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화젓갈",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 해안서로 899-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "계산전통시장",
+  "district": "계양구",
+  "category": "상설시장",
+  "lat": 37.5418025977,
+  "lng": 126.7249087337,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2780930_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계산전통시장",
+    "desc": "",
+    "address": "인천광역시 계양구 어사대로 18 (계산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "길상공설시장 (4일, 9일)",
+  "district": "강화군",
+  "category": "5일장",
+  "lat": 37.6395176484,
+  "lng": 126.4910579376,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/1163167_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "길상공설시장 (4일, 9일)",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 온수길33번길 2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 인천점",
+  "district": "미추홀구",
+  "category": "백화점",
+  "lat": 37.4422082182,
+  "lng": 126.7023441253,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3007027_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 인천점",
+    "desc": "",
+    "address": "인천광역시 미추홀구 연남로 35 인천종합터미널,롯데백화점"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "만수시장",
+  "district": "남동구",
+  "category": "상설시장",
+  "lat": 37.4598400382,
+  "lng": 126.7325519917,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2780975_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "만수시장",
+    "desc": "",
+    "address": "인천광역시 남동구 만수로37번길 1-1 (만수동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부평 종합시장",
+  "district": "부평구",
+  "category": "상설시장",
+  "lat": 37.4965606664,
+  "lng": 126.7266515056,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3395547_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부평 종합시장",
+    "desc": "",
+    "address": "인천광역시 부평구 부흥로316번길 38-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부평모두몰(부평지하도상가)",
+  "district": "부평구",
+  "category": "전문매장",
+  "lat": 37.4900058247,
+  "lng": 126.723938047,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3395507_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부평모두몰(부평지하도상가)",
+    "desc": "",
+    "address": "인천광역시 부평구 부평대로 지하 69"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부평시장",
+  "district": "부평구",
+  "category": "상설시장",
+  "lat": 37.4965606664,
+  "lng": 126.7266515056,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3523842_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부평시장",
+    "desc": "",
+    "address": "인천광역시 부평구 부흥로316번길 38-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "석바위 지하도상가",
+  "district": "미추홀구",
+  "category": "전문매장",
+  "lat": 37.4577784192,
+  "lng": 126.6903114559,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3395097_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "석바위 지하도상가",
+    "desc": "",
+    "address": "인천광역시 미추홀구 경원대로 848"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "석바위시장",
+  "district": "미추홀구",
+  "category": "상설시장",
+  "lat": 37.4590060586,
+  "lng": 126.690553066,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2780978_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "석바위시장",
+    "desc": "",
+    "address": "인천광역시 미추홀구 경원대로852번길 15"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "선두5리어시장",
+  "district": "강화군",
+  "category": "상설시장",
+  "lat": 37.5977614819,
+  "lng": 126.4956336799,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3559355_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선두5리어시장",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 해안남로619번길 24"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신거북시장",
+  "district": "서해구",
+  "category": "상설시장",
+  "lat": 37.5034339518,
+  "lng": 126.6749199224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2784371_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신거북시장",
+    "desc": "",
+    "address": "인천광역시 서해구 거북로 117 (석남동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "열우물전통시장",
+  "district": "부평구",
+  "category": "상설시장",
+  "lat": 37.4733461499,
+  "lng": 126.695710531,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3523831_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "열우물전통시장",
+    "desc": "",
+    "address": "인천광역시 부평구 배곶남로21번길 18"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "용남시장",
+  "district": "미추홀구",
+  "category": "상설시장",
+  "lat": 37.4503093802,
+  "lng": 126.6641529377,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2781011_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용남시장",
+    "desc": "",
+    "address": "인천광역시 미추홀구 인하로91번길 118 (용현동, 대신아트빌라(12동))"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 모래내시장",
+  "district": "남동구",
+  "category": "상설시장",
+  "lat": 37.4541793884,
+  "lng": 126.7214753815,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/1923750_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천 모래내시장",
+    "desc": "",
+    "address": "인천광역시 남동구 호구포로810번길 42-8"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 삼산농산물도매시장",
+  "district": "부평구",
+  "category": "상설시장",
+  "lat": 37.5210054074,
+  "lng": 126.7469684142,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3395584_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천 삼산농산물도매시장",
+    "desc": "",
+    "address": "인천광역시 부평구 영성동로 46 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 송현시장",
+  "district": "제물포구",
+  "category": "상설시장",
+  "lat": 37.4761391907,
+  "lng": 126.6346271361,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3395085_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천 송현시장",
+    "desc": "",
+    "address": "인천광역시 제물포구 화도진로44번길 18"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 신기시장",
+  "district": "미추홀구",
+  "category": "상설시장",
+  "lat": 37.4456240301,
+  "lng": 126.6764047285,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2674918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천 신기시장",
+    "desc": "",
+    "address": "인천광역시 미추홀구 신기길58번길 6 (주안동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 옥련시장",
+  "district": "연수구",
+  "category": "상설시장",
+  "lat": 37.4227650278,
+  "lng": 126.6454220768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2989251_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천 옥련시장",
+    "desc": "",
+    "address": "인천광역시 연수구 독배로40번길 35"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 용현시장",
+  "district": "미추홀구",
+  "category": "상설시장",
+  "lat": 37.4578054872,
+  "lng": 126.6502901053,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3395137_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천 용현시장",
+    "desc": "",
+    "address": "인천광역시 미추홀구 독정이로33번길 63 (용현동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 종합어시장",
+  "district": "제물포구",
+  "category": "상설시장",
+  "lat": 37.4541301538,
+  "lng": 126.6071635855,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3395971_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천 종합어시장",
+    "desc": "",
+    "address": "인천광역시 제물포구 연안부두로33번길 37"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인천 현대시장",
+  "district": "제물포구",
+  "category": "상설시장",
+  "lat": 37.4765421066,
+  "lng": 126.6450956138,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3394970_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천 현대시장",
+    "desc": "",
+    "address": "인천광역시 제물포구 송림로109번길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "작전시장",
+  "district": "계양구",
+  "category": "상설시장",
+  "lat": 37.5330702747,
+  "lng": 126.7246006725,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2780950_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "작전시장",
+    "desc": "",
+    "address": "인천광역시 계양구 봉오대로677번길 26 (작전동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "정서진중앙시장",
+  "district": "서해구",
+  "category": "상설시장",
+  "lat": 37.5186322035,
+  "lng": 126.6759666257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3524653_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정서진중앙시장",
+    "desc": "",
+    "address": "인천광역시 서해구 원창로239번길 11"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "채즈칩스 스토어",
+  "district": "부평구",
+  "category": "전문매장",
+  "lat": 37.4943886518,
+  "lng": 126.7241212413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3566513_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "채즈칩스 스토어",
+    "desc": "",
+    "address": "인천광역시 부평구  부평대로32번길 (20)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "토지금고시장",
+  "district": "미추홀구",
+  "category": "상설시장",
+  "lat": 37.4515698772,
+  "lng": 126.6376330993,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2781344_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토지금고시장",
+    "desc": "",
+    "address": "인천광역시 미추홀구 용현동 617-70"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "트리플스트리트",
+  "district": "연수구",
+  "category": "전문매장",
+  "lat": 37.3798397316,
+  "lng": 126.660969071,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3497309_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트리플스트리트",
+    "desc": "",
+    "address": "인천광역시 연수구 송도과학로16번길 33-3"
+   }
+  }
+ }
+]

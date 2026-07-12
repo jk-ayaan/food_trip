@@ -1,0 +1,240 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "굿모닝레지던스호텔휴",
+  "district": "서구",
+  "category": "관광호텔",
+  "lat": 36.3523347925,
+  "lng": 127.3817016058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2584687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "굿모닝레지던스호텔휴",
+    "desc": "",
+    "address": "대전광역시 서구 둔산로73번길 21 (둔산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "나봄 S&HOTEL",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.425904356,
+  "lng": 127.3932957905,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2930304_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나봄 S&HOTEL",
+    "desc": "",
+    "address": "대전광역시 유성구 테크노중앙로 69 (관평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대전라마다호텔",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.3532395885,
+  "lng": 127.3447160004,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2913361_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전라마다호텔",
+    "desc": "",
+    "address": "대전광역시 유성구 계룡로 127 (봉명동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대전별서",
+  "district": "동구",
+  "category": "한옥스테이",
+  "lat": 36.2860241091,
+  "lng": 127.4480863593,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대전별서",
+    "desc": "",
+    "address": "대전광역시 동구 이사로 147-81 (이사동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "부사노바",
+  "district": "중구",
+  "category": "게스트하우스",
+  "lat": 36.3137317893,
+  "lng": 127.4332647099,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "부사노바",
+    "desc": "",
+    "address": "대전광역시 중구 대종로315번길 19 (부사동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "빨간대문",
+  "district": "동구",
+  "category": "게스트하우스",
+  "lat": 36.3308438742,
+  "lng": 127.4418384792,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "빨간대문",
+    "desc": "",
+    "address": "대전광역시 동구 계족로 194-1 (대동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스탕달호텔",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.3568641707,
+  "lng": 127.3445464739,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2914393_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스탕달호텔",
+    "desc": "",
+    "address": "대전광역시 유성구 온천북로 14 (봉명동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 자유",
+  "district": "유성구",
+  "category": "게스트하우스",
+  "lat": 36.3976827268,
+  "lng": 127.4011486341,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이 자유",
+    "desc": "",
+    "address": "대전광역시 유성구 전민로34번길 27 (전민동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "자우리호텔",
+  "district": "유성구",
+  "category": "모텔",
+  "lat": 36.3523369699,
+  "lng": 127.3478935188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2914504_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자우리호텔",
+    "desc": "",
+    "address": "대전광역시 유성구 계룡로 157 (봉명동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "저스트슬립호텔 유성온천점",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.3548533784,
+  "lng": 127.3495516357,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3084426_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "저스트슬립호텔 유성온천점",
+    "desc": "",
+    "address": "대전광역시 유성구 온천로101번길 10-1 (봉명동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 더 에이치(Hotel The H)",
+  "district": "대덕구",
+  "category": "관광호텔",
+  "lat": 36.4504883321,
+  "lng": 127.4314778135,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2595294_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 더 에이치(Hotel The H)",
+    "desc": "",
+    "address": "대전광역시 대덕구 신탄진동로23번길 58"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 인터시티",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.3543395187,
+  "lng": 127.3478767993,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3577936_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 인터시티",
+    "desc": "",
+    "address": "대전광역시 유성구 온천로 92"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔ICC",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.377062716,
+  "lng": 127.392797164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2948475_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔ICC",
+    "desc": "",
+    "address": "대전광역시 유성구 엑스포로123번길 55 (도룡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔스카이파크 대전1호점",
+  "district": "유성구",
+  "category": "관광호텔",
+  "lat": 36.4247879026,
+  "lng": 127.398075949,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2771914_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔스카이파크 대전1호점",
+    "desc": "",
+    "address": "대전광역시 유성구 테크노중앙로 161 (용산동)"
+   }
+  }
+ }
+]

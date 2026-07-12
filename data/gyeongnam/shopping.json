@@ -1,0 +1,597 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "가음정시장",
+  "district": "창원시",
+  "category": "상설시장",
+  "lat": 35.2079714877,
+  "lng": 128.6979996238,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2799911_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "가음정시장",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 대정로35번길 8 (가음동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "경남관광기념품점 (구, 경남관광공예명품관)",
+  "district": "창원시",
+  "category": "특산물판매점",
+  "lat": 35.2382867979,
+  "lng": 128.6578550874,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3082099_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "경남관광기념품점 (구, 경남관광공예명품관)",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 원이대로 362 (대원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "경화장 (3, 8일)",
+  "district": "창원시",
+  "category": "5일장",
+  "lat": 35.1567993132,
+  "lng": 128.6904294443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3050146_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "경화장 (3, 8일)",
+    "desc": "",
+    "address": "경상남도 창원시 진해구 경화시장로 35 (경화동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남해특산물 지족판매장",
+  "district": "남해군",
+  "category": "특산물판매점",
+  "lat": 34.8276265652,
+  "lng": 127.9954988061,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3558586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남해특산물 지족판매장",
+    "desc": "",
+    "address": "경상남도 남해군 삼동면 삼이로 47-4"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "다자연 영농조합법인",
+  "district": "사천시",
+  "category": "특산물판매점",
+  "lat": 35.1407770642,
+  "lng": 127.9688430006,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3476246_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다자연 영농조합법인",
+    "desc": "",
+    "address": "경상남도 사천시 곤명면 금성들길 55"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "덕계 종합상설시장",
+  "district": "양산시",
+  "category": "상설시장",
+  "lat": 35.3697616019,
+  "lng": 129.1471726707,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3476300_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕계 종합상설시장",
+    "desc": "",
+    "address": "경상남도 양산시 덕계2길 7"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "덕산마을오일장",
+  "district": "산청군",
+  "category": "5일장",
+  "lat": 35.2770732962,
+  "lng": 127.8377648318,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2795933_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕산마을오일장",
+    "desc": "",
+    "address": "경상남도 산청군 시천면 남명로 188-5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "독일마을공식기념품판매점",
+  "district": "남해군",
+  "category": "특산물판매점",
+  "lat": 34.8004692645,
+  "lng": 128.0393206798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3561981_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독일마을공식기념품판매점",
+    "desc": "",
+    "address": "경상남도 남해군 삼동면 독일로 84-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "들꽃공방",
+  "district": "합천군",
+  "category": "공예·공방",
+  "lat": 35.7631403638,
+  "lng": 128.1357839293,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2800725_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "들꽃공방",
+    "desc": "",
+    "address": "경상남도 합천군 가야면 황산1길 71"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부경축산물주촌도매시장",
+  "district": "김해시",
+  "category": "상설시장",
+  "lat": 35.2262937668,
+  "lng": 128.8136529221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2799073_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부경축산물주촌도매시장",
+    "desc": "",
+    "address": "경상남도 김해시 주촌면 서부로1403번길 23-40"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "산청시장",
+  "district": "산청군",
+  "category": "5일장",
+  "lat": 35.4149500954,
+  "lng": 127.8764661296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3532790_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산청시장",
+    "desc": "",
+    "address": "경상남도 산청군 산청읍 꽃봉산로91번길 27"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼방시장",
+  "district": "김해시",
+  "category": "상설시장",
+  "lat": 35.249826226,
+  "lng": 128.9099244386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3542226_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼방시장",
+    "desc": "",
+    "address": "경상남도 김해시 삼방동 694-12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼천포수협회센터",
+  "district": "사천시",
+  "category": "전문매장",
+  "lat": 34.9270083693,
+  "lng": 128.0678343542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3040220_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼천포수협회센터",
+    "desc": "",
+    "address": "경상남도 사천시 유람선길 176"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼천포용궁수산시장",
+  "district": "사천시",
+  "category": "상설시장",
+  "lat": 34.9274389461,
+  "lng": 128.0717895527,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3515461_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼천포용궁수산시장",
+    "desc": "",
+    "address": "경상남도 사천시 어시장길 64"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼천포전통수산시장",
+  "district": "사천시",
+  "category": "상설시장",
+  "lat": 34.9273639244,
+  "lng": 128.070086926,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2799128_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼천포전통수산시장",
+    "desc": "",
+    "address": "경상남도 사천시 어시장길 34-5 (서동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "상남시장",
+  "district": "창원시",
+  "category": "상설시장",
+  "lat": 35.222227955,
+  "lng": 128.6834060679,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "상남시장",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 마디미로 28"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신정희도예(신한균 사기장)",
+  "district": "양산시",
+  "category": "공예·공방",
+  "lat": 35.4957376145,
+  "lng": 129.0666289769,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3538608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신정희도예(신한균 사기장)",
+    "desc": "",
+    "address": "경상남도 양산시 하북면 평산마을길 114"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "실키안",
+  "district": "진주시",
+  "category": "공예·공방",
+  "lat": 35.1598839844,
+  "lng": 128.1668529177,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3040510_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "실키안",
+    "desc": "",
+    "address": "경상남도 진주시 문산읍 월아산로996번길 22"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양산북부시장",
+  "district": "양산시",
+  "category": "상설시장",
+  "lat": 35.3504895753,
+  "lng": 129.0412241105,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2799222_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "양산북부시장",
+    "desc": "",
+    "address": "경상남도 양산시 중앙로 232 (북부동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "어거스트램",
+  "district": "통영시",
+  "category": "특산물판매점",
+  "lat": 34.8446239809,
+  "lng": 128.4276273335,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어거스트램",
+    "desc": "",
+    "address": "경상남도 통영시 통새미길 18"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "옥선명차사(요산당)",
+  "district": "하동군",
+  "category": "특산물판매점",
+  "lat": 35.254447353,
+  "lng": 127.6387079395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3443061_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥선명차사(요산당)",
+    "desc": "",
+    "address": "경상남도 하동군 화개면 화개로 814"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "외동전통시장",
+  "district": "김해시",
+  "category": "상설시장",
+  "lat": 35.2344715845,
+  "lng": 128.8658953639,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3542128_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "외동전통시장",
+    "desc": "",
+    "address": "경상남도 김해시 내외로 80 (외동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "이현종합시장",
+  "district": "진주시",
+  "category": "상설시장",
+  "lat": 35.1920313565,
+  "lng": 128.0661553411,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2799287_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이현종합시장",
+    "desc": "",
+    "address": "경상남도 진주시 신안로 165 (이현동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "자유시장 (진주)",
+  "district": "진주시",
+  "category": "상설시장",
+  "lat": 35.18015014,
+  "lng": 128.1100629152,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2799298_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "자유시장 (진주)",
+    "desc": "",
+    "address": "경상남도 진주시 도동천로 93 (상대동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "지리산함양시장",
+  "district": "함양군",
+  "category": "5일장",
+  "lat": 35.5180275071,
+  "lng": 127.7289375261,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3590228_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산함양시장",
+    "desc": "",
+    "address": "경상남도 함양군 함양읍 중앙시장길 8-9"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진동시장",
+  "district": "창원시",
+  "category": "상설시장",
+  "lat": 35.1130616307,
+  "lng": 128.4861178991,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2867422_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진동시장",
+    "desc": "",
+    "address": "경상남도 창원시 마산합포구 서촌길 3-29"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진영전통시장",
+  "district": "김해시",
+  "category": "5일장",
+  "lat": 35.3023281595,
+  "lng": 128.7308858585,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2863592_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진영전통시장",
+    "desc": "",
+    "address": "경상남도 김해시 진영산복로115번길 9"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진주 문산장 (4, 9일)",
+  "district": "진주시",
+  "category": "5일장",
+  "lat": 35.1705439351,
+  "lng": 128.1689663396,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3077368_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진주 문산장 (4, 9일)",
+    "desc": "",
+    "address": "경상남도 진주시 문산읍 소문길 68"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진주농산물도매시장",
+  "district": "진주시",
+  "category": "상설시장",
+  "lat": 35.2114746624,
+  "lng": 128.1251163238,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2796524_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진주농산물도매시장",
+    "desc": "",
+    "address": "경상남도 진주시 남강로 1689 (초전동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진해중앙시장",
+  "district": "창원시",
+  "category": "상설시장",
+  "lat": 35.1516910696,
+  "lng": 128.6638457909,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2864004_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진해중앙시장",
+    "desc": "",
+    "address": "경상남도 창원시 진해구 벚꽃로 72"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "창원 도계부부시장",
+  "district": "창원시",
+  "category": "상설시장",
+  "lat": 35.2576398081,
+  "lng": 128.6374257938,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2799968_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "창원 도계부부시장",
+    "desc": "",
+    "address": "경상남도 창원시 의창구 도계동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "창원시내서농산물도매시장",
+  "district": "창원시",
+  "category": "상설시장",
+  "lat": 35.2554822066,
+  "lng": 128.5113729859,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3564636_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "창원시내서농산물도매시장",
+    "desc": "",
+    "address": "경상남도 창원시 마산회원구 내서읍 유통단지로 33"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "초록스토어",
+  "district": "남해군",
+  "category": "전문매장",
+  "lat": 34.830679147,
+  "lng": 128.0037841145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2819391_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "초록스토어",
+    "desc": "",
+    "address": "경상남도 남해군 동부대로1876번길 38"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "통영중앙전통시장",
+  "district": "통영시",
+  "category": "상설시장",
+  "lat": 34.8453294044,
+  "lng": 128.4246359087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3523867_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영중앙전통시장",
+    "desc": "",
+    "address": "경상남도 통영시 중앙시장1길 14-16"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "하동공설시장",
+  "district": "하동군",
+  "category": "상설시장",
+  "lat": 35.0695367552,
+  "lng": 127.7482364345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2788836_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하동공설시장",
+    "desc": "",
+    "address": "경상남도 하동군 하동읍 시장1길 16-3"
+   }
+  }
+ }
+]

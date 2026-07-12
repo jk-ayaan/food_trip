@@ -1,0 +1,1962 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "가락옥토버페스트 미식야행",
+  "district": "송파구",
+  "category": "일반축제",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "02-3435-0455",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3553073_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "가락옥토버페스트 미식야행",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "가을 , 명동으로",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 37.5609633613,
+  "lng": 126.985959388,
+  "phone": "02-2277-8971",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3559865_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "가을 , 명동으로",
+    "desc": "",
+    "address": "서울특별시 중구 퇴계로 지하126 (충무로2가)"
+   }
+  },
+  "pstart": "2025-11-15",
+  "pend": "2025-11-15",
+  "period": "2025.11.15~2025.11.15"
+ },
+ {
+  "section": "festival",
+  "name_ko": "강남 미디어 윈터페스타",
+  "district": "강남구",
+  "category": "일반축제",
+  "lat": 37.5103955843,
+  "lng": 127.0610512042,
+  "phone": "02-6000-0114",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3579654_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강남 미디어 윈터페스타",
+    "desc": "",
+    "address": "서울특별시 강남구 영동대로 511 (삼성동)"
+   }
+  },
+  "pstart": "2025-12-19",
+  "pend": "2026-01-03",
+  "period": "2025.12.19~2026.01.03"
+ },
+ {
+  "section": "festival",
+  "name_ko": "강남청년축제",
+  "district": "강남구",
+  "category": "일반축제",
+  "lat": 37.5240046579,
+  "lng": 127.0356170227,
+  "phone": "010-9771-2090",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3540997_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강남청년축제",
+    "desc": "",
+    "address": "서울특별시 강남구 도산대로45길 20 (신사동)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-19",
+  "period": "2025.09.19~2025.09.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "강동북페스티벌",
+  "district": "강동구",
+  "category": "일반축제",
+  "lat": 37.5244036592,
+  "lng": 127.1369827856,
+  "phone": "02-2045-7919",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3567889_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강동북페스티벌",
+    "desc": "",
+    "address": "서울특별시 강동구 양재대로84길 63 (둔촌동)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-01",
+  "period": "2025.11.01~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "강북청소년축제 강추",
+  "district": "강북구",
+  "category": "일반축제",
+  "lat": 37.6321225012,
+  "lng": 127.0274174771,
+  "phone": "02-901-2503",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3539950_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강북청소년축제 강추",
+    "desc": "",
+    "address": "서울특별시 강북구 도봉로76가길 55 (미아동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "게임문화축제",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.568581843,
+  "lng": 126.9816428989,
+  "phone": "02-554-6763",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3530432_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "게임문화축제",
+    "desc": "",
+    "address": "서울특별시 중구 청계천로 40 (다동)"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-14",
+  "period": "2025.09.05~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "겨울, 청계천의 빛",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.5691317067,
+  "lng": 126.9776154729,
+  "phone": "02-904-1159",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3567636_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "겨울, 청계천의 빛",
+    "desc": "",
+    "address": "서울특별시 중구 태평로1가 1"
+   }
+  },
+  "pstart": "2025-12-12",
+  "pend": "2025-12-31",
+  "period": "2025.12.12~2025.12.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "경복궁 별빛야행",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5760836609,
+  "lng": 126.9767375783,
+  "phone": "1522-2295",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3349624_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "경복궁 별빛야행",
+    "desc": "",
+    "address": "서울특별시 종로구 사직로 161 (세종로)"
+   }
+  },
+  "pstart": "2025-10-15",
+  "pend": "2025-11-02",
+  "period": "2025.10.15~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "공공미술 빛조각축제",
+  "district": "노원구",
+  "category": "일반축제",
+  "lat": 37.6494961706,
+  "lng": 127.0657023804,
+  "phone": "02-2289-3466",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3547735_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "공공미술 빛조각축제",
+    "desc": "",
+    "address": "서울특별시 노원구 동일로 1322-70 (상계동)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-11-16",
+  "period": "2025.10.17~2025.11.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "관악별빛산책",
+  "district": "관악구",
+  "category": "일반축제",
+  "lat": 37.4827825101,
+  "lng": 126.9276196866,
+  "phone": "02-828-5743",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3580588_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "관악별빛산책",
+    "desc": "",
+    "address": "서울특별시 관악구 신림동 1642-7"
+   }
+  },
+  "pstart": "2025-12-01",
+  "pend": "2025-12-31",
+  "period": "2025.12.01~2025.12.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "광화문 마켓",
+  "district": "종로구",
+  "category": "기타행사",
+  "lat": 37.5716786179,
+  "lng": 126.9767821434,
+  "phone": "02-337-3692",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3573403_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "광화문 마켓",
+    "desc": "",
+    "address": "서울특별시 종로구 세종대로 지하172 (세종로)"
+   }
+  },
+  "pstart": "2025-12-12",
+  "pend": "2025-12-31",
+  "period": "2025.12.12~2025.12.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "구로G페스티벌",
+  "district": "구로구",
+  "category": "일반축제",
+  "lat": 37.5001766935,
+  "lng": 126.8705493966,
+  "phone": "02-860-2282",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3519677_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구로G페스티벌",
+    "desc": "",
+    "address": "서울특별시 구로구 구로동"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "구로청소년축제",
+  "district": "구로구",
+  "category": "일반축제",
+  "lat": 37.4941610735,
+  "lng": 126.8900783422,
+  "phone": "02-860-2140",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3562606_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구로청소년축제",
+    "desc": "",
+    "address": "서울특별시 구로구 구로중앙로 48 (구로동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "그린칩스 페스티벌",
+  "district": "마포구",
+  "category": "기타행사",
+  "lat": 37.5645590416,
+  "lng": 126.9232288927,
+  "phone": "02-3143-7366",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3548993_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "그린칩스 페스티벌",
+    "desc": "",
+    "address": "서울특별시 마포구 성미산로 151-1 (연남동)"
+   }
+  },
+  "pstart": "2025-10-15",
+  "pend": "2025-10-26",
+  "period": "2025.10.15~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "금천GC페스타",
+  "district": "금천구",
+  "category": "일반축제",
+  "lat": 37.4776713039,
+  "lng": 126.8890705637,
+  "phone": "02-2627-1442",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3530623_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금천GC페스타",
+    "desc": "",
+    "address": "서울특별시 금천구 디지털로10길 9 (가산동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "금천청년축제",
+  "district": "금천구",
+  "category": "일반축제",
+  "lat": 37.4564933229,
+  "lng": 126.8955205706,
+  "phone": "010-9771-2090",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3530334_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금천청년축제",
+    "desc": "",
+    "address": "서울특별시 금천구 시흥대로73길 70 (시흥동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-20",
+  "period": "2025.09.20~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "금천패션영화제",
+  "district": "금천구",
+  "category": "영화",
+  "lat": 37.4776713039,
+  "lng": 126.8890705637,
+  "phone": "070-4118-3352",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3520968_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금천패션영화제",
+    "desc": "",
+    "address": "서울특별시 금천구 디지털로10길 9 (가산동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "금천하모니축제",
+  "district": "금천구",
+  "category": "일반축제",
+  "lat": 37.4564933229,
+  "lng": 126.8955205706,
+  "phone": "070-4114-6351\n070-4118-3352",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3483192_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금천하모니축제",
+    "desc": "",
+    "address": "서울특별시 금천구 시흥대로73길 70 (시흥동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-19",
+  "period": "2025.10.18~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "노원 북 페스티벌",
+  "district": "노원구",
+  "category": "일반축제",
+  "lat": 37.6320954567,
+  "lng": 127.0679693368,
+  "phone": "02-2116-0701",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3559561_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "노원 북 페스티벌",
+    "desc": "",
+    "address": "서울특별시 노원구 공릉로55길 88 (하계동)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-11-02",
+  "period": "2025.10.17~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "노원수제맥주축제",
+  "district": "노원구",
+  "category": "일반축제",
+  "lat": 37.6245051267,
+  "lng": 127.0931061506,
+  "phone": "02-2289-3478, 3447",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3520610_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노원수제맥주축제",
+    "desc": "",
+    "address": "서울특별시 노원구 화랑로 608 (공릉동)"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-31",
+  "period": "2025.08.29~2025.08.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "댄싱노원 거리페스티벌",
+  "district": "노원구",
+  "category": "일반축제",
+  "lat": 37.6548371522,
+  "lng": 127.062166439,
+  "phone": "02-2289-3464",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3528456_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "댄싱노원 거리페스티벌",
+    "desc": "",
+    "address": "서울특별시 노원구 노해로 487-3 (상계동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-21",
+  "period": "2025.09.20~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "도곡 메타세쿼이아 로드 페스타",
+  "district": "강남구",
+  "category": "일반축제",
+  "lat": 37.4831568326,
+  "lng": 127.0472810057,
+  "phone": "02-3423-7552",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3543062_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도곡 메타세쿼이아 로드 페스타",
+    "desc": "",
+    "address": "서울특별시 강남구 양재천로 199 (도곡동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "도봉한글잔치",
+  "district": "도봉구",
+  "category": "일반축제",
+  "lat": 37.6603441259,
+  "lng": 127.0222810312,
+  "phone": "02-905-4026",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3550325_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도봉한글잔치",
+    "desc": "",
+    "address": "서울특별시 도봉구 해등로32가길 16 (방학동)"
+   }
+  },
+  "pstart": "2025-10-02",
+  "pend": "2025-10-19",
+  "period": "2025.10.02~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "도심속 바다축제",
+  "district": "동작구",
+  "category": "일반축제",
+  "lat": 0.0,
+  "lng": 0.0,
+  "phone": "02-820-9401",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3555917_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도심속 바다축제",
+    "desc": "",
+    "address": "서울특별시 동작구 노들로 688 (노량진동)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-26",
+  "period": "2025.10.25~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "동궐동락",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5789336838,
+  "lng": 126.9964634775,
+  "phone": "1522-2295",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3572022_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동궐동락",
+    "desc": "",
+    "address": "서울특별시 종로구 창경궁로 185 (와룡동)"
+   }
+  },
+  "pstart": "2025-11-11",
+  "pend": "2025-11-16",
+  "period": "2025.11.11~2025.11.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "동대문구 맥주축제",
+  "district": "동대문구",
+  "category": "일반축제",
+  "lat": 37.5666448642,
+  "lng": 127.0753483058,
+  "phone": "02-3295-5568",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3513270_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "동대문구 맥주축제",
+    "desc": "",
+    "address": "서울특별시 동대문구 장안동"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-30",
+  "period": "2025.08.29~2025.08.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "동작댄싱데이 페스티벌",
+  "district": "동작구",
+  "category": "일반축제",
+  "lat": 37.5154094998,
+  "lng": 126.94017318,
+  "phone": "070-7204-3251",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3546043_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동작댄싱데이 페스티벌",
+    "desc": "",
+    "address": "서울특별시 동작구 노들로 688 (노량진동)"
+   }
+  },
+  "pstart": "2025-09-28",
+  "pend": "2025-09-28",
+  "period": "2025.09.28~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "방배카페 골목페스타",
+  "district": "서초구",
+  "category": "일반축제",
+  "lat": 37.4963319705,
+  "lng": 126.9854168201,
+  "phone": "070-4266-5368",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3564652_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "방배카페 골목페스타",
+    "desc": "",
+    "address": "서울특별시 서초구 방배중앙로 193 (방배동)"
+   }
+  },
+  "pstart": "2025-11-15",
+  "pend": "2025-11-15",
+  "period": "2025.11.15~2025.11.15"
+ },
+ {
+  "section": "festival",
+  "name_ko": "백년시장 백년나이트 오컬트디스코",
+  "district": "강북구",
+  "category": "일반축제",
+  "lat": 37.6416074792,
+  "lng": 127.0257562475,
+  "phone": "02-903-9110",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3553370_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "백년시장 백년나이트 오컬트디스코",
+    "desc": "",
+    "address": "서울특별시 강북구 한천로144길 12 (수유동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-25",
+  "period": "2025.10.24~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "북촌의 날",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5791307002,
+  "lng": 126.986289399,
+  "phone": "02-741-1033",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3540045_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북촌의 날",
+    "desc": "",
+    "address": "서울특별시 종로구 계동길 37"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-10-05",
+  "period": "2025.09.26~2025.10.05"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서대문 국가유산 야행",
+  "district": "서대문구",
+  "category": "일반축제",
+  "lat": 37.5744612869,
+  "lng": 126.9577643533,
+  "phone": "1800-4746",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3366647_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서대문 국가유산 야행",
+    "desc": "",
+    "address": "서울특별시 서대문구 통일로 지하247 (현저동)"
+   }
+  },
+  "pstart": "2025-10-03",
+  "pend": "2025-10-04",
+  "period": "2025.10.03~2025.10.04"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서대문독립축제",
+  "district": "서대문구",
+  "category": "일반축제",
+  "lat": 37.5746723659,
+  "lng": 126.9573421635,
+  "phone": "02-330-1410",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3513180_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서대문독립축제",
+    "desc": "",
+    "address": "서울특별시 서대문구 통일로 251 (현저동)"
+   }
+  },
+  "pstart": "2025-08-14",
+  "pend": "2025-08-16",
+  "period": "2025.08.14~2025.08.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서리풀뮤직페스티벌",
+  "district": "서초구",
+  "category": "일반축제",
+  "lat": 37.4918773303,
+  "lng": 127.0076093702,
+  "phone": "02-3477-2808",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3354108_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서리풀뮤직페스티벌",
+    "desc": "",
+    "address": "서울특별시 서초구 서초대로 233 서초역"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울거리예술축제",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.5691650357,
+  "lng": 126.9776099168,
+  "phone": "02-2088-4957",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3544790_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "서울거리예술축제",
+    "desc": "",
+    "address": "서울특별시 중구 태평로1가"
+   }
+  },
+  "pstart": "2025-10-06",
+  "pend": "2025-10-08",
+  "period": "2025.10.06~2025.10.08"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울라이트 DDP 겨울",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.566107632,
+  "lng": 127.0095709797,
+  "phone": "02-2153-0000",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3583683_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울라이트 DDP 겨울",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 281 (을지로7가)"
+   }
+  },
+  "pstart": "2025-12-18",
+  "pend": "2025-12-31",
+  "period": "2025.12.18~2025.12.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울라이트 광화문",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5716786179,
+  "lng": 126.9767821434,
+  "phone": "02-2133-1936",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3581704_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울라이트 광화문",
+    "desc": "",
+    "address": "서울특별시 종로구 세종로 1-68 5호선 광화문역"
+   }
+  },
+  "pstart": "2025-12-12",
+  "pend": "2026-01-04",
+  "period": "2025.12.12~2026.01.04"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울라이트 한강 빛섬축제",
+  "district": "광진구",
+  "category": "일반축제",
+  "lat": 37.5294186076,
+  "lng": 127.0739939307,
+  "phone": "02-6952-4907",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3579117_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울라이트 한강 빛섬축제",
+    "desc": "",
+    "address": "서울특별시 광진구 강변북로 2273 (자양동)"
+   }
+  },
+  "pstart": "2025-10-03",
+  "pend": "2025-10-12",
+  "period": "2025.10.03~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울발레페스티벌 서울국제발레위크",
+  "district": "송파구",
+  "category": "전통공연",
+  "lat": 37.5068688853,
+  "lng": 127.0982534743,
+  "phone": "02-3442-2637",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3546369_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울발레페스티벌 서울국제발레위크",
+    "desc": "",
+    "address": "서울특별시 송파구 석촌호수로 191 (잠실동)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울생활예술페스티벌",
+  "district": "용산구",
+  "category": "일반축제",
+  "lat": 37.5177178854,
+  "lng": 126.9580520415,
+  "phone": "02-758-2020, 2075",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3542852_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울생활예술페스티벌",
+    "desc": "",
+    "address": "서울특별시 용산구 양녕로 445 (이촌동)"
+   }
+  },
+  "pstart": "2025-10-11",
+  "pend": "2025-10-11",
+  "period": "2025.10.11~2025.10.11"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울아프리카페스티벌",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.566107632,
+  "lng": 127.0095709797,
+  "phone": "02-6082-0801",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3558510_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울아프리카페스티벌",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 281 (을지로7가)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-13",
+  "period": "2025.09.12~2025.09.13"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울억새축제",
+  "district": "마포구",
+  "category": "일반축제",
+  "lat": 37.569152288,
+  "lng": 126.8861432556,
+  "phone": "02-300-5567",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3544281_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서울억새축제",
+    "desc": "",
+    "address": "서울특별시 마포구 하늘공원로 95 (상암동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-24",
+  "period": "2025.10.18~2025.10.24"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울와우북페스티벌",
+  "district": "마포구",
+  "category": "일반축제",
+  "lat": 37.5508549625,
+  "lng": 126.9167298722,
+  "phone": "070-8826-5207",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3547511_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "서울와우북페스티벌",
+    "desc": "",
+    "address": "서울특별시 마포구 양화로 72 (서교동, 서교동 효성 해링턴 타워)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서울프린지페스티벌2025",
+  "district": "마포구",
+  "category": "연극",
+  "lat": 37.5605066025,
+  "lng": 126.9158380144,
+  "phone": "02-325-8150",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3507626_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울프린지페스티벌2025",
+    "desc": "",
+    "address": "서울특별시 마포구 월드컵북로 75 (성산동)"
+   }
+  },
+  "pstart": "2025-07-31",
+  "pend": "2025-08-17",
+  "period": "2025.07.31~2025.08.17"
+ },
+ {
+  "section": "festival",
+  "name_ko": "석계역 달빛야시장",
+  "district": "노원구",
+  "category": "일반축제",
+  "lat": 37.61534456,
+  "lng": 127.0642451532,
+  "phone": "02-2116-3487",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3538314_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "석계역 달빛야시장",
+    "desc": "",
+    "address": "서울특별시 노원구 월계동"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "성북 책모꼬지 북페스티벌",
+  "district": "성북구",
+  "category": "일반축제",
+  "lat": 37.5894939323,
+  "lng": 127.0167863252,
+  "phone": "02-6951-2012",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3560526_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성북 책모꼬지 북페스티벌",
+    "desc": "",
+    "address": "서울특별시 성북구 보문로 168 (삼선동5가)"
+   }
+  },
+  "pstart": "2025-11-02",
+  "pend": "2025-11-02",
+  "period": "2025.11.02~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "성북거리문화축제",
+  "district": "성북구",
+  "category": "일반축제",
+  "lat": 37.6104117333,
+  "lng": 127.0605761839,
+  "phone": "02-6906-3106",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3527554_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성북거리문화축제",
+    "desc": "",
+    "address": "서울특별시 성북구 석관동"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "세계유산 조선왕릉축전",
+  "district": "강남구",
+  "category": "일반축제",
+  "lat": 37.5071957139,
+  "lng": 127.0475969642,
+  "phone": "1522-2295",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3423615_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계유산 조선왕릉축전",
+    "desc": "",
+    "address": "서울특별시 강남구 선릉로100길 1 (삼성동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-26",
+  "period": "2025.10.18~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양천 락(樂) 페스티벌",
+  "district": "양천구",
+  "category": "일반축제",
+  "lat": 37.5260591072,
+  "lng": 126.8318633073,
+  "phone": "02-2021-8901,8912,8913",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3529671_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양천 락(樂) 페스티벌",
+    "desc": "",
+    "address": "서울특별시 양천구 신월동"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양천가족 거리축제",
+  "district": "양천구",
+  "category": "일반축제",
+  "lat": 37.5198490944,
+  "lng": 126.8530059985,
+  "phone": "02-2021-8943",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3544832_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양천가족 거리축제",
+    "desc": "",
+    "address": "서울특별시 양천구 중앙로 지하261 (신정동)"
+   }
+  },
+  "pstart": "2025-10-26",
+  "pend": "2025-10-26",
+  "period": "2025.10.26~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "어울림정원 빛축제",
+  "district": "구로구",
+  "category": "일반축제",
+  "lat": 37.5110699828,
+  "lng": 126.876781856,
+  "phone": "02-860-2282",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3544902_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "어울림정원 빛축제",
+    "desc": "",
+    "address": "서울특별시 구로구 신도림동"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-10-26",
+  "period": "2025.09.19~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "엔터테크 서울 2025",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 37.566107632,
+  "lng": 127.0095709797,
+  "phone": "010-6621-8624",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3533381_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "엔터테크 서울 2025",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 281 (을지로7가)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-21",
+  "period": "2025.09.19~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "연남동 주민화합 대축제",
+  "district": "마포구",
+  "category": "일반축제",
+  "lat": 37.561012246,
+  "lng": 126.9240400306,
+  "phone": "02-3153-6860",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3542886_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연남동 주민화합 대축제",
+    "desc": "",
+    "address": "서울특별시 마포구 동교로 233 (연남동, 이트라이브연남빌딩)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "영등포선유도원축제",
+  "district": "영등포구",
+  "category": "일반축제",
+  "lat": 37.5422918129,
+  "lng": 126.902442527,
+  "phone": "02-2629-2261",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3552525_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "영등포선유도원축제",
+    "desc": "",
+    "address": "서울특별시 영등포구 선유로 343 (당산동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "오늘전통축제",
+  "district": "성동구",
+  "category": "일반축제",
+  "lat": 37.5423085165,
+  "lng": 127.0594809973,
+  "phone": "010-5532-2781",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3535130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오늘전통축제",
+    "desc": "",
+    "address": "서울특별시 성동구 연무장15길 11 (성수동2가)"
+   }
+  },
+  "pstart": "2025-09-25",
+  "pend": "2025-09-28",
+  "period": "2025.09.25~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "온 가족 책 잔치",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5797361152,
+  "lng": 126.982378627,
+  "phone": "02-2011-5742",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3564751_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온 가족 책 잔치",
+    "desc": "",
+    "address": "서울특별시 종로구 북촌로5길 48 (화동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-18",
+  "period": "2025.10.18~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "용마루 숲길 축제",
+  "district": "용산구",
+  "category": "일반축제",
+  "lat": 37.5388210345,
+  "lng": 126.9605734386,
+  "phone": "010-9771-2090",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3551493_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용마루 숲길 축제",
+    "desc": "",
+    "address": "서울특별시 용산구 효창원로55길 8 (용문동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-11-09",
+  "period": "2025.10.24~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "용산 국가유산 야행",
+  "district": "용산구",
+  "category": "일반축제",
+  "lat": 37.5445620575,
+  "lng": 126.9618926006,
+  "phone": "02-2199-7245",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3529952_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용산 국가유산 야행",
+    "desc": "",
+    "address": "서울특별시 용산구 효창원로 177-18 (효창동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-13",
+  "period": "2025.09.12~2025.09.13"
+ },
+ {
+  "section": "festival",
+  "name_ko": "용산청년축제",
+  "district": "용산구",
+  "category": "일반축제",
+  "lat": 37.520662531,
+  "lng": 126.9883603092,
+  "phone": "010-9771-2090",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3536331_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "용산청년축제",
+    "desc": "",
+    "address": "서울특별시 용산구 서빙고로 221 (용산동6가)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-20",
+  "period": "2025.09.20~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "은평청년축제",
+  "district": "은평구",
+  "category": "일반축제",
+  "lat": 37.6022297707,
+  "lng": 126.929352269,
+  "phone": "010-9771-2090",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3534390_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "은평청년축제",
+    "desc": "",
+    "address": "서울특별시 은평구 은평로 195 (녹번동)"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-09-13",
+  "period": "2025.09.13~2025.09.13"
+ },
+ {
+  "section": "festival",
+  "name_ko": "자문밖문화축제",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.6119989089,
+  "lng": 126.97558111,
+  "phone": "02-6365-1388",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3537168_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "자문밖문화축제",
+    "desc": "",
+    "address": "서울특별시 종로구 평창31길 5 (평창동)"
+   }
+  },
+  "pstart": "2025-09-16",
+  "pend": "2025-09-21",
+  "period": "2025.09.16~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "장애인문화예술축제 A+ Festival",
+  "district": "동작구",
+  "category": "일반축제",
+  "lat": 37.4949448412,
+  "lng": 126.9195061947,
+  "phone": "02-6351-5905",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3550898_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "장애인문화예술축제 A+ Festival",
+    "desc": "",
+    "address": "서울특별시 동작구 여의대방로20길 33 (신대방동)"
+   }
+  },
+  "pstart": "2025-09-23",
+  "pend": "2025-09-28",
+  "period": "2025.09.23~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "정동문화축제",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.5670957913,
+  "lng": 126.9753629579,
+  "phone": "02-3701-1603",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3552215_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "정동문화축제",
+    "desc": "",
+    "address": "서울특별시 중구 정동"
+   }
+  },
+  "pstart": "2025-10-23",
+  "pend": "2025-10-25",
+  "period": "2025.10.23~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제2회 고메 잇 강남",
+  "district": "강남구",
+  "category": "기타행사",
+  "lat": 37.5119175967,
+  "lng": 127.059217995,
+  "phone": "070-7734-7796",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3563924_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "제2회 고메 잇 강남",
+    "desc": "",
+    "address": "서울특별시 강남구 영동대로 513 (삼성동)"
+   }
+  },
+  "pstart": "2025-11-04",
+  "pend": "2025-11-16",
+  "period": "2025.11.04~2025.11.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제46회 서울무용제",
+  "district": "종로구",
+  "category": "무용",
+  "lat": 37.5812640855,
+  "lng": 127.0029878163,
+  "phone": "02-744-8066",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3567087_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제46회 서울무용제",
+    "desc": "",
+    "address": "서울특별시 종로구 대학로8길 7 (동숭동)"
+   }
+  },
+  "pstart": "2025-11-21",
+  "pend": "2025-12-07",
+  "period": "2025.11.21~2025.12.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제6회 푸른하늘의 날 기념행사",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 37.5655015943,
+  "lng": 126.9787960237,
+  "phone": "02-2088-7388",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3526694_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제6회 푸른하늘의 날 기념행사",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 지하12 (을지로1가)"
+   }
+  },
+  "pstart": "2025-09-03",
+  "pend": "2025-09-03",
+  "period": "2025.09.03~2025.09.03"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제7회 금천과학축제",
+  "district": "금천구",
+  "category": "전시회",
+  "lat": 37.4564933229,
+  "lng": 126.8955205706,
+  "phone": "02-2627-2813",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3537175_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "제7회 금천과학축제",
+    "desc": "",
+    "address": "서울특별시 금천구 시흥대로73길 70 (시흥동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-27",
+  "period": "2025.09.26~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "종로K축제",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5716786179,
+  "lng": 126.9767821434,
+  "phone": "02-6203-1164",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3563664_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "종로K축제",
+    "desc": "",
+    "address": "서울특별시 종로구 세종대로 지하172 (세종로)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-18",
+  "period": "2025.10.17~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "중랑용마폭포축제",
+  "district": "중랑구",
+  "category": "일반축제",
+  "lat": 37.5734054382,
+  "lng": 127.0891385242,
+  "phone": "02-3407-6532",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3540195_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "중랑용마폭포축제",
+    "desc": "",
+    "address": "서울특별시 중랑구 용마산로 250-12 (면목동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-27",
+  "period": "2025.09.26~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "창덕궁 약다방",
+  "district": "종로구",
+  "category": "일반축제",
+  "lat": 37.5777031595,
+  "lng": 126.9902446339,
+  "phone": "1522-2295",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3489451_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "창덕궁 약다방",
+    "desc": "",
+    "address": "서울특별시 종로구 율곡로 99 (와룡동)"
+   }
+  },
+  "pstart": "2025-10-01",
+  "pend": "2025-10-23",
+  "period": "2025.10.01~2025.10.23"
+ },
+ {
+  "section": "festival",
+  "name_ko": "책 읽는 대한민국",
+  "district": "광진구",
+  "category": "일반축제",
+  "lat": 37.5493552228,
+  "lng": 127.0762792676,
+  "phone": "070-4848-3619",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3546161_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "책 읽는 대한민국",
+    "desc": "",
+    "address": "서울특별시 광진구 능동로 216 (능동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청년의 날 : 청년정책 박람회",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.5674735706,
+  "lng": 126.9778877171,
+  "phone": "070-4266-7078",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3538245_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청년의 날 : 청년정책 박람회",
+    "desc": "",
+    "address": "서울특별시 중구 세종대로 124 (태평로1가)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-21",
+  "period": "2025.09.20~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청춘, 커피페스티벌",
+  "district": "송파구",
+  "category": "일반축제",
+  "lat": 37.5141653654,
+  "lng": 127.1040749597,
+  "phone": "02-360- 4351",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3359311_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청춘, 커피페스티벌",
+    "desc": "",
+    "address": "서울특별시 송파구 올림픽로 300 (신천동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청춘대로",
+  "district": "광진구",
+  "category": "일반축제",
+  "lat": 37.5477470211,
+  "lng": 127.0732295916,
+  "phone": "02-450-7596",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3530386_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청춘대로",
+    "desc": "",
+    "address": "서울특별시 광진구 광나루로 389 (군자동)"
+   }
+  },
+  "pstart": "2025-09-18",
+  "pend": "2025-09-19",
+  "period": "2025.09.18~2025.09.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "케미스트릿 강남역 페스티벌",
+  "district": "서초구",
+  "category": "일반축제",
+  "lat": 37.4996073141,
+  "lng": 127.0257686102,
+  "phone": "02-554-9795",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3553464_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "케미스트릿 강남역 페스티벌",
+    "desc": "",
+    "address": "서울특별시 서초구 서초대로77길 17 (서초동)"
+   }
+  },
+  "pstart": "2025-11-02",
+  "pend": "2025-11-02",
+  "period": "2025.11.02~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "케미스트릿 팝업",
+  "district": "서초구",
+  "category": "일반축제",
+  "lat": 37.4981297311,
+  "lng": 127.0270546453,
+  "phone": "070-4694-1024",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3520355_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "케미스트릿 팝업",
+    "desc": "",
+    "address": "서울특별시 서초구 서초동"
+   }
+  },
+  "pstart": "2025-08-08",
+  "pend": "2025-08-30",
+  "period": "2025.08.08~2025.08.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "한강 종이비행기 축제",
+  "district": "영등포구",
+  "category": "일반축제",
+  "lat": 37.5248000326,
+  "lng": 126.9377509138,
+  "phone": "0502-1937-1119",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3554311_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한강 종이비행기 축제",
+    "desc": "",
+    "address": "서울특별시 영등포구 여의도동"
+   }
+  },
+  "pstart": "2025-10-19",
+  "pend": "2025-10-19",
+  "period": "2025.10.19~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "한강수계 걷기행사",
+  "district": "영등포구",
+  "category": "기타행사",
+  "lat": 37.5263997727,
+  "lng": 126.9336095794,
+  "phone": "02-458-3315",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3524925_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "한강수계 걷기행사",
+    "desc": "",
+    "address": "서울특별시 영등포구 여의동로 330 (여의도동)"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-11-07",
+  "period": "2025.09.05~2025.11.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "한복문화주간",
+  "district": "종로구",
+  "category": "기타행사",
+  "lat": 37.5746727436,
+  "lng": 126.9783985779,
+  "phone": "02-398-1625",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3547199_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한복문화주간",
+    "desc": "",
+    "address": "서울특별시 종로구 종로1길 45 (세종로)"
+   }
+  },
+  "pstart": "2025-10-21",
+  "pend": "2025-10-26",
+  "period": "2025.10.21~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "한화와 함께하는 서울세계불꽃축제",
+  "district": "영등포구",
+  "category": "일반축제",
+  "lat": 37.5263997727,
+  "lng": 126.9336095794,
+  "phone": "02-519-9778",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3533337_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한화와 함께하는 서울세계불꽃축제",
+    "desc": "",
+    "address": "서울특별시 영등포구 여의동로 330 (여의도동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "허준축제",
+  "district": "강서구",
+  "category": "일반축제",
+  "lat": 37.5692236076,
+  "lng": 126.8360144928,
+  "phone": "02-2600-6455",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3557963_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "허준축제",
+    "desc": "",
+    "address": "서울특별시 강서구 마곡동로 161 (마곡동)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-19",
+  "period": "2025.10.18~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "19금 신비파티 in 서초",
+  "district": "서초구",
+  "category": "일반축제",
+  "lat": 37.5134333516,
+  "lng": 127.0182800114,
+  "phone": "010-8504-7072",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3535811_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "19금 신비파티 in 서초",
+    "desc": "",
+    "address": "서울특별시 서초구 잠원동"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-26",
+  "period": "2025.09.05~2025.09.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 K-웨이브 댄스 페스티벌",
+  "district": "서초구",
+  "category": "대중콘서트",
+  "lat": 37.5123025381,
+  "lng": 126.9965764639,
+  "phone": "010-2874-6881",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3546365_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 K-웨이브 댄스 페스티벌",
+    "desc": "",
+    "address": "서울특별시 서초구 올림픽대로 2085-14 (반포동)"
+   }
+  },
+  "pstart": "2025-10-11",
+  "pend": "2025-10-12",
+  "period": "2025.10.11~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 경북사과홍보행사",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 37.5655015943,
+  "lng": 126.9787960237,
+  "phone": "대경사과원예농협 053-740-3033\n경상북도 친환경농업과 054-880-3372",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3550559_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 경북사과홍보행사",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 지하12 (을지로1가)"
+   }
+  },
+  "pstart": "2025-11-10",
+  "pend": "2025-11-12",
+  "period": "2025.11.10~2025.11.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 과학영재교육 페스티벌",
+  "district": "강남구",
+  "category": "기타행사",
+  "lat": 37.5007739351,
+  "lng": 127.0307542337,
+  "phone": "070-8803-6226",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3572728_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 과학영재교육 페스티벌",
+    "desc": "",
+    "address": "서울특별시 강남구 테헤란로7길 22 (역삼동)"
+   }
+  },
+  "pstart": "2025-12-23",
+  "pend": "2025-12-23",
+  "period": "2025.12.23~2025.12.23"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 대한민국 관광기념품 박람회",
+  "district": "중구",
+  "category": "박람회",
+  "lat": 37.566107632,
+  "lng": 127.0095709797,
+  "phone": "010-8315-5434",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3550583_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 대한민국 관광기념품 박람회",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 281 (을지로7가)"
+   }
+  },
+  "pstart": "2025-11-21",
+  "pend": "2025-11-23",
+  "period": "2025.11.21~2025.11.23"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 대한민국 김장대축제",
+  "district": "서초구",
+  "category": "기타행사",
+  "lat": 37.467391878,
+  "lng": 127.0407514903,
+  "phone": "031-8027-0480",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3562885_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 대한민국 김장대축제",
+    "desc": "",
+    "address": "서울특별시 서초구 강남대로 27 (양재동)"
+   }
+  },
+  "pstart": "2025-11-22",
+  "pend": "2025-11-22",
+  "period": "2025.11.22~2025.11.22"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 대한민국 우리술 대축제",
+  "district": "서초구",
+  "category": "박람회",
+  "lat": 37.467391878,
+  "lng": 127.0407514903,
+  "phone": "02-6952-9498",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3550272_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 대한민국 우리술 대축제",
+    "desc": "",
+    "address": "서울특별시 서초구 강남대로 27 (양재동)"
+   }
+  },
+  "pstart": "2025-11-14",
+  "pend": "2025-11-16",
+  "period": "2025.11.14~2025.11.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 로맨틱 한강 크리스마스 마켓",
+  "district": "광진구",
+  "category": "기타행사",
+  "lat": 37.5304044529,
+  "lng": 127.0655391172,
+  "phone": "070-5149-5313",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3578234_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 로맨틱 한강 크리스마스 마켓",
+    "desc": "",
+    "address": "서울특별시 광진구 강변북로 2202 (자양동)"
+   }
+  },
+  "pstart": "2025-12-19",
+  "pend": "2025-12-25",
+  "period": "2025.12.19~2025.12.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 서울 파크골프 대축제",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 37.5655015943,
+  "lng": 126.9787960237,
+  "phone": "02-6747-7511",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3506465_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 서울 파크골프 대축제",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 지하12 (을지로1가)"
+   }
+  },
+  "pstart": "2025-09-16",
+  "pend": "2025-09-17",
+  "period": "2025.09.16~2025.09.17"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 서울한옥위크",
+  "district": "종로구",
+  "category": "기타행사",
+  "lat": 37.5790529392,
+  "lng": 126.9867060298,
+  "phone": "02-2133-5580",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3546109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 서울한옥위크",
+    "desc": "",
+    "address": "서울특별시 종로구 계동길 37 (계동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-10-05",
+  "period": "2025.09.26~2025.10.05"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 우리아이 우리미래 함께해 행복해",
+  "district": "영등포구",
+  "category": "기타행사",
+  "lat": 37.5260245143,
+  "lng": 126.9167333499,
+  "phone": "02-567-9623",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3541203_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 우리아이 우리미래 함께해 행복해",
+    "desc": "",
+    "address": "서울특별시 영등포구 여의공원로 13 (여의도동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 제14회 강남구 아름다운 건축물 전시회",
+  "district": "강남구",
+  "category": "기타행사",
+  "lat": 37.5119175967,
+  "lng": 127.059217995,
+  "phone": "070-4580-7436",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3540747_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 제14회 강남구 아름다운 건축물 전시회",
+    "desc": "",
+    "address": "서울특별시 강남구 영동대로 513 (삼성동)"
+   }
+  },
+  "pstart": "2025-09-22",
+  "pend": "2025-09-28",
+  "period": "2025.09.22~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 제17회 서울건축문화제",
+  "district": "종로구",
+  "category": "기타행사",
+  "lat": 37.5790529392,
+  "lng": 126.9867060298,
+  "phone": "070-4580-7436",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3528060_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 제17회 서울건축문화제",
+    "desc": "",
+    "address": "서울특별시 종로구 계동길 37 (계동)"
+   }
+  },
+  "pstart": "2025-09-09",
+  "pend": "2025-09-21",
+  "period": "2025.09.09~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 크리에이티브X성수",
+  "district": "성동구",
+  "category": "기타행사",
+  "lat": 37.5423085165,
+  "lng": 127.0594809973,
+  "phone": "02-2204-7507",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3526985_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 크리에이티브X성수",
+    "desc": "",
+    "address": "서울특별시 성동구 연무장15길 11 (성수동2가)"
+   }
+  },
+  "pstart": "2025-09-15",
+  "pend": "2025-09-21",
+  "period": "2025.09.15~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 한강명산트레킹(2차)",
+  "district": "중랑구",
+  "category": "기타행사",
+  "lat": 37.5734054382,
+  "lng": 127.0891385242,
+  "phone": "02-490-2768",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3547824_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 한강명산트레킹(2차)",
+    "desc": "",
+    "address": "서울특별시 중랑구 용마산로 250-12 (면목동)"
+   }
+  },
+  "pstart": "2025-11-09",
+  "pend": "2025-11-09",
+  "period": "2025.11.09~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "DDP 가을축제: 디자인 라운지",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 37.566107632,
+  "lng": 127.0095709797,
+  "phone": "02-2088-4957",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3542846_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "DDP 가을축제: 디자인 라운지",
+    "desc": "",
+    "address": "서울특별시 중구 을지로 281 (을지로7가)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "K-POP 커버댄스 페스티벌 월드 파이널",
+  "district": "중구",
+  "category": "기타행사",
+  "lat": 37.5662570431,
+  "lng": 126.9777210995,
+  "phone": "02-2000-9324",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3535457_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "K-POP 커버댄스 페스티벌 월드 파이널",
+    "desc": "",
+    "address": "서울특별시 중구 세종대로 110 (태평로1가)"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-09-14",
+  "period": "2025.09.13~2025.09.14"
+ }
+]

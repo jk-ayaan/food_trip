@@ -1,0 +1,529 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "가영당",
+  "district": "청주시",
+  "category": "한옥스테이",
+  "lat": 36.7351218825,
+  "lng": 127.4055417589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3067814_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가영당",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 오창읍 미래지로 71-54"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고선재",
+  "district": "청주시",
+  "category": "한옥스테이",
+  "lat": 36.5661793989,
+  "lng": 127.5178669019,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고선재",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 남일면 윗고분터길 33-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "구공스테이 옥천키즈",
+  "district": "옥천군",
+  "category": "펜션",
+  "lat": 36.2442942609,
+  "lng": 127.6875633513,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "구공스테이 옥천키즈",
+    "desc": "",
+    "address": "충청북도 옥천군 이원면 지탄길 266"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "뉴베라관광호텔",
+  "district": "청주시",
+  "category": "관광호텔",
+  "lat": 36.6280151794,
+  "lng": 127.4301591727,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/1597159_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뉴베라관광호텔",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 풍년로193번길 32"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "단양관광호텔",
+  "district": "단양군",
+  "category": "관광호텔",
+  "lat": 36.9820885696,
+  "lng": 128.348144639,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/1595337_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단양관광호텔",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 삼봉로 31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "단양추억펜션",
+  "district": "단양군",
+  "category": "펜션",
+  "lat": 37.0428882901,
+  "lng": 128.409412377,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2570911_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단양추억펜션",
+    "desc": "",
+    "address": "충청북도 단양군 가곡면 가대1길 55"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "단촌서원고택",
+  "district": "단양군",
+  "category": "한옥스테이",
+  "lat": 36.9295138086,
+  "lng": 128.3352223243,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3021661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단촌서원고택",
+    "desc": "",
+    "address": "충청북도 단양군 단성면 북상하리길 103-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더리버에스 풀빌라",
+  "district": "청주시",
+  "category": "민박",
+  "lat": 36.6190016858,
+  "lng": 127.7032932742,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3543640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더리버에스 풀빌라",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 옥화2길 13-29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더존펜션",
+  "district": "제천시",
+  "category": "펜션",
+  "lat": 36.8727585388,
+  "lng": 128.1499544349,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3547045_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더존펜션",
+    "desc": "",
+    "address": "충청북도 제천시 덕산면 월악산로 712"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "뜰이야기 펜션(구 웰빙펜션)",
+  "district": "충주시",
+  "category": "펜션",
+  "lat": 37.0567759025,
+  "lng": 127.8292696073,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3587622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뜰이야기 펜션(구 웰빙펜션)",
+    "desc": "",
+    "address": "충청북도 충주시 중앙탑면 수룡봉황길 526"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리솜포레스트(제천)",
+  "district": "제천시",
+  "category": "콘도미니엄",
+  "lat": 37.1588459307,
+  "lng": 128.0461582662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2769490_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리솜포레스트(제천)",
+    "desc": "",
+    "address": "충청북도 제천시 백운면 금봉로 365"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "명암산채건강마을",
+  "district": "제천시",
+  "category": "펜션",
+  "lat": 37.1907107448,
+  "lng": 128.1437624504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3349720_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "명암산채건강마을",
+    "desc": "",
+    "address": "충청북도 제천시 봉양읍 명암로 574"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "부티크호텔 지",
+  "district": "청주시",
+  "category": "관광호텔",
+  "lat": 36.6647926618,
+  "lng": 127.4941468603,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2916552_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부티크호텔 지",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 1순환로 166 (율량동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브리엔츠풀빌라",
+  "district": "충주시",
+  "category": "펜션",
+  "lat": 36.9893783382,
+  "lng": 127.9926790753,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "브리엔츠풀빌라",
+    "desc": "",
+    "address": "충청북도 충주시 하종민길 28 (종민동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사담관광농원캠핑",
+  "district": "괴산군",
+  "category": "펜션",
+  "lat": 36.6224781783,
+  "lng": 127.8075338463,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사담관광농원캠핑",
+    "desc": "",
+    "address": "충청북도 괴산군 청천면 괴산로 197"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "선재스테이",
+  "district": "충주시",
+  "category": "한옥스테이",
+  "lat": 37.134496581,
+  "lng": 127.7792302191,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "선재스테이",
+    "desc": "",
+    "address": "충청북도 충주시 음촌2길 61-30"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "속리산 천왕봉 가는길에 펜션",
+  "district": "보은군",
+  "category": "펜션",
+  "lat": 36.5200797081,
+  "lng": 127.8578516539,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3574227_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "속리산 천왕봉 가는길에 펜션",
+    "desc": "",
+    "address": "충청북도 보은군 속리산면 천왕봉길 259"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엔포트호텔",
+  "district": "청주시",
+  "category": "관광호텔",
+  "lat": 36.6666091257,
+  "lng": 127.4945134437,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3547203_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엔포트호텔",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 충청대로 114"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엽연초하우스",
+  "district": "제천시",
+  "category": "게스트하우스",
+  "lat": 37.136523727,
+  "lng": 128.2072027755,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2813298_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엽연초하우스",
+    "desc": "",
+    "address": "충청북도 제천시 의병대로12길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오무아무아 풀빌라",
+  "district": "단양군",
+  "category": "펜션",
+  "lat": 36.909724615,
+  "lng": 128.3460024898,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3097851_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오무아무아 풀빌라",
+    "desc": "",
+    "address": "충청북도 단양군 대강면 사인암로 615"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오송 H호텔 세종시티",
+  "district": "청주시",
+  "category": "관광호텔",
+  "lat": 36.6314574175,
+  "lng": 127.3287709569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2903726_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오송 H호텔 세종시티",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 오송읍 오송생명로 178"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오창 한옥 7호 솔향",
+  "district": "청주시",
+  "category": "한옥스테이",
+  "lat": 36.7351413171,
+  "lng": 127.4051251292,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오창 한옥 7호 솔향",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 오창읍 미래지로 71-63"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옥천전통문화체험관",
+  "district": "옥천군",
+  "category": "한옥스테이",
+  "lat": 36.3167313825,
+  "lng": 127.5854621456,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3070753_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥천전통문화체험관",
+    "desc": "",
+    "address": "충청북도 옥천군 향수길 100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월악산 유스호스텔",
+  "district": "제천시",
+  "category": "유스호스텔",
+  "lat": 36.9139942261,
+  "lng": 128.0828120432,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2823748_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월악산 유스호스텔",
+    "desc": "",
+    "address": "충청북도 제천시 한수면 월악로 1372"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "웨스트오브가나안",
+  "district": "괴산군",
+  "category": "관광호텔",
+  "lat": 36.8136576431,
+  "lng": 128.0351052992,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2597076_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "웨스트오브가나안",
+    "desc": "",
+    "address": "충청북도 괴산군 연풍면 수옥정길 175-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이티성 풀빌라",
+  "district": "청주시",
+  "category": "펜션",
+  "lat": 36.6980269688,
+  "lng": 127.6058053646,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2770994_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이티성 풀빌라",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 미원면 미원초정로 986"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "장령산자연휴양림",
+  "district": "옥천군",
+  "category": "펜션",
+  "lat": 36.2457611314,
+  "lng": 127.5530058643,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2721486_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장령산자연휴양림",
+    "desc": "",
+    "address": "충청북도 옥천군 장령산로 519"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "증평민속체험박물관",
+  "district": "증평군",
+  "category": "한옥스테이",
+  "lat": 36.7641386449,
+  "lng": 127.5959877348,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "증평민속체험박물관",
+    "desc": "",
+    "address": "충청북도 증평군 증평읍 둔덕길 89"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청풍게스트하우스",
+  "district": "제천시",
+  "category": "모텔",
+  "lat": 37.1316854045,
+  "lng": 128.2076973164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3576707_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍게스트하우스",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로6길 5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펜션 델라하우스",
+  "district": "충주시",
+  "category": "펜션",
+  "lat": 37.0865293563,
+  "lng": 127.7502092058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2614219_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "펜션 델라하우스",
+    "desc": "",
+    "address": "충청북도 충주시 앙성면 하너미로 532-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 필림37.2",
+  "district": "충주시",
+  "category": "관광호텔",
+  "lat": 36.9894605128,
+  "lng": 127.9303957766,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3021615_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 필림37.2",
+    "desc": "",
+    "address": "충청북도 충주시 연원로 17 (연수동)"
+   }
+  }
+ }
+]

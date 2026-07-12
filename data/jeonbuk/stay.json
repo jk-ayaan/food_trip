@@ -1,0 +1,2807 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "가락청",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8173223769,
+  "lng": 127.1535667664,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "가락청",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 68"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "가은채",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8170640681,
+  "lng": 127.1532917977,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2593460_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "가은채",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 68-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "강령전",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8150531617,
+  "lng": 127.1519336377,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강령전",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 태조로 26-24 (풍남동3가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "객리당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.82330753,
+  "lng": 127.1375902537,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "객리당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 태진로 26 (태평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "게스트하우스 소설여행",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9858398862,
+  "lng": 126.7047940872,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "게스트하우스 소설여행",
+    "desc": "",
+    "address": "전북특별자치도 군산시 월명로 516-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경기전 연가",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8174361942,
+  "lng": 127.1501865087,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경기전 연가",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 어진길 82-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고현당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8152920547,
+  "lng": 127.1537251387,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2571842_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고현당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 112-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "교동살래",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8112952811,
+  "lng": 127.1533697191,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "교동살래",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천동로 66-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "귀빈산장펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.8979991362,
+  "lng": 127.7745233537,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "귀빈산장펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 구천동1로 135-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그 여자네 집",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8121729895,
+  "lng": 127.1551250954,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그 여자네 집",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 101"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "글로리즈펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6646815818,
+  "lng": 126.5132888499,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "글로리즈펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산해변로 796"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "금농헌",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8203387678,
+  "lng": 127.1574468976,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2568482_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금농헌",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 관선5길 32-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "금마관",
+  "district": "익산시",
+  "category": "한옥스테이",
+  "lat": 35.9963447951,
+  "lng": 127.059295472,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2573367_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금마관",
+    "desc": "",
+    "address": "전북특별자치도 익산시 금마면 고도8길 3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "기린모텔",
+  "district": "무주군",
+  "category": "모텔",
+  "lat": 36.0076401692,
+  "lng": 127.6592195217,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3021693_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "기린모텔",
+    "desc": "",
+    "address": "전북특별자치도 무주군 무주읍 단천로 74"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "길건너한옥마을",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8206192224,
+  "lng": 127.1534694665,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "길건너한옥마을",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 기린대로 130"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "꽃잠",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8187833092,
+  "lng": 127.1528612352,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꽃잠",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 동문길 19-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "꿈",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8125840398,
+  "lng": 127.1543251561,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꿈",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 85-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "남원예촌",
+  "district": "남원시",
+  "category": "한옥스테이",
+  "lat": 35.4044425675,
+  "lng": 127.3793935943,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2918533_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남원예촌",
+    "desc": "",
+    "address": "전북특별자치도 남원시 광한북로 17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "녹운재",
+  "district": "완주군",
+  "category": "한옥스테이",
+  "lat": 35.9028641921,
+  "lng": 127.2425815969,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2049271_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "녹운재",
+    "desc": "",
+    "address": "전북특별자치도 완주군 소양면 송광수만로 472-18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "눈꽃여행",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9124582874,
+  "lng": 127.7567356523,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2575614_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "눈꽃여행",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 내배방길 22"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "늘봄스테이",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8132894782,
+  "lng": 127.1521808839,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "늘봄스테이",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 74-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "니어리스트(니어리스트 게스트하우스)",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8204274628,
+  "lng": 127.1468589489,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2566949_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "니어리스트(니어리스트 게스트하우스)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 팔달로 202-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다나하루(다나하루 게스트하우스)",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.811786838,
+  "lng": 127.150258872,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2570942_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다나하루(다나하루 게스트하우스)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다락",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8169084893,
+  "lng": 127.1509531207,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다락",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 경기전길 57-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다래헌",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8156225594,
+  "lng": 127.1529196463,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다래헌",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 51-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다호",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9880203028,
+  "lng": 126.7112045689,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다호",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영7길 101"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "단경",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8158697723,
+  "lng": 127.1540139865,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "단경",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 99"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9860399047,
+  "lng": 126.7071910901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2652935_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영3길 21-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달팽이",
+  "district": "남원시",
+  "category": "한옥스테이",
+  "lat": 35.4139789594,
+  "lng": 127.616602953,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "달팽이",
+    "desc": "",
+    "address": "전북특별자치도 남원시 산내면 산내원천길 71"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대동고택",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8215743723,
+  "lng": 127.1363487431,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대동고택",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 대동로 7-13 (태평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대성 정담한옥",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.7967584787,
+  "lng": 127.1783262132,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3022090_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대성 정담한옥",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 고덕산1길 30"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더 정가",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8161058731,
+  "lng": 127.1549916712,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더 정가",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 기린대로 76 (풍남동3가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더 한옥",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8136866592,
+  "lng": 127.152403076,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더 한옥",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 68-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더메이호텔",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8598887519,
+  "lng": 127.0957069152,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2783791_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더메이호텔",
+    "desc": "",
+    "address": "전북특별자치도 전주시 덕진구 기린대로 800 (팔복동1가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더블힐링펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6677507252,
+  "lng": 126.5161746257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2568227_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더블힐링펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산해변로 799-47"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도원",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8078483941,
+  "lng": 127.1500923233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2573622_image2_1.PNG",
+  "i18n": {
+   "ko": {
+    "name": "도원",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 팔달로 58-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "동국(게스트하우스 동국)",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9835707608,
+  "lng": 126.7082716127,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동국(게스트하우스 동국)",
+    "desc": "",
+    "address": "전북특별자치도 군산시 동국사길 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "등불의 집",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9870953455,
+  "lng": 126.7075243665,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "등불의 집",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영신창길 64 (신창동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "똘랑(똘랑코티지)",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8099121569,
+  "lng": 127.1563472685,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "똘랑(똘랑코티지)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 서학로 63-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "뜨레가",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.811673034,
+  "lng": 127.154402951,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2568084_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뜨레가",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천동로 58-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "뜰안채",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8171362131,
+  "lng": 127.149336592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2575985_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뜰안채",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 어진길 94-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라라몽몽",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8216660685,
+  "lng": 127.1386540909,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라라몽몽",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 태진로 4-37 (태평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라마다 군산호텔",
+  "district": "군산시",
+  "category": "관광호텔",
+  "lat": 35.9589621493,
+  "lng": 126.6901516474,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라마다 군산호텔",
+    "desc": "",
+    "address": "전북특별자치도 군산시 대학로 400"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라비치펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.654010515,
+  "lng": 126.5098088734,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3574342_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라비치펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 고사길 90"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라온한옥꿀잠",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8158364483,
+  "lng": 127.1543139612,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2573630_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라온한옥꿀잠",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 99-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라임호텔",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8331653376,
+  "lng": 127.1718952761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2399415_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "라임호텔",
+    "desc": "",
+    "address": "전북특별자치도 전주시 덕진구 아중4길 13-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라한호텔 전주",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.817075192,
+  "lng": 127.1540833932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3347368_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "라한호텔 전주",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 풍남동3가 26-5 라한호텔 전주"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "람사르 운곡습지 유스호스텔",
+  "district": "고창군",
+  "category": "유스호스텔",
+  "lat": 35.4667533125,
+  "lng": 126.6331331627,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "람사르 운곡습지 유스호스텔",
+    "desc": "",
+    "address": "전북특별자치도 고창군 운곡로 91 고창군 람사르 운곡습지 유스호스텔"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마당예쁜집(전주한옥마을 마당예쁜집)",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8122840667,
+  "lng": 127.1538779813,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마당예쁜집(전주한옥마을 마당예쁜집)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 79-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마이스테이",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8183444356,
+  "lng": 127.1508364271,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2568514_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마이스테이",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 동문길 57-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "메이드호텔",
+  "district": "남원시",
+  "category": "모텔",
+  "lat": 35.4055731561,
+  "lng": 127.3886677452,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2689080_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메이드호텔",
+    "desc": "",
+    "address": "전북특별자치도 남원시 소리길 110"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "모꼬지",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8118952624,
+  "lng": 127.1562277827,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "모꼬지",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 124-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무아게스트하우스",
+  "district": "남원시",
+  "category": "게스트하우스",
+  "lat": 35.4053397903,
+  "lng": 127.3852680517,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "무아게스트하우스",
+    "desc": "",
+    "address": "전북특별자치도 남원시 요천로 1501-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무주 다다펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9091809006,
+  "lng": 127.7577912024,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "무주 다다펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 외배방길 22"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무주리조텔",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9081952848,
+  "lng": 127.7792865457,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2765933_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무주리조텔",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 구천동로 878"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무주아일랜드",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.908842057,
+  "lng": 127.7581883986,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "무주아일랜드",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 외배방길 16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무주펜션 꿈꾸는나무별",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.8994267541,
+  "lng": 127.7746594148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3054071_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무주펜션 꿈꾸는나무별",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 구천동1로 135-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "문리버펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.8815129554,
+  "lng": 127.8213085401,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2594425_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문리버펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 무풍면 구천동로 289-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "문화공간 양사재",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.813145084,
+  "lng": 127.1541362693,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2999041_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문화공간 양사재",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 오목대길 40 양사재"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "미륵산자연학교",
+  "district": "익산시",
+  "category": "펜션",
+  "lat": 36.0322899906,
+  "lng": 127.0187537023,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미륵산자연학교",
+    "desc": "",
+    "address": "전북특별자치도 익산시 삼기면 죽청길 46-60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "미미몽몽",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8190167119,
+  "lng": 127.1583857378,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미미몽몽",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 관선1길 83-1 (남노송동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "반디펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.8840115203,
+  "lng": 127.6005474981,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "반디펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 부남면 노루재로 302-34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "백년한옥",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8159531185,
+  "lng": 127.1553138687,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "백년한옥",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 기린대로 74-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "백희",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.817094555,
+  "lng": 127.1495254653,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2571726_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백희",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 어진길 94-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베니키아 전주한성 호텔",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8198802678,
+  "lng": 127.1448369202,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3529770_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베니키아 전주한성 호텔",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주객사5길 43-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베스트웨스턴플러스전주호텔",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8224744551,
+  "lng": 127.1470199916,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2783659_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베스트웨스턴플러스전주호텔",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 현무1길 41 (서노송동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "벨리노호텔",
+  "district": "부안군",
+  "category": "관광호텔",
+  "lat": 35.7264254181,
+  "lng": 126.7285930792,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "벨리노호텔",
+    "desc": "",
+    "address": "전북특별자치도 부안군 부안읍 번영로 76"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "별자리",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.816547425,
+  "lng": 127.1512697687,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2573825_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별자리",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 최명희길 26-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "보리수 자수 숙박",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8116757941,
+  "lng": 127.153394707,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "보리수 자수 숙박",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 93-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "부경당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8159892071,
+  "lng": 127.1542361861,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2593529_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부경당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 99-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "블루보트게스트하우스 전주점",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8189026431,
+  "lng": 127.1472700632,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2611251_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "블루보트게스트하우스 전주점",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 충경로 75"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사랑가득",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8124646729,
+  "lng": 127.1580137201,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3022057_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사랑가득",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 149-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사랑나무 한옥펜션",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8114369196,
+  "lng": 127.1526697781,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2575649_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사랑나무 한옥펜션",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 96"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "산다",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8191305721,
+  "lng": 127.1574802593,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산다",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 관선1길 64-3 (남노송동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "산들 게스트하우스",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9834291128,
+  "lng": 126.7084493781,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2570987_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산들 게스트하우스",
+    "desc": "",
+    "address": "전북특별자치도 군산시 동국사길 7-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "삼락헌",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8156475531,
+  "lng": 127.1527196631,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2596602_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼락헌",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 47-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "새만금모텔",
+  "district": "부안군",
+  "category": "모텔",
+  "lat": 35.6942983083,
+  "lng": 126.5520818617,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/636370_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새만금모텔",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산로 1751"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "생폴드방스 펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.5958123757,
+  "lng": 126.557217226,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2566167_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "생폴드방스 펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 진서면 구름호수길 52"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "샤니모텔",
+  "district": "부안군",
+  "category": "모텔",
+  "lat": 35.728414192,
+  "lng": 126.7351424447,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2992998_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "샤니모텔",
+    "desc": "",
+    "address": "전북특별자치도 부안군 동중3길 18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서로",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8157753315,
+  "lng": 127.1536056922,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2814938_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서로",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 100-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서학아트 게스트하우스",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8098620588,
+  "lng": 127.1503700237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2573076_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서학아트 게스트하우스",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 서학로 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "설국펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9081453079,
+  "lng": 127.7802642372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2584930_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "설국펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 원삼공2길 9-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소리섬펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6090232491,
+  "lng": 126.467077707,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소리섬펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 궁항영상길 72-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솔호텔",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8295185545,
+  "lng": 127.1733063572,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3533982_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솔호텔",
+    "desc": "",
+    "address": "전북특별자치도 전주시 덕진구 아중2길 22-4 (우아동2가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수곡당",
+  "district": "남원시",
+  "category": "한옥스테이",
+  "lat": 35.4053397332,
+  "lng": 127.3819738984,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수곡당",
+    "desc": "",
+    "address": "전북특별자치도 남원시 고샘길 105-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수채화산장",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.89974896,
+  "lng": 127.7758009706,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수채화산장",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 구천동1로 154"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스노우밸리펜션(스노우밸리)",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9091364046,
+  "lng": 127.754613708,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2571187_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스노우밸리펜션(스노우밸리)",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 만선로 36-37"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "시원 한옥체험관",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8126590226,
+  "lng": 127.1538168661,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2596624_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시원 한옥체험관",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 오목대길 45-41 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아라쉼펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6754750765,
+  "lng": 126.5298732084,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아라쉼펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산로 2136-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "알콩달콩 다락방",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8126006595,
+  "lng": 127.1517059442,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "알콩달콩 다락방",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 경기전길 153-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "양지 뜰 펜션(무주양지뜰펜션)",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9073646256,
+  "lng": 127.7681903294,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "양지 뜰 펜션(무주양지뜰펜션)",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 보안길 90"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "어바인펜션",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6274517951,
+  "lng": 126.4722490048,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어바인펜션",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 채석강길 6-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "어보이",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8116702363,
+  "lng": 127.1532391656,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어보이",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 93-3 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "어울림",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8133811543,
+  "lng": 127.1532946716,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어울림",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 75-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에이본 호텔",
+  "district": "군산시",
+  "category": "관광호텔",
+  "lat": 35.9763163105,
+  "lng": 126.7244925723,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3530954_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에이본 호텔",
+    "desc": "",
+    "address": "전북특별자치도 군산시 해망로 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엔브릿지호텔",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8099537505,
+  "lng": 127.152414284,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3066534_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엔브릿지호텔",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천서로 81 (동서학동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여림재펜션",
+  "district": "완주군",
+  "category": "펜션",
+  "lat": 35.7443566824,
+  "lng": 127.2117551665,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2814866_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여림재펜션",
+    "desc": "",
+    "address": "전북특별자치도 완주군 죽림편백길 96"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연당 . 선물 같은 하루",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8170057072,
+  "lng": 127.1513058647,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "연당 . 선물 같은 하루",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 경기전길 57-13 (풍남동3가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연우당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8155864558,
+  "lng": 127.1531362943,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2575469_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "연우당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 태조로 12-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "예원당(한옥체험 예원당)",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8173945762,
+  "lng": 127.1527418376,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "예원당(한옥체험 예원당)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 어진길 33-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오블로모프",
+  "district": "군산시",
+  "category": "펜션",
+  "lat": 35.9863426242,
+  "lng": 126.7057967624,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오블로모프",
+    "desc": "",
+    "address": "전북특별자치도 군산시 절골길 16 (신흥동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오헤브데이호텔",
+  "district": "남원시",
+  "category": "관광호텔",
+  "lat": 35.4331839129,
+  "lng": 127.5475557684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3040372_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오헤브데이호텔",
+    "desc": "",
+    "address": "전북특별자치도 남원시 운봉읍 바래봉길 193"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "온고을",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8122534899,
+  "lng": 127.1524586644,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2568002_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온고을",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 51-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이가한옥",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8166474889,
+  "lng": 127.1555971588,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이가한옥",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 간납로 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이랑한옥스테이",
+  "district": "임실군",
+  "category": "한옥스테이",
+  "lat": 35.5203671645,
+  "lng": 127.1511608028,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2707546_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이랑한옥스테이",
+    "desc": "",
+    "address": "전북특별자치도 임실군 인덕로 1571-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이오이일",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8132256523,
+  "lng": 127.1553861559,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3066148_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이오이일",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 오목대길 5-19 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이웃",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.986014884,
+  "lng": 126.7058162135,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이웃",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영1길 11-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이화고택",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8162836132,
+  "lng": 127.153994533,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이화고택",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 한지길 91"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "익산유스호스텔",
+  "district": "익산시",
+  "category": "유스호스텔",
+  "lat": 35.9658466444,
+  "lng": 126.9653018835,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3592120_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "익산유스호스텔",
+    "desc": "",
+    "address": "전북특별자치도 익산시 마한로 11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "일락당사랑채",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8161724959,
+  "lng": 127.1528751914,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2596657_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "일락당사랑채",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 최명희길 15 (풍남동3가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "임실치즈펜션",
+  "district": "임실군",
+  "category": "펜션",
+  "lat": 35.6316127139,
+  "lng": 127.3017917839,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "임실치즈펜션",
+    "desc": "",
+    "address": "전북특별자치도 임실군 성수면 도인2길 50"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전망대펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9654597978,
+  "lng": 127.71203819,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전망대펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 적상면 개안길 21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주 관광호텔 꽃심",
+  "district": "전주시",
+  "category": "관광호텔",
+  "lat": 35.8178055382,
+  "lng": 127.1467923563,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전주 관광호텔 꽃심",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 팔달로 171 (경원동1가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주 한옥마을 덕수궁",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8166641567,
+  "lng": 127.1557499224,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전주 한옥마을 덕수궁",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 간납로 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주 한옥마을 백년한옥",
+  "district": "전주시",
+  "category": "민박",
+  "lat": 35.816011445,
+  "lng": 127.1553194224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2719903_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전주 한옥마을 백년한옥",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 기린대로 74-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주 한옥숙박 체험관",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.815022615,
+  "lng": 127.1521919487,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전주 한옥숙박 체험관",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 56-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주게스트하우스 고사동",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8215161374,
+  "lng": 127.1416454953,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전주게스트하우스 고사동",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주객사4길 87-34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주한옥마당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8113424765,
+  "lng": 127.1521337168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2594443_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "전주한옥마당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천동로 80-13 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주한옥마을 산아래(전주한옥마을산아래)",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8131534026,
+  "lng": 127.1533030099,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2568902_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전주한옥마을 산아래(전주한옥마을산아래)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 오목대길 56"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주한옥마을독채 하루정원",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8135033485,
+  "lng": 127.1525030721,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전주한옥마을독채 하루정원",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 74-6 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전주한옥숙박 사랑루",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8114897163,
+  "lng": 127.1540974273,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전주한옥숙박 사랑루",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천동로 58-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전통문화체험장",
+  "district": "완주군",
+  "category": "한옥스테이",
+  "lat": 35.9892268998,
+  "lng": 127.2609637871,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "전통문화체험장",
+    "desc": "",
+    "address": "전북특별자치도 완주군 대아저수로 416 완주전통문화체험장"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "정가한옥",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8163308502,
+  "lng": 127.1551277643,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2594362_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정가한옥",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 기린대로 78-3 (풍남동3가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "좋은날",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8172834185,
+  "lng": 127.1492921477,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2688239_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "좋은날",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전동성당길 37-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산대호펜션 (지리산대호관광펜션)",
+  "district": "남원시",
+  "category": "펜션",
+  "lat": 35.3502044862,
+  "lng": 127.5524797179,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2618555_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산대호펜션 (지리산대호관광펜션)",
+    "desc": "",
+    "address": "전북특별자치도 남원시 산내면 산내달궁길 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산프리방스",
+  "district": "남원시",
+  "category": "펜션",
+  "lat": 35.4012049273,
+  "lng": 127.4302002992,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지리산프리방스",
+    "desc": "",
+    "address": "전북특별자치도 남원시 주천면 원천로 345-34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산한옥마을",
+  "district": "남원시",
+  "category": "한옥스테이",
+  "lat": 35.418225862,
+  "lng": 127.6257270373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3042358_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산한옥마을",
+    "desc": "",
+    "address": "전북특별자치도 남원시 산내면 대정방천길 43"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지우당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8128617814,
+  "lng": 127.1540585062,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2575654_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "지우당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 오목대길 45-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "채석강 비치 호텔",
+  "district": "부안군",
+  "category": "관광호텔",
+  "lat": 35.6275850817,
+  "lng": 126.4703769458,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "채석강 비치 호텔",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 채석강길 19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "채석리조텔오크빌",
+  "district": "부안군",
+  "category": "모텔",
+  "lat": 35.6245076862,
+  "lng": 126.4722907418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2529986_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "채석리조텔오크빌",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 격포로 196"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "책방",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9883591377,
+  "lng": 126.7103046402,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "책방",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영5길 100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청풍헌(시랑골한옥스테이)",
+  "district": "완주군",
+  "category": "한옥스테이",
+  "lat": 35.9796386198,
+  "lng": 127.2332915073,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2568058_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍헌(시랑골한옥스테이)",
+    "desc": "",
+    "address": "전북특별자치도 완주군 고산면 동봉길 20-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "취락당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8186583221,
+  "lng": 127.1527362499,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "취락당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 동문길 33-19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코지캐빈",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6754139575,
+  "lng": 126.528978845,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "코지캐빈",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산로 2136-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코코펜션",
+  "district": "남원시",
+  "category": "펜션",
+  "lat": 35.3630232028,
+  "lng": 127.5936535296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3564200_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코코펜션",
+    "desc": "",
+    "address": "전북특별자치도 남원시 산내면 와운길 266"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "콩쥐팥쥐 관광 한옥리조트",
+  "district": "완주군",
+  "category": "게스트하우스",
+  "lat": 35.8036857071,
+  "lng": 127.031652974,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "콩쥐팥쥐 관광 한옥리조트",
+    "desc": "",
+    "address": "전북특별자치도 완주군 이서면 신지앵곡길 237-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "토박이숙박",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.813664435,
+  "lng": 127.1521753192,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "토박이숙박",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 74-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "풍남헌",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.816783528,
+  "lng": 127.1523141141,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3022073_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍남헌",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 35 (풍남동3가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "필봉문화촌 취락원",
+  "district": "임실군",
+  "category": "한옥스테이",
+  "lat": 35.5374125147,
+  "lng": 127.1546461651,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3042895_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "필봉문화촌 취락원",
+    "desc": "",
+    "address": "전북특별자치도 임실군 강진면 강운로 272"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하늘",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.9876952998,
+  "lng": 126.7088492326,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하늘",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영3길 72"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하늘풍경",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8125312349,
+  "lng": 127.1523919964,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하늘풍경",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 51-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하정사색",
+  "district": "남원시",
+  "category": "한옥스테이",
+  "lat": 35.4084393876,
+  "lng": 127.382259904,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2961429_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하정사색",
+    "desc": "",
+    "address": "전북특별자치도 남원시 향단로 53-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "학인당",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8118535285,
+  "lng": 127.152072598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2584979_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학인당",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 45 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥미담(전주한옥마을 한옥미담)",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.819324875,
+  "lng": 127.1505919787,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2568339_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한옥미담(전주한옥마을 한옥미담)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 동문길 54-41"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥스테이 오늘",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8125091181,
+  "lng": 127.158352578,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한옥스테이 오늘",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 155-26 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥이야기",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8123173907,
+  "lng": 127.1535724525,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한옥이야기",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 83-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥펜션 나비의 꿈",
+  "district": "부안군",
+  "category": "한옥스테이",
+  "lat": 35.6081197797,
+  "lng": 126.5851033198,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2698208_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한옥펜션 나비의 꿈",
+    "desc": "",
+    "address": "전북특별자치도 부안군 진서면 내소사로 129"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "함라한옥체험단지",
+  "district": "익산시",
+  "category": "한옥스테이",
+  "lat": 36.0627735156,
+  "lng": 126.9098737429,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "함라한옥체험단지",
+    "desc": "",
+    "address": "전북특별자치도 익산시 함라면 함라교동길 25"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "함파우소리체험관",
+  "district": "남원시",
+  "category": "한옥스테이",
+  "lat": 35.3980961478,
+  "lng": 127.384307213,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3040191_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "함파우소리체험관",
+    "desc": "",
+    "address": "전북특별자치도 남원시 술미안길 14-19 (노암동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해넘이타운",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6399530623,
+  "lng": 126.4670019357,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해넘이타운",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산해변로 188"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해피트리가족호텔",
+  "district": "부안군",
+  "category": "펜션",
+  "lat": 35.6420502048,
+  "lng": 126.4764704827,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3040534_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해피트리가족호텔",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 변산해변로 292"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "햇살가득",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8122924222,
+  "lng": 127.1552278612,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "햇살가득",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 97-24 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "행복드림한옥",
+  "district": "완주군",
+  "category": "한옥스테이",
+  "lat": 35.9054716539,
+  "lng": 127.209637239,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3008848_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "행복드림한옥",
+    "desc": "",
+    "address": "전북특별자치도 완주군 용진면 봉서안길 181-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "행복을 꿈꾸는 게스트하우스",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.984490107,
+  "lng": 126.7086410008,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "행복을 꿈꾸는 게스트하우스",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영7길 7 행복을 꿈꾸는 게스트하우스"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "향교길선우가",
+  "district": "전주시",
+  "category": "펜션",
+  "lat": 35.8128146371,
+  "lng": 127.1582109154,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "향교길선우가",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 155-13 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호두나무펜션",
+  "district": "무주군",
+  "category": "펜션",
+  "lat": 35.9070922861,
+  "lng": 127.7598744072,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호두나무펜션",
+    "desc": "",
+    "address": "전북특별자치도 무주군 설천면 구천동로 1057-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔원변산",
+  "district": "부안군",
+  "category": "관광호텔",
+  "lat": 35.6275073038,
+  "lng": 126.4698519947,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔원변산",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 채석강길 33"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔은파팰리스",
+  "district": "군산시",
+  "category": "관광호텔",
+  "lat": 35.9541071421,
+  "lng": 126.6898129143,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3535441_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔은파팰리스",
+    "desc": "",
+    "address": "전북특별자치도 군산시 은파순환길 20 (나운동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "홍시(전주한옥마을 숙박 홍시)",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8153059305,
+  "lng": 127.1530140906,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2576302_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍시(전주한옥마을 숙박 홍시)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 은행로 51-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "휴",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8115480104,
+  "lng": 127.1522364803,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "휴",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천동로 80-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "휴(휴펜션)",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8114980164,
+  "lng": 127.1522253715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2571355_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "휴(휴펜션)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주천동로 80-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "흥부가(家)",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8151642613,
+  "lng": 127.1519697428,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "흥부가(家)",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 태조로 26-34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "히노키잠(1호점)",
+  "district": "군산시",
+  "category": "게스트하우스",
+  "lat": 35.986467675,
+  "lng": 126.7096047516,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3036912_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "히노키잠(1호점)",
+    "desc": "",
+    "address": "전북특별자치도 군산시 구영6길 54-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "1928 쉼마루",
+  "district": "전주시",
+  "category": "한옥스테이",
+  "lat": 35.8118590916,
+  "lng": 127.1525364452,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "1928 쉼마루",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 향교길 51-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "H스테이",
+  "district": "전주시",
+  "category": "게스트하우스",
+  "lat": 35.8366279694,
+  "lng": 127.1221884983,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "H스테이",
+    "desc": "",
+    "address": "전북특별자치도 전주시 덕진구 가리내로 134 (덕진동1가, 한우주택)"
+   }
+  }
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "울산 성남동 눈꽃축제",
+  "district": "중구",
+  "category": "일반축제",
+  "lat": 35.553880225,
+  "lng": 129.3179304069,
+  "phone": "010-4825-0560",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3586264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 성남동 눈꽃축제",
+    "desc": "",
+    "address": "울산광역시 중구 젊음의거리 27-4 (성남동)"
+   }
+  },
+  "pstart": "2025-12-24",
+  "pend": "2025-12-28",
+  "period": "2025.12.24~2025.12.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "울산고래축제",
+  "district": "남구",
+  "category": "일반축제",
+  "lat": 35.5032009945,
+  "lng": 129.3808374607,
+  "phone": "052-226-1992",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3572398_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산고래축제",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 244 (매암동)"
+   }
+  },
+  "pstart": "2025-09-25",
+  "pend": "2025-09-28",
+  "period": "2025.09.25~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "울산의 밤, 크리스마스 마켓",
+  "district": "남구",
+  "category": "기타행사",
+  "lat": 35.5316989268,
+  "lng": 129.2935470479,
+  "phone": "052-271-8701",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3578165_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산의 밤, 크리스마스 마켓",
+    "desc": "",
+    "address": "울산광역시 남구 대공원로 94 (옥동)"
+   }
+  },
+  "pstart": "2025-12-05",
+  "pend": "2025-12-27",
+  "period": "2025.12.05~2025.12.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "울주 간절곶 해맞이",
+  "district": "울주군",
+  "category": "일반축제",
+  "lat": 35.3591723598,
+  "lng": 129.3619181517,
+  "phone": "052-980-2232",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3588879_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울주 간절곶 해맞이",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 대송리"
+   }
+  },
+  "pstart": "2025-12-31",
+  "pend": "2026-01-01",
+  "period": "2025.12.31~2026.01.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제10회 울산울주세계산악영화제",
+  "district": "울주군",
+  "category": "영화",
+  "lat": 35.5565058027,
+  "lng": 129.0680049403,
+  "phone": "055-248-6451",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3513688_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제10회 울산울주세계산악영화제",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 알프스온천5길 103-8"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-30",
+  "period": "2025.09.26~2025.09.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "태화강 빛축제",
+  "district": "남구",
+  "category": "일반축제",
+  "lat": 35.5504331935,
+  "lng": 129.3074591955,
+  "phone": "052-220-0613",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3525548_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태화강 빛축제",
+    "desc": "",
+    "address": "울산광역시 남구 신정동"
+   }
+  },
+  "pstart": "2025-09-06",
+  "pend": "2025-09-06",
+  "period": "2025.09.06~2025.09.06"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 울산문화박람회",
+  "district": "울주군",
+  "category": "박람회",
+  "lat": 35.5556598644,
+  "lng": 129.1316827314,
+  "phone": "052-255-1943",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3567838_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 울산문화박람회",
+    "desc": "",
+    "address": "울산광역시 울주군 삼남읍 울산역로 255"
+   }
+  },
+  "pstart": "2025-12-04",
+  "pend": "2025-12-07",
+  "period": "2025.12.04~2025.12.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 울산서머페스티벌",
+  "district": "중구",
+  "category": "대중콘서트",
+  "lat": 35.5609133351,
+  "lng": 129.3480525802,
+  "phone": "052-290-1140",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3507638_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 울산서머페스티벌",
+    "desc": "",
+    "address": "울산광역시 중구 염포로 55 (남외동)"
+   }
+  },
+  "pstart": "2025-08-02",
+  "pend": "2025-08-07",
+  "period": "2025.08.02~2025.08.07"
+ }
+]

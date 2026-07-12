@@ -1,0 +1,546 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "가경 터미널시장",
+  "district": "청주시",
+  "category": "상설시장",
+  "lat": 36.6286485111,
+  "lng": 127.4341171334,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3492550_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가경 터미널시장",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 가경동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "감곡장 (3, 8일)",
+  "district": "음성군",
+  "category": "5일장",
+  "lat": 37.1182042275,
+  "lng": 127.6391460878,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "감곡장 (3, 8일)",
+    "desc": "",
+    "address": "충청북도 음성군 감곡면 장감로132번길 22"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광혜원장 (3, 8일)",
+  "district": "진천군",
+  "category": "5일장",
+  "lat": 36.9889211686,
+  "lng": 127.4453338819,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3064540_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "광혜원장 (3, 8일)",
+    "desc": "",
+    "address": "충청북도 진천군 광혜원면 장기1안길 16"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "괴산장(3, 8일)",
+  "district": "괴산군",
+  "category": "5일장",
+  "lat": 36.8111424163,
+  "lng": 127.7950102212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3353385_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "괴산장(3, 8일)",
+    "desc": "",
+    "address": "충청북도 괴산군 괴산읍 읍내로15길 8-8"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "도예공방 필",
+  "district": "충주시",
+  "category": "공예·공방",
+  "lat": 36.9835584314,
+  "lng": 127.9313236403,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/1959807_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도예공방 필",
+    "desc": "",
+    "address": "충청북도 충주시 연원5길 26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마켓온다",
+  "district": "청주시",
+  "category": "쇼핑",
+  "lat": 36.6566740551,
+  "lng": 127.4889281085,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3354415_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마켓온다",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 상당로 314 (내덕동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "모란장 (1, 6일)",
+  "district": "음성군",
+  "category": "5일장",
+  "lat": 37.0185103814,
+  "lng": 127.4982171724,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/1164074_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모란장 (1, 6일)",
+    "desc": "",
+    "address": "충청북도 음성군 삼성면 대성로 615"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "무극장 / 무극시장 (5, 10일)",
+  "district": "음성군",
+  "category": "5일장",
+  "lat": 36.991868022,
+  "lng": 127.5970201341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/1164054_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무극장 / 무극시장 (5, 10일)",
+    "desc": "",
+    "address": "충청북도 음성군 금왕읍 금석로75번길 5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "보은장(1, 6일)",
+  "district": "보은군",
+  "category": "5일장",
+  "lat": 36.4837258184,
+  "lng": 127.7201566336,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3342505_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "보은장(1, 6일)",
+    "desc": "",
+    "address": "충청북도 보은군 보은읍 삼산로 17-16"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "복대가경시장",
+  "district": "청주시",
+  "category": "상설시장",
+  "lat": 36.6301484754,
+  "lng": 127.4417164104,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2770874_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복대가경시장",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 복대동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "복드림 도깨비방망이",
+  "district": "제천시",
+  "category": "공예·공방",
+  "lat": 37.1449279169,
+  "lng": 128.0368567292,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3422404_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복드림 도깨비방망이",
+    "desc": "",
+    "address": "충청북도 제천시 백운면 금봉로 142"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "사창시장",
+  "district": "청주시",
+  "category": "상설시장",
+  "lat": 36.6341484226,
+  "lng": 127.4644170411,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2770882_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사창시장",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 사창동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼화대장간",
+  "district": "충주시",
+  "category": "공예·공방",
+  "lat": 36.9753482217,
+  "lng": 127.9290129716,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3560320_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼화대장간",
+    "desc": "",
+    "address": "충청북도 충주시 충인1길 12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영동장 (4, 9일)",
+  "district": "영동군",
+  "category": "5일장",
+  "lat": 36.1745343589,
+  "lng": 127.7759157234,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3341307_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "영동장 (4, 9일)",
+    "desc": "",
+    "address": "충청북도 영동군 영동읍 중앙로 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "옥산장 (3, 8일)",
+  "district": "청주시",
+  "category": "5일장",
+  "lat": 36.6645850057,
+  "lng": 127.3756241717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3342051_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옥산장 (3, 8일)",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 옥산면 오산리"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "옥천장 (5, 10일)",
+  "district": "옥천군",
+  "category": "5일장",
+  "lat": 36.3024271529,
+  "lng": 127.5682085205,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3575687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥천장 (5, 10일)",
+    "desc": "",
+    "address": "충청북도 옥천군 옥천읍 삼금로 45"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "옹기공방",
+  "district": "영동군",
+  "category": "공예·공방",
+  "lat": 36.1669115085,
+  "lng": 127.8471095989,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3341318_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옹기공방",
+    "desc": "",
+    "address": "충청북도 영동군 영동읍 임계길 240-27"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "운봉서각공방",
+  "district": "보은군",
+  "category": "공예·공방",
+  "lat": 36.4931727975,
+  "lng": 127.7665411157,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/1959788_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운봉서각공방",
+    "desc": "",
+    "address": "충청북도 보은군 장안면 속리산로 127"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "음성장(2, 7일)",
+  "district": "음성군",
+  "category": "5일장",
+  "lat": 36.9377092971,
+  "lng": 127.6907576748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3344797_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "음성장(2, 7일)",
+    "desc": "",
+    "address": "충청북도 음성군 음성읍 시장로117번길 6"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "음성축산물유통단지",
+  "district": "음성군",
+  "category": "전문매장",
+  "lat": 36.9833499747,
+  "lng": 127.4667182226,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2770289_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "음성축산물유통단지",
+    "desc": "",
+    "address": "충청북도 음성군 대소면 오류리"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제천 중앙시장",
+  "district": "제천시",
+  "category": "상설시장",
+  "lat": 37.1366654537,
+  "lng": 128.2112829602,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3567167_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제천 중앙시장",
+    "desc": "",
+    "address": "충청북도 제천시 풍양로 108"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중앙 어울림 시장",
+  "district": "충주시",
+  "category": "상설시장",
+  "lat": 36.9713265451,
+  "lng": 127.9335182378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2761659_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중앙 어울림 시장",
+    "desc": "",
+    "address": "충청북도 충주시 예성로 160-1 (성서동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "증평 장뜰시장",
+  "district": "증평군",
+  "category": "상설시장",
+  "lat": 36.7833806421,
+  "lng": 127.5829272591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3570774_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "증평 장뜰시장",
+    "desc": "",
+    "address": "충청북도 증평군 증평읍 장뜰로 58-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "증평대장간",
+  "district": "증평군",
+  "category": "공예·공방",
+  "lat": 36.7837694939,
+  "lng": 127.5833827628,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/1596950_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "증평대장간",
+    "desc": "",
+    "address": "충청북도 증평군 증평읍 중앙로8길 17-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진천 중앙시장",
+  "district": "진천군",
+  "category": "상설시장",
+  "lat": 36.8566308066,
+  "lng": 127.4430711199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3561876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진천 중앙시장",
+    "desc": "",
+    "address": "충청북도 진천군 진천읍 중앙북4길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청주 성안길",
+  "district": "청주시",
+  "category": "쇼핑",
+  "lat": 36.6335044623,
+  "lng": 127.487284452,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3503669_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주 성안길",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 상당로59번길 59"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청주 육거리종합시장",
+  "district": "청주시",
+  "category": "상설시장",
+  "lat": 36.6278468005,
+  "lng": 127.4885178311,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3503793_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주 육거리종합시장",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 석교동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청주 지웰시티몰 II",
+  "district": "청주시",
+  "category": "전문매장",
+  "lat": 36.6433883738,
+  "lng": 127.4278534005,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3588727_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주 지웰시티몰 II",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 대농로 47-1 (복대동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청주북부시장",
+  "district": "청주시",
+  "category": "상설시장",
+  "lat": 36.6485443849,
+  "lng": 127.4862480183,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2771019_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주북부시장",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 향군로31번길 12-4"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "추풍령장 (3, 8일)",
+  "district": "영동군",
+  "category": "5일장",
+  "lat": 36.2113619849,
+  "lng": 127.9999170129,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3341339_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "추풍령장 (3, 8일)",
+    "desc": "",
+    "address": "충청북도 영동군 추풍령면 추풍령로5길 8-4"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "충주 자유시장",
+  "district": "충주시",
+  "category": "상설시장",
+  "lat": 36.9739761886,
+  "lng": 127.9307073027,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3560532_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "충주 자유시장",
+    "desc": "",
+    "address": "충청북도 충주시 충인6길 16 (충의동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "충주농수산물도매시장",
+  "district": "충주시",
+  "category": "상설시장",
+  "lat": 37.0061195863,
+  "lng": 127.9238486654,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3561285_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "충주농수산물도매시장",
+    "desc": "",
+    "address": "충청북도 충주시 목행산단5로 54"
+   }
+  }
+ }
+]

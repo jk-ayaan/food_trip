@@ -1,0 +1,1294 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "결성향교",
+  "district": "홍성군",
+  "category": "한옥스테이",
+  "lat": 36.5287943496,
+  "lng": 126.5432499636,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2568074_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "결성향교",
+    "desc": "",
+    "address": "충청남도 홍성군 결성면 홍남서로707번길 21-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "공주공산성게스트 하우스",
+  "district": "공주시",
+  "category": "한옥스테이",
+  "lat": 36.4651700701,
+  "lng": 127.1227634182,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "공주공산성게스트 하우스",
+    "desc": "",
+    "address": "충청남도 공주시 백미고을길 5-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "굿모닝 관광펜션",
+  "district": "공주시",
+  "category": "펜션",
+  "lat": 36.5306302273,
+  "lng": 127.0216901749,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "굿모닝 관광펜션",
+    "desc": "",
+    "address": "충청남도 공주시 사곡면 단평길 245"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "논산 명재고택",
+  "district": "논산시",
+  "category": "한옥스테이",
+  "lat": 36.2818689912,
+  "lng": 127.1312092519,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3036955_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "논산 명재고택",
+    "desc": "",
+    "address": "충청남도 논산시 노성면 노성산성길 50"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "논산 백일헌 종택",
+  "district": "논산시",
+  "category": "관광호텔",
+  "lat": 36.2791002222,
+  "lng": 127.1516797155,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "논산 백일헌 종택",
+    "desc": "",
+    "address": "충청남도 논산시 상월면 주곡길 45"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "논산문화관광재단(논산한옥마을)",
+  "district": "논산시",
+  "category": "한옥스테이",
+  "lat": 36.1909981956,
+  "lng": 127.0951593442,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "논산문화관광재단(논산한옥마을)",
+    "desc": "",
+    "address": "충청남도 논산시 시민로 270 (내동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "농업회사법인주식회사보령은행빵",
+  "district": "보령시",
+  "category": "홈스테이",
+  "lat": 36.4243335779,
+  "lng": 126.6725799603,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "농업회사법인주식회사보령은행빵",
+    "desc": "",
+    "address": "충청남도 보령시 청라면 죽성로 957-30"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달을품은한옥",
+  "district": "부여군",
+  "category": "한옥스테이",
+  "lat": 36.2922198057,
+  "lng": 126.9275244464,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "달을품은한옥",
+    "desc": "",
+    "address": "충청남도 부여군 부여읍 월함로 107-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "담담",
+  "district": "공주시",
+  "category": "한옥스테이",
+  "lat": 36.453646376,
+  "lng": 127.1218999174,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "담담",
+    "desc": "",
+    "address": "충청남도 공주시 봉황로 86-8 (반죽동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "당진 시티호텔",
+  "district": "당진시",
+  "category": "모텔",
+  "lat": 36.8872687085,
+  "lng": 126.645625591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3083558_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "당진 시티호텔",
+    "desc": "",
+    "address": "충청남도 당진시 시청2로 43 (수청동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대천놀러와펜션",
+  "district": "보령시",
+  "category": "펜션",
+  "lat": 36.311788254,
+  "lng": 126.5163053052,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대천놀러와펜션",
+    "desc": "",
+    "address": "충청남도 보령시 고잠2길 16-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더위트 도고",
+  "district": "아산시",
+  "category": "콘도미니엄",
+  "lat": 36.7612374801,
+  "lng": 126.8881876315,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2770496_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더위트 도고",
+    "desc": "",
+    "address": "충청남도 아산시 도고면 기곡로62번길 6-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "데네브펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6783559141,
+  "lng": 126.2776394664,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3580055_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "데네브펜션",
+    "desc": "",
+    "address": "충청남도 태안군 남면 우운길 158-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "데이나이스호텔",
+  "district": "보령시",
+  "category": "관광호텔",
+  "lat": 36.3125908818,
+  "lng": 126.512925033,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3544696_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "데이나이스호텔",
+    "desc": "",
+    "address": "충청남도 보령시 해수욕장8길 60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도고 글로리콘도",
+  "district": "아산시",
+  "category": "콘도미니엄",
+  "lat": 36.7654231248,
+  "lng": 126.8890846592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/1601586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도고 글로리콘도",
+    "desc": "",
+    "address": "충청남도 아산시 도고면 도고온천로 124-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라모스펜션",
+  "district": "태안군",
+  "category": "게스트하우스",
+  "lat": 36.8128885278,
+  "lng": 126.3310838522,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라모스펜션",
+    "desc": "",
+    "address": "충청남도 태안군 태안읍 안도내길 28-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "롯데리조트 부여",
+  "district": "부여군",
+  "category": "관광호텔",
+  "lat": 36.3039124464,
+  "lng": 126.9007876454,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "롯데리조트 부여",
+    "desc": "",
+    "address": "충청남도 부여군 규암면 백제문로 400"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리버사이드호텔(보령)",
+  "district": "보령시",
+  "category": "모텔",
+  "lat": 36.348421581,
+  "lng": 126.5991413415,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3083657_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "리버사이드호텔(보령)",
+    "desc": "",
+    "address": "충청남도 보령시 천변북길 87 (대천동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마리솔펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6728567167,
+  "lng": 126.287513717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3587897_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마리솔펜션",
+    "desc": "",
+    "address": "충청남도 태안군 남면 몽산포길 85"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "메리머드호텔",
+  "district": "보령시",
+  "category": "관광호텔",
+  "lat": 36.3129519486,
+  "lng": 126.5127722598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2811244_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메리머드호텔",
+    "desc": "",
+    "address": "충청남도 보령시 해수욕장8길 52"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "몽산포정다운",
+  "district": "태안군",
+  "category": "모텔",
+  "lat": 36.6731619956,
+  "lng": 126.2733483244,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3546578_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "몽산포정다운",
+    "desc": "",
+    "address": "충청남도 태안군 남면 몽대로 489"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "몽산포펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6621220537,
+  "lng": 126.2998573264,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3574859_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "몽산포펜션",
+    "desc": "",
+    "address": "충청남도 태안군 남면 달산포로 201-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "밀라트",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.492408981,
+  "lng": 126.3420774014,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3579941_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밀라트",
+    "desc": "",
+    "address": "충청남도 태안군 안면읍 꽃지2길 58-47"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다햇살고운집",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.5097596436,
+  "lng": 126.3350498045,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3580512_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다햇살고운집",
+    "desc": "",
+    "address": "충청남도 태안군 안면읍 방포1길 40-19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "봉황재 한옥 게스트하우스",
+  "district": "공주시",
+  "category": "한옥스테이",
+  "lat": 36.4508188891,
+  "lng": 127.120030717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2707581_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "봉황재 한옥 게스트하우스",
+    "desc": "",
+    "address": "충청남도 공주시 큰샘3길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "부여안방마님",
+  "district": "부여군",
+  "category": "한옥스테이",
+  "lat": 36.2655770389,
+  "lng": 126.8484100237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2679904_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부여안방마님",
+    "desc": "",
+    "address": "충청남도 부여군 규암면 흥수로590번길 17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트 천안성정점",
+  "district": "천안시",
+  "category": "모텔",
+  "lat": 36.8268566629,
+  "lng": 127.1440322106,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3046218_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트 천안성정점",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 성정공원4길 28 (성정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 서산점",
+  "district": "서산시",
+  "category": "관광호텔",
+  "lat": 36.777550239,
+  "lng": 126.4519682848,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2770438_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 서산점",
+    "desc": "",
+    "address": "충청남도 서산시 안견로 284 (읍내동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "삽교호 비치파크호텔",
+  "district": "당진시",
+  "category": "모텔",
+  "lat": 36.8898715395,
+  "lng": 126.8247593125,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3347946_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삽교호 비치파크호텔",
+    "desc": "",
+    "address": "충청남도 당진시 신평면 삽교천2길 35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서동선화한옥",
+  "district": "부여군",
+  "category": "한옥스테이",
+  "lat": 36.2918754037,
+  "lng": 126.9276911069,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "서동선화한옥",
+    "desc": "",
+    "address": "충청남도 부여군 부여읍 월함로 105-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서산댁",
+  "district": "서산시",
+  "category": "펜션",
+  "lat": 36.8024720181,
+  "lng": 126.4318972166,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "서산댁",
+    "desc": "",
+    "address": "충청남도 서산시 갈산3길 36-5 (갈산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서산아리아호텔",
+  "district": "서산시",
+  "category": "모텔",
+  "lat": 36.7779724263,
+  "lng": 126.4527654236,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2597368_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서산아리아호텔",
+    "desc": "",
+    "address": "충청남도 서산시 동헌로 94 (읍내동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "선와당(이광명고택)",
+  "district": "보령시",
+  "category": "한옥스테이",
+  "lat": 36.2136960538,
+  "lng": 126.6398217662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2681046_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선와당(이광명고택)",
+    "desc": "",
+    "address": "충청남도 보령시 주산면 방죽안길 33"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "세심천온천호텔",
+  "district": "예산군",
+  "category": "모텔",
+  "lat": 36.6857229357,
+  "lng": 126.6706037474,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3039162_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세심천온천호텔",
+    "desc": "",
+    "address": "충청남도 예산군 삽교읍 수암산로 210"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소소",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6419966708,
+  "lng": 126.3042907874,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2575373_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소소",
+    "desc": "",
+    "address": "충청남도 태안군 남면 안면대로 1296-36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솔그림펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6971270787,
+  "lng": 126.1794339785,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3546930_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솔그림펜션",
+    "desc": "",
+    "address": "충청남도 태안군 근흥면 근흥로 1232-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솔마루펜션(서천)",
+  "district": "서천군",
+  "category": "펜션",
+  "lat": 36.158722536,
+  "lng": 126.5207061088,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3343335_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "솔마루펜션(서천)",
+    "desc": "",
+    "address": "충청남도 서천군 서면 춘장대길 79-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솔뫼마을펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.674817539,
+  "lng": 126.2838445528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3573622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솔뫼마을펜션",
+    "desc": "",
+    "address": "충청남도 태안군 남면 몽산포길 126"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솔밭해안가펜션",
+  "district": "보령시",
+  "category": "펜션",
+  "lat": 36.2629555232,
+  "lng": 126.5490119709,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "솔밭해안가펜션",
+    "desc": "",
+    "address": "충청남도 보령시 남포면 용두욕장2길 24-22"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수지펜션",
+  "district": "보령시",
+  "category": "펜션",
+  "lat": 36.3162571062,
+  "lng": 126.5116444968,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수지펜션",
+    "desc": "",
+    "address": "충청남도 보령시 해수욕장9길 2-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "숨비소리 만리포",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.7841969471,
+  "lng": 126.1419850897,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "숨비소리 만리포",
+    "desc": "",
+    "address": "충청남도 태안군 소원면 만리포1길 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "슈바이처도르프호텔",
+  "district": "천안시",
+  "category": "관광호텔",
+  "lat": 36.8275398864,
+  "lng": 127.1422601301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3090644_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "슈바이처도르프호텔",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 성정공원5로 42 (성정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스카이블루",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.4236144228,
+  "lng": 126.3603108836,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3575219_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스카이블루",
+    "desc": "",
+    "address": "충청남도 태안군 고남면 큰장돌길 283-49"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 노아",
+  "district": "금산군",
+  "category": "한옥스테이",
+  "lat": 36.0992787948,
+  "lng": 127.450069,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이 노아",
+    "desc": "",
+    "address": "충청남도 금산군 금산읍 은엉정1길 12-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 앤드 스튜디오 여여재",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6766143894,
+  "lng": 126.2741703813,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2803441_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스테이 앤드 스튜디오 여여재",
+    "desc": "",
+    "address": "충청남도 태안군 몽대로 448"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이화요일",
+  "district": "아산시",
+  "category": "한옥스테이",
+  "lat": 36.8476611446,
+  "lng": 126.9046476864,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이화요일",
+    "desc": "",
+    "address": "충청남도 아산시 인주면 인주로 376-100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라스테이 천안",
+  "district": "천안시",
+  "category": "관광호텔",
+  "lat": 36.825828989,
+  "lng": 127.1432323117,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2717357_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신라스테이 천안",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 동서대로 177"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신진도 꿈에그린펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6768983223,
+  "lng": 126.1479706907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3577088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신진도 꿈에그린펜션",
+    "desc": "",
+    "address": "충청남도 태안군 근흥면 신진대교길 94-63"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아도니스",
+  "district": "보령시",
+  "category": "펜션",
+  "lat": 36.3163987388,
+  "lng": 126.5106251398,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아도니스",
+    "desc": "",
+    "address": "충청남도 보령시 머드로 134"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아산솔루나호텔",
+  "district": "아산시",
+  "category": "모텔",
+  "lat": 36.8566252692,
+  "lng": 126.9766464954,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아산솔루나호텔",
+    "desc": "",
+    "address": "충청남도 아산시 음봉면 아산온천로157번길 7-36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안면도 지중해펜션",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.5275992426,
+  "lng": 126.3341716398,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3506091_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안면도 지중해펜션",
+    "desc": "",
+    "address": "충청남도 태안군 안면읍 밧개길 165-60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "애견민박 멍집",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.738710419,
+  "lng": 126.1352841129,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3579590_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애견민박 멍집",
+    "desc": "",
+    "address": "충청남도 태안군 소원면 파도길 71-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "어반스테이플러스",
+  "district": "천안시",
+  "category": "모텔",
+  "lat": 36.8270816457,
+  "lng": 127.1445321591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3342549_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "어반스테이플러스",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 성정공원4길 31 (성정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에벤에셀 펜션",
+  "district": "천안시",
+  "category": "펜션",
+  "lat": 36.8810750183,
+  "lng": 127.2773770285,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3543275_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에벤에셀 펜션",
+    "desc": "",
+    "address": "충청남도 천안시 동남구 북면 위례성로 1434-24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오엔시티호텔",
+  "district": "천안시",
+  "category": "모텔",
+  "lat": 36.8112217719,
+  "lng": 127.1113328099,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2595030_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오엔시티호텔",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 불당4로 105 (불당동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "온양제일호텔",
+  "district": "아산시",
+  "category": "관광호텔",
+  "lat": 36.7820675945,
+  "lng": 126.9994353633,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3585085_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온양제일호텔",
+    "desc": "",
+    "address": "충청남도 아산시 온천대로 1462"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "잉스힐",
+  "district": "논산시",
+  "category": "펜션",
+  "lat": 36.1554891993,
+  "lng": 127.3012390999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3569341_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "잉스힐",
+    "desc": "",
+    "address": "충청남도 논산시 벌곡면 수락계곡2길 63-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "자자호텔",
+  "district": "천안시",
+  "category": "모텔",
+  "lat": 36.8274121561,
+  "lng": 127.1441210761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3036820_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자자호텔",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 성정공원5로 60 (성정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "장충영각",
+  "district": "홍성군",
+  "category": "한옥스테이",
+  "lat": 36.572537726,
+  "lng": 126.6120509347,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "장충영각",
+    "desc": "",
+    "address": "충청남도 홍성군 구항면 거북로 422-41"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청담",
+  "district": "공주시",
+  "category": "한옥스테이",
+  "lat": 36.4558738758,
+  "lng": 127.1206083067,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청담",
+    "desc": "",
+    "address": "충청남도 공주시 은행나무길 5 (반죽동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "캠프아이",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6652329722,
+  "lng": 126.3095730318,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "캠프아이",
+    "desc": "",
+    "address": "충청남도 태안군 남면 안면대로 1007-109"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "탑클라우드 천안점",
+  "district": "천안시",
+  "category": "관광호텔",
+  "lat": 36.8084170602,
+  "lng": 127.1406885749,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2775615_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "탑클라우드 천안점",
+    "desc": "",
+    "address": "충청남도 천안시 동남구 서부역6길 3 (봉명동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "파인웰스",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.5408507802,
+  "lng": 126.3508975605,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/1964813_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파인웰스",
+    "desc": "",
+    "address": "충청남도 태안군 안면읍 안면대로 2608-72"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "필하우스",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6818836508,
+  "lng": 126.135707783,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "필하우스",
+    "desc": "",
+    "address": "충청남도 태안군 근흥면 신진부두길 110-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하서원(외암민속마을)",
+  "district": "아산시",
+  "category": "한옥스테이",
+  "lat": 36.7315347861,
+  "lng": 127.0144187219,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하서원(외암민속마을)",
+    "desc": "",
+    "address": "충청남도 아산시 송악면 외암민속길9번길 13-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한채당 한옥체험관",
+  "district": "태안군",
+  "category": "한옥스테이",
+  "lat": 36.8300475341,
+  "lng": 126.1612654683,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2680312_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "한채당 한옥체험관",
+    "desc": "",
+    "address": "충청남도 태안군 소원면 송의로 695-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "혜간헌",
+  "district": "공주시",
+  "category": "한옥스테이",
+  "lat": 36.4622813968,
+  "lng": 127.1162168613,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "혜간헌",
+    "desc": "",
+    "address": "충청남도 공주시 송산리길 38-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호스텔정중동",
+  "district": "공주시",
+  "category": "펜션",
+  "lat": 36.4530798041,
+  "lng": 127.1235942252,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3545039_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호스텔정중동",
+    "desc": "",
+    "address": "충청남도 공주시 웅진로 145-9 (중동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 라그라스 아산점",
+  "district": "아산시",
+  "category": "관광호텔",
+  "lat": 36.7814400135,
+  "lng": 127.006529185,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 라그라스 아산점",
+    "desc": "",
+    "address": "충청남도 아산시 충무로8번길 22 (온천동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔뷰",
+  "district": "보령시",
+  "category": "모텔",
+  "lat": 36.5033962392,
+  "lng": 126.483211602,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3546809_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔뷰",
+    "desc": "",
+    "address": "충청남도 보령시 천북면 홍보로 1061-175"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔스파텔",
+  "district": "아산시",
+  "category": "모텔",
+  "lat": 36.8556782803,
+  "lng": 126.9836958849,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔스파텔",
+    "desc": "",
+    "address": "충청남도 아산시 음봉면 아산온천로243번길 27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔어라이브 태안 한옥비치리조트",
+  "district": "태안군",
+  "category": "한옥스테이",
+  "lat": 36.8300780868,
+  "lng": 126.1612932423,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔어라이브 태안 한옥비치리조트",
+    "desc": "",
+    "address": "충청남도 태안군 소원면 송의로 695-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "화가의정원",
+  "district": "태안군",
+  "category": "펜션",
+  "lat": 36.6425493473,
+  "lng": 126.3020937494,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "화가의정원",
+    "desc": "",
+    "address": "충청남도 태안군 남면 청포대길 94"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "황토한옥고마",
+  "district": "공주시",
+  "category": "한옥스테이",
+  "lat": 36.4614454902,
+  "lng": 127.122366332,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "황토한옥고마",
+    "desc": "",
+    "address": "충청남도 공주시 미나리1길 18-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "힐링펜션",
+  "district": "서천군",
+  "category": "펜션",
+  "lat": 36.1599029763,
+  "lng": 126.5218726404,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2571370_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "힐링펜션",
+    "desc": "",
+    "address": "충청남도 서천군 서면 춘장대길 62"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "VIP온천호텔",
+  "district": "예산군",
+  "category": "관광호텔",
+  "lat": 36.6921691456,
+  "lng": 126.6550494239,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "VIP온천호텔",
+    "desc": "",
+    "address": "충청남도 예산군 덕산면 온천단지1로 34-10"
+   }
+  }
+ }
+]

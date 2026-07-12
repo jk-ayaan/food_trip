@@ -1,0 +1,2943 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "가람나무",
+  "district": "파주시",
+  "category": "한옥스테이",
+  "lat": 37.7547493903,
+  "lng": 126.689194904,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "가람나무",
+    "desc": "",
+    "address": "경기도 파주시 소라지로327번길 126-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "가평 하이랜드",
+  "district": "가평군",
+  "category": "모텔",
+  "lat": 37.9525433965,
+  "lng": 127.4766560979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3574099_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가평 하이랜드",
+    "desc": "",
+    "address": "경기도 가평군 북면 가화로 2369-19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "가평미라몬티풀빌라펜션",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.902313818,
+  "lng": 127.5134792182,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2811411_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가평미라몬티풀빌라펜션",
+    "desc": "",
+    "address": "경기도 가평군 가화로 1364-59"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "가평풀빌라스테이청평",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.7279721369,
+  "lng": 127.4671885431,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "가평풀빌라스테이청평",
+    "desc": "",
+    "address": "경기도 가평군 청평면 호명리길 151"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "감성보다 양평서종점",
+  "district": "양평군",
+  "category": "한옥스테이",
+  "lat": 37.6160902467,
+  "lng": 127.4430550985,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "감성보다 양평서종점",
+    "desc": "",
+    "address": "경기도 양평군 서종면 당산공원길 21-52"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "계곡과소나무 펜션",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 37.9524357148,
+  "lng": 127.3606916905,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2738902_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계곡과소나무 펜션",
+    "desc": "",
+    "address": "경기도 포천시 일동면 무리울길 299"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고려호텔",
+  "district": "부천시",
+  "category": "관광호텔",
+  "lat": 37.5054655933,
+  "lng": 126.7495686111,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3573937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고려호텔",
+    "desc": "",
+    "address": "경기도 부천시 원미구 길주로 66 (상동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "골든리버호텔",
+  "district": "광명시",
+  "category": "관광호텔",
+  "lat": 37.4477052284,
+  "lng": 126.8828497488,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3081258_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "골든리버호텔",
+    "desc": "",
+    "address": "경기도 광명시 소하로92번길 6-9 (소하동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "골든튤립에버 용인호텔",
+  "district": "용인시",
+  "category": "관광호텔",
+  "lat": 37.2870909414,
+  "lng": 127.2167933722,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3562781_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골든튤립에버 용인호텔",
+    "desc": "",
+    "address": "경기도 용인시 처인구 포곡읍 전대로78번길 19-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "관광 꿈꾸는숲 펜션",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 37.7907315317,
+  "lng": 127.164922608,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "관광 꿈꾸는숲 펜션",
+    "desc": "",
+    "address": "경기도 포천시 소흘읍 죽엽산로 490"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "광명JS부티크호텔",
+  "district": "광명시",
+  "category": "관광호텔",
+  "lat": 37.4743241106,
+  "lng": 126.8688780525,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3081235_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "광명JS부티크호텔",
+    "desc": "",
+    "address": "경기도 광명시 오리로854번길 16-18 (철산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그린랜드",
+  "district": "양주시",
+  "category": "펜션",
+  "lat": 37.7095120761,
+  "lng": 126.9484863658,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3003404_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그린랜드",
+    "desc": "",
+    "address": "경기도 양주시 장흥면 유원지로 279"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그린피아관광호텔",
+  "district": "화성시",
+  "category": "관광호텔",
+  "lat": 37.2038214009,
+  "lng": 126.9834446399,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3081859_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그린피아관광호텔",
+    "desc": "",
+    "address": "경기도 화성시 세자로 438 (안녕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "김포아트빌리지 전통한옥숙박체험관",
+  "district": "김포시",
+  "category": "한옥스테이",
+  "lat": 37.6466871063,
+  "lng": 126.6962278583,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3535435_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김포아트빌리지 전통한옥숙박체험관",
+    "desc": "",
+    "address": "경기도 김포시 모담공원로 170 (운양동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "꽃과 호수의 집",
+  "district": "고양시",
+  "category": "게스트하우스",
+  "lat": 37.649318745,
+  "lng": 126.7743317576,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2595152_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꽃과 호수의 집",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 노루목로 79"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "남이섬그랑나랑풀빌라",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.8035782702,
+  "lng": 127.5234145471,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남이섬그랑나랑풀빌라",
+    "desc": "",
+    "address": "경기도 가평군 가평읍 북한강변로 1007-36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대부도 펜션시티",
+  "district": "안산시",
+  "category": "펜션",
+  "lat": 37.2365745437,
+  "lng": 126.5896489527,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2530390_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대부도 펜션시티",
+    "desc": "",
+    "address": "경기도 안산시 단원구 공마루길 68"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더 스테이호텔",
+  "district": "가평군",
+  "category": "관광호텔",
+  "lat": 37.8319693258,
+  "lng": 127.5187446955,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2993039_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더 스테이호텔",
+    "desc": "",
+    "address": "경기도 가평군 가평읍 보납로 73"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도노 1796 호텔",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.287081748,
+  "lng": 127.0138784451,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도노 1796 호텔",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 신풍로 68 (장안동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "동미산펜션",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1618559294,
+  "lng": 126.6185122607,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2626604_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동미산펜션",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 230-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라까사호텔 광명",
+  "district": "광명시",
+  "category": "관광호텔",
+  "lat": 37.4212860577,
+  "lng": 126.8819922336,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라까사호텔 광명",
+    "desc": "",
+    "address": "경기도 광명시 일직로12번길 22 (일직동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라트리호텔",
+  "district": "의정부시",
+  "category": "관광호텔",
+  "lat": 37.7498540505,
+  "lng": 127.0720072667,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3091330_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "라트리호텔",
+    "desc": "",
+    "address": "경기도 의정부시 청사로6번길 19-13 (신곡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "레몬그라스",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.6180045949,
+  "lng": 127.6311685121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2812763_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레몬그라스",
+    "desc": "",
+    "address": "경기도 양평군 명성길 230"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "레스트호텔",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6399821341,
+  "lng": 126.6851123961,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2894931_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "레스트호텔",
+    "desc": "",
+    "address": "경기도 김포시 태장로795번길 151"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "레이크베이호스텔",
+  "district": "고양시",
+  "category": "관광호텔",
+  "lat": 37.6564872867,
+  "lng": 126.7705263475,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2893580_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레이크베이호스텔",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 정발산로 15 (장항동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "레젤프펜션",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.954095964,
+  "lng": 127.4750645309,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "레젤프펜션",
+    "desc": "",
+    "address": "경기도 가평군 북면 가화로 2389-16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "로그캠프펜션",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5034445514,
+  "lng": 127.571130066,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3556745_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "로그캠프펜션",
+    "desc": "",
+    "address": "경기도 양평군 용문면 연수로 293"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "롤링힐스호텔",
+  "district": "화성시",
+  "category": "관광호텔",
+  "lat": 37.1901676368,
+  "lng": 126.8387609237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2721267_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롤링힐스호텔",
+    "desc": "",
+    "address": "경기도 화성시 남양읍 시청로 290"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "루브호텔",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6324251296,
+  "lng": 126.5534690907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2877391_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "루브호텔",
+    "desc": "",
+    "address": "경기도 김포시 대곶면 약암로 879"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "루이하우스",
+  "district": "하남시",
+  "category": "펜션",
+  "lat": 37.488345355,
+  "lng": 127.2144601003,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "루이하우스",
+    "desc": "",
+    "address": "경기도 하남시 산곡남로 208 (상산곡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "르본수원실크로드호텔",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2671509869,
+  "lng": 127.0286304415,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3562948_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "르본수원실크로드호텔",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 경수대로466번길 28 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리브라이프 호텔",
+  "district": "시흥시",
+  "category": "관광호텔",
+  "lat": 37.3430619935,
+  "lng": 126.7362021268,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "리브라이프 호텔",
+    "desc": "",
+    "address": "경기도 시흥시 중심상가1길 25 (정왕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "메리도그하우스",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5207260307,
+  "lng": 127.7298401806,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "메리도그하우스",
+    "desc": "",
+    "address": "경기도 양평군 청운면 가현길 440-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "메리엘호텔",
+  "district": "용인시",
+  "category": "관광호텔",
+  "lat": 37.2890496733,
+  "lng": 127.0969819598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3079728_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메리엘호텔",
+    "desc": "",
+    "address": "경기도 용인시 기흥구 신정로 235 (신갈동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "모텔나무",
+  "district": "수원시",
+  "category": "모텔",
+  "lat": 37.2987056523,
+  "lng": 127.0279351773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3555965_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모텔나무",
+    "desc": "",
+    "address": "경기도 수원시 장안구 창훈로80번길 18 (연무동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무아레 도그라운드",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.6672693362,
+  "lng": 127.3841978587,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3012032_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무아레 도그라운드",
+    "desc": "",
+    "address": "경기도 가평군 청평면 북한강로1636번길 25"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "물소리새소리",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.6475103781,
+  "lng": 127.3764519134,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3556142_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물소리새소리",
+    "desc": "",
+    "address": "경기도 양평군 서종면 무드리2길 57-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "물소리펜션",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5823375684,
+  "lng": 127.5378002481,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3556627_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물소리펜션",
+    "desc": "",
+    "address": "경기도 양평군 옥천면 용천로 1038"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "미가쉴가족펜션",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.8029949945,
+  "lng": 127.5228646144,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미가쉴가족펜션",
+    "desc": "",
+    "address": "경기도 가평군 가평읍 북한강변로 1007-50"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "미고펜션",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1661776768,
+  "lng": 126.6199592333,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미고펜션",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길178번길 48-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다뜰이야기펜션",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1675248446,
+  "lng": 126.6257919998,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "바다뜰이야기펜션",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 96-19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다향기펜션",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1641724022,
+  "lng": 126.6227645889,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "바다향기펜션",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 144"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "반디빌리지",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.6451630576,
+  "lng": 127.5077289331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2811492_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "반디빌리지",
+    "desc": "",
+    "address": "경기도 가평군 묵안로 287"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "백미응서재",
+  "district": "화성시",
+  "category": "한옥스테이",
+  "lat": 37.1416123175,
+  "lng": 126.6907534744,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2573171_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백미응서재",
+    "desc": "",
+    "address": "경기도 화성시 서신면 밸미길 84"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베니키아 JD관광호텔",
+  "district": "남양주시",
+  "category": "관광호텔",
+  "lat": 37.7120549895,
+  "lng": 127.1875978065,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3085158_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "베니키아 JD관광호텔",
+    "desc": "",
+    "address": "경기도 남양주시 진접읍 해밀예당1로 50-44"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트 고덕신도시점",
+  "district": "평택시",
+  "category": "관광호텔",
+  "lat": 37.0473017141,
+  "lng": 127.0456655694,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2875391_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트 고덕신도시점",
+    "desc": "",
+    "address": "경기도 평택시 고덕중앙로 200-19 (고덕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브룩5(BROOK5)",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.8120541535,
+  "lng": 127.4741521193,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2811690_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브룩5(BROOK5)",
+    "desc": "",
+    "address": "경기도 가평군 태봉두밀로 162"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사과향기펜션(사과밭스테이)",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.8494777942,
+  "lng": 127.4860054985,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사과향기펜션(사과밭스테이)",
+    "desc": "",
+    "address": "경기도 가평군 가평읍 용추로 256"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "산온잔등",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.4582020328,
+  "lng": 127.3897589312,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산온잔등",
+    "desc": "",
+    "address": "경기도 양평군 강하면 동문3길 22-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "샘물농장 황토펜션",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 37.9959805507,
+  "lng": 127.355960289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2705194_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "샘물농장 황토펜션",
+    "desc": "",
+    "address": "경기도 포천시 일동면 화동로 1601-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서울투어리스트호텔",
+  "district": "시흥시",
+  "category": "관광호텔",
+  "lat": 37.3452866838,
+  "lng": 126.7333078839,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "서울투어리스트호텔",
+    "desc": "",
+    "address": "경기도 시흥시 군자천로 315 (정왕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소르호텔",
+  "district": "양평군",
+  "category": "관광호텔",
+  "lat": 37.5040418281,
+  "lng": 127.426229305,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소르호텔",
+    "desc": "",
+    "address": "경기도 양평군 강하면 강남로 375"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "송담 고택",
+  "district": "용인시",
+  "category": "한옥스테이",
+  "lat": 37.1065474816,
+  "lng": 127.1918979164,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "송담 고택",
+    "desc": "",
+    "address": "경기도 용인시 처인구 이동읍 어진로 780"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스타비아호텔",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6403237533,
+  "lng": 126.6846707604,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2869937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스타비아호텔",
+    "desc": "",
+    "address": "경기도 김포시 태장로795번길 147 (장기동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스페인마을 라스블랑카스 펜션",
+  "district": "가평군",
+  "category": "서비스드레지던스",
+  "lat": 37.6894887457,
+  "lng": 127.3716178046,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3337400_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스페인마을 라스블랑카스 펜션",
+    "desc": "",
+    "address": "경기도 가평군 청평면 남이터길 54-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "슬로우인풀빌라",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.6274164384,
+  "lng": 127.5794784866,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "슬로우인풀빌라",
+    "desc": "",
+    "address": "경기도 양평군 단월면 섬이길 329-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "시월재",
+  "district": "수원시",
+  "category": "한옥스테이",
+  "lat": 37.2900676278,
+  "lng": 127.0202888908,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "시월재",
+    "desc": "",
+    "address": "경기도 수원시 장안구 수원천로414번길 7-11 (연무동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라스테이 동탄",
+  "district": "화성시",
+  "category": "관광호텔",
+  "lat": 37.2025509274,
+  "lng": 127.0732393122,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2716774_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신라스테이 동탄",
+    "desc": "",
+    "address": "경기도 화성시 노작로 161 (반송동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "썬밸리호텔",
+  "district": "여주시",
+  "category": "관광호텔",
+  "lat": 37.2931427643,
+  "lng": 127.6610696584,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3562486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "썬밸리호텔",
+    "desc": "",
+    "address": "경기도 여주시 강변유원지길 45 (연양동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아난티펜트하우스서울",
+  "district": "가평군",
+  "category": "콘도미니엄",
+  "lat": 37.6265675506,
+  "lng": 127.4835511147,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2766237_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "아난티펜트하우스서울",
+    "desc": "",
+    "address": "경기도 가평군 설악면 유명로 1007-90"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아너스호텔",
+  "district": "오산시",
+  "category": "관광호텔",
+  "lat": 37.1457185846,
+  "lng": 127.0717771403,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아너스호텔",
+    "desc": "",
+    "address": "경기도 오산시 오산로212번길 32 (원동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아늑한가 서울한옥 스테이 풀빌라 스파펜션",
+  "district": "의정부시",
+  "category": "한옥스테이",
+  "lat": 37.6937656278,
+  "lng": 127.0439392124,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아늑한가 서울한옥 스테이 풀빌라 스파펜션",
+    "desc": "",
+    "address": "경기도 의정부시 평화로15번길 11 (호원동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아도니스호텔",
+  "district": "포천시",
+  "category": "관광호텔",
+  "lat": 37.9661533109,
+  "lng": 127.1955952724,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3573965_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아도니스호텔",
+    "desc": "",
+    "address": "경기도 포천시 신북면 포천로2414번길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아르노펜션",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.6949258467,
+  "lng": 127.4600929288,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아르노펜션",
+    "desc": "",
+    "address": "경기도 가평군 설악면 유명로 2108"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아리수호텔",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6390377783,
+  "lng": 126.6839069774,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아리수호텔",
+    "desc": "",
+    "address": "경기도 김포시 태장로795번길 123 (장기동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아모르앤심포니호텔",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2545060627,
+  "lng": 127.0753182266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2849892_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아모르앤심포니호텔",
+    "desc": "",
+    "address": "경기도 수원시 영통구 반달로128번길 9 (영통동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아미부티크 호텔",
+  "district": "용인시",
+  "category": "관광호텔",
+  "lat": 37.2256043706,
+  "lng": 127.1042969637,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3084553_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아미부티크 호텔",
+    "desc": "",
+    "address": "경기도 용인시 기흥구 기흥단지로 49 (고매동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아이비 스테이",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2704945747,
+  "lng": 127.0023632875,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2849918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아이비 스테이",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 갓매산로76번길 9 (고등동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안스테이",
+  "district": "가평군",
+  "category": "한옥스테이",
+  "lat": 37.7653442009,
+  "lng": 127.3927164586,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안스테이",
+    "desc": "",
+    "address": "경기도 가평군 상면 새터길 12-47"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "알멕스랜드",
+  "district": "연천군",
+  "category": "펜션",
+  "lat": 38.0731012751,
+  "lng": 127.0070316558,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2594176_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "알멕스랜드",
+    "desc": "",
+    "address": "경기도 연천군 왕징면 왕산로218번길 61"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "양지리조텔",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1731073806,
+  "lng": 126.6171759637,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "양지리조텔",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 353-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "어싱사계",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.4619293357,
+  "lng": 127.5394008088,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어싱사계",
+    "desc": "",
+    "address": "경기도 양평군 개군면 공서울길88번길 63-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에델바이스",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5147216049,
+  "lng": 127.6027963126,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2627343_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에델바이스",
+    "desc": "",
+    "address": "경기도 양평군 용문면 용문산로192번길 10-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에버랜드 홈브리지",
+  "district": "용인시",
+  "category": "유스호스텔",
+  "lat": 37.2893100954,
+  "lng": 127.2149184795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3079033_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에버랜드 홈브리지",
+    "desc": "",
+    "address": "경기도 용인시 처인구 포곡읍 에버랜드로 199"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에스알호텔",
+  "district": "부천시",
+  "category": "관광호텔",
+  "lat": 37.5029772501,
+  "lng": 126.7640201407,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2868966_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에스알호텔",
+    "desc": "",
+    "address": "경기도 부천시 원미구 석천로178번길 22 (중동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에코그린타운",
+  "district": "용인시",
+  "category": "펜션",
+  "lat": 37.2188505848,
+  "lng": 127.3137892909,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/698594_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에코그린타운",
+    "desc": "",
+    "address": "경기도 용인시 처인구 양지면 죽양대로2071번길 26-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엠블던호텔",
+  "district": "안산시",
+  "category": "관광호텔",
+  "lat": 37.3174194555,
+  "lng": 126.8328079386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2796328_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "엠블던호텔",
+    "desc": "",
+    "address": "경기도 안산시 단원구 중앙대로 869 (고잔동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여기바다",
+  "district": "안산시",
+  "category": "펜션",
+  "lat": 37.2025445796,
+  "lng": 126.5567500982,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2866343_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여기바다",
+    "desc": "",
+    "address": "경기도 안산시 단원구 긴장불길 84-10 (대부남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여여재",
+  "district": "수원시",
+  "category": "한옥스테이",
+  "lat": 37.2838653646,
+  "lng": 127.0089039867,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "여여재",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 화서문로16번길 43 (신풍동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연리지펜션",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1640724124,
+  "lng": 126.6226951535,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "연리지펜션",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 150"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연천미라클타운",
+  "district": "연천군",
+  "category": "펜션",
+  "lat": 38.1311868377,
+  "lng": 127.044773722,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2961238_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연천미라클타운",
+    "desc": "",
+    "address": "경기도 연천군 군남면 군중로 134"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "예직한옥체험마을(용인예직한옥체험 마을)",
+  "district": "용인시",
+  "category": "한옥스테이",
+  "lat": 37.1918221048,
+  "lng": 127.2555842092,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "예직한옥체험마을(용인예직한옥체험 마을)",
+    "desc": "",
+    "address": "경기도 용인시 처인구 예직로 24-28"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오르세호텔",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2662927956,
+  "lng": 127.0310219154,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2848418_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오르세호텔",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 인계로124번길 27-7 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오월의 푸른하늘",
+  "district": "이천시",
+  "category": "펜션",
+  "lat": 37.236107831,
+  "lng": 127.3639953703,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3023445_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오월의 푸른하늘",
+    "desc": "",
+    "address": "경기도 이천시 마장면 덕평로877번길 16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옥희와인 게스트하우스",
+  "district": "안양시",
+  "category": "게스트하우스",
+  "lat": 37.3981431886,
+  "lng": 126.9754927097,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "옥희와인 게스트하우스",
+    "desc": "",
+    "address": "경기도 안양시 동안구 관양로 279 (관양동, 삼우빌라)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "온유랑",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5166242399,
+  "lng": 127.7574683527,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "온유랑",
+    "desc": "",
+    "address": "경기도 양평군 청운면 몰운고갯길 306-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옹달샘펜션",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.5930465358,
+  "lng": 127.4887016189,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2568867_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옹달샘펜션",
+    "desc": "",
+    "address": "경기도 가평군 설악면 유명산길 108"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월문나인부띠크무인텔",
+  "district": "화성시",
+  "category": "관광호텔",
+  "lat": 37.1154602942,
+  "lng": 126.8772122746,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3081874_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "월문나인부띠크무인텔",
+    "desc": "",
+    "address": "경기도 화성시 팔탄면 버들로1597번길 14-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월하고택",
+  "district": "남양주시",
+  "category": "한옥스테이",
+  "lat": 37.7194453066,
+  "lng": 127.3132083672,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월하고택",
+    "desc": "",
+    "address": "경기도 남양주시 수동면 비룡로 981-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "웨스턴베이마리나호텔",
+  "district": "평택시",
+  "category": "관광호텔",
+  "lat": 36.977145108,
+  "lng": 126.8422997902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2875485_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "웨스턴베이마리나호텔",
+    "desc": "",
+    "address": "경기도 평택시 포승읍 평택항로184번길 3-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "웨스트레이븐호텔",
+  "district": "시흥시",
+  "category": "관광호텔",
+  "lat": 37.3475440423,
+  "lng": 126.6928976111,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "웨스트레이븐호텔",
+    "desc": "",
+    "address": "경기도 시흥시 옥터로 3 (정왕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "유선재",
+  "district": "양평군",
+  "category": "한옥스테이",
+  "lat": 37.4905124838,
+  "lng": 127.7092929219,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유선재",
+    "desc": "",
+    "address": "경기도 양평군 양동면 장만대길 89-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이끌림 클래식 호텔 평택점",
+  "district": "평택시",
+  "category": "관광호텔",
+  "lat": 36.9763896389,
+  "lng": 126.8422748131,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2875520_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이끌림 클래식 호텔 평택점",
+    "desc": "",
+    "address": "경기도 평택시 포승읍 평택항로184번길 3-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이비스 앰배서더 수원",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2593352731,
+  "lng": 127.03133597,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3562970_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이비스 앰배서더 수원",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 권광로 132"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이비스 앰배서더 수원",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2594824762,
+  "lng": 127.031235975,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3083937_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이비스 앰배서더 수원",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 권광로 132 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이천농업테마공원 펜션",
+  "district": "이천시",
+  "category": "펜션",
+  "lat": 37.1798991253,
+  "lng": 127.4448702054,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이천농업테마공원 펜션",
+    "desc": "",
+    "address": "경기도 이천시 모가면 공원로 48"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이천백사 산수유영농조합법인(이천산수유마을)",
+  "district": "이천시",
+  "category": "한옥스테이",
+  "lat": 37.3408280591,
+  "lng": 127.4623140477,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이천백사 산수유영농조합법인(이천산수유마을)",
+    "desc": "",
+    "address": "경기도 이천시 백사면 원적로775번길 17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "인디프레젠트호텔",
+  "district": "구리시",
+  "category": "관광호텔",
+  "lat": 37.6323324208,
+  "lng": 127.1166982221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2916597_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인디프레젠트호텔",
+    "desc": "",
+    "address": "경기도 구리시 갈매중앙로 81-8 (갈매동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "자연향기펜션",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.6341203684,
+  "lng": 127.3819934626,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2613518_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자연향기펜션",
+    "desc": "",
+    "address": "경기도 양평군 서종면 바치울길 151-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "잔원유림 풀빌라",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.6252835176,
+  "lng": 127.5884305134,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "잔원유림 풀빌라",
+    "desc": "",
+    "address": "경기도 양평군 단월면 섬이길 216"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "장락원(장락원전통한옥펜션)",
+  "district": "가평군",
+  "category": "한옥스테이",
+  "lat": 37.7273737913,
+  "lng": 127.5532335093,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "장락원(장락원전통한옥펜션)",
+    "desc": "",
+    "address": "경기도 가평군 설악면 미사리로 914"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "저스트스위트호텔 다산로데오점",
+  "district": "남양주시",
+  "category": "관광호텔",
+  "lat": 37.6237562868,
+  "lng": 127.1524813185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3085175_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "저스트스위트호텔 다산로데오점",
+    "desc": "",
+    "address": "경기도 남양주시 다산중앙로123번길 9 (다산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "저스트슬립호텔 김포구래1호점",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.643394501,
+  "lng": 126.6216514362,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2874883_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "저스트슬립호텔 김포구래1호점",
+    "desc": "",
+    "address": "경기도 김포시 김포한강9로75번길 72 (구래동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "저스트슬립호텔 지행역점",
+  "district": "동두천시",
+  "category": "관광호텔",
+  "lat": 37.8916899579,
+  "lng": 127.0530576948,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "저스트슬립호텔 지행역점",
+    "desc": "",
+    "address": "경기도 동두천시 중앙로 110-9 (지행동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제이비스호텔",
+  "district": "의정부시",
+  "category": "관광호텔",
+  "lat": 37.7496651867,
+  "lng": 127.0721267058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3091296_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제이비스호텔",
+    "desc": "",
+    "address": "경기도 의정부시 청사로6번길 19-7 (신곡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제이알랜드",
+  "district": "광주시",
+  "category": "펜션",
+  "lat": 37.3390837059,
+  "lng": 127.3032562856,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2724908_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제이알랜드",
+    "desc": "",
+    "address": "경기도 광주시 도척면 독고개길302번길 15-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "조강276(DMZ 평화의 길 거점센터)",
+  "district": "김포시",
+  "category": "서비스드레지던스",
+  "lat": 37.7418764745,
+  "lng": 126.565506594,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3316407_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조강276(DMZ 평화의 길 거점센터)",
+    "desc": "",
+    "address": "경기도 김포시 월곶면 용강로250번길 104"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "초원펜션(제부도 초원펜션)",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1674026482,
+  "lng": 126.6264363889,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2571016_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "초원펜션(제부도 초원펜션)",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 96-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "취옹예술관",
+  "district": "가평군",
+  "category": "한옥스테이",
+  "lat": 37.752603416,
+  "lng": 127.3599559248,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2993025_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "취옹예술관",
+    "desc": "",
+    "address": "경기도 가평군 상면 수목원로 300"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "캐슬레이크펜션",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.716096076,
+  "lng": 127.4855205543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2568302_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "캐슬레이크펜션",
+    "desc": "",
+    "address": "경기도 가평군 청평면 양진길 25"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "케이트리 평택 호텔",
+  "district": "평택시",
+  "category": "모텔",
+  "lat": 36.9762368921,
+  "lng": 126.8430191944,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3439283_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "케이트리 평택 호텔",
+    "desc": "",
+    "address": "경기도 평택시 포승읍 평택항로184번길 3-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "케이플러스호텔",
+  "district": "양주시",
+  "category": "관광호텔",
+  "lat": 37.8290504144,
+  "lng": 127.073796493,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3091343_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "케이플러스호텔",
+    "desc": "",
+    "address": "경기도 양주시 고원2길 22 (고암동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코지모텔",
+  "district": "이천시",
+  "category": "모텔",
+  "lat": 37.263201106,
+  "lng": 127.4721320408,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "코지모텔",
+    "desc": "",
+    "address": "경기도 이천시 부발읍 경충대로2285번길 31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코트야드 메리어트 수원",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2846244793,
+  "lng": 127.0574967776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2752956_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코트야드 메리어트 수원",
+    "desc": "",
+    "address": "경기도 수원시 영통구 광교호수공원로 320 (하동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코트야드 바이 메리어트 서울 판교",
+  "district": "성남시",
+  "category": "관광호텔",
+  "lat": 37.3975623473,
+  "lng": 127.1107526546,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "코트야드 바이 메리어트 서울 판교",
+    "desc": "",
+    "address": "경기도 성남시 분당구 판교역로192번길 12 (삼평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "킨텍스 바이 케이트리",
+  "district": "고양시",
+  "category": "관광호텔",
+  "lat": 37.6684743797,
+  "lng": 126.7480780616,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2872912_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "킨텍스 바이 케이트리",
+    "desc": "",
+    "address": "경기도 고양시 일산서구 킨텍스로 255-3 (대화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "탑클라우드호텔 수원점",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2924949568,
+  "lng": 127.0109091192,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3083950_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "탑클라우드호텔 수원점",
+    "desc": "",
+    "address": "경기도 수원시 장안구 수성로350번길 13 (영화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "테이크호텔",
+  "district": "광명시",
+  "category": "관광호텔",
+  "lat": 37.4191891014,
+  "lng": 126.8832338459,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "테이크호텔",
+    "desc": "",
+    "address": "경기도 광명시 신기로 22 (일직동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "토브의 강가",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.4673153025,
+  "lng": 127.5655621712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3556122_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토브의 강가",
+    "desc": "",
+    "address": "경기도 양평군 용문면 용문삼성로20번길 73-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "티볼리빌",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 37.7690853281,
+  "lng": 127.2350362796,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3573988_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "티볼리빌",
+    "desc": "",
+    "address": "경기도 포천시 내촌면 금강로2110번길 88-48"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "파리랜드(ParisLand)",
+  "district": "파주시",
+  "category": "게스트하우스",
+  "lat": 37.8145609623,
+  "lng": 126.794525233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2568014_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파리랜드(ParisLand)",
+    "desc": "",
+    "address": "경기도 파주시 파주읍 주라위길 60-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "파주감악산펜션",
+  "district": "파주시",
+  "category": "펜션",
+  "lat": 37.9554107541,
+  "lng": 126.9246509483,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3556109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파주감악산펜션",
+    "desc": "",
+    "address": "경기도 파주시 적성면 청송로1066번길 29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "파주메이트호텔",
+  "district": "파주시",
+  "category": "관광호텔",
+  "lat": 37.8090442988,
+  "lng": 126.7587342224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3084333_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "파주메이트호텔",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 엘씨디로241번길 39-35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "퍼스트호텔",
+  "district": "구리시",
+  "category": "관광호텔",
+  "lat": 37.6325907273,
+  "lng": 127.1168704212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2910947_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "퍼스트호텔",
+    "desc": "",
+    "address": "경기도 구리시 갈매중앙로 89-7 (갈매동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펜션 초리풍경",
+  "district": "파주시",
+  "category": "펜션",
+  "lat": 37.8540830968,
+  "lng": 126.8917207624,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3556085_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "펜션 초리풍경",
+    "desc": "",
+    "address": "경기도 파주시 법원읍 초리골길 172-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펜션뷰",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5144966431,
+  "lng": 127.6034740356,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2627332_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "펜션뷰",
+    "desc": "",
+    "address": "경기도 양평군 용문면 용문산로192번길 10-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펜타스타호텔",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6387017003,
+  "lng": 126.6835681289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2870082_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "펜타스타호텔",
+    "desc": "",
+    "address": "경기도 김포시 태장로795번길 111 (장기동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "프로방스율암",
+  "district": "화성시",
+  "category": "관광호텔",
+  "lat": 37.1513923498,
+  "lng": 126.882880214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3081867_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "프로방스율암",
+    "desc": "",
+    "address": "경기도 화성시 팔탄면 온천로 434-26"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "프리마베라펜션",
+  "district": "화성시",
+  "category": "펜션",
+  "lat": 37.1743878268,
+  "lng": 126.619392394,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "프리마베라펜션",
+    "desc": "",
+    "address": "경기도 화성시 서신면 해안길 381"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "프리미엄키즈풀빌라",
+  "district": "가평군",
+  "category": "펜션",
+  "lat": 37.8604267178,
+  "lng": 127.3457651901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3574281_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "프리미엄키즈풀빌라",
+    "desc": "",
+    "address": "경기도 가평군 조종면 현등사길 55-243"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "플로체호텔",
+  "district": "부천시",
+  "category": "관광호텔",
+  "lat": 37.506995985,
+  "lng": 126.7503546078,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2868889_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "플로체호텔",
+    "desc": "",
+    "address": "경기도 부천시 원미구 길주로77번길 19-22 (상동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하늘가람펜션",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 37.9378842406,
+  "lng": 127.3393051825,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/686201_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하늘가람펜션",
+    "desc": "",
+    "address": "경기도 포천시 일동면 운악청계로1480번길 16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한울",
+  "district": "용인시",
+  "category": "한옥스테이",
+  "lat": 37.2371337104,
+  "lng": 127.265493147,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한울",
+    "desc": "",
+    "address": "경기도 용인시 처인구 송주로236번길 110"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해든호텔 하이엔드",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2615128583,
+  "lng": 127.0346661625,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2927015_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해든호텔 하이엔드",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 효원로 299 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해시호텔",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2701279625,
+  "lng": 127.0030326814,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2849941_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해시호텔",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 갓매산로 72-1 (고등동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해와달수상낚시빌리지",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 38.1716196693,
+  "lng": 127.2754847021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3003877_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해와달수상낚시빌리지",
+    "desc": "",
+    "address": "경기도 포천시 관인면 찬우물길 73-26"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해우당",
+  "district": "용인시",
+  "category": "한옥스테이",
+  "lat": 37.3555747238,
+  "lng": 127.0648580065,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해우당",
+    "desc": "",
+    "address": "경기도 용인시 수지구 고기로377번길 51-21 (고기동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "햇살좋은날",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.4398448792,
+  "lng": 127.49006425,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3556165_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "햇살좋은날",
+    "desc": "",
+    "address": "경기도 양평군 강상면 강남로 1544"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "행복하개 애견 펜션",
+  "district": "연천군",
+  "category": "민박",
+  "lat": 38.018201338,
+  "lng": 126.9630900566,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2961521_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "행복하개 애견 펜션",
+    "desc": "",
+    "address": "경기도 연천군 미산면 노아로 670-84"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "헤윰, 소",
+  "district": "양평군",
+  "category": "펜션",
+  "lat": 37.5136427388,
+  "lng": 127.6877136479,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "헤윰, 소",
+    "desc": "",
+    "address": "경기도 양평군 단월면 양동로 313"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "헤이리풀빌라 워라벨 호스텔",
+  "district": "파주시",
+  "category": "게스트하우스",
+  "lat": 37.789498108,
+  "lng": 126.6887356312,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "헤이리풀빌라 워라벨 호스텔",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 샘철길 38-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호수창이예쁜가",
+  "district": "포천시",
+  "category": "펜션",
+  "lat": 37.9376370471,
+  "lng": 127.3392996346,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3555998_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호수창이예쁜가",
+    "desc": "",
+    "address": "경기도 포천시 일동면 운악청계로1480번길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 166",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2654596309,
+  "lng": 127.035066016,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 166",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 인계로166번길 24 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 M7",
+  "district": "용인시",
+  "category": "모텔",
+  "lat": 37.2704297517,
+  "lng": 127.1050539722,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3084547_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호텔 M7",
+    "desc": "",
+    "address": "경기도 용인시 기흥구 갈천로7번길 51 (신갈동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 라르 김포",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6027740722,
+  "lng": 126.769311304,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2874904_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 라르 김포",
+    "desc": "",
+    "address": "경기도 김포시 고촌읍 장차로5번길 5-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 세인트",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2813955418,
+  "lng": 126.9716435495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2847017_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 세인트",
+    "desc": "",
+    "address": "경기도 수원시 권선구 구운로85번길 28 (구운동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 시엘로",
+  "district": "시흥시",
+  "category": "관광호텔",
+  "lat": 37.3255129576,
+  "lng": 126.6754386993,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 시엘로",
+    "desc": "",
+    "address": "경기도 시흥시 거북섬둘레길 5-7 (정왕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 아르떼",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2661872168,
+  "lng": 127.0290554296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2848434_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 아르떼",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 인계로108번길 37 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 에비뉴",
+  "district": "용인시",
+  "category": "관광호텔",
+  "lat": 37.2326140601,
+  "lng": 127.2250247165,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3084540_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호텔 에비뉴",
+    "desc": "",
+    "address": "경기도 용인시 처인구 중부대로1576번길 50 (마평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 에스알 스위츠",
+  "district": "성남시",
+  "category": "관광호텔",
+  "lat": 37.3856055703,
+  "lng": 127.1202076886,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2588513_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 에스알 스위츠",
+    "desc": "",
+    "address": "경기도 성남시 분당구 황새울로319번길 9 (서현동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 에이치",
+  "district": "안성시",
+  "category": "관광호텔",
+  "lat": 37.0754830462,
+  "lng": 127.4252610369,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 에이치",
+    "desc": "",
+    "address": "경기도 안성시 죽산면 죽주로 268-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔727",
+  "district": "안산시",
+  "category": "모텔",
+  "lat": 37.3093423211,
+  "lng": 126.8162957755,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔727",
+    "desc": "",
+    "address": "경기도 안산시 단원구 광덕2로 58-14 (초지동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔CC",
+  "district": "파주시",
+  "category": "게스트하우스",
+  "lat": 37.8089165207,
+  "lng": 126.757867639,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔CC",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 엘씨디로241번길 39-45"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔더그레이동두천",
+  "district": "동두천시",
+  "category": "관광호텔",
+  "lat": 37.9036191453,
+  "lng": 127.054340566,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2856347_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔더그레이동두천",
+    "desc": "",
+    "address": "경기도 동두천시 중앙로246번길 13 (생연동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔더스타일",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2657622986,
+  "lng": 127.0308580561,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2848422_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔더스타일",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 인계로124번길 41-5 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔더윈",
+  "district": "고양시",
+  "category": "관광호텔",
+  "lat": 37.6476901781,
+  "lng": 126.8751281534,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3085095_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호텔더윈",
+    "desc": "",
+    "address": "경기도 고양시 덕양구 원흥3로 6-14 (원흥동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔디",
+  "district": "오산시",
+  "category": "관광호텔",
+  "lat": 37.1426661128,
+  "lng": 127.0691441305,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2851983_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔디",
+    "desc": "",
+    "address": "경기도 오산시 원동로 5 (원동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔리브레",
+  "district": "시흥시",
+  "category": "관광호텔",
+  "lat": 37.3468781811,
+  "lng": 126.7341216546,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2796284_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "호텔리브레",
+    "desc": "",
+    "address": "경기도 시흥시 서촌상가3길 7-3 (정왕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔미즈",
+  "district": "파주시",
+  "category": "관광호텔",
+  "lat": 37.776921767,
+  "lng": 126.687066695,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3556903_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔미즈",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 성동로 20-37"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔베네",
+  "district": "의정부시",
+  "category": "관광호텔",
+  "lat": 37.739818622,
+  "lng": 127.0451072325,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3091318_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호텔베네",
+    "desc": "",
+    "address": "경기도 의정부시 흥선로168번길 26 (의정부동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔벨르",
+  "district": "평택시",
+  "category": "관광호텔",
+  "lat": 36.9903173926,
+  "lng": 127.0887493609,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2867074_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔벨르",
+    "desc": "",
+    "address": "경기도 평택시 평택로28번길 6 (평택동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔스퀘어",
+  "district": "안산시",
+  "category": "관광호텔",
+  "lat": 37.3145441888,
+  "lng": 126.7989722064,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3535405_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔스퀘어",
+    "desc": "",
+    "address": "경기도 안산시 단원구 동산로 81 (원시동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔써밋",
+  "district": "평택시",
+  "category": "관광호텔",
+  "lat": 37.0475211301,
+  "lng": 127.0454766915,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2877826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔써밋",
+    "desc": "",
+    "address": "경기도 평택시 고덕중앙로 200-33 (고덕동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔씨티",
+  "district": "부천시",
+  "category": "관광호텔",
+  "lat": 37.5030633401,
+  "lng": 126.7633951953,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3084317_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호텔씨티",
+    "desc": "",
+    "address": "경기도 부천시 원미구 석천로178번길 12 (중동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔엠타워",
+  "district": "김포시",
+  "category": "관광호텔",
+  "lat": 37.6436611687,
+  "lng": 126.6234457094,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2874705_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔엠타워",
+    "desc": "",
+    "address": "경기도 김포시 김포한강9로75번길 38 (구래동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔클로버",
+  "district": "안산시",
+  "category": "관광호텔",
+  "lat": 37.3086402224,
+  "lng": 126.8500232841,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔클로버",
+    "desc": "",
+    "address": "경기도 안산시 상록구 양지편로 22 (이동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "화이트아일랜드",
+  "district": "안산시",
+  "category": "펜션",
+  "lat": 37.2740585076,
+  "lng": 126.5566231535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3549736_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화이트아일랜드",
+    "desc": "",
+    "address": "경기도 안산시 단원구 연목이길 96 (대부북동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "휴빌리지",
+  "district": "양평군",
+  "category": "관광호텔",
+  "lat": 37.4842742022,
+  "lng": 127.7030408911,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "휴빌리지",
+    "desc": "",
+    "address": "경기도 양평군 양동면 양동로 756"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "3S 호텔",
+  "district": "안산시",
+  "category": "관광호텔",
+  "lat": 37.3021771026,
+  "lng": 126.8511261413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3035845_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "3S 호텔",
+    "desc": "",
+    "address": "경기도 안산시 상록구 서암로2길 11 (사동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "Dune45호텔",
+  "district": "수원시",
+  "category": "모텔",
+  "lat": 37.2636597539,
+  "lng": 127.0303359398,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2846916_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "Dune45호텔",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 권광로175번길 31-4 (인계동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "HOTEL 자라",
+  "district": "가평군",
+  "category": "모텔",
+  "lat": 37.8226120104,
+  "lng": 127.514934206,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2618390_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "HOTEL 자라",
+    "desc": "",
+    "address": "경기도 가평군 가평읍 가화로 41-27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "IMT호텔",
+  "district": "파주시",
+  "category": "관광호텔",
+  "lat": 37.777557817,
+  "lng": 126.6877860556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3556063_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "IMT호텔",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 성동로 34"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "S STAY HOTEL",
+  "district": "수원시",
+  "category": "관광호텔",
+  "lat": 37.2688725541,
+  "lng": 127.0031549272,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2849730_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "S STAY HOTEL",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 갓매산로71번길 21-6 (매산로2가)"
+   }
+  }
+ }
+]

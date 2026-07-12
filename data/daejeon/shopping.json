@@ -1,0 +1,257 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "대전 중앙시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 36.3295438687,
+  "lng": 127.4331753997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3526645_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전 중앙시장",
+    "desc": "",
+    "address": "대전광역시 동구 대전로 783"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대전광역시 노은농수산물도매시장",
+  "district": "유성구",
+  "category": "상설시장",
+  "lat": 36.3659099055,
+  "lng": 127.3189929595,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3564913_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대전광역시 노은농수산물도매시장",
+    "desc": "",
+    "address": "대전광역시 유성구 노은동로 33"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "도마큰시장",
+  "district": "서구",
+  "category": "상설시장",
+  "lat": 36.3159361697,
+  "lng": 127.3812304121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3565534_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도마큰시장",
+    "desc": "",
+    "address": "대전광역시 서구 도마4길 69 (도마동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "둔산꽃시장",
+  "district": "서구",
+  "category": "상설시장",
+  "lat": 36.3556148908,
+  "lng": 127.377088041,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2758631_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "둔산꽃시장",
+    "desc": "",
+    "address": "대전광역시 서구 둔산북로 22 (둔산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "둔산전자타운",
+  "district": "서구",
+  "category": "전문매장",
+  "lat": 36.3401141826,
+  "lng": 127.3937786355,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3565560_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "둔산전자타운",
+    "desc": "",
+    "address": "대전광역시 서구 도산로403번길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 (대전점)",
+  "district": "서구",
+  "category": "백화점",
+  "lat": 36.3407307037,
+  "lng": 127.3895651061,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3443221_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 (대전점)",
+    "desc": "",
+    "address": "대전광역시 서구 계룡로 598 (괴정동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "문창전통시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 36.3155566682,
+  "lng": 127.4381975528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3564686_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문창전통시장",
+    "desc": "",
+    "address": "대전광역시 중구 보문로20번길 22 (문창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "송강전통시장",
+  "district": "유성구",
+  "category": "상설시장",
+  "lat": 36.4351976315,
+  "lng": 127.3873849557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3565028_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송강전통시장",
+    "desc": "",
+    "address": "대전광역시 유성구 봉산로 17 (송강동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신탄진장 (3, 8일)",
+  "district": "대덕구",
+  "category": "5일장",
+  "lat": 36.4498966492,
+  "lng": 127.4267838059,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3032904_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신탄진장 (3, 8일)",
+    "desc": "",
+    "address": "대전광역시 대덕구 석봉로37번길 52-11 (석봉동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "역전시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 36.3300438245,
+  "lng": 127.4338531035,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3034925_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "역전시장",
+    "desc": "",
+    "address": "대전광역시 동구 역전시장길 34"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "오정농수산물도매시장",
+  "district": "대덕구",
+  "category": "상설시장",
+  "lat": 36.3579679539,
+  "lng": 127.4082935191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2758925_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오정농수산물도매시장",
+    "desc": "",
+    "address": "대전광역시 대덕구 한밭대로 987 (오정동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "유성장(4, 9일)",
+  "district": "유성구",
+  "category": "5일장",
+  "lat": 36.3578166521,
+  "lng": 127.3339640612,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3031774_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유성장(4, 9일)",
+    "desc": "",
+    "address": "대전광역시 유성구 유성대로730번길 24 (장대동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "으능정이문화의거리",
+  "district": "중구",
+  "category": "쇼핑",
+  "lat": 36.3291243747,
+  "lng": 127.4276592379,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3526655_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "으능정이문화의거리",
+    "desc": "",
+    "address": "대전광역시 중구 중앙로 164"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중리전통시장",
+  "district": "대덕구",
+  "category": "상설시장",
+  "lat": 36.3653424205,
+  "lng": 127.4257861986,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3565141_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중리전통시장",
+    "desc": "",
+    "address": "대전광역시 대덕구 중리북로37번길 26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "태평전통시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 36.325929763,
+  "lng": 127.3976786705,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3526636_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태평전통시장",
+    "desc": "",
+    "address": "대전광역시 중구 수침로55번길 56"
+   }
+  }
+ }
+]

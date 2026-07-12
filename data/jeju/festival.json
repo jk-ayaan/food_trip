@@ -1,0 +1,242 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "금능원담축제",
+  "district": "제주시",
+  "category": "일반축제",
+  "lat": 33.3888630479,
+  "lng": 126.2340841383,
+  "phone": "064-796-2011",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3518240_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "금능원담축제",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재리"
+   }
+  },
+  "pstart": "2025-08-23",
+  "pend": "2025-08-24",
+  "period": "2025.08.23~2025.08.24"
+ },
+ {
+  "section": "festival",
+  "name_ko": "문화의 달 행사",
+  "district": "서귀포시",
+  "category": "일반축제",
+  "lat": 33.2438675382,
+  "lng": 126.5598424335,
+  "phone": "064-760-0901",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3562069_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문화의 달 행사",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로 2-9 (서홍동)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "산지천축제",
+  "district": "제주시",
+  "category": "일반축제",
+  "lat": 33.5151787191,
+  "lng": 126.5283445957,
+  "phone": "064-728-4652",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3529822_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산지천축제",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로3길 36 (일도일동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "서귀포은갈치축제",
+  "district": "서귀포시",
+  "category": "일반축제",
+  "lat": 33.2403346868,
+  "lng": 126.5656503433,
+  "phone": "064-733-3501",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3520768_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서귀포은갈치축제",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로72번길 18 (서귀동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "쇠소깍축제",
+  "district": "서귀포시",
+  "category": "일반축제",
+  "lat": 33.2505344492,
+  "lng": 126.6215230516,
+  "phone": "064-760-4623\n010-4614-4281",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3358380_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쇠소깍축제",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 쇠소깍로 151-1 (하효동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-21",
+  "period": "2025.09.20~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "원도심 야간여행 ‘섬夜시즌’ 운영",
+  "district": "서귀포시",
+  "category": "기타행사",
+  "lat": 33.241942872,
+  "lng": 126.5675084795,
+  "phone": "064-741-8754",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3554700_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원도심 야간여행 ‘섬夜시즌’ 운영",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로 120-12 (서귀동)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-02",
+  "period": "2025.11.01~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제주독서대전",
+  "district": "제주시",
+  "category": "일반축제",
+  "lat": 33.5149873859,
+  "lng": 126.5478984552,
+  "phone": "064-728-8342",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3560629_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주독서대전",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사라봉동길 30 (건입동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제주레저힐링축제",
+  "district": "제주시",
+  "category": "일반축제",
+  "lat": 33.5427390309,
+  "lng": 126.6690845131,
+  "phone": "064-728-2757",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3576396_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주레저힐링축제",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 525"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-07",
+  "period": "2025.09.05~2025.09.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "화북, 포구문화제",
+  "district": "제주시",
+  "category": "일반축제",
+  "lat": 33.5246449368,
+  "lng": 126.5658911161,
+  "phone": "064-728-4682",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3540884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화북, 포구문화제",
+    "desc": "",
+    "address": "제주특별자치도 제주시 화북이동"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 음악실연자 페스티벌",
+  "district": "제주시",
+  "category": "대중콘서트",
+  "lat": 33.5181838831,
+  "lng": 126.5246670689,
+  "phone": "070-4242-0838",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3546881_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 음악실연자 페스티벌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로 2 (삼도이동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-24",
+  "period": "2025.10.24~2025.10.24"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 제주 반려동물 문화산업 한마당",
+  "district": "제주시",
+  "category": "기타행사",
+  "lat": 33.491875672,
+  "lng": 126.5238621803,
+  "phone": "064-711-1002",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3524439_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 제주 반려동물 문화산업 한마당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연삼로 286 (도남동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 제주식품대전 with 맥주축제",
+  "district": "서귀포시",
+  "category": "박람회",
+  "lat": 33.2520782258,
+  "lng": 126.4145798438,
+  "phone": "064-805-3353",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3525092_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 제주식품대전 with 맥주축제",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 93 (색달동)"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-07",
+  "period": "2025.09.05~2025.09.07"
+ }
+]

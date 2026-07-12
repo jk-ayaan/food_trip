@@ -1,0 +1,82 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "나라꽃 무궁화 대축제",
+  "district": "",
+  "category": "일반축제",
+  "lat": 36.4986579981,
+  "lng": 127.2857090051,
+  "phone": "02-545-0633",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3513265_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "나라꽃 무궁화 대축제",
+    "desc": "",
+    "address": "세종특별자치시 수목원로 136 (세종동)"
+   }
+  },
+  "pstart": "2025-08-14",
+  "pend": "2025-08-17",
+  "period": "2025.08.14~2025.08.17"
+ },
+ {
+  "section": "festival",
+  "name_ko": "세종 한글술술 축제",
+  "district": "조치원읍",
+  "category": "일반축제",
+  "lat": 36.5986023052,
+  "lng": 127.2978746308,
+  "phone": "044-999-1085",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3529805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세종 한글술술 축제",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 조치원2길 60"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-09-13",
+  "period": "2025.09.13~2025.09.13"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 세종미술주간 갤러리 가는 날",
+  "district": "조치원읍",
+  "category": "전시회",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "044-862-1620",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3529945_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 세종미술주간 갤러리 가는 날",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 수원지길 75-21"
+   }
+  },
+  "pstart": "2025-09-02",
+  "pend": "2025-10-12",
+  "period": "2025.09.02~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 한글 국제 프레 비엔날레",
+  "district": "조치원읍",
+  "category": "전시회",
+  "lat": 36.5979135244,
+  "lng": 127.2994995039,
+  "phone": "044-850-8952",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3514246_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 한글 국제 프레 비엔날레",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 새내4길 17"
+   }
+  },
+  "pstart": "2025-09-01",
+  "pend": "2025-10-12",
+  "period": "2025.09.01~2025.10.12"
+ }
+]

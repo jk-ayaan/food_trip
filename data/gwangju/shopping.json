@@ -1,0 +1,87 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "무안요(광주)",
+  "district": "전남광주통합특별시",
+  "category": "공예·공방",
+  "lat": 35.1498495384,
+  "lng": 126.9176242274,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/1587565_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무안요(광주)",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 중앙로196번길 15-6 (궁동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "비아5일시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.2213982286,
+  "lng": 126.8252806044,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3528360_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비아5일시장",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 비아중앙로 26-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "상무화훼단지",
+  "district": "전남광주통합특별시",
+  "category": "전문매장",
+  "lat": 35.1428074499,
+  "lng": 126.8455168899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3528427_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상무화훼단지",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 마륵벽진길 23"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서부농수산물도매시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 35.1161856771,
+  "lng": 126.8586608367,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3528421_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서부농수산물도매시장",
+    "desc": "",
+    "address": "전남광주통합특별시 서구 매월2로 16"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "월곡시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 35.1713258469,
+  "lng": 126.8096610164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3551369_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월곡시장",
+    "desc": "",
+    "address": "전남광주통합특별시 광산구 사암로 300 (월곡동)"
+   }
+  }
+ }
+]

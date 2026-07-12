@@ -1,0 +1,1056 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "광이멀스테이",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.4058844989,
+  "lng": 126.3048803787,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "광이멀스테이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 월각로 151"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그랜드 하얏트 제주",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4852923931,
+  "lng": 126.4814715703,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2876783_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "그랜드 하얏트 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 노연로 12 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "글로스터호텔 제주",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4901448115,
+  "lng": 126.4926621543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3089182_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "글로스터호텔 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼무로 57 (연동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "까델아스",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.4753472289,
+  "lng": 126.3666540021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2848463_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "까델아스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 신엄9길 46"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "나이스호텔",
+  "district": "제주시",
+  "category": "게스트하우스",
+  "lat": 33.4830031363,
+  "lng": 126.4423833539,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "나이스호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 논세길 96-38"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "노을담은뜨락",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.2562936895,
+  "lng": 126.1903769911,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3562864_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노을담은뜨락",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 노을해안로 416"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "돈내코힐 리조트",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.3029335392,
+  "lng": 126.5785144865,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "돈내코힐 리조트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 돈내코로 180"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "롯데호텔 제주",
+  "district": "서귀포시",
+  "category": "관광호텔",
+  "lat": 33.2487146442,
+  "lng": 126.4105247144,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3538946_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데호텔 제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로72번길 35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리치호텔",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.472097309,
+  "lng": 126.3489500598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3084826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리치호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내로13길 100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마레보 비치호텔",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4481853609,
+  "lng": 126.304137829,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3505946_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "마레보 비치호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 곽지1길 23 마레보비치호텔"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "물결그림",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.5444525773,
+  "lng": 126.6595658566,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2991094_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물결그림",
+    "desc": "",
+    "address": "제주특별자치도 제주시 함덕5길 8-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다에누워 펜션",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.2696884696,
+  "lng": 126.6578361411,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3477297_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다에누워 펜션",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 위미해안로 60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다하우스",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.4665921534,
+  "lng": 126.3356596732,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3478020_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다하우스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 218"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다해호텔",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2414512305,
+  "lng": 126.5656503182,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "바다해호텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천지연로 3-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "발트하우스",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.3491324273,
+  "lng": 126.8279307185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3082058_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "발트하우스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 번영로 3361-26"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "백패커스홈",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2470449521,
+  "lng": 126.5589896584,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "백패커스홈",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중정로 24-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "벤티모 호텔 앤 레지던스 제주",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.493458351,
+  "lng": 126.4937564282,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3514421_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "벤티모 호텔 앤 레지던스 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연삼로 14 (연동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "보물섬펜션",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.4664517038,
+  "lng": 126.931705148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3477371_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보물섬펜션",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 한도로242번길 10-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브릭216",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2408771391,
+  "lng": 126.4434470348,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "브릭216",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 216"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비치스토리호텔",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.5421529255,
+  "lng": 126.6654098459,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2596486_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비치스토리호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 492-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서귀포 귤림성",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.2503192271,
+  "lng": 126.5360193536,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3569245_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포 귤림성",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주동로 8941 (호근동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서귀포칼호텔 (서귀포KAL호텔)",
+  "district": "서귀포시",
+  "category": "관광호텔",
+  "lat": 33.2443539282,
+  "lng": 126.5808072727,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3564306_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포칼호텔 (서귀포KAL호텔)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로 242"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서툰가족",
+  "district": "서귀포시",
+  "category": "민박",
+  "lat": 33.2282179181,
+  "lng": 126.2980682613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2707436_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서툰가족",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계중앙로 41-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솔트",
+  "district": "제주시",
+  "category": "게스트하우스",
+  "lat": 33.4670365589,
+  "lng": 126.3363346046,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "솔트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 226"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라스테이 제주",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4855175198,
+  "lng": 126.4910512883,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2716742_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신라스테이 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 노연로 100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아덴힐리조트&골프",
+  "district": "제주시",
+  "category": "콘도미니엄",
+  "lat": 33.348127981,
+  "lng": 126.3672651377,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3084635_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아덴힐리조트&골프",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 화전길 82"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아망뜨펜션(제주)",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.3060923857,
+  "lng": 126.806436338,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/729219_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아망뜨펜션(제주)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 민속해안로 11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아인스 호스텔",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2454341363,
+  "lng": 126.5663918312,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아인스 호스텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 432"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "앙끄리에펜션",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.2632769775,
+  "lng": 126.4138213265,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3477380_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앙끄리에펜션",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 색달로61번길 59-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "애월해안누리(구 하얀둥지)",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.4705668076,
+  "lng": 126.3416562839,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2611075_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "애월해안누리(구 하얀둥지)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 298"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "야크마을",
+  "district": "서귀포시",
+  "category": "콘도미니엄",
+  "lat": 33.2691263446,
+  "lng": 126.4146822318,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "야크마을",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 색달중앙로 162"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "어반아일랜드호텔",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4895893506,
+  "lng": 126.4947508744,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3089187_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "어반아일랜드호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼무로 76 (연동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에덴호스텔",
+  "district": "제주시",
+  "category": "게스트하우스",
+  "lat": 33.5184027384,
+  "lng": 126.4891868158,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "에덴호스텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 456-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에코랜드 호텔",
+  "district": "제주시",
+  "category": "모텔",
+  "lat": 33.4558430751,
+  "lng": 126.6681893538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2948147_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "에코랜드 호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 번영로 1278-169"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엘린호텔",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4893532766,
+  "lng": 126.4954452638,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2596268_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엘린호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 은남1길 4 (연동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엠버리조트",
+  "district": "제주시",
+  "category": "게스트하우스",
+  "lat": 33.4236160047,
+  "lng": 126.489061194,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "엠버리조트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 2671-51"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오션힐스테이",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2368032498,
+  "lng": 126.3088143604,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오션힐스테이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계북로 208"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주 뉴오션리조트",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.4694947659,
+  "lng": 126.3455948543,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주 뉴오션리조트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내로13길 59"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주 메이플호텔",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4865589227,
+  "lng": 126.4817104098,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2688230_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 메이플호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 원노형3길 41 메이플호텔"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주 블랙스톤",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.3377949264,
+  "lng": 126.3124118005,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3478185_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 블랙스톤",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한창로 925-122"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주 스위트호텔",
+  "district": "서귀포시",
+  "category": "관광호텔",
+  "lat": 33.2490784581,
+  "lng": 126.4083582278,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2848605_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주 스위트호텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로72번길 67"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주브릭스",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2446420718,
+  "lng": 126.5357833901,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주브릭스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 121"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주신라호텔",
+  "district": "서귀포시",
+  "category": "관광호텔",
+  "lat": 33.2480035829,
+  "lng": 126.4087304418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3538893_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주신라호텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로72번길 75"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주알(R)호텔",
+  "district": "제주시",
+  "category": "모텔",
+  "lat": 33.4994636267,
+  "lng": 126.5179180807,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3457838_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주알(R)호텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서광로14길 5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주엠리조트",
+  "district": "서귀포시",
+  "category": "관광호텔",
+  "lat": 33.2578066302,
+  "lng": 126.4943561301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2926934_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주엠리조트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간서로157번길 28-6 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주올레하우스",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.5133329329,
+  "lng": 126.7784506914,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3546888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주올레하우스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 덕행로 450-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제주정원집",
+  "district": "서귀포시",
+  "category": "펜션",
+  "lat": 33.3198870911,
+  "lng": 126.7443691759,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주정원집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 한신로531번길15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "천지연크리스탈호텔",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2423732942,
+  "lng": 126.5620756071,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "천지연크리스탈호텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천지연로 39"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "취다선리조트(취다선 리조트 Tea&Meditation)",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.4718785742,
+  "lng": 126.9127177787,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2715063_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "취다선리조트(취다선 리조트 Tea&Meditation)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 해맞이해안로 2688"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "칠십리호텔",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2472116357,
+  "lng": 126.5612422374,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "칠십리호텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로353번길 22-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "카세로지",
+  "district": "서귀포시",
+  "category": "관광호텔",
+  "lat": 33.3454127339,
+  "lng": 126.7869121327,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3031579_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카세로지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시로 383"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "카이 호스텔",
+  "district": "제주시",
+  "category": "게스트하우스",
+  "lat": 33.3922238993,
+  "lng": 126.2412473291,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "카이 호스텔",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재2길 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "타미우스골프&빌리지",
+  "district": "제주시",
+  "category": "콘도미니엄",
+  "lat": 33.3469894223,
+  "lng": 126.3802668112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3478034_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "타미우스골프&빌리지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 화전길 201"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "토비스콘도 제주",
+  "district": "제주시",
+  "category": "콘도미니엄",
+  "lat": 33.4631615996,
+  "lng": 126.3117312768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2650208_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토비스콘도 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로1길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펜션연리",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2405179405,
+  "lng": 126.3859881372,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "펜션연리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 논짓물로 50"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펠리스타운",
+  "district": "서귀포시",
+  "category": "유스호스텔",
+  "lat": 33.4744809898,
+  "lng": 126.9081014524,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "펠리스타운",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 시흥하동로50번길 23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "포도호텔",
+  "district": "서귀포시",
+  "category": "모텔",
+  "lat": 33.3178733106,
+  "lng": 126.3875196113,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3569801_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포도호텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 상천리"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "프레리아 커플 독채펜션",
+  "district": "제주시",
+  "category": "펜션",
+  "lat": 33.4254894659,
+  "lng": 126.4050490077,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3552914_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "프레리아 커플 독채펜션",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 유수암평화5길 34-29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "플레이스 캠프 제주(Playce camp Jeju)",
+  "district": "서귀포시",
+  "category": "콘도미니엄",
+  "lat": 33.4498866488,
+  "lng": 126.9182122544,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "플레이스 캠프 제주(Playce camp Jeju)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 동류암로 20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해성파크텔",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2523116402,
+  "lng": 126.4213570284,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해성파크텔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 158-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 서귀피안",
+  "district": "서귀포시",
+  "category": "게스트하우스",
+  "lat": 33.2444207422,
+  "lng": 126.5905592043,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 서귀피안",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 보목로64번길 178"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔컬리넌 제주",
+  "district": "제주시",
+  "category": "관광호텔",
+  "lat": 33.4853925632,
+  "lng": 126.4928539116,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3089160_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔컬리넌 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사장1길 26 (연동)"
+   }
+  }
+ }
+]

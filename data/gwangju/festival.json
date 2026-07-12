@@ -1,0 +1,22 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "광주여성영화제",
+  "district": "전남광주통합특별시",
+  "category": "기타행사",
+  "lat": 35.1468609363,
+  "lng": 126.9146634529,
+  "phone": "062-515-6560",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3460726_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광주여성영화제",
+    "desc": "",
+    "address": "전남광주통합특별시 동구 중앙로160번길 16-7 (불로동)"
+   }
+  },
+  "pstart": "2025-11-06",
+  "pend": "2025-11-10",
+  "period": "2025.11.06~2025.11.10"
+ }
+]

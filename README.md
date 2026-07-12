@@ -1,50 +1,48 @@
-# 🧳 Food Trip · 부산 & 수도권 맛집·관광 가이드
+# 📍 그곳에 가면 · Food Trip Korea
 
-지역을 골라 떠나는 맛집·관광 웹 가이드. **부산**(비짓부산 + 우슐랭) · **수원 · 안산 · 판교역 · 정자역 · 서현역**(한국관광공사 TourAPI), 총 **1,896곳**을 지도·다국어(한·영·일·중)로 둘러보는 모바일 반응형 웹앱.
+지역을 골라 떠나는 전국 맛집·관광 웹 가이드. **전국 17개 시·도 + 수도권 상세(수원·안산·판교역·정자역·서현역)**, 총 **22,000여 곳**을 카카오 별점·지도·다국어(한·영·일·중)로 둘러보는 모바일 반응형 웹앱.
 
-> 데이터 출처: [부산관광포털 비짓부산](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000) (부산광역시) · [우체국 추천 맛집가이드](https://github.com/jk-ayaan/usulleng) (부산지방우정청, 2024·2025) · [한국관광공사 TourAPI 4.0](https://api.visitkorea.or.kr)
+> 데이터 출처: [한국관광공사 TourAPI 4.0](https://api.visitkorea.or.kr) · [부산관광포털 비짓부산](https://www.visitbusan.net) (부산광역시) · [우체국 추천 맛집가이드](https://github.com/jk-ayaan/usulleng) (부산지방우정청, 2024·2025) · 별점: 카카오맵
 
-## 지역 × 섹션
+## 지역
 
-| 지역 | 곳수 | 데이터 |
-|---|---|---|
-| 🌊 부산 | 1,324 | 명소 212 · 음식 337 · 📮우슐랭 318 · 축제 40 · 숙박 362 · 쇼핑 55 |
-| 🏯 수원 | 298 | 명소 64 · 음식 195 · 축제 8 · 숙박 20 · 쇼핑 11 |
-| 🌷 안산 | 145 | 명소 53 · 음식 79 · 축제 1 · 숙박 8 · 쇼핑 4 |
-| 🚄 판교역 | 40 | 역 반경 2km — 음식 24 · 명소 12 외 |
-| 🚇 정자역 | 40 | 역 반경 2km — 음식 28 · 명소 10 외 |
-| 🚉 서현역 | 49 | 역 반경 2km — 음식 29 · 명소 15 외 |
+| 구분 | 지역 |
+|---|---|
+| 큐레이션 | 🌊 부산 1,324 (비짓부산 + 📮우슐랭 318) |
+| 전국 시·도 | 서울 2,314 · 경기 4,049 · 강원 2,600 · 경북 1,655 · 경남 1,696 · 전남 1,447 · 전북 1,338 · 충남 1,294 · 제주 1,028 · 충북 1,005 · 인천 664 · 대구 560 · 대전 347 · 울산 278 · 광주 208 · 세종 102 |
+| 수도권 상세 | 수원 298 · 안산 145 · 판교역 40 · 정자역 40 · 서현역 49 (역은 반경 2km) |
 
 ## 기능
 
-- 🗺 **지역 선택** — 헤더 지역 pill로 즉시 전환, 지역별 브랜드("수원에 가면"/"When in Suwon")·지도 중심·섹션 탭 자동 구성
-- 📱 **모바일 반응형** — 1열(모바일) → 4열(데스크톱)
-- 🗺 **지도 보기** — Leaflet + OpenStreetMap(CARTO), 핀·클러스터, 팝업
-- 🌐 **다국어** — 한국어·English·日本語·中文 (부산: 비짓부산 공식 번역 / 우슐랭·경기: 한국어 기준)
-- 🔎 **검색·필터** — 이름/지역/키워드, 구·군 + 종류 칩, 정렬(거리순 포함)
-- ✓ **가본 곳 체크** / ♥ **찜 + 우선순위**(높음/보통/낮음) — localStorage 저장
-- 💾 **내 저장 패널** — 전 지역·섹션 통합 찜/가본 곳 목록, 우선순위 관리, 탭하면 해당 카드로 이동
-- 📞 전화 · 카카오맵 길찾기 · 상세 링크(부산)
+- 🗺 **지역 선택 + lazy-load** — 선택한 지역 데이터만 내려받음(index 66KB, 지역팩 57KB~1.7MB), 지역별 브랜드("서울에 가면"/"When in Seoul")
+- ⭐ **카카오맵 별점** — 실제 별점·평가 수 표시, **평점순** 정렬(평가 수 보정)
+- 🔎 검색·필터(구·군/종류 칩) · 거리순·반경 필터(내 위치)
+- ✓/♥ **가본 곳·찜(우선순위)** — Google/Apple 로그인 계정(Firestore)에 저장, 기기 간 동기화
+- 💾 **내 저장 패널** — 전 지역 통합 목록, 탭하면 해당 지역 로드 후 이동
+- 🌐 다국어 한·영·일·중 (부산: 공식 번역 / 그 외: 한국어 기준) · 📱 모바일 반응형 · 🗺 Leaflet 지도·클러스터
 
-데이터가 내장된 **단일 `index.html`** 로 서버 없이 열어도 동작합니다.
+> ⚠️ lazy-load 구조라 로컬에서는 `python3 -m http.server`로 띄워야 동작합니다 (file:// 불가).
 
 ## 데이터 파이프라인
 
 ```bash
-python3 grab.py all                          # 부산 5개 섹션 (비짓부산) → data/busan/
+python3 grab.py all                          # 부산 (비짓부산) → data/busan/
 python3 grab_usulleng.py                     # 우슐랭 → data/busan/usulleng.json
-TOURAPI_KEY='...' python3 grab_gyeonggi.py   # 경기 5개 지역 (TourAPI) → data/<region>/
-python3 build_app.py                         # data/<region>/*.json → index.html
+TOURAPI_KEY='...' python3 grab_gyeonggi.py   # 수도권 상세 5곳 (TourAPI)
+TOURAPI_KEY='...' python3 grab_korea.py      # 전국 16개 시·도 (TourAPI, 설명 생략)
+python3 grab_ratings.py [region ...]         # 카카오맵 별점 (+썸네일 보충)
+python3 grab_thumb_fix.py                    # 썸네일 정비 (깨진 URL 정리 + 카카오 대표사진)
+python3 build_app.py                         # → index.html + pack/<region>.json
 ```
 
 | 파일 | 설명 |
 |---|---|
-| `grab.py` | 비짓부산 수집기 — 목록·상세 파싱, 구·군 매핑, 종류 자동 분류, 영·일 번역 |
-| `grab_usulleng.py` | [usulleng](https://github.com/jk-ayaan/usulleng) → 앱 스키마 변환 |
-| `grab_gyeonggi.py` | TourAPI KorService2 — 수원·안산(시 전체) + 판교·정자·서현역(반경 2km), 카테고리 매핑·overview·축제기간. `TOURAPI_KEY` 환경변수 필요 ([data.go.kr](https://www.data.go.kr) 발급) |
-| `build_app.py` | 지역×섹션 단일 HTML 생성기 |
-| `data/<region>/*.json` | 지역·섹션별 데이터셋 |
+| `grab_korea.py` | TourAPI areaBasedList2/searchFestival2 — 전국 시·도, 시·군·구 추출, 카테고리 매핑 |
+| `grab_gyeonggi.py` | 수도권 상세 5곳 — 시 전체/역 반경 2km, overview·축제기간 포함 |
+| `grab_ratings.py` | 카카오맵 별점 — 전화 일치 또는 300m 이내+이름 유사만 채택 |
+| `grab_kakao_thumbs.py` / `grab_thumb_fix.py` | 카카오맵 플레이스 대표사진 매칭·정비 |
+| `build_app.py` | UI 단일 HTML + 지역별 pack JSON 생성기 |
 
 ## 주의
 
-공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요. 종류는 자동 분류입니다. 사진은 비짓부산·한국관광공사 서버 이미지를 사용합니다. 가본 곳·찜 데이터는 브라우저 localStorage에만 저장됩니다.
+공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요. 전국 시·도 데이터는 상세설명 없이 목록 정보만 제공됩니다(API 쿼터). 사진은 한국관광공사·비짓부산·카카오 CDN을 사용합니다. 찜·가본 곳은 로그인 계정(Firebase)에 저장됩니다.

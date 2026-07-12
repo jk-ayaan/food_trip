@@ -1,0 +1,302 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "강화 별밤 야행",
+  "district": "강화군",
+  "category": "일반축제",
+  "lat": 37.7487853655,
+  "lng": 126.4854137407,
+  "phone": "032-930-3563",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3530291_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 별밤 야행",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 관청리"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-06",
+  "period": "2025.09.05~2025.09.06"
+ },
+ {
+  "section": "festival",
+  "name_ko": "개항장 댕댕 도서관",
+  "district": "제물포구",
+  "category": "기타행사",
+  "lat": 37.4761360618,
+  "lng": 126.6146650689,
+  "phone": "010-8456-2948",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3557781_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "개항장 댕댕 도서관",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로 33 (북성동1가)"
+   }
+  },
+  "pstart": "2025-11-08",
+  "pend": "2025-11-08",
+  "period": "2025.11.08~2025.11.08"
+ },
+ {
+  "section": "festival",
+  "name_ko": "달빛가득 부평향교",
+  "district": "계양구",
+  "category": "일반축제",
+  "lat": 37.5395472304,
+  "lng": 126.7207175131,
+  "phone": "032-450-5754",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3526752_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달빛가득 부평향교",
+    "desc": "",
+    "address": "인천광역시 계양구 향교로 19 부평향교(지정문화재)"
+   }
+  },
+  "pstart": "2025-09-06",
+  "pend": "2025-09-06",
+  "period": "2025.09.06~2025.09.06"
+ },
+ {
+  "section": "festival",
+  "name_ko": "뮤직 플로우 페스티벌",
+  "district": "부평구",
+  "category": "일반축제",
+  "lat": 37.4822897181,
+  "lng": 126.7049455502,
+  "phone": "032-500-2163",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3507180_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뮤직 플로우 페스티벌",
+    "desc": "",
+    "address": "인천광역시 부평구 아트센터로 166 (십정동)"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-30",
+  "period": "2025.08.29~2025.08.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "미추홀미디어문화축제",
+  "district": "미추홀구",
+  "category": "일반축제",
+  "lat": 37.4625938235,
+  "lng": 126.650542727,
+  "phone": "032-880-7978",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3574759_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미추홀미디어문화축제",
+    "desc": "",
+    "address": "인천광역시 미추홀구 독정이로 87 (숭의동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-09-21",
+  "period": "2025.09.20~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "세계를 품은 인천교육 한마당",
+  "district": "연수구",
+  "category": "기타행사",
+  "lat": 37.3900244069,
+  "lng": 126.6466173186,
+  "phone": "032-561-7243",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3543518_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세계를 품은 인천교육 한마당",
+    "desc": "",
+    "address": "인천광역시 연수구 센트럴로 123 (송도동)"
+   }
+  },
+  "pstart": "2025-10-28",
+  "pend": "2025-10-29",
+  "period": "2025.10.28~2025.10.29"
+ },
+ {
+  "section": "festival",
+  "name_ko": "송도해변축제",
+  "district": "연수구",
+  "category": "일반축제",
+  "lat": 37.3990651932,
+  "lng": 126.6562495239,
+  "phone": "032-858-6041",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3499430_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송도해변축제",
+    "desc": "",
+    "address": "인천광역시 연수구 아암대로 764 (송도동)"
+   }
+  },
+  "pstart": "2025-08-09",
+  "pend": "2025-08-15",
+  "period": "2025.08.09~2025.08.15"
+ },
+ {
+  "section": "festival",
+  "name_ko": "시민창작예술축제 학산마당극놀래",
+  "district": "미추홀구",
+  "category": "연극",
+  "lat": 37.4631995872,
+  "lng": 126.666319049,
+  "phone": "032-866-3994",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3525797_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시민창작예술축제 학산마당극놀래",
+    "desc": "",
+    "address": "인천광역시 미추홀구 경인로 216-1 (도화동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-27",
+  "period": "2025.09.27~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "인천 영화 주간 2025",
+  "district": "연수구",
+  "category": "영화",
+  "lat": 37.4060509763,
+  "lng": 126.6836357236,
+  "phone": "032-435-7172",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3537264_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "인천 영화 주간 2025",
+    "desc": "",
+    "address": "인천광역시 연수구 청능대로 210 (동춘동)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-23",
+  "period": "2025.10.17~2025.10.23"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제16회 INK 콘서트",
+  "district": "제물포구",
+  "category": "대중콘서트",
+  "lat": 37.4761360618,
+  "lng": 126.6146650689,
+  "phone": "070-8893-2437",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3524918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제16회 INK 콘서트",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로 33 (북성동1가)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-25",
+  "period": "2025.10.25~2025.10.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "한복사랑 인천시민 놀이마당",
+  "district": "남동구",
+  "category": "일반축제",
+  "lat": 37.4550873442,
+  "lng": 126.7060989801,
+  "phone": "010-8259-3391",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3531470_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한복사랑 인천시민 놀이마당",
+    "desc": "",
+    "address": "인천광역시 남동구 정각로 29 (구월동)"
+   }
+  },
+  "pstart": "2025-10-11",
+  "pend": "2025-10-11",
+  "period": "2025.10.11~2025.10.11"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 상상플랫폼 술술페스타",
+  "district": "제물포구",
+  "category": "기타행사",
+  "lat": 37.4761360618,
+  "lng": 126.6146650689,
+  "phone": "1544-7056",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3567073_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 상상플랫폼 술술페스타",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로 33 (북성동1가)"
+   }
+  },
+  "pstart": "2025-11-22",
+  "pend": "2025-11-23",
+  "period": "2025.11.22~2025.11.23"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 인천공항 스카이페스티벌",
+  "district": "영종구",
+  "category": "대중콘서트",
+  "lat": 37.4657083226,
+  "lng": 126.389349822,
+  "phone": "070-5226-0759",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3553701_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 인천공항 스카이페스티벌",
+    "desc": "",
+    "address": "인천광역시 영종구 공항문화로 127 (운서동)"
+   }
+  },
+  "pstart": "2025-11-08",
+  "pend": "2025-11-09",
+  "period": "2025.11.08~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 인천국제디자인페어",
+  "district": "남동구",
+  "category": "박람회",
+  "lat": 37.4476658767,
+  "lng": 126.7000414057,
+  "phone": "070-4895-0879",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3525480_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 인천국제디자인페어",
+    "desc": "",
+    "address": "인천광역시 남동구 예술로 149 (구월동)"
+   }
+  },
+  "pstart": "2025-10-30",
+  "pend": "2025-11-01",
+  "period": "2025.10.30~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 인천원도사제&낙섬축제",
+  "district": "미추홀구",
+  "category": "기타행사",
+  "lat": 37.446623214,
+  "lng": 126.6367583164,
+  "phone": "032-866-3994",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3550989_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 인천원도사제&낙섬축제",
+    "desc": "",
+    "address": "인천광역시 미추홀구 매소홀로 120 (용현동)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-25",
+  "period": "2025.10.25~2025.10.25"
+ }
+]

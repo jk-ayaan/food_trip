@@ -1,0 +1,3487 @@
+[
+ {
+  "section": "food",
+  "name_ko": "가야성",
+  "district": "달서구",
+  "category": "중식",
+  "lat": 35.831498531,
+  "lng": 128.5513315187,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2738128_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가야성",
+    "desc": "",
+    "address": "대구광역시 달서구 월배로83길 7 (송현동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가원식당",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9906776367,
+  "lng": 128.6968281408,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2846082_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "가원식당",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로199길 6-3 (용수동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가창닭갈비",
+  "district": "달성군",
+  "category": "고기·구이",
+  "lat": 35.7655411302,
+  "lng": 128.6493913845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2841653_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가창닭갈비",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창로119길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갈비만 대구본점",
+  "district": "달서구",
+  "category": "고기·구이",
+  "lat": 35.8243321674,
+  "lng": 128.5237091503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2766623_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갈비만 대구본점",
+    "desc": "",
+    "address": "대구광역시 달서구 조암로 58"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "감나무집",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.716696417,
+  "lng": 128.6367549604,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2841666_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "감나무집",
+    "desc": "",
+    "address": "대구광역시 달성군 우록3길 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "거산 이가네더덕밥",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.9388873419,
+  "lng": 128.6040238857,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2840653_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거산 이가네더덕밥",
+    "desc": "",
+    "address": "대구광역시 북구 이곡길 35-41 (서변동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "걸리버막창",
+  "district": "북구",
+  "category": "고기·구이",
+  "lat": 35.8855735199,
+  "lng": 128.5814829152,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2866144_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "걸리버막창",
+    "desc": "",
+    "address": "대구광역시 북구 옥산로 53 (노원동1가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "게이블루프커피",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.8423623562,
+  "lng": 128.4635722847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2841690_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "게이블루프커피",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 강정본길 77"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고모역쭈꾸미",
+  "district": "수성구",
+  "category": "해산물·회",
+  "lat": 35.8565425061,
+  "lng": 128.6795556428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2866226_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고모역쭈꾸미",
+    "desc": "",
+    "address": "대구광역시 수성구 고모로 188 (고모동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고미텐",
+  "district": "수성구",
+  "category": "일식",
+  "lat": 35.8594914514,
+  "lng": 128.6405506611,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2850585_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "고미텐",
+    "desc": "",
+    "address": "대구광역시 수성구 동원로 6 (만촌동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고운곰탕",
+  "district": "수성구",
+  "category": "면·국물",
+  "lat": 35.8582664578,
+  "lng": 128.6333846593,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2846250_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "고운곰탕",
+    "desc": "",
+    "address": "대구광역시 수성구 달구벌대로 2474-8 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고향차밭골",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9878848728,
+  "lng": 128.6205766105,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2846097_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고향차밭골",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 339 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곳 카페",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9450568734,
+  "lng": 128.6465394101,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2840601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곳 카페",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로 525 (지묘동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "공심옥",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8295182598,
+  "lng": 128.705165254,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2850593_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "공심옥",
+    "desc": "",
+    "address": "대구광역시 수성구 유니버시아드로 318 (욱수동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곽옥자삼대곰탕",
+  "district": "수성구",
+  "category": "면·국물",
+  "lat": 35.8356187226,
+  "lng": 128.6172478216,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2846265_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "곽옥자삼대곰탕",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 64 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구일식당",
+  "district": "서구",
+  "category": "한식·백반",
+  "lat": 35.8623226838,
+  "lng": 128.5439563133,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "구일식당",
+    "desc": "",
+    "address": "대구광역시 서구 평리로35길 28-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "국수마을",
+  "district": "북구",
+  "category": "면·국물",
+  "lat": 35.8864789532,
+  "lng": 128.5804079844,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "국수마을",
+    "desc": "",
+    "address": "대구광역시 북구 원대로19길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "국일생갈비",
+  "district": "중구",
+  "category": "고기·구이",
+  "lat": 35.8703975171,
+  "lng": 128.5845497342,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2858359_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국일생갈비",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로 492 (동산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "군위참좋은한우직판장",
+  "district": "군위군",
+  "category": "고기·구이",
+  "lat": 36.178748635,
+  "lng": 128.5836356144,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2831922_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위참좋은한우직판장",
+    "desc": "",
+    "address": "대구광역시 군위군 효령면 간동유원지길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금산곰탕",
+  "district": "달성군",
+  "category": "면·국물",
+  "lat": 35.6434680746,
+  "lng": 128.4576977178,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "금산곰탕",
+    "desc": "",
+    "address": "대구광역시 달성군 구지면 구지동로 234"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금수강산해물탕",
+  "district": "수성구",
+  "category": "해산물·회",
+  "lat": 35.8353381986,
+  "lng": 128.6172117214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2850625_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금수강산해물탕",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 60 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "기와집보쌈",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.9382448127,
+  "lng": 128.5533589271,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2840619_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "기와집보쌈",
+    "desc": "",
+    "address": "대구광역시 북구 대천로7길 6-10 (읍내동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김진수로스터리카페",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.8596128848,
+  "lng": 128.5985404683,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2849807_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김진수로스터리카페",
+    "desc": "",
+    "address": "대구광역시 중구 이천로 205 (대봉동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김태근한방요리",
+  "district": "달서구",
+  "category": "한식·백반",
+  "lat": 35.8609928341,
+  "lng": 128.5741314691,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "김태근한방요리",
+    "desc": "",
+    "address": "대구광역시 달서구 큰장로 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김태희옛날손국수",
+  "district": "달성군",
+  "category": "면·국물",
+  "lat": 35.7467125301,
+  "lng": 128.4888004798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2841709_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "김태희옛날손국수",
+    "desc": "",
+    "address": "대구광역시 달성군 옥포읍 옥포로 597"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "까꾸리웰빙손칼국수",
+  "district": "수성구",
+  "category": "면·국물",
+  "lat": 35.8320981099,
+  "lng": 128.6828449236,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2850632_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "까꾸리웰빙손칼국수",
+    "desc": "",
+    "address": "대구광역시 수성구 월드컵로5길 17 (대흥동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "까사드테하",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.735469702,
+  "lng": 128.6588052798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2840371_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "까사드테하",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 녹문길 16-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꼬밥",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9854132203,
+  "lng": 128.6362391871,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2866662_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꼬밥",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 620"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽃잔디식당",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.8601518571,
+  "lng": 128.4553336296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2841725_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꽃잔디식당",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 달구벌대로 750"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "낙영찜갈비",
+  "district": "중구",
+  "category": "고기·구이",
+  "lat": 35.8742668582,
+  "lng": 128.60269525,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "낙영찜갈비",
+    "desc": "",
+    "address": "대구광역시 중구 동덕로36길 9-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남도명가",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8333412035,
+  "lng": 128.6173089907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2850640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남도명가",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 40 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "낫온리커피어반델리(NOT ONLY COFFEE URBAN DELI)",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8244394704,
+  "lng": 128.6193062845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2840741_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "낫온리커피어반델리(NOT ONLY COFFEE URBAN DELI)",
+    "desc": "",
+    "address": "대구광역시 수성구 용학로 106-7 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "노이식탁",
+  "district": "남구",
+  "category": "양식·세계요리",
+  "lat": 35.835393036,
+  "lng": 128.5785623458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2842739_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노이식탁",
+    "desc": "",
+    "address": "대구광역시 남구 대명남로 188 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다이닝슬로우라이프",
+  "district": "수성구",
+  "category": "양식·세계요리",
+  "lat": 35.8616131496,
+  "lng": 128.6251797333,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2846276_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다이닝슬로우라이프",
+    "desc": "",
+    "address": "대구광역시 수성구 상록로2길 45 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대가웍 본점",
+  "district": "달성군",
+  "category": "중식",
+  "lat": 35.7000503569,
+  "lng": 128.4460194175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2841760_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대가웍 본점",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍읍 현풍동로29길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대덕식당",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.8310378812,
+  "lng": 128.5735656841,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대덕식당",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 443"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대동강식당",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.8439203157,
+  "lng": 128.6039237641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2616138_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대동강식당",
+    "desc": "",
+    "address": "대구광역시 남구 대봉로 57-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대봉정",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.8564049042,
+  "lng": 128.5979822734,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2850354_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대봉정",
+    "desc": "",
+    "address": "대구광역시 중구 명덕로 249 (대봉동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대쿠이 본점",
+  "district": "남구",
+  "category": "일식",
+  "lat": 35.8563908424,
+  "lng": 128.5885164406,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2845759_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대쿠이 본점",
+    "desc": "",
+    "address": "대구광역시 남구 중앙대로51길 38-2 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대하닭갈비",
+  "district": "중구",
+  "category": "고기·구이",
+  "lat": 35.8689923664,
+  "lng": 128.5978985971,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대하닭갈비",
+    "desc": "",
+    "address": "대구광역시 중구 동성로6길 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대화장",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.8738334166,
+  "lng": 128.5941682353,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3541952_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "대화장",
+    "desc": "",
+    "address": "대구광역시 중구 북성로 104-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "더기네장어",
+  "district": "동구",
+  "category": "해산물·회",
+  "lat": 35.9911899584,
+  "lng": 128.6154380824,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2846109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더기네장어",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로2길 88 (덕곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "더덕고을",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9471036869,
+  "lng": 128.6370013046,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더덕고을",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 152-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "데우스커피",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8372936811,
+  "lng": 128.6252526257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2766637_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "데우스커피",
+    "desc": "",
+    "address": "대구광역시 수성구 동대구로14길 15-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도케비커피 본점",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.6980013613,
+  "lng": 128.4882740882,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2846036_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도케비커피 본점",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 음동길 130-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동림식당",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9862103755,
+  "lng": 128.6374557244,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동림식당",
+    "desc": "",
+    "address": "대구광역시 동구 파계로116길 49"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동봉",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9551037153,
+  "lng": 128.687435524,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2866246_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동봉",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로 995 (백안동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돼지만 본점",
+  "district": "달서구",
+  "category": "고기·구이",
+  "lat": 35.813133857,
+  "lng": 128.5467213231,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2845878_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돼지만 본점",
+    "desc": "",
+    "address": "대구광역시 달서구 상화북로 192 (상인동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "두류해물탕본점",
+  "district": "달서구",
+  "category": "해산물·회",
+  "lat": 35.8501571809,
+  "lng": 128.532332675,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2866583_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두류해물탕본점",
+    "desc": "",
+    "address": "대구광역시 달서구 달구벌대로 1511 (용산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "똘똘이식당",
+  "district": "서구",
+  "category": "한식·백반",
+  "lat": 35.863523048,
+  "lng": 128.571126108,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2850535_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "똘똘이식당",
+    "desc": "",
+    "address": "대구광역시 서구 달구벌대로375길 31 (내당동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "레이틀리92",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.8756305871,
+  "lng": 128.7525153541,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2850448_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레이틀리92",
+    "desc": "",
+    "address": "대구광역시 동구 초례로 6 (숙천동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "로렐트리 동촌유원지 본점",
+  "district": "동구",
+  "category": "양식·세계요리",
+  "lat": 35.8797755284,
+  "lng": 128.6547294021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2846133_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "로렐트리 동촌유원지 본점",
+    "desc": "",
+    "address": "대구광역시 동구 효동로6길 122 (효목동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "롤러커피",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.8645538214,
+  "lng": 128.5892939232,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2840709_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롤러커피",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로414길 36 (남산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "루미너스",
+  "district": "수성구",
+  "category": "양식·세계요리",
+  "lat": 35.8461203838,
+  "lng": 128.6211138557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2866252_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "루미너스",
+    "desc": "",
+    "address": "대구광역시 수성구 희망로 204 (황금동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "룰리커피",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8565425061,
+  "lng": 128.6795556428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2850654_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "룰리커피",
+    "desc": "",
+    "address": "대구광역시 수성구 고모로 188 (고모동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마루막창 수성점",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8256366141,
+  "lng": 128.6224032007,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2738151_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마루막창 수성점",
+    "desc": "",
+    "address": "대구광역시 수성구 수성못2길 5 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마르텐사이트",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.89985262,
+  "lng": 128.4392033979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2856294_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마르텐사이트",
+    "desc": "",
+    "address": "대구광역시 달성군 하빈면 하빈로 363"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "메르헨카페",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7610703665,
+  "lng": 128.398483039,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2856313_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메르헨카페",
+    "desc": "",
+    "address": "대구광역시 달성군 논공읍 성산로 1281"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "메종듀미디",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.983543763,
+  "lng": 128.6240903116,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2856356_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메종듀미디",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로21길 11 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "면장수",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8303582598,
+  "lng": 128.6201032722,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2850667_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "면장수",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 105 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명동돼지한마리",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8511781958,
+  "lng": 128.6238940257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2866273_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명동돼지한마리",
+    "desc": "",
+    "address": "대구광역시 수성구 범어천로 48 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명산한우식육식당",
+  "district": "동구",
+  "category": "고기·구이",
+  "lat": 35.9849907922,
+  "lng": 128.6225404072,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2846146_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명산한우식육식당",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로 122 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "무화커피",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8647379623,
+  "lng": 128.6341955187,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2766648_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무화커피",
+    "desc": "",
+    "address": "대구광역시 수성구 국채보상로186길 81 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "물베기한정식",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.8561742112,
+  "lng": 128.5891052839,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "물베기한정식",
+    "desc": "",
+    "address": "대구광역시 남구 중앙대로51길 23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미림돈까스",
+  "district": "중구",
+  "category": "양식·세계요리",
+  "lat": 35.8708640675,
+  "lng": 128.5811083574,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3578450_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미림돈까스",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로93길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미소팔공한우",
+  "district": "동구",
+  "category": "고기·구이",
+  "lat": 35.995372747,
+  "lng": 128.6116355232,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2850490_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미소팔공한우",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 222"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미진분식",
+  "district": "중구",
+  "category": "분식·주점",
+  "lat": 35.8674841379,
+  "lng": 128.5943295095,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미진분식",
+    "desc": "",
+    "address": "대구광역시 중구 동성로 6-1 (동성로3가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "민수사",
+  "district": "수성구",
+  "category": "일식",
+  "lat": 35.8315469425,
+  "lng": 128.6162369127,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2850096_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "민수사",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 19 (상동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "밥을짓다",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9944340282,
+  "lng": 128.6150630246,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2737087_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밥을짓다",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로9길 6-1 (덕곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "방어진 참가자미",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8261282552,
+  "lng": 128.6240224889,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2850023_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방어진 참가자미",
+    "desc": "",
+    "address": "대구광역시 수성구 수성못2길 35 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "방천가족족발&보쌈",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.8618766554,
+  "lng": 128.6060258571,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2840751_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방천가족족발&보쌈",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로446길 11 (대봉동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "버들식당",
+  "district": "달서구",
+  "category": "한식·백반",
+  "lat": 35.8479636186,
+  "lng": 128.5668074763,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2746367_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "버들식당",
+    "desc": "",
+    "address": "대구광역시 달서구 두류공원로28길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벙글벙글식당",
+  "district": "서구",
+  "category": "한식·백반",
+  "lat": 35.8623004637,
+  "lng": 128.543959091,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "벙글벙글식당",
+    "desc": "",
+    "address": "대구광역시 서구 와룡로66길 57"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벙글벙글찜갈비",
+  "district": "중구",
+  "category": "고기·구이",
+  "lat": 35.8710117164,
+  "lng": 128.6051534576,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "벙글벙글찜갈비",
+    "desc": "",
+    "address": "대구광역시 중구 동덕로36길 9-12 (동인동1가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베를린 에스프레소 바",
+  "district": "달서구",
+  "category": "면·국물",
+  "lat": 35.8077316489,
+  "lng": 128.5444438953,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2845895_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "베를린 에스프레소 바",
+    "desc": "",
+    "address": "대구광역시 달서구 미리샘길 82 (도원동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벽강물회",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.8894064424,
+  "lng": 128.5827382534,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2866161_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "벽강물회",
+    "desc": "",
+    "address": "대구광역시 북구 침산남로 62 (노원동1가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보백관 본점",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.8720068113,
+  "lng": 128.495710297,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2850402_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보백관 본점",
+    "desc": "",
+    "address": "대구광역시 달성군 서재본길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보스턴커피",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.8854388643,
+  "lng": 128.6594454952,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2766656_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보스턴커피",
+    "desc": "",
+    "address": "대구광역시 동구 방촌로 58"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "본가 안동국시 본점",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8460870775,
+  "lng": 128.622360969,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2849997_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "본가 안동국시 본점",
+    "desc": "",
+    "address": "대구광역시 수성구 희망로 216 (황금동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부바스 본점",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8299556214,
+  "lng": 128.6252056122,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2766666_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부바스 본점",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 152"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부부식당",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.8696609516,
+  "lng": 128.7057779677,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "부부식당",
+    "desc": "",
+    "address": "대구광역시 동구 율하동로24길 31"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "붐비네",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9419459731,
+  "lng": 128.6388707285,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2947382_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "붐비네",
+    "desc": "",
+    "address": "대구광역시 동구 파계로6길 54 (지묘동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "브런치달랏",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9344524918,
+  "lng": 128.6450676145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2856366_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브런치달랏",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로 400-6 (봉무동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블루문",
+  "district": "동구",
+  "category": "양식·세계요리",
+  "lat": 35.9940816508,
+  "lng": 128.634533539,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "블루문",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 685"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "빌리웍스",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.8831989193,
+  "lng": 128.5885490254,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2737074_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빌리웍스",
+    "desc": "",
+    "address": "대구광역시 북구 고성북로10길 41 (고성동3가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사파키친",
+  "district": "동구",
+  "category": "양식·세계요리",
+  "lat": 35.8767337661,
+  "lng": 128.6309038079,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2846163_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사파키친",
+    "desc": "",
+    "address": "대구광역시 동구 동부로34길 10 (신천동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산엘",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7019954858,
+  "lng": 128.4955038986,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2766677_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산엘",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 휴양림길 416"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산중식당",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9901998692,
+  "lng": 128.6944728065,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2851193_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산중식당",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로185길 55 (용수동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "살맛나는집",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8473367803,
+  "lng": 128.6139144558,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2850562_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "살맛나는집",
+    "desc": "",
+    "address": "대구광역시 수성구 희망로 137-1 (중동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "생수정(생수정식당)",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.7182018092,
+  "lng": 128.637149328,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3565524_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "생수정(생수정식당)",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 우록3길 58"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서민갈비",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8307081686,
+  "lng": 128.6173340618,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "서민갈비",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 8-5 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서민수산회",
+  "district": "수성구",
+  "category": "해산물·회",
+  "lat": 35.841050331,
+  "lng": 128.7074702853,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2850520_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서민수산회",
+    "desc": "",
+    "address": "대구광역시 수성구 달구벌대로641길 7 (매호동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "손중헌원조논메기매운탕",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.8671592188,
+  "lng": 128.4456342911,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "손중헌원조논메기매운탕",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 부곡2길 7-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수다레스토랑",
+  "district": "동구",
+  "category": "양식·세계요리",
+  "lat": 35.9910887297,
+  "lng": 128.6983529952,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2856121_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수다레스토랑",
+    "desc": "",
+    "address": "대구광역시 동구 동화사2길 21-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수수밀소",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.906865247,
+  "lng": 128.7151094384,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2846171_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수수밀소",
+    "desc": "",
+    "address": "대구광역시 동구 매여로 320 (상매동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "숨쉬는순두부 본점",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8337550439,
+  "lng": 128.6171923228,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3560865_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "숨쉬는순두부 본점",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 44"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쉬어가는 집",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9115633675,
+  "lng": 128.6423573817,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/1970377_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쉬어가는 집",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로30길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스펠바운드",
+  "district": "수성구",
+  "category": "양식·세계요리",
+  "lat": 35.8248061238,
+  "lng": 128.6208394728,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2737080_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스펠바운드",
+    "desc": "",
+    "address": "대구광역시 수성구 용학로 106-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "슬로우스톤",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.6880054202,
+  "lng": 128.4965847435,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2856238_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "슬로우스톤",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 휴양림길 109"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "승정원한우",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8363769551,
+  "lng": 128.6164145407,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2850500_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "승정원한우",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 73 (상동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시지본카페",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8388476604,
+  "lng": 128.6998043542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3454848_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시지본카페",
+    "desc": "",
+    "address": "대구광역시 수성구 노변로 79 (노변동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신등갈비",
+  "district": "군위군",
+  "category": "고기·구이",
+  "lat": 36.1037474758,
+  "lng": 128.6607781366,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2831972_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신등갈비",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 치산효령로 1414"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신송자 신마산식당",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.8515551649,
+  "lng": 128.5823393416,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2866512_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신송자 신마산식당",
+    "desc": "",
+    "address": "대구광역시 남구 현충로 214"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아눅 앞산",
+  "district": "남구",
+  "category": "카페·베이커리",
+  "lat": 35.8322822149,
+  "lng": 128.5752071716,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2766705_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아눅 앞산",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 459 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아라한참치",
+  "district": "수성구",
+  "category": "일식",
+  "lat": 35.8334606145,
+  "lng": 128.6162229719,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2856321_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아라한참치",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 41 (상동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안심농장직영식육식당",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.8757250806,
+  "lng": 128.7557345127,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2866268_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안심농장직영식육식당",
+    "desc": "",
+    "address": "대구광역시 동구 대경로 1 (숙천동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "앙뜨레누보",
+  "district": "수성구",
+  "category": "양식·세계요리",
+  "lat": 35.827317012,
+  "lng": 128.6241696658,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2850485_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앙뜨레누보",
+    "desc": "",
+    "address": "대구광역시 수성구 수성못6길 20 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "앞산 큰골집",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.8375983348,
+  "lng": 128.5781956503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2840357_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앞산 큰골집",
+    "desc": "",
+    "address": "대구광역시 남구 큰골길 35 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "앞산분식",
+  "district": "남구",
+  "category": "분식·주점",
+  "lat": 35.832484835,
+  "lng": 128.5678911439,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2766716_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앞산분식",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 383-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "앞산울진대게 본점",
+  "district": "남구",
+  "category": "해산물·회",
+  "lat": 35.8333906162,
+  "lng": 128.5857395466,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2841619_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앞산울진대게 본점",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 559-1 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "양곱화",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8370879995,
+  "lng": 128.6171561221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2766725_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "양곱화",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 80 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에녹커피",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.894584791,
+  "lng": 128.64540481,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2846179_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에녹커피",
+    "desc": "",
+    "address": "대구광역시 동구 아양로 344 (입석동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "엔엘리오",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7337350378,
+  "lng": 128.4240982,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2850419_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엔엘리오",
+    "desc": "",
+    "address": "대구광역시 달성군 논공읍 비슬로 1139"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "연화식당",
+  "district": "군위군",
+  "category": "한식·백반",
+  "lat": 36.2409662474,
+  "lng": 128.5667020197,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2831982_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연화식당",
+    "desc": "",
+    "address": "대구광역시 군위군 중앙6길 19-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오늘잡은소 대구칠곡점",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.9489551044,
+  "lng": 128.5747261887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2840637_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오늘잡은소 대구칠곡점",
+    "desc": "",
+    "address": "대구광역시 북구 구리로 183-8 (국우동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오마모리",
+  "district": "남구",
+  "category": "카페·베이커리",
+  "lat": 35.8359873718,
+  "lng": 128.5763236372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2850320_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오마모리",
+    "desc": "",
+    "address": "대구광역시 남구 대명남로 167"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오퐁드부아",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7524614839,
+  "lng": 128.6184944645,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2856251_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오퐁드부아",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 주리2길 104"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "온기정",
+  "district": "수성구",
+  "category": "일식",
+  "lat": 35.8276558471,
+  "lng": 128.6233141757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2856350_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온기정",
+    "desc": "",
+    "address": "대구광역시 수성구 수성못6길 9 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "온더레일",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7554116051,
+  "lng": 128.6431977662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2846056_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온더레일",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창로93길 52"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕거미식당",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.8685509128,
+  "lng": 128.6067422748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2844048_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕거미식당",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로 696-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용지봉",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8306137137,
+  "lng": 128.6161897207,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "용지봉",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우니카트",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8605159932,
+  "lng": 128.6220022658,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2866310_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "우니카트",
+    "desc": "",
+    "address": "대구광역시 수성구 범어천로 151-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우사랑한우마을",
+  "district": "군위군",
+  "category": "고기·구이",
+  "lat": 36.246046163,
+  "lng": 128.5633466171,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2831998_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우사랑한우마을",
+    "desc": "",
+    "address": "대구광역시 군위군 도군로 2645"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우연1972",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.847650867,
+  "lng": 128.626607774,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2850471_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우연1972",
+    "desc": "",
+    "address": "대구광역시 수성구 동대구로38길 33 (황금동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "울진왕돌참가자미회",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8414234891,
+  "lng": 128.6100538487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2866317_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울진왕돌참가자미회",
+    "desc": "",
+    "address": "대구광역시 수성구 청수로3길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "울진참가자미",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8564885763,
+  "lng": 128.6168556088,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2846293_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울진참가자미",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 297 (수성동2가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원대덕골민물장어",
+  "district": "남구",
+  "category": "해산물·회",
+  "lat": 35.8319405042,
+  "lng": 128.5707075777,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2845818_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원대덕골민물장어",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 409 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조아삼겹 본점",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8679849568,
+  "lng": 128.6417253208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2856369_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조아삼겹 본점",
+    "desc": "",
+    "address": "대구광역시 수성구 만촌로 105 (만촌동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유가제빵소",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.6729841578,
+  "lng": 128.4562192616,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2856272_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유가제빵소",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 테크노중앙대로1길 35"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유진찜갈비",
+  "district": "중구",
+  "category": "고기·구이",
+  "lat": 35.8711005902,
+  "lng": 128.604884034,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유진찜갈비",
+    "desc": "",
+    "address": "대구광역시 중구 동덕로36길 9-13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유창반점",
+  "district": "중구",
+  "category": "중식",
+  "lat": 35.864520481,
+  "lng": 128.5886856442,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2751799_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유창반점",
+    "desc": "",
+    "address": "대구광역시 중구 명륜로 20 (남산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "윤옥연할매떡볶이 본점",
+  "district": "수성구",
+  "category": "분식·주점",
+  "lat": 35.8645487783,
+  "lng": 128.6170525892,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2729279_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "윤옥연할매떡볶이 본점",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로77길 11 (수성동4가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이모식당",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.8722779032,
+  "lng": 128.5869133625,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2866177_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이모식당",
+    "desc": "",
+    "address": "대구광역시 중구 서성로13길 9 (서성로1가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이상근의삼거리오징어회타운",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.9360675298,
+  "lng": 128.5668300222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2840671_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이상근의삼거리오징어회타운",
+    "desc": "",
+    "address": "대구광역시 북구 구암로 280 (구암동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이향",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8296483312,
+  "lng": 128.6798202577,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2866102_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이향",
+    "desc": "",
+    "address": "대구광역시 수성구 월드컵로5안길 17-3 (삼덕동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "인스퍼레이션디 동촌유원지",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.8832972478,
+  "lng": 128.6490909113,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2856177_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인스퍼레이션디 동촌유원지",
+    "desc": "",
+    "address": "대구광역시 동구 효동로6길 57 (효목동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자연충만",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7828814807,
+  "lng": 128.5334538837,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2856285_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자연충만",
+    "desc": "",
+    "address": "대구광역시 달성군 마비정길 163"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전농부의 풀꽃밥상",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9766085523,
+  "lng": 128.6302566279,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2846189_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전농부의 풀꽃밥상",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 497 (중대동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정미네식당",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.7474025439,
+  "lng": 128.5544224632,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2742217_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정미네식당",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 헐티로2길 26"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제니아빈",
+  "district": "달서구",
+  "category": "카페·베이커리",
+  "lat": 35.8358719241,
+  "lng": 128.4908061747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2856254_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제니아빈",
+    "desc": "",
+    "address": "대구광역시 달서구 성서공단로15길 10 (호림동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "조조칼국수 본점",
+  "district": "수성구",
+  "category": "면·국물",
+  "lat": 35.8663793741,
+  "lng": 128.6304569136,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2846301_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조조칼국수 본점",
+    "desc": "",
+    "address": "대구광역시 수성구 국채보상로 912 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중앙떡볶이",
+  "district": "중구",
+  "category": "분식·주점",
+  "lat": 35.8695145125,
+  "lng": 128.5969625542,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "중앙떡볶이",
+    "desc": "",
+    "address": "대구광역시 중구 동성로2길 81"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지산골가마솥국밥",
+  "district": "수성구",
+  "category": "면·국물",
+  "lat": 35.8461341244,
+  "lng": 128.6131728884,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지산골가마솥국밥",
+    "desc": "",
+    "address": "대구광역시 수성구 수성로 232"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지오네 키친",
+  "district": "남구",
+  "category": "양식·세계요리",
+  "lat": 35.8347264603,
+  "lng": 128.5794289544,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2856205_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지오네 키친",
+    "desc": "",
+    "address": "대구광역시 남구 현충로 21 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진미식육식당",
+  "district": "서구",
+  "category": "한식·백반",
+  "lat": 35.8831320664,
+  "lng": 128.5780638401,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2850576_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진미식육식당",
+    "desc": "",
+    "address": "대구광역시 서구 달서천로83길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진해숯불막창",
+  "district": "남구",
+  "category": "고기·구이",
+  "lat": 35.8570905037,
+  "lng": 128.5744259964,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2866503_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진해숯불막창",
+    "desc": "",
+    "address": "대구광역시 남구 성당로 272 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진흥반점",
+  "district": "남구",
+  "category": "중식",
+  "lat": 35.8548384618,
+  "lng": 128.6005265373,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "진흥반점",
+    "desc": "",
+    "address": "대구광역시 남구 이천로28길 43-2 (이천동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "집밥아미정",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.905730162,
+  "lng": 128.6135184197,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "집밥아미정",
+    "desc": "",
+    "address": "대구광역시 북구 유통단지로8길 80"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쭈꾸미네",
+  "district": "동구",
+  "category": "해산물·회",
+  "lat": 35.8822723636,
+  "lng": 128.6490603872,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2846204_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쭈꾸미네",
+    "desc": "",
+    "address": "대구광역시 동구 효동로6길 43 (효목동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "천연애",
+  "district": "달서구",
+  "category": "한식·백반",
+  "lat": 35.8277379879,
+  "lng": 128.559086495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2866602_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천연애",
+    "desc": "",
+    "address": "대구광역시 달서구 앞산순환로 289"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청담동",
+  "district": "수성구",
+  "category": "한식·백반",
+  "lat": 35.8629189414,
+  "lng": 128.6459639772,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2850431_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청담동",
+    "desc": "",
+    "address": "대구광역시 수성구 만촌로8길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청담한상",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.8801226833,
+  "lng": 128.6532156366,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3450180_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청담한상",
+    "desc": "",
+    "address": "대구광역시 동구 효동로2길 45 (효목동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청도돼지국밥",
+  "district": "남구",
+  "category": "고기·구이",
+  "lat": 35.8447479981,
+  "lng": 128.6038404148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2845841_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청도돼지국밥",
+    "desc": "",
+    "address": "대구광역시 남구 대봉로 65 (봉덕동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청통한우식육식당",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8325969133,
+  "lng": 128.6210531264,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2846313_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청통한우식육식당",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로21길 56 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "초이스엠",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9929286227,
+  "lng": 128.6139492759,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2856053_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "초이스엠",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 260 (덕곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "촉향원",
+  "district": "달서구",
+  "category": "중식",
+  "lat": 35.8520429215,
+  "lng": 128.5238361487,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "촉향원",
+    "desc": "",
+    "address": "대구광역시 달서구 달구벌대로291길 71-20 (장기동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "칠성동할매콩국수",
+  "district": "북구",
+  "category": "면·국물",
+  "lat": 35.8887592528,
+  "lng": 128.580530133,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "칠성동할매콩국수",
+    "desc": "",
+    "address": "대구광역시 북구 침산남로 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카르멜",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.8501472812,
+  "lng": 128.4469735323,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2841792_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카르멜",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 달구벌대로 616"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 엠엔티",
+  "district": "달서구",
+  "category": "카페·베이커리",
+  "lat": 35.8231212354,
+  "lng": 128.5259950934,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2846014_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 엠엔티",
+    "desc": "",
+    "address": "대구광역시 달서구 조암남로14길 52-2 (월성동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페공가",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7579891481,
+  "lng": 128.6462585357,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2841814_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페공가",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 주리1길 52-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페담",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7149913256,
+  "lng": 128.5002114597,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2742226_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페담",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 유가사2길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페댐댐",
+  "district": "군위군",
+  "category": "카페·베이커리",
+  "lat": 36.1233061006,
+  "lng": 128.7954573601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2832014_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페댐댐",
+    "desc": "",
+    "address": "대구광역시 군위군 삼국유사로 438-16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페멜트",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.9000365704,
+  "lng": 128.6247981393,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2840689_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페멜트",
+    "desc": "",
+    "address": "대구광역시 북구 공항로 89"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페스톤",
+  "district": "군위군",
+  "category": "카페·베이커리",
+  "lat": 36.0299191839,
+  "lng": 128.6307495338,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2832021_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페스톤",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 한티로 1525-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카펠라",
+  "district": "남구",
+  "category": "카페·베이커리",
+  "lat": 35.8316128248,
+  "lng": 128.5740434042,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2856218_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카펠라",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 449 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커들포드",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9593650086,
+  "lng": 128.7232600252,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2856222_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커들포드",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로 1334"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피로드333",
+  "district": "달성군",
+  "category": "카페·베이커리",
+  "lat": 35.7009312722,
+  "lng": 128.471136627,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2846073_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커피로드333",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 현풍로 268"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피명가 라핀카",
+  "district": "수성구",
+  "category": "카페·베이커리",
+  "lat": 35.8676626453,
+  "lng": 128.6349148183,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "커피명가 라핀카",
+    "desc": "",
+    "address": "대구광역시 수성구 국채보상로 953-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쿄우다이",
+  "district": "달서구",
+  "category": "일식",
+  "lat": 35.8158084062,
+  "lng": 128.5386441821,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2856279_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쿄우다이",
+    "desc": "",
+    "address": "대구광역시 달서구 월배로46길 72 (상인동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "퀸즈크라운베이커리카페",
+  "district": "서구",
+  "category": "카페·베이커리",
+  "lat": 35.8685638593,
+  "lng": 128.5556439989,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2766734_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "퀸즈크라운베이커리카페",
+    "desc": "",
+    "address": "대구광역시 서구 서대구로 118 (평리동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "큰기와집",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9842686756,
+  "lng": 128.6237986495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2744689_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큰기와집",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로 106 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "큰나무집",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.733678252,
+  "lng": 128.6595858168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2738237_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큰나무집",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 우록길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "킹콩갤러리카페",
+  "district": "달서구",
+  "category": "카페·베이커리",
+  "lat": 35.8028706104,
+  "lng": 128.5184185438,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3455385_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "킹콩갤러리카페",
+    "desc": "",
+    "address": "대구광역시 달서구 화암로 322 (대곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "탑골식당",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9912775903,
+  "lng": 128.6980057983,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2856229_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "탑골식당",
+    "desc": "",
+    "address": "대구광역시 동구 동화사2길 21-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "태능집",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.8743998825,
+  "lng": 128.5867605389,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2774917_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태능집",
+    "desc": "",
+    "address": "대구광역시 중구 달성로22길 86"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "트리팜",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9859184512,
+  "lng": 128.6218015576,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2856245_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트리팜",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로 133 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "티아이티에프",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9882833871,
+  "lng": 128.6927119045,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2855990_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "티아이티에프",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 1169 (용수동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "팔공노을",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9842492535,
+  "lng": 128.6248846664,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2737058_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공노을",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로 98-1 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "팔공산 닭갈비",
+  "district": "동구",
+  "category": "고기·구이",
+  "lat": 35.9477452707,
+  "lng": 128.6364291145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2866279_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공산 닭갈비",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 154-8 (지묘동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "팔공산맥",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.9253294932,
+  "lng": 128.5470348452,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2866204_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공산맥",
+    "desc": "",
+    "address": "대구광역시 북구 칠곡중앙대로 329 (태전동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "팔공산장작구이",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9831049706,
+  "lng": 128.6265845482,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2737025_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공산장작구이",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로 82 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "푸나왈라",
+  "district": "수성구",
+  "category": "양식·세계요리",
+  "lat": 35.8259282468,
+  "lng": 128.6223615297,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2846327_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "푸나왈라",
+    "desc": "",
+    "address": "대구광역시 수성구 수성못2길 3 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "푸른회식당",
+  "district": "서구",
+  "category": "양식·세계요리",
+  "lat": 35.8623203882,
+  "lng": 128.5701651148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2738267_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "푸른회식당",
+    "desc": "",
+    "address": "대구광역시 서구 달구벌대로375길 14-1 (내당동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "푸주옥설렁탕",
+  "district": "달서구",
+  "category": "면·국물",
+  "lat": 35.8605899946,
+  "lng": 128.5682847731,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2866461_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "푸주옥설렁탕",
+    "desc": "",
+    "address": "대구광역시 달서구 달구벌대로 1860"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하늘천따지 본점",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9855407182,
+  "lng": 128.6218598966,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2738290_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하늘천따지 본점",
+    "desc": "",
+    "address": "대구광역시 동구 서촌로 129 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하롱베이",
+  "district": "수성구",
+  "category": "양식·세계요리",
+  "lat": 35.8302971384,
+  "lng": 128.6191922428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2866139_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하롱베이",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 97 (두산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하얀집",
+  "district": "달성군",
+  "category": "한식·백반",
+  "lat": 35.7818474976,
+  "lng": 128.642760959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2841831_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하얀집",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창로155길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하이브",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9884628656,
+  "lng": 128.635728036,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2856265_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "하이브",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 653"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한밤황토집",
+  "district": "군위군",
+  "category": "한식·백반",
+  "lat": 36.0647323179,
+  "lng": 128.6531882403,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2832069_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한밤황토집",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 한밤8길 46-55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한옥집김치찜",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.8692894854,
+  "lng": 128.5941294765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2926632_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한옥집김치찜",
+    "desc": "",
+    "address": "대구광역시 중구 중앙대로 404-3 (남일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한우오마카세 더우",
+  "district": "수성구",
+  "category": "고기·구이",
+  "lat": 35.8588439327,
+  "lng": 128.6205191096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2850398_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한우오마카세 더우",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로64길 49 (수성동3가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해금강",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.8846911299,
+  "lng": 128.6271928016,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해금강",
+    "desc": "",
+    "address": "대구광역시 동구 신암남로 133"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "햇님베이커리",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.8663339279,
+  "lng": 128.5758617236,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2630296_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "햇님베이커리",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로389길 70 (대신동, 협화아파트)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "헤이마",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.9820996864,
+  "lng": 128.6351282671,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2839967_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "헤이마",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 583 (중대동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "현짬뽕",
+  "district": "남구",
+  "category": "중식",
+  "lat": 35.8538719483,
+  "lng": 128.6029041326,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2845858_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현짬뽕",
+    "desc": "",
+    "address": "대구광역시 남구 대봉로 170 (이천동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호남원조식당",
+  "district": "서구",
+  "category": "한식·백반",
+  "lat": 35.8630064378,
+  "lng": 128.5710233535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3577726_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호남원조식당",
+    "desc": "",
+    "address": "대구광역시 서구 달구벌대로375길 26-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호어모아",
+  "district": "남구",
+  "category": "양식·세계요리",
+  "lat": 35.833101388,
+  "lng": 128.5654885606,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2842753_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호어모아",
+    "desc": "",
+    "address": "대구광역시 남구 안지랑로5길 88 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "홍구원",
+  "district": "달성군",
+  "category": "중식",
+  "lat": 35.7895242941,
+  "lng": 128.6366279526,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2866635_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍구원",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창로176길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황토시골집",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.9840383766,
+  "lng": 128.6362170054,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "황토시골집",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 604 (중대동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "후꾸스시",
+  "district": "수성구",
+  "category": "일식",
+  "lat": 35.8381380787,
+  "lng": 128.6278940369,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2766735_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "후꾸스시",
+    "desc": "",
+    "address": "대구광역시 수성구 동대구로20길 66 (지산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "힛또",
+  "district": "중구",
+  "category": "일식",
+  "lat": 35.8558384563,
+  "lng": 128.606364884,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2674784_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "힛또",
+    "desc": "",
+    "address": "대구광역시 중구 명덕로 333"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "24시교동촌콩나물해장국밥",
+  "district": "북구",
+  "category": "면·국물",
+  "lat": 35.9252127729,
+  "lng": 128.5434101683,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "24시교동촌콩나물해장국밥",
+    "desc": "",
+    "address": "대구광역시 북구 태전로 55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]광명반점",
+  "district": "북구",
+  "category": "중식",
+  "lat": 35.8791550867,
+  "lng": 128.5969206224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2630283_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]광명반점",
+    "desc": "",
+    "address": "대구광역시 북구 칠성로 70-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]밀밭베이커리",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.8705116156,
+  "lng": 128.5966181119,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2609794_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]밀밭베이커리",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로 602-1 (문화동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]참깨국수",
+  "district": "수성구",
+  "category": "면·국물",
+  "lat": 35.8330525192,
+  "lng": 128.6265887376,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2630286_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]참깨국수",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로31길 55"
+   }
+  }
+ }
+]

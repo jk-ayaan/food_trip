@@ -1,0 +1,665 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "강경대흥시장",
+  "district": "논산시",
+  "category": "5일장",
+  "lat": 36.1555869215,
+  "lng": 127.0129759676,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2913824_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강경대흥시장",
+    "desc": "",
+    "address": "충청남도 논산시 계백로105번길 8-4"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강경젓갈시장",
+  "district": "논산시",
+  "category": "상설시장",
+  "lat": 36.1597837058,
+  "lng": 127.0153645321,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3577026_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강경젓갈시장",
+    "desc": "",
+    "address": "충청남도 논산시 강경읍 옥녀봉로27번길 30-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "공주산성시장",
+  "district": "공주시",
+  "category": "상설시장",
+  "lat": 36.4588624574,
+  "lng": 127.1226274895,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3534915_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "공주산성시장",
+    "desc": "",
+    "address": "충청남도 공주시 용당길 22 (산성동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광천전통시장",
+  "district": "홍성군",
+  "category": "5일장",
+  "lat": 36.5006767661,
+  "lng": 126.6249711176,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "광천전통시장",
+    "desc": "",
+    "address": "충청남도 홍성군 광천읍 광천로285번길 8-16"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "금산국제인삼시장",
+  "district": "금산군",
+  "category": "상설시장",
+  "lat": 36.1010849971,
+  "lng": 127.4982091068,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3559573_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금산국제인삼시장",
+    "desc": "",
+    "address": "충청남도 금산군 금산읍 인삼약초로 45"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "금산인삼약령시장",
+  "district": "금산군",
+  "category": "상설시장",
+  "lat": 36.1000934111,
+  "lng": 127.4963759631,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3045152_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "금산인삼약령시장",
+    "desc": "",
+    "address": "충청남도 금산군 금산읍 인삼약초로 24"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "논산화지중앙시장",
+  "district": "논산시",
+  "category": "상설시장",
+  "lat": 36.2086321138,
+  "lng": 127.0850264488,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2772064_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "논산화지중앙시장",
+    "desc": "",
+    "address": "충청남도 논산시 대화로 78"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "농부마켓 & 농부밥상",
+  "district": "청양군",
+  "category": "전문매장",
+  "lat": 36.4385461196,
+  "lng": 126.8493997933,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3047163_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "농부마켓 & 농부밥상",
+    "desc": "",
+    "address": "충청남도 청양군 대치면 칠갑산로 704-18"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "당진시 수산물 유통센터",
+  "district": "당진시",
+  "category": "전문매장",
+  "lat": 37.0352362128,
+  "lng": 126.5589961101,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3567483_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당진시 수산물 유통센터",
+    "desc": "",
+    "address": "충청남도 당진시 석문면 장고항로 334-48"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대천항수산시장",
+  "district": "보령시",
+  "category": "상설시장",
+  "lat": 36.3265031054,
+  "lng": 126.5088667017,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2751174_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "대천항수산시장",
+    "desc": "",
+    "address": "충청남도 보령시 대천항로 334"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "만세장터 봉사회",
+  "district": "부여군",
+  "category": "특산물판매점",
+  "lat": 36.1898670059,
+  "lng": 126.8915331555,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "만세장터 봉사회",
+    "desc": "",
+    "address": "충청남도 부여군 임천면 성흥로88번길 10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "모항항수산물직판장",
+  "district": "태안군",
+  "category": "전문매장",
+  "lat": 36.7765976657,
+  "lng": 126.1325972524,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2791424_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모항항수산물직판장",
+    "desc": "",
+    "address": "충청남도 태안군 소원면 모항항길 122-44"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "몽산포어촌계수산물판매장",
+  "district": "태안군",
+  "category": "전문매장",
+  "lat": 36.6721093464,
+  "lng": 126.2737872006,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3561989_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "몽산포어촌계수산물판매장",
+    "desc": "",
+    "address": "충청남도 태안군 남면 몽대로 495-26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "백사장 어촌계 수산시장",
+  "district": "태안군",
+  "category": "상설시장",
+  "lat": 36.5852395091,
+  "lng": 126.3153773847,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "백사장 어촌계 수산시장",
+    "desc": "",
+    "address": "충청남도 태안군 안면읍 백사장1길 126"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "밸리피싱",
+  "district": "논산시",
+  "category": "전문매장",
+  "lat": 36.1748851637,
+  "lng": 127.1976450565,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3035116_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "밸리피싱",
+    "desc": "",
+    "address": "충청남도 논산시 가야곡면 병암리"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "보령중앙시장",
+  "district": "보령시",
+  "category": "5일장",
+  "lat": 36.3509517421,
+  "lng": 126.5930584887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2751204_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보령중앙시장",
+    "desc": "",
+    "address": "충청남도 보령시 중앙시장2길 9 (대천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부여 중앙시장",
+  "district": "부여군",
+  "category": "상설시장",
+  "lat": 36.2808402864,
+  "lng": 126.9121900121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3038924_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부여 중앙시장",
+    "desc": "",
+    "address": "충청남도 부여군 부여읍 중앙로 15"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부여장 (5, 10일)",
+  "district": "부여군",
+  "category": "5일장",
+  "lat": 36.2814762458,
+  "lng": 126.9076348477,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/1963357_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부여장 (5, 10일)",
+    "desc": "",
+    "address": "충청남도 부여군 부여읍 성왕로173번길 12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼길포 선상어시장",
+  "district": "서산시",
+  "category": "상설시장",
+  "lat": 37.0044879178,
+  "lng": 126.4523038477,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3531410_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼길포 선상어시장",
+    "desc": "",
+    "address": "충청남도 서산시 대산읍 화곡리 1891"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삽교호수산물특화시장",
+  "district": "당진시",
+  "category": "상설시장",
+  "lat": 36.8885855614,
+  "lng": 126.8238705388,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3567499_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삽교호수산물특화시장",
+    "desc": "",
+    "address": "충청남도 당진시 신평면 삽교천길 101-10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서산동부전통시장",
+  "district": "서산시",
+  "category": "상설시장",
+  "lat": 36.7825997186,
+  "lng": 126.4556067097,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3560024_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서산동부전통시장",
+    "desc": "",
+    "address": "충청남도 서산시 시장3길 7-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "성환이화시장 (1, 6일)",
+  "district": "천안시",
+  "category": "5일장",
+  "lat": 36.9185264075,
+  "lng": 127.1300087284,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3067395_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성환이화시장 (1, 6일)",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 성환읍 성환시장길 12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신진도 수산시장",
+  "district": "태안군",
+  "category": "상설시장",
+  "lat": 36.6737123689,
+  "lng": 126.1355774525,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2786367_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신진도 수산시장",
+    "desc": "",
+    "address": "충청남도 태안군 근흥면 마도길 10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "안면도수산시장",
+  "district": "태안군",
+  "category": "상설시장",
+  "lat": 36.5164035099,
+  "lng": 126.346018085,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2786380_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안면도수산시장",
+    "desc": "",
+    "address": "충청남도 태안군 안면읍 장터로 104"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "예산시장 (5, 10일)",
+  "district": "예산군",
+  "category": "5일장",
+  "lat": 36.6770215002,
+  "lng": 126.8496850467,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "예산시장 (5, 10일)",
+    "desc": "",
+    "address": "충청남도 예산군 예산읍 예산시장길 2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "온양온천시장",
+  "district": "아산시",
+  "category": "5일장",
+  "lat": 36.7833480876,
+  "lng": 127.0043015565,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3060070_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온양온천시장",
+    "desc": "",
+    "address": "충청남도 아산시 시장길 29"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "장항장 (3, 8일)",
+  "district": "서천군",
+  "category": "5일장",
+  "lat": 36.0156057568,
+  "lng": 126.6945386791,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3047099_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장항장 (3, 8일)",
+    "desc": "",
+    "address": "충청남도 서천군 장항읍 성화로 104"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "전통예산옹기",
+  "district": "예산군",
+  "category": "공예·공방",
+  "lat": 36.7156273447,
+  "lng": 126.8025549241,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/1963380_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전통예산옹기",
+    "desc": "",
+    "address": "충청남도 예산군 오가면 오촌중앙길 106"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "정산시장",
+  "district": "청양군",
+  "category": "5일장",
+  "lat": 36.4105593807,
+  "lng": 126.9480277907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3531528_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정산시장",
+    "desc": "",
+    "address": "충청남도 청양군 정산면 정현길 54"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "천안 중앙시장",
+  "district": "천안시",
+  "category": "상설시장",
+  "lat": 36.8007708712,
+  "lng": 127.1493185623,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "천안 중앙시장",
+    "desc": "",
+    "address": "충청남도 천안시 동남구 사직로 7"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "천안시농수산물도매시장",
+  "district": "천안시",
+  "category": "상설시장",
+  "lat": 36.8604834698,
+  "lng": 127.1510278771,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3561297_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천안시농수산물도매시장",
+    "desc": "",
+    "address": "충청남도 천안시 서북구 천안대로 1341"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "천안역전시장",
+  "district": "천안시",
+  "category": "상설시장",
+  "lat": 36.8099559179,
+  "lng": 127.1489239011,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2762945_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천안역전시장",
+    "desc": "",
+    "address": "충청남도 천안시 동남구 공설시장1길 9 (대흥동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청양장 (2, 7일)",
+  "district": "청양군",
+  "category": "5일장",
+  "lat": 36.4505466821,
+  "lng": 126.8011621441,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청양장 (2, 7일)",
+    "desc": "",
+    "address": "충청남도 청양군 청양읍 칠갑산로4길 6"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "태안 서부시장",
+  "district": "태안군",
+  "category": "상설시장",
+  "lat": 36.7533364723,
+  "lng": 126.2962663604,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3454765_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태안 서부시장",
+    "desc": "",
+    "address": "충청남도 태안군 태안읍 시장1길 34"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "태안동부시장(태안상설시장)",
+  "district": "태안군",
+  "category": "상설시장",
+  "lat": 36.7514061773,
+  "lng": 126.2984800994,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2763646_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태안동부시장(태안상설시장)",
+    "desc": "",
+    "address": "충청남도 태안군 태안읍 시장4길 18"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한산5일장 (1, 6일)",
+  "district": "서천군",
+  "category": "5일장",
+  "lat": 36.0844553324,
+  "lng": 126.8044659387,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/1163374_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한산5일장 (1, 6일)",
+    "desc": "",
+    "address": "충청남도 서천군 한산면 충절로1173번길 21-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "합덕장 (1, 6일)",
+  "district": "당진시",
+  "category": "5일장",
+  "lat": 36.8062997099,
+  "lng": 126.7726885074,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3559939_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "합덕장 (1, 6일)",
+    "desc": "",
+    "address": "충청남도 당진시 합덕읍 버그내2길 128-25"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "해옥공예",
+  "district": "태안군",
+  "category": "공예·공방",
+  "lat": 36.7361496315,
+  "lng": 126.1369090325,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3340525_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해옥공예",
+    "desc": "",
+    "address": "충청남도 태안군 소원면 파도리"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "히흣 도예공방",
+  "district": "천안시",
+  "category": "공예·공방",
+  "lat": 36.8167412775,
+  "lng": 127.150590231,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "히흣 도예공방",
+    "desc": "",
+    "address": "충청남도 천안시 동남구 대흥로 323"
+   }
+  }
+ }
+]

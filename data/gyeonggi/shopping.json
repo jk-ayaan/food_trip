@@ -1,0 +1,1702 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "가래비시장(가납시장)",
+  "district": "양주시",
+  "category": "상설시장",
+  "lat": 37.8238327341,
+  "lng": 126.9841492836,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2748271_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가래비시장(가납시장)",
+    "desc": "",
+    "address": "경기도 양주시 광적면 가납리 738-29"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "가평 잣고을 전통시장",
+  "district": "가평군",
+  "category": "상설시장",
+  "lat": 37.8299194893,
+  "lng": 127.5147006795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3510791_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가평 잣고을 전통시장",
+    "desc": "",
+    "address": "경기도 가평군 가평읍 장터2길 10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강남시장(부천)",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.5072742799,
+  "lng": 126.7813212204,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3554805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강남시장(부천)",
+    "desc": "",
+    "address": "경기도 부천시 원미구 옥산로154번길 20 (도당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "경기 안성장(2, 7일)",
+  "district": "안성시",
+  "category": "5일장",
+  "lat": 37.0066798606,
+  "lng": 127.270368613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3047957_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "경기 안성장(2, 7일)",
+    "desc": "",
+    "address": "경기도 안성시 시장길 37 (서인동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "경안시장",
+  "district": "광주시",
+  "category": "상설시장",
+  "lat": 37.4093830634,
+  "lng": 127.2572612381,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2739106_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경안시장",
+    "desc": "",
+    "address": "경기도 광주시 경안로25번길 10-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "고리울동굴시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.5258978519,
+  "lng": 126.8227141461,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3554797_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고리울동굴시장",
+    "desc": "",
+    "address": "경기도 부천시 오정구 고리울로64번길 27 (고강동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광명새마을시장",
+  "district": "광명시",
+  "category": "상설시장",
+  "lat": 37.4743293158,
+  "lng": 126.8492326199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3475705_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "광명새마을시장",
+    "desc": "",
+    "address": "경기도 광명시 광명로831번길 24 (광명동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광명전통시장",
+  "district": "광명시",
+  "category": "상설시장",
+  "lat": 37.4799343436,
+  "lng": 126.8561512766,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/1978519_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광명전통시장",
+    "desc": "",
+    "address": "경기도 광명시 광이로13번길 17-5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "궁평항수산물직판장",
+  "district": "화성시",
+  "category": "전문매장",
+  "lat": 37.1154040748,
+  "lng": 126.6813494895,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3539943_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "궁평항수산물직판장",
+    "desc": "",
+    "address": "경기도 화성시 서신면 궁평항로 1049-24"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "금촌통일시장",
+  "district": "파주시",
+  "category": "5일장",
+  "lat": 37.7628666172,
+  "lng": 126.7736813865,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "금촌통일시장",
+    "desc": "",
+    "address": "경기도 파주시 금정24길 17 (금촌동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "김포로컬푸드",
+  "district": "김포시",
+  "category": "전문매장",
+  "lat": 37.6491882397,
+  "lng": 126.6199236545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2396916_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김포로컬푸드",
+    "desc": "",
+    "address": "경기도 김포시 양촌읍 구래로26번길 65-20"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "김포장 (2, 7일)",
+  "district": "김포시",
+  "category": "5일장",
+  "lat": 37.6274979496,
+  "lng": 126.7117658665,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2926690_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김포장 (2, 7일)",
+    "desc": "",
+    "address": "경기도 김포시 김포대로 955 (북변동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남문로데오시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2747526512,
+  "lng": 127.0155897457,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2753539_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남문로데오시장",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 행궁로 88 (교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남사화훼집하장",
+  "district": "용인시",
+  "category": "전문매장",
+  "lat": 37.104046772,
+  "lng": 127.136100256,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2760012_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남사화훼집하장",
+    "desc": "",
+    "address": "경기도 용인시 처인구 남사읍 천덕산로 304"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남양시장",
+  "district": "화성시",
+  "category": "5일장",
+  "lat": 37.2091761558,
+  "lng": 126.8166235196,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2783156_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남양시장",
+    "desc": "",
+    "address": "경기도 화성시 남양읍 남양리 1165-36"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대명항수산물직판장",
+  "district": "김포시",
+  "category": "특산물판매점",
+  "lat": 37.6393907775,
+  "lng": 126.5417088614,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대명항수산물직판장",
+    "desc": "",
+    "address": "경기도 김포시 대곶면 대명항1로 109"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "덕이동 로데오거리",
+  "district": "고양시",
+  "category": "쇼핑",
+  "lat": 37.6929522245,
+  "lng": 126.7559238761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3551185_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕이동 로데오거리",
+    "desc": "",
+    "address": "경기도 고양시 일산서구 탄중로101번길 13 (덕이동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "덕풍전통시장",
+  "district": "하남시",
+  "category": "상설시장",
+  "lat": 37.5419278283,
+  "lng": 127.2035928932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2770800_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕풍전통시장",
+    "desc": "",
+    "address": "경기도 하남시 신장로154번길 57"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "도일시장(3일,8일)",
+  "district": "시흥시",
+  "category": "5일장",
+  "lat": 37.3395938098,
+  "lng": 126.7847478051,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2748743_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "도일시장(3일,8일)",
+    "desc": "",
+    "address": "경기도 시흥시 도일로102번길 8-1 (거모동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "돌고래시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.3709184251,
+  "lng": 127.1225301146,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2932373_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돌고래시장",
+    "desc": "",
+    "address": "경기도 성남시 분당구 내정로174번길 42 (수내동, 파크타운서안아파트)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동두천큰시장(0,5일)",
+  "district": "동두천시",
+  "category": "5일장",
+  "lat": 37.9005472405,
+  "lng": 127.0520908607,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2736453_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동두천큰시장(0,5일)",
+    "desc": "",
+    "address": "경기도 동두천시 큰시장로 52 (생연동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "라페스타(Lafesta)",
+  "district": "고양시",
+  "category": "쇼핑",
+  "lat": 37.6618866056,
+  "lng": 126.7675570226,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3466606_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "라페스타(Lafesta)",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 무궁화로 20-11 (장항동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데프리미엄아울렛 기흥점",
+  "district": "용인시",
+  "category": "전문매장",
+  "lat": 37.2254213563,
+  "lng": 127.1209287945,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3085092_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "롯데프리미엄아울렛 기흥점",
+    "desc": "",
+    "address": "경기도 용인시 기흥구 신고매로 124 (고매동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데프리미엄아울렛 파주점",
+  "district": "파주시",
+  "category": "전문매장",
+  "lat": 37.7178732145,
+  "lng": 126.6937760801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3091018_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데프리미엄아울렛 파주점",
+    "desc": "",
+    "address": "경기도 파주시 회동길 390 (문발동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "리빙파워센터",
+  "district": "용인시",
+  "category": "전문매장",
+  "lat": 37.2234659076,
+  "lng": 127.1142627868,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2756897_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리빙파워센터",
+    "desc": "",
+    "address": "경기도 용인시 기흥구 신고매로 59 (고매동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마도농산물재래시장",
+  "district": "화성시",
+  "category": "상설시장",
+  "lat": 37.2067201787,
+  "lng": 126.7766438845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2780361_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마도농산물재래시장",
+    "desc": "",
+    "address": "경기도 화성시 마도면 화성로790번길 14"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마석 5일장(3, 8일)",
+  "district": "남양주시",
+  "category": "5일장",
+  "lat": 37.6544332815,
+  "lng": 127.3056387129,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3404749_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "마석 5일장(3, 8일)",
+    "desc": "",
+    "address": "경기도 남양주시 화도읍 마석로17번길 26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "매산시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2643869718,
+  "lng": 127.0036383424,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3560774_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "매산시장",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 권선로 477 (매산로2가, 대한대우아파트)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "모나미 스토어 본사수지점",
+  "district": "용인시",
+  "category": "전문매장",
+  "lat": 37.3355999035,
+  "lng": 127.1006886483,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "모나미 스토어 본사수지점",
+    "desc": "",
+    "address": "경기도 용인시 수지구 손곡로 17 (동천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "못골종합시장 (못골시장)",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2761275835,
+  "lng": 127.0207364625,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3407961_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "못골종합시장 (못골시장)",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 수원천로258번길 10-12 (지동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "문산자유시장",
+  "district": "파주시",
+  "category": "상설시장",
+  "lat": 37.8569863939,
+  "lng": 126.7847665856,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2765100_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "문산자유시장",
+    "desc": "",
+    "address": "경기도 파주시 문산읍 문향로 57"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "바로마켓",
+  "district": "과천시",
+  "category": "상설시장",
+  "lat": 37.444127336,
+  "lng": 127.008649511,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2749008_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "바로마켓",
+    "desc": "",
+    "address": "경기도 과천시 경마공원대로 107 (주암동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "반딧불이 연무시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2940061624,
+  "lng": 127.0259910409,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3400864_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "반딧불이 연무시장",
+    "desc": "",
+    "address": "경기도 수원시 장안구 월드컵로428번길 10 (연무동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "발안만세시장",
+  "district": "화성시",
+  "category": "상설시장",
+  "lat": 37.1330088455,
+  "lng": 126.9100365924,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2780390_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "발안만세시장",
+    "desc": "",
+    "address": "경기도 화성시 향남읍 평1길 12-8"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "백암장(1, 6일)",
+  "district": "용인시",
+  "category": "5일장",
+  "lat": 37.164713485,
+  "lng": 127.373985375,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3383462_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백암장(1, 6일)",
+    "desc": "",
+    "address": "경기도 용인시 처인구 백암면 백암로202번길 18"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "베니스스퀘어",
+  "district": "시흥시",
+  "category": "전문매장",
+  "lat": 37.3682367524,
+  "lng": 126.7306852647,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2875202_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "베니스스퀘어",
+    "desc": "",
+    "address": "경기도 시흥시 서울대학로278번길 61 (배곧동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "봉일천종합시장",
+  "district": "파주시",
+  "category": "상설시장",
+  "lat": 37.7435389274,
+  "lng": 126.8079899058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2765087_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉일천종합시장",
+    "desc": "",
+    "address": "경기도 파주시 조리읍 고봉로 1035"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부천 역곡남부시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.4826943444,
+  "lng": 126.8117996857,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3037500_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부천 역곡남부시장",
+    "desc": "",
+    "address": "경기도 부천시 소사구 부광로16번길 29 (괴안동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부천 원미종합시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.4936732397,
+  "lng": 126.7901457969,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3576936_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부천 원미종합시장",
+    "desc": "",
+    "address": "경기도 부천시 조종로49번길 21-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부천 원종종합시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.5192205462,
+  "lng": 126.8056158927,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3554760_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부천 원종종합시장",
+    "desc": "",
+    "address": "경기도 부천시 오정구 삼작로396번길 16 (원종동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부천상동시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.4906897261,
+  "lng": 126.7604596978,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3408931_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부천상동시장",
+    "desc": "",
+    "address": "경기도 부천시 원미구 석천로 38 (상동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부천자유시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.4837742483,
+  "lng": 126.7821912429,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2781880_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부천자유시장",
+    "desc": "",
+    "address": "경기도 부천시 소사구 자유로 53-1 (심곡본동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부천제일시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.5280057093,
+  "lng": 126.8097374922,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3554819_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부천제일시장",
+    "desc": "",
+    "address": "경기도 부천시 오정구 원종로85번길 84 (원종동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "사강시장",
+  "district": "화성시",
+  "category": "5일장",
+  "lat": 37.2134381443,
+  "lng": 126.7369139757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3396533_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "사강시장",
+    "desc": "",
+    "address": "경기도 화성시 송산면 사강로 189"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼미시장",
+  "district": "시흥시",
+  "category": "상설시장",
+  "lat": 37.4399710382,
+  "lng": 126.7841533987,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3527065_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼미시장",
+    "desc": "",
+    "address": "경기도 시흥시 삼미시장2길 40 (신천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "상대원시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.4360309736,
+  "lng": 127.1587888688,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2759934_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상대원시장",
+    "desc": "",
+    "address": "경기도 성남시 중원구 희망로344번길 6 (상대원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "새서울프라자",
+  "district": "과천시",
+  "category": "전문매장",
+  "lat": 37.4268790494,
+  "lng": 126.9925709039,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2836580_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "새서울프라자",
+    "desc": "",
+    "address": "경기도 과천시 별양상가2로 20 (별양동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울프라자",
+  "district": "안산시",
+  "category": "전문매장",
+  "lat": 37.3338727358,
+  "lng": 126.8121149188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2860519_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서울프라자",
+    "desc": "",
+    "address": "경기도 안산시 단원구 삼일로 310 (선부동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "성남종합시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.4405718713,
+  "lng": 127.145353849,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2762996_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성남종합시장",
+    "desc": "",
+    "address": "경기도 성남시 수정구 산성대로255번길 3-1 (신흥동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "성남중앙공설시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.4414493094,
+  "lng": 127.1321328038,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2759851_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성남중앙공설시장",
+    "desc": "",
+    "address": "경기도 성남시 수정구 수정로 109 (태평동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "성호시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.437936017,
+  "lng": 127.1426430594,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2759893_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성호시장",
+    "desc": "",
+    "address": "경기도 성남시 중원구 산성대로 214 (성남동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "소사종합시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.4792999706,
+  "lng": 126.7936014392,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2781868_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소사종합시장",
+    "desc": "",
+    "address": "경기도 부천시 소사구 소삼로 5 (소사본동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "수원 남문시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2777940172,
+  "lng": 127.01849773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2589033_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수원 남문시장",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 팔달문로 9 (팔달로2가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "수원 농수산물도매시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2544080544,
+  "lng": 127.0307056098,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3475827_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수원 농수산물도매시장",
+    "desc": "",
+    "address": "경기도 수원시 권선구 세권로 243 (권선동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "스타필드 시티 위례",
+  "district": "하남시",
+  "category": "전문매장",
+  "lat": 37.4801895523,
+  "lng": 127.1484191135,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2606104_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스타필드 시티 위례",
+    "desc": "",
+    "address": "경기도 하남시 위례대로 200"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "스타필드 하남",
+  "district": "하남시",
+  "category": "전문매장",
+  "lat": 37.5454888917,
+  "lng": 127.2237576241,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2437612_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스타필드 하남",
+    "desc": "",
+    "address": "경기도 하남시 미사대로 750 (신장동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "시몬스 테라스점",
+  "district": "이천시",
+  "category": "전문매장",
+  "lat": 37.198291474,
+  "lng": 127.4464473193,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3578612_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시몬스 테라스점",
+    "desc": "",
+    "address": "경기도 이천시 모가면 사실로 988"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신세계사이먼 시흥 프리미엄 아울렛",
+  "district": "시흥시",
+  "category": "전문매장",
+  "lat": 37.3801938341,
+  "lng": 126.7383981191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3535656_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신세계사이먼 시흥 프리미엄 아울렛",
+    "desc": "",
+    "address": "경기도 시흥시 서해안로 699 (배곧동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신안프라자",
+  "district": "안산시",
+  "category": "전문매장",
+  "lat": 37.2965252403,
+  "lng": 126.8658360727,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2863858_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신안프라자",
+    "desc": "",
+    "address": "경기도 안산시 상록구 반석로 54 (본오동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신장시장",
+  "district": "하남시",
+  "category": "상설시장",
+  "lat": 37.5379089108,
+  "lng": 127.2069177053,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2611516_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "신장시장",
+    "desc": "",
+    "address": "경기도 하남시 신장1로3번길 42 (신장동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신흥시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.5156092401,
+  "lng": 126.7710330366,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2781850_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신흥시장",
+    "desc": "",
+    "address": "경기도 부천시 오정구 평천로721번길 14-2 (삼정동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "아브뉴프랑 광명점",
+  "district": "광명시",
+  "category": "전문매장",
+  "lat": 37.4172920659,
+  "lng": 126.8813840674,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2830865_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아브뉴프랑 광명점",
+    "desc": "",
+    "address": "경기도 광명시 양지로 16 (일직동, 광명역 써밋플레이스)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "아브뉴프랑 판교",
+  "district": "성남시",
+  "category": "전문매장",
+  "lat": 37.3973735308,
+  "lng": 127.1135662935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3053597_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아브뉴프랑 판교",
+    "desc": "",
+    "address": "경기도 성남시 분당구 동판교로177번길 25 (삼평동, 판교 호반 써밋 플레이스)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "안산농수산물도매시장",
+  "district": "안산시",
+  "category": "상설시장",
+  "lat": 37.3086125505,
+  "lng": 126.8557894273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2761536_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안산농수산물도매시장",
+    "desc": "",
+    "address": "경기도 안산시 상록구 충장로 312 (이동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "안양관양시장",
+  "district": "안양시",
+  "category": "상설시장",
+  "lat": 37.4052781833,
+  "lng": 126.9593245345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3408840_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안양관양시장",
+    "desc": "",
+    "address": "경기도 안양시 동안구 관평로336번길 31 (관양동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "안중시장",
+  "district": "평택시",
+  "category": "상설시장",
+  "lat": 36.9877120598,
+  "lng": 126.9276806636,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2744707_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "안중시장",
+    "desc": "",
+    "address": "경기도 평택시 안중읍 안현로서3길 34"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양곡시장",
+  "district": "김포시",
+  "category": "상설시장",
+  "lat": 37.6559819575,
+  "lng": 126.6235481331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2860700_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양곡시장",
+    "desc": "",
+    "address": "경기도 김포시 양촌읍 양곡리"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양수리전통시장(1,6일)",
+  "district": "양평군",
+  "category": "5일장",
+  "lat": 37.5442435588,
+  "lng": 127.3198683662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2616959_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양수리전통시장(1,6일)",
+    "desc": "",
+    "address": "경기도 양평군 양서면 양수리 1060"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양키시장",
+  "district": "동두천시",
+  "category": "상설시장",
+  "lat": 37.9029941773,
+  "lng": 127.0520852349,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2736492_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양키시장",
+    "desc": "",
+    "address": "경기도 동두천시 어수로83번길 6 (생연동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양평물맑은시장",
+  "district": "양평군",
+  "category": "5일장",
+  "lat": 37.4899030049,
+  "lng": 127.4920987358,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2364874_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양평물맑은시장",
+    "desc": "",
+    "address": "경기도 양평군 양평읍 양평시장길 11-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "여주장 (5, 10일)",
+  "district": "여주시",
+  "category": "5일장",
+  "lat": 37.2991804007,
+  "lng": 127.6308388846,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3382214_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여주장 (5, 10일)",
+    "desc": "",
+    "address": "경기도 여주시 여흥로11번길 53"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "오산오색시장",
+  "district": "오산시",
+  "category": "상설시장",
+  "lat": 37.1511151705,
+  "lng": 127.0710826085,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3046838_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오산오색시장",
+    "desc": "",
+    "address": "경기도 오산시 오산로272번길 22 (오산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "오션시티종합어시장",
+  "district": "안산시",
+  "category": "상설시장",
+  "lat": 37.2864045987,
+  "lng": 126.5738129164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2761530_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오션시티종합어시장",
+    "desc": "",
+    "address": "경기도 안산시 단원구 대부황금로 1478 (대부북동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "오이도종합어시장",
+  "district": "시흥시",
+  "category": "상설시장",
+  "lat": 37.3447054125,
+  "lng": 126.6888980544,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2763323_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오이도종합어시장",
+    "desc": "",
+    "address": "경기도 시흥시 오이도어시장로 8 (정왕동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "용문천년시장(5,10일)",
+  "district": "양평군",
+  "category": "5일장",
+  "lat": 37.4840166812,
+  "lng": 127.5947757068,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3077173_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용문천년시장(5,10일)",
+    "desc": "",
+    "address": "경기도 양평군 용문면 용문시장2길 11"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "용인장 (5, 10일)",
+  "district": "용인시",
+  "category": "5일장",
+  "lat": 37.2367104988,
+  "lng": 127.2078261596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3048622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용인장 (5, 10일)",
+    "desc": "",
+    "address": "경기도 용인시 처인구 금령로107번길 13"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "용인중앙시장",
+  "district": "용인시",
+  "category": "상설시장",
+  "lat": 37.2367660488,
+  "lng": 127.2078733755,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2771132_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용인중앙시장",
+    "desc": "",
+    "address": "경기도 용인시 처인구 금령로107번길 13 (김량장동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "웨스턴돔(WesternDom)",
+  "district": "고양시",
+  "category": "쇼핑",
+  "lat": 37.6565206379,
+  "lng": 126.7717512351,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3020101_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "웨스턴돔(WesternDom)",
+    "desc": "",
+    "address": "경기도 고양시 일산동구 정발산로 24 (장항동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "은행시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.4576341262,
+  "lng": 127.1645016256,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2760817_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "은행시장",
+    "desc": "",
+    "address": "경기도 성남시 중원구 산성대로 526 (은행동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "의왕도깨비시장",
+  "district": "의왕시",
+  "category": "상설시장",
+  "lat": 37.3195240849,
+  "lng": 126.9507332727,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3540558_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "의왕도깨비시장",
+    "desc": "",
+    "address": "경기도 의왕시 부곡시장길 18 (삼동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "의정부 제일시장",
+  "district": "의정부시",
+  "category": "상설시장",
+  "lat": 37.7403019799,
+  "lng": 127.0495845879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2589138_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "의정부 제일시장",
+    "desc": "",
+    "address": "경기도 의정부시 시민로121번길 43-2 (의정부동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "일산시장",
+  "district": "고양시",
+  "category": "5일장",
+  "lat": 37.6856783379,
+  "lng": 126.7708393847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3465789_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "일산시장",
+    "desc": "",
+    "address": "경기도 고양시 일산서구 일청로12번길 9 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "장호원재래시장(4, 9일)",
+  "district": "이천시",
+  "category": "5일장",
+  "lat": 37.114635055,
+  "lng": 127.6315274321,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3048674_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장호원재래시장(4, 9일)",
+    "desc": "",
+    "address": "경기도 이천시 장호원읍 서동대로8975번길 33-5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "전곡수산시장",
+  "district": "화성시",
+  "category": "상설시장",
+  "lat": 37.1873841454,
+  "lng": 126.6537555816,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2757444_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "전곡수산시장",
+    "desc": "",
+    "address": "경기도 화성시 서신면 전곡항로32번길 1-4"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "전곡재래시장 (4, 9일)",
+  "district": "연천군",
+  "category": "5일장",
+  "lat": 38.0271272016,
+  "lng": 127.0681051704,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/1956067_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전곡재래시장 (4, 9일)",
+    "desc": "",
+    "address": "경기도 연천군 전곡읍 전곡로172번길 4-19"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "정자시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2909921532,
+  "lng": 126.9997101776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2752938_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정자시장",
+    "desc": "",
+    "address": "경기도 수원시 장안구 장안로89번길 47 (정자동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "조암시장",
+  "district": "화성시",
+  "category": "5일장",
+  "lat": 37.0831240935,
+  "lng": 126.8176296773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3558833_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조암시장",
+    "desc": "",
+    "address": "경기도 화성시 우정읍 조암서로22번길 22"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "조원시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2997164111,
+  "lng": 127.0147224596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2752792_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "조원시장",
+    "desc": "",
+    "address": "경기도 수원시 장안구 송정로187번길 35-14 (조원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "지평시장",
+  "district": "양평군",
+  "category": "5일장",
+  "lat": 37.4746074508,
+  "lng": 127.6377415312,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2754390_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지평시장",
+    "desc": "",
+    "address": "경기도 양평군 지평면 지평시장1길 5-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청평 5일장 (2, 7일)",
+  "district": "가평군",
+  "category": "5일장",
+  "lat": 37.7347454074,
+  "lng": 127.4159041255,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/1787130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청평 5일장 (2, 7일)",
+    "desc": "",
+    "address": "경기도 가평군 청평면 시장중앙로 19"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "투데이패션몰",
+  "district": "군포시",
+  "category": "전문매장",
+  "lat": 37.3606161814,
+  "lng": 126.9304256362,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2853603_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "투데이패션몰",
+    "desc": "",
+    "address": "경기도 군포시 산본천로 62 인베스텔"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "판타지움",
+  "district": "수원시",
+  "category": "대형마트",
+  "lat": 37.2451874572,
+  "lng": 127.0619141469,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2753613_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "판타지움",
+    "desc": "",
+    "address": "경기도 수원시 영통구 덕영대로 1566 (영통동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "팔달문시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.277424593,
+  "lng": 127.0172339661,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2752795_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔달문시장",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 정조로 776-2 (팔달로3가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "하남수산물시장",
+  "district": "하남시",
+  "category": "전문매장",
+  "lat": 37.5493294051,
+  "lng": 127.184724954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2777992_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하남수산물시장",
+    "desc": "",
+    "address": "경기도 하남시 하남대로 1041 (풍산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "하대원공설시장",
+  "district": "성남시",
+  "category": "상설시장",
+  "lat": 37.4275177735,
+  "lng": 127.1422517234,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2760843_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하대원공설시장",
+    "desc": "",
+    "address": "경기도 성남시 중원구 마지로 118 (하대원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "하이브로우타운",
+  "district": "양평군",
+  "category": "전문매장",
+  "lat": 37.5951915173,
+  "lng": 127.3799003329,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2989436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하이브로우타운",
+    "desc": "",
+    "address": "경기도 양평군 서종면 소나기마을길 31"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한신시장",
+  "district": "부천시",
+  "category": "상설시장",
+  "lat": 37.4742145474,
+  "lng": 126.7990288644,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3575595_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한신시장",
+    "desc": "",
+    "address": "경기도 부천시 소사구 은성로76번길 24 (소사본동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "현대프리미엄아울렛 SPACE1",
+  "district": "남양주시",
+  "category": "전문매장",
+  "lat": 37.6163127071,
+  "lng": 127.1524454232,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2705691_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현대프리미엄아울렛 SPACE1",
+    "desc": "",
+    "address": "경기도 남양주시 다산순환로 50 (다산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "화서시장",
+  "district": "수원시",
+  "category": "상설시장",
+  "lat": 37.2786297391,
+  "lng": 127.0021103052,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3408808_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화서시장",
+    "desc": "",
+    "address": "경기도 수원시 팔달구 동말로 72 (화서동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "DMZ 라운지",
+  "district": "파주시",
+  "category": "특산물판매점",
+  "lat": 37.800452294,
+  "lng": 126.6835996809,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2814828_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "DMZ 라운지",
+    "desc": "",
+    "address": "경기도 파주시 탄현면 새오리로161번길 90"
+   }
+  }
+ }
+]

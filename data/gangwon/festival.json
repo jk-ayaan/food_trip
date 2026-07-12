@@ -1,0 +1,602 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "강릉누들축제",
+  "district": "강릉시",
+  "category": "일반축제",
+  "lat": 37.7558321116,
+  "lng": 128.8976276267,
+  "phone": "033-640-5130",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3556811_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강릉누들축제",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 경강로 2111 (임당동)"
+   }
+  },
+  "pstart": "2025-10-30",
+  "pend": "2025-11-02",
+  "period": "2025.10.30~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "고성명태축제",
+  "district": "고성군",
+  "category": "일반축제",
+  "lat": 38.439588455,
+  "lng": 128.4542770506,
+  "phone": "033-681-0121,0122",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3578590_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고성명태축제",
+    "desc": "",
+    "address": "강원특별자치도 고성군 거진읍 해오름해변길 125"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "공근 소맥축제",
+  "district": "횡성군",
+  "category": "일반축제",
+  "lat": 37.5353676907,
+  "lng": 127.9700513414,
+  "phone": "010-3188-3103",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3523658_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "공근 소맥축제",
+    "desc": "",
+    "address": "강원특별자치도 횡성군 공근면 매곡리"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-07",
+  "period": "2025.09.05~2025.09.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "국토정중앙 청춘양구 배꼽축제",
+  "district": "양구군",
+  "category": "일반축제",
+  "lat": 38.1045851442,
+  "lng": 127.9824831927,
+  "phone": "033-482-9172",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3346451_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국토정중앙 청춘양구 배꼽축제",
+    "desc": "",
+    "address": "강원특별자치도 양구군 양구읍 박수근로 366-11"
+   }
+  },
+  "pstart": "2025-08-29",
+  "pend": "2025-08-31",
+  "period": "2025.08.29~2025.08.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "김삿갓 문화제",
+  "district": "영월군",
+  "category": "일반축제",
+  "lat": 37.0795432684,
+  "lng": 128.6017551925,
+  "phone": "033-375-6379, 033-375-6364",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3541356_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "김삿갓 문화제",
+    "desc": "",
+    "address": "강원특별자치도 영월군 김삿갓면 김삿갓로 216-22"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "동해 무릉제",
+  "district": "동해시",
+  "category": "일반축제",
+  "lat": 37.5149722608,
+  "lng": 129.1028194007,
+  "phone": "033-532-1945",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3528665_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동해 무릉제",
+    "desc": "",
+    "address": "강원특별자치도 동해시 덕골길 10 (천곡동)"
+   }
+  },
+  "pstart": "2025-09-18",
+  "pend": "2025-09-21",
+  "period": "2025.09.18~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "둔내고랭지토마토축제",
+  "district": "횡성군",
+  "category": "일반축제",
+  "lat": 37.51757433,
+  "lng": 128.2139131688,
+  "phone": "033-340-2774",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3509885_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "둔내고랭지토마토축제",
+    "desc": "",
+    "address": "강원특별자치도 횡성군 둔내면 경강로 4708"
+   }
+  },
+  "pstart": "2025-08-14",
+  "pend": "2025-08-16",
+  "period": "2025.08.14~2025.08.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "묵호 도째비페스타",
+  "district": "동해시",
+  "category": "일반축제",
+  "lat": 37.5503655931,
+  "lng": 129.1125285496,
+  "phone": "033-532-1945",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3506582_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "묵호 도째비페스타",
+    "desc": "",
+    "address": "강원특별자치도 동해시 일출로 22 (발한동)"
+   }
+  },
+  "pstart": "2025-07-18",
+  "pend": "2025-07-20",
+  "period": "2025.07.18~2025.07.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "병오년 해맞이 행사",
+  "district": "강릉시",
+  "category": "일반축제",
+  "lat": 37.8052793467,
+  "lng": 128.9067724937,
+  "phone": "033-640-5130",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3588540_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "병오년 해맞이 행사",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 경포로 515 (안현동)"
+   }
+  },
+  "pstart": "2025-12-31",
+  "pend": "2026-01-01",
+  "period": "2025.12.31~2026.01.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "보현사 산사천년문화제",
+  "district": "강릉시",
+  "category": "일반축제",
+  "lat": 37.736626283,
+  "lng": 128.7693064482,
+  "phone": "033-648-9431",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3529875_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보현사 산사천년문화제",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 성산면 보현길 396"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-26",
+  "period": "2025.10.25~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "삼척동해왕이사부축제",
+  "district": "삼척시",
+  "category": "일반축제",
+  "lat": 37.4323943868,
+  "lng": 129.1796900582,
+  "phone": "033-573-7020, 033-570-3073",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3523608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼척동해왕이사부축제",
+    "desc": "",
+    "address": "강원특별자치도 삼척시 오십천로 586 (정상동)"
+   }
+  },
+  "pstart": "2025-09-05",
+  "pend": "2025-09-07",
+  "period": "2025.09.05~2025.09.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "삼토 페스티벌",
+  "district": "원주시",
+  "category": "일반축제",
+  "lat": 37.3364513586,
+  "lng": 127.9461148905,
+  "phone": "033-737-4155",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3582264_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼토 페스티벌",
+    "desc": "",
+    "address": "강원특별자치도 원주시 단구로 170"
+   }
+  },
+  "pstart": "2025-11-08",
+  "pend": "2025-11-11",
+  "period": "2025.11.08~2025.11.11"
+ },
+ {
+  "section": "festival",
+  "name_ko": "속초 칠링비치페스티벌",
+  "district": "속초시",
+  "category": "일반축제",
+  "lat": 38.1899288046,
+  "lng": 128.6039879141,
+  "phone": "033-639-2545",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3514129_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "속초 칠링비치페스티벌",
+    "desc": "",
+    "address": "강원특별자치도 속초시 해오름로 186 (조양동)"
+   }
+  },
+  "pstart": "2025-08-01",
+  "pend": "2025-08-03",
+  "period": "2025.08.01~2025.08.03"
+ },
+ {
+  "section": "festival",
+  "name_ko": "안흥찐빵축제",
+  "district": "횡성군",
+  "category": "일반축제",
+  "lat": 37.4100300968,
+  "lng": 128.1550716631,
+  "phone": "033-340-2745",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3546734_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "안흥찐빵축제",
+    "desc": "",
+    "address": "강원특별자치도 횡성군 안흥면 주천강로 1868"
+   }
+  },
+  "pstart": "2025-11-07",
+  "pend": "2025-11-09",
+  "period": "2025.11.07~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양양송이축제",
+  "district": "양양군",
+  "category": "일반축제",
+  "lat": 38.0728789079,
+  "lng": 128.6235231224,
+  "phone": "033-671-7888",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3542210_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "양양송이축제",
+    "desc": "",
+    "address": "강원특별자치도 양양군 양양읍 일출로 589"
+   }
+  },
+  "pstart": "2025-10-10",
+  "pend": "2025-10-12",
+  "period": "2025.10.10~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "양양연어축제",
+  "district": "양양군",
+  "category": "일반축제",
+  "lat": 38.0730677715,
+  "lng": 128.6233592424,
+  "phone": "033-671-7888",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3543537_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "양양연어축제",
+    "desc": "",
+    "address": "강원특별자치도 양양군 양양읍 일출로 589"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "여름愛 인제愛 빠지다",
+  "district": "인제군",
+  "category": "일반축제",
+  "lat": 37.9916393282,
+  "lng": 128.0956318737,
+  "phone": "033-460-8900",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3510499_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여름愛 인제愛 빠지다",
+    "desc": "",
+    "address": "강원특별자치도 인제군 남면 부평리"
+   }
+  },
+  "pstart": "2025-07-26",
+  "pend": "2025-08-10",
+  "period": "2025.07.26~2025.08.10"
+ },
+ {
+  "section": "festival",
+  "name_ko": "원주문화의거리 치맥축제",
+  "district": "원주시",
+  "category": "일반축제",
+  "lat": 37.3477501697,
+  "lng": 127.9523806621,
+  "phone": "033-734-8881",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3524173_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "원주문화의거리 치맥축제",
+    "desc": "",
+    "address": "강원특별자치도 원주시 중앙로 59 (중앙동)"
+   }
+  },
+  "pstart": "2025-09-03",
+  "pend": "2025-09-06",
+  "period": "2025.09.03~2025.09.06"
+ },
+ {
+  "section": "festival",
+  "name_ko": "원주시 반려동물 문화행사",
+  "district": "원주시",
+  "category": "기타행사",
+  "lat": 37.3444506969,
+  "lng": 127.960221718,
+  "phone": "033-813-0333",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3546108_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "원주시 반려동물 문화행사",
+    "desc": "",
+    "address": "강원특별자치도 원주시 봉산동"
+   }
+  },
+  "pstart": "2025-10-04",
+  "pend": "2025-10-04",
+  "period": "2025.10.04~2025.10.04"
+ },
+ {
+  "section": "festival",
+  "name_ko": "인제가을꽃축제",
+  "district": "인제군",
+  "category": "일반축제",
+  "lat": 38.1858958045,
+  "lng": 128.3097147916,
+  "phone": "033-460-8900",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3539812_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인제가을꽃축제",
+    "desc": "",
+    "address": "강원특별자치도 인제군 북면 용대리"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-10-19",
+  "period": "2025.09.27~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청춘양구 펀치볼 시래기사과축제",
+  "district": "양구군",
+  "category": "일반축제",
+  "lat": 38.2911497868,
+  "lng": 128.1434933608,
+  "phone": "033-482-9172",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3543397_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청춘양구 펀치볼 시래기사과축제",
+    "desc": "",
+    "address": "강원특별자치도 양구군 해안면 해안서화로 15"
+   }
+  },
+  "pstart": "2025-10-31",
+  "pend": "2025-11-02",
+  "period": "2025.10.31~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "춘천 ONE도심 페스타",
+  "district": "춘천시",
+  "category": "일반축제",
+  "lat": 37.8810508584,
+  "lng": 127.7293935081,
+  "phone": "010-9776-2721",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3527656_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "춘천 ONE도심 페스타",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 시청길 11 (옥천동)"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "춘천숲자연휴양림 설렘의 숲 페스타 & 멍냥대첩",
+  "district": "춘천시",
+  "category": "기타행사",
+  "lat": 37.7479304633,
+  "lng": 127.742385155,
+  "phone": "010-5550-1828",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3538599_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "춘천숲자연휴양림 설렘의 숲 페스타 & 멍냥대첩",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 동산면 종자리로 224-104"
+   }
+  },
+  "pstart": "2025-09-06",
+  "pend": "2025-10-18",
+  "period": "2025.09.06~2025.10.18"
+ },
+ {
+  "section": "festival",
+  "name_ko": "태백제",
+  "district": "태백시",
+  "category": "일반축제",
+  "lat": 37.1727622365,
+  "lng": 128.9910509427,
+  "phone": "033-553-6900",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3545968_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태백제",
+    "desc": "",
+    "address": "강원특별자치도 태백시 황지연못길 12 (황지동)"
+   }
+  },
+  "pstart": "2025-10-02",
+  "pend": "2025-10-03",
+  "period": "2025.10.02~2025.10.03"
+ },
+ {
+  "section": "festival",
+  "name_ko": "평창농악축제",
+  "district": "평창군",
+  "category": "일반축제",
+  "lat": 37.5894476288,
+  "lng": 128.4160483349,
+  "phone": "033-332-4333",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3556414_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "평창농악축제",
+    "desc": "",
+    "address": "강원특별자치도 평창군 용평면 갈정지길 7"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "홍천 사과축제",
+  "district": "홍천군",
+  "category": "일반축제",
+  "lat": 37.6893539667,
+  "lng": 127.8933204084,
+  "phone": "033-430-5855",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3561055_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍천 사과축제",
+    "desc": "",
+    "address": "강원특별자치도 홍천군 홍천읍 갈마곡리"
+   }
+  },
+  "pstart": "2025-10-30",
+  "pend": "2025-11-02",
+  "period": "2025.10.30~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "홍천 인삼한우 명품축제",
+  "district": "홍천군",
+  "category": "일반축제",
+  "lat": 37.689465068,
+  "lng": 127.8934898344,
+  "phone": "033-430-5855",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3561066_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍천 인삼한우 명품축제",
+    "desc": "",
+    "address": "강원특별자치도 홍천군 홍천읍 갈마곡리"
+   }
+  },
+  "pstart": "2025-10-30",
+  "pend": "2025-11-02",
+  "period": "2025.10.30~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "홍천강 꽁꽁축제",
+  "district": "홍천군",
+  "category": "일반축제",
+  "lat": 37.6881873125,
+  "lng": 127.8867488167,
+  "phone": "033-439-5800",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3580712_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "홍천강 꽁꽁축제",
+    "desc": "",
+    "address": "강원특별자치도 홍천군 홍천읍 갈마곡리"
+   }
+  },
+  "pstart": "2026-01-09",
+  "pend": "2026-01-25",
+  "period": "2026.01.09~2026.01.25"
+ },
+ {
+  "section": "festival",
+  "name_ko": "횡성더덕축제",
+  "district": "횡성군",
+  "category": "일반축제",
+  "lat": 37.5791269894,
+  "lng": 128.1433843742,
+  "phone": "033-340-2831~5",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3547652_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "횡성더덕축제",
+    "desc": "",
+    "address": "강원특별자치도 횡성군 청일면 유동리"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-21",
+  "period": "2025.09.19~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 원주옥상영화제",
+  "district": "원주시",
+  "category": "영화",
+  "lat": 37.3247979621,
+  "lng": 127.9898307316,
+  "phone": "010-4781-7786",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3522467_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 원주옥상영화제",
+    "desc": "",
+    "address": "강원특별자치도 원주시 세계로 10 (반곡동)"
+   }
+  },
+  "pstart": "2025-08-28",
+  "pend": "2025-08-30",
+  "period": "2025.08.28~2025.08.30"
+ }
+]

@@ -1,0 +1,8825 @@
+[
+ {
+  "section": "food",
+  "name_ko": "가는곶 세화",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5205279098,
+  "lng": 126.860696168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2850905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가는곶 세화",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 세화14길 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가람",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4888787305,
+  "lng": 126.5206569716,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2906152_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가람",
+    "desc": "",
+    "address": "제주특별자치도 제주시 복지로북길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가람돌솥밥",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2496926417,
+  "lng": 126.4313090015,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2755047_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가람돌솥밥",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 332 (대포동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가시식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3530172003,
+  "lng": 126.7713633064,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3389976_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가시식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시로565번길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가시아방국수",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.4386573313,
+  "lng": 126.9180930788,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2800608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가시아방국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가시어멍김밥",
+  "district": "제주시",
+  "category": "분식·주점",
+  "lat": 33.4888641378,
+  "lng": 126.4763302701,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2837175_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가시어멍김밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 월랑로 36"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갈치공장",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5319348245,
+  "lng": 126.8509745258,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2853424_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갈치공장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해맞이해안로 1296"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갈치왕",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2646820142,
+  "lng": 126.3907705168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2783703_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갈치왕",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 1146 (상예동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "감따남",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2620894948,
+  "lng": 126.4946032358,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2854454_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "감따남",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 월산로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "검은노루",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2238983821,
+  "lng": 126.2617326224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2873669_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "검은노루",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 상모로 257"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경미네집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4612828593,
+  "lng": 126.9334967787,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2758916_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경미네집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 259"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경성수산",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.4099473082,
+  "lng": 126.2648059954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2870509_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경성수산",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림상로 111"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고불락",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4667893686,
+  "lng": 126.3366095862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3396850_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고불락",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내로7길 45-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고사리커피",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4734065616,
+  "lng": 126.7640945189,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2863918_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "고사리커피",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 중산간동로 2064"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고서방 짬뽕",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.4759667087,
+  "lng": 126.5481604303,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고서방 짬뽕",
+    "desc": "",
+    "address": "제주특별자치도 제주시 인다5길 11-5 (아라일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고이정",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.45933424,
+  "lng": 126.3113536176,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2759208_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고이정",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고집돌우럭 중문점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2580109376,
+  "lng": 126.4167184145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2832740_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고집돌우럭 중문점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 879 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고토커피바",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4810246035,
+  "lng": 126.380902635,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2863907_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고토커피바",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 구엄동3길 56"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "골목식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.511851257,
+  "lng": 126.5250282923,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2857279_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "골목식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로 63-9 (이도일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "골목카페옥수",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4397708216,
+  "lng": 126.3799286479,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2852303_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골목카페옥수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 소길1길 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곰막식당/곰막",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5568605164,
+  "lng": 126.7205186105,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2759221_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곰막식당/곰막",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 구좌해안로 64"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "공천포식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.266416366,
+  "lng": 126.6425958686,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2800294_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "공천포식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 공천포로 89"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곽지국시",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4488492351,
+  "lng": 126.3078791556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2851861_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곽지국시",
+    "desc": "",
+    "address": "제주특별자치도 제주시 일주서로 6027"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "광양해장국집",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4999471402,
+  "lng": 126.5326251248,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3408106_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광양해장국집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 광양13길 25 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "교래손칼국수(원조교래손칼국수)",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4361675979,
+  "lng": 126.6760057906,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2759692_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "교래손칼국수(원조교래손칼국수)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 비자림로 645"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구이사이",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4722559343,
+  "lng": 126.3685427963,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2759229_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구이사이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 신엄9길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구좌상회",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4857235955,
+  "lng": 126.6988860073,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2773404_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구좌상회",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 198-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구좌읍 우럭튀김 민경이네어등포식당",
+  "district": "제주시",
+  "category": "분식·주점",
+  "lat": 33.5537681121,
+  "lng": 126.8257678765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2852375_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구좌읍 우럭튀김 민경이네어등포식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해맞이해안로 830"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "국수만찬",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4871618534,
+  "lng": 126.4955008644,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "국수만찬",
+    "desc": "",
+    "address": "제주특별자치도 제주시 은남3길 1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "권가칼국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.5171098365,
+  "lng": 126.5769319952,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2830481_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "권가칼국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 화삼북로 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "귤품은흑돼지 제주공항점",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.5063870002,
+  "lng": 126.4639059537,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2870533_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "귤품은흑돼지 제주공항점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도두항서길 42"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그계절",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5320204007,
+  "lng": 126.8185162288,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2862108_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그계절",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 한동로 119"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그라나다",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4994960994,
+  "lng": 126.4640755386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2847811_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그라나다",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도공로 86-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그러므로 파트2 (part2)",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4684609925,
+  "lng": 126.4858965666,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2852373_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "그러므로 파트2 (part2)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 수목원길 16-14 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그럼외도",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4942462039,
+  "lng": 126.434039381,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2830495_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그럼외도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 월대3길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그레이그로브",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2258737598,
+  "lng": 126.299826494,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2861383_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그레이그로브",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 형제해안로 70"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그리운바다성산포",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4698901853,
+  "lng": 126.9299885503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2859157_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그리운바다성산포",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 성산등용로 94"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그린마일커피 애월점",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4640949919,
+  "lng": 126.3220136946,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2904617_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "그린마일커피 애월점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월로 137-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그린페블",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3449292436,
+  "lng": 126.2483810957,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2871984_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "그린페블",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 수동7길 54-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그옛맛",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4984915228,
+  "lng": 126.5185930442,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그옛맛",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서사로24길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그초록",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5563369572,
+  "lng": 126.8062778418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2792559_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "그초록",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 행원로7길 23-16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "글라글라하와이",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2196098046,
+  "lng": 126.2513363972,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2843739_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "글라글라하와이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 하모항구로 70"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금강민물장어",
+  "district": "서귀포시",
+  "category": "해산물·회",
+  "lat": 33.2543165395,
+  "lng": 126.5695496912,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "금강민물장어",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주동로 8597"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금돈가 제주본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4843271774,
+  "lng": 126.3911377809,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2906171_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "금돈가 제주본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 가문동남길 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금악 똣똣라면",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.3586812581,
+  "lng": 126.2966404832,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2870554_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금악 똣똣라면",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금악로 18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김녕에사는김영훈",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5542973273,
+  "lng": 126.7463525363,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2871968_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김녕에사는김영훈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 김녕로6길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김녕오라이",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5578415238,
+  "lng": 126.7553155654,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2851684_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김녕오라이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 김녕로21길 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김마리",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.497169618,
+  "lng": 126.5293671382,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2863892_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "김마리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 광양14길 17-10 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꼬스뗀뇨",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5101047816,
+  "lng": 126.905106446,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2877793_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꼬스뗀뇨",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해맞이해안로 2080"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽁순이네",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4469499317,
+  "lng": 126.3387181818,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2851866_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꽁순이네",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 중산간서로 5642"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽃밥",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4515461682,
+  "lng": 126.3084984856,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3548234_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꽃밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 일주서로 6059"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꿈낭밥집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4240646279,
+  "lng": 126.4053267934,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2851873_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꿈낭밥집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 유수암평화5길 33-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나니아레스토랑",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.238017998,
+  "lng": 126.3721032863,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2655469_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나니아레스토랑",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 예래로396번길 13-33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나라돈까스",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4952100334,
+  "lng": 126.4370363208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2857294_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나라돈까스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 내도1길 23 (내도동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나비정원",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2204763428,
+  "lng": 126.2492726682,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2839716_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나비정원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 신영로 60-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나이체",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4752001061,
+  "lng": 126.546832785,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2877808_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나이체",
+    "desc": "",
+    "address": "제주특별자치도 제주시 인다6길 35 아라힐링"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "난드르바당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2346461302,
+  "lng": 126.370989569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2755602_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "난드르바당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 하예하동로16번길 11-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남춘식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4996944686,
+  "lng": 126.5375247049,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2860693_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남춘식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 청귤로 12 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "낭뜰에쉼팡",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4735270537,
+  "lng": 126.6571482427,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3578858_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낭뜰에쉼팡",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 남조로 2343"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "노라바",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4828854364,
+  "lng": 126.3763307678,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2851883_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노라바",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 구엄길 100"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "노을리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4801051312,
+  "lng": 126.3727283662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2851897_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노을리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 654"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "논짓물식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5126591724,
+  "lng": 126.5044161774,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2784608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "논짓물식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 성화로9길 10 (용담이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "놀맨",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4625033154,
+  "lng": 126.3102064238,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3466522_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "놀맨",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로1길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "누이밥집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2631329802,
+  "lng": 126.4411800675,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2871845_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "누이밥집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간서로 695 (회수동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "니모메",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4937545425,
+  "lng": 126.4309535489,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "니모메",
+    "desc": "",
+    "address": "제주특별자치도 제주시 일주서로 7335-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다래향",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.5457941142,
+  "lng": 126.6607351684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3396953_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다래향",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 428-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다린",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2365509509,
+  "lng": 126.5138521391,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2876389_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다린",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 법환로 11 (법환동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다정이네 올레시장 본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2494253692,
+  "lng": 126.5668250373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2843797_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다정이네 올레시장 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동문로 59-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "단소",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4644477406,
+  "lng": 126.3226414094,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2851911_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단소",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월로 139-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "달팽이식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2655038505,
+  "lng": 126.3719637973,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2847817_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달팽이식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 일주서로 1322-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담백 월정리본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5564618637,
+  "lng": 126.8013338239,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2862090_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "담백 월정리본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 518"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "당당",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4744723929,
+  "lng": 126.370892542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2857341_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중엄안1길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "당케올레국수",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.3253241907,
+  "lng": 126.843346594,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3564105_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당케올레국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 민속해안로 584"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "당포로나인 돈카츠",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.3257880323,
+  "lng": 126.8435882289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2861365_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "당포로나인 돈카츠",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 표선당포로 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대기정",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2403019678,
+  "lng": 126.4285622273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2753561_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대기정",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 41 (대포동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "더리트리브",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2479552633,
+  "lng": 126.3385643087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2850117_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더리트리브",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순로 67"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "더클리프",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2450679043,
+  "lng": 126.4156104662,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더클리프",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 154-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "덴드리",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3694419084,
+  "lng": 126.8659214086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2845271_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덴드리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 삼달로 28-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "델문도",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5436111507,
+  "lng": 126.6687289685,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2784613_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "델문도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 519-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도갈비",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.4765544369,
+  "lng": 126.4793136221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2870583_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도갈비",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한라대학로 85 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도남오거리식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4965335254,
+  "lng": 126.5261257672,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도남오거리식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도남로6길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도두반점 제주사수점",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.5095952211,
+  "lng": 126.4791906626,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2850044_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도두반점 제주사수점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 317"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도두해녀의집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5062259504,
+  "lng": 126.4666418301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2758931_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도두해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도두항길 16 (도두일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도두후레쉬",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.503298485,
+  "lng": 126.4658975168,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2870595_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도두후레쉬",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도공로 34 (도두일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도라지식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4927114054,
+  "lng": 126.50594983,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도라지식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연삼로 128"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도렐 제주 본점",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4496450053,
+  "lng": 126.9180400527,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2830217_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도렐 제주 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 동류암로 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도리 관광농원",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4339761204,
+  "lng": 126.6726811287,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2863796_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도리 관광농원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 비자림로 607"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도치돌가든",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4199445958,
+  "lng": 126.3392548524,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2851918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도치돌가든",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 천덕로 440-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도토리키친",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5154174266,
+  "lng": 126.5186148802,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3556355_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "도토리키친",
+    "desc": "",
+    "address": "제주특별자치도 제주시 북성로 59 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "독개물항",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4019146568,
+  "lng": 126.251623988,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3397029_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독개물항",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 478"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "독고집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4486895206,
+  "lng": 126.9158763733,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3578911_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독고집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동류암로 43-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돈이랑",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2577414031,
+  "lng": 126.4091024145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2755126_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돈이랑",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 953"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돈카츠 서황",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4343908561,
+  "lng": 126.3796037976,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "돈카츠 서황",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 장소로 205-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돌담너머바다",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4957461292,
+  "lng": 126.4398055121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2903523_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돌담너머바다",
+    "desc": "",
+    "address": "제주특별자치도 제주시 테우해안로 44-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돔베돈",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5155647604,
+  "lng": 126.5266586225,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "돔베돈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로15길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "돗통 제주산방산본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2494544578,
+  "lng": 126.2978122567,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2847802_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "돗통 제주산방산본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계북로41번길 189"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동광메밀짬뽕",
+  "district": "서귀포시",
+  "category": "중식",
+  "lat": 33.3105401917,
+  "lng": 126.3497119467,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2837127_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동광메밀짬뽕",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신화역사로 581"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동도원",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2392606246,
+  "lng": 126.4417916581,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2858483_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "동도원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 189 (대포동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동복뚝배기",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5532162949,
+  "lng": 126.7093335545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2861478_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "동복뚝배기",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 동복로 30-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동선제면가",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2719991764,
+  "lng": 126.6484646784,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2843806_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동선제면가",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "두리둠비",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2567416016,
+  "lng": 126.414701951,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2877599_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두리둠비",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 16 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "두모리이수사",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.3526162874,
+  "lng": 126.1848670034,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2840845_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두모리이수사",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 두신로 112"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "듀포레",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5185584509,
+  "lng": 126.5001053072,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2863780_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "듀포레",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 579 (용담삼동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "드르쿰다",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4444983695,
+  "lng": 126.9191261882,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2755588_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "드르쿰다",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로25번길 64"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "딜레탕트",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5351197779,
+  "lng": 126.6284354411,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2904641_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "딜레탕트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신북로 144"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뚱딴지 애월본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4745887905,
+  "lng": 126.3546911711,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3544837_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뚱딴지 애월본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 부룡수길 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라라카페",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4544368598,
+  "lng": 126.4427450785,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2851936_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라라카페",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 광령평화10길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라지마할",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4882477612,
+  "lng": 126.4902735165,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라지마할",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신광로 43"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라토커피제주",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4987305369,
+  "lng": 126.5281672061,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2853975_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라토커피제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 광양10길 20 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "래용",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4912409352,
+  "lng": 126.4311758095,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2910913_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "래용",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우정로 17 제웅1차솔내음빌리지"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "랜딩커피",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.435535467,
+  "lng": 126.9189153017,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2877622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "랜딩커피",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신양로122번길 45-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "로맨틱새우 애월곽지본점",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4480465039,
+  "lng": 126.3051849634,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2870606_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "로맨틱새우 애월곽지본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 곽지1길 12-12 (곽지어촌계펜션)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "롱로드",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4416106964,
+  "lng": 126.279217922,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2839762_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롱로드",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 귀덕3길 44"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리보스코화덕피자",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4694748009,
+  "lng": 126.4878685946,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2837232_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리보스코화덕피자",
+    "desc": "",
+    "address": "제주특별자치도 제주시 수목원길 27 (연동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리틀포레스트",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2448352854,
+  "lng": 126.4592955715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2899708_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리틀포레스트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 월평로 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "릴로",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5108322806,
+  "lng": 126.8928824885,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2861437_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "릴로",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 하도13길 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마노커피하우스",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2513867831,
+  "lng": 126.4239762659,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2853295_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마노커피하우스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로188번길 6-6 (중문동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마돈",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4375075193,
+  "lng": 126.9218594458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3396210_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마돈",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 56"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마두천손칼국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.5131340969,
+  "lng": 126.5029912907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2899678_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마두천손칼국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 용해로 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마루나키친",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.3619682017,
+  "lng": 126.1958075111,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2784625_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마루나키친",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 금등4길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마마롱",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4521870521,
+  "lng": 126.4391926606,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2860646_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마마롱",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 평화로 2783"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마음에온",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5146093001,
+  "lng": 126.5259753695,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2904812_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마음에온",
+    "desc": "",
+    "address": "제주특별자치도 제주시 칠성로길 29-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마틸다",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4657311153,
+  "lng": 126.3342820347,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2851649_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마틸다",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내1길 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만덕이네",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3933743337,
+  "lng": 126.8011014756,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2755137_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만덕이네",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 서성일로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만복반미 노형 본점",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4834035344,
+  "lng": 126.4702031482,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2871949_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만복반미 노형 본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 수덕9길 82-4 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만부정",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4826040098,
+  "lng": 126.4945566049,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3396599_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만부정",
+    "desc": "",
+    "address": "제주특별자치도 제주시 사장길 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만세국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.494136452,
+  "lng": 126.5187959033,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "만세국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오라로 152"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만족한상회 중문점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2535310345,
+  "lng": 126.4267398674,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2870483_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만족한상회 중문점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문상로 58-5 (중문동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "만지식당",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4633147917,
+  "lng": 126.3390761161,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2795477_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만지식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내로 13-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "말고기연구소",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.5155924319,
+  "lng": 126.5201452985,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2837988_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "말고기연구소",
+    "desc": "",
+    "address": "제주특별자치도 제주시 북성로 43 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "망고하이",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2582551998,
+  "lng": 126.4068748184,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2910901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "망고하이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 972"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "머문",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5556035357,
+  "lng": 126.7957815474,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2877836_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "머문",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해맞이해안로 460"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "먹돌 제주본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5038711465,
+  "lng": 126.4975003109,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "먹돌 제주본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 공항로1길 14 (용담이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "메콩스카이",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4901477379,
+  "lng": 126.5020363394,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2870918_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메콩스카이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연오로 35 (오라삼동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명랑스낵",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4092250708,
+  "lng": 126.2587593151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2858564_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명랑스낵",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 585"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명문가시리식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3528672076,
+  "lng": 126.7707355863,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3403349_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명문가시리식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 중산간동로 5218"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모노클제주",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2729274271,
+  "lng": 126.684550421,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2845284_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모노클제주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로360번길 30-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모뉴에트",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4914873493,
+  "lng": 126.9022876754,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2851632_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모뉴에트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 종달동길 23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모드락572",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3544670791,
+  "lng": 126.7737630658,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "모드락572",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 가시로 572"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모들한상",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.455376907,
+  "lng": 126.346989495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2854002_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모들한상",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 하가로 180"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모래비 커피로스터스 앤 베이커리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.555539661,
+  "lng": 126.7962342877,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2863654_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "모래비 커피로스터스 앤 베이커리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 462"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모슬포한라전복 본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2305112828,
+  "lng": 126.2452033549,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2800239_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모슬포한라전복 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 대한로 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모이세해장국",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4817126104,
+  "lng": 126.5051390387,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3396899_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모이세해장국",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연북로 221"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모카다방",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2921987516,
+  "lng": 126.7613961079,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2873689_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모카다방",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태신해안로 125"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모해통갈치화덕구이",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4618078051,
+  "lng": 126.9337411898,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2871867_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모해통갈치화덕구이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 267"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "목장카페드르쿰다",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4088221258,
+  "lng": 126.7698788286,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2774933_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목장카페드르쿰다",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 번영로 2454"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "목화휴게소",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4818106314,
+  "lng": 126.9016935056,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2845293_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목화휴게소",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 해맞이해안로 2526"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "몽생이",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3246538979,
+  "lng": 126.2605082705,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3396979_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "몽생이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 녹차분재로 628"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "무거버거",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5492186441,
+  "lng": 126.6551050241,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2899610_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무거버거",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 356"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "무로이",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3078014028,
+  "lng": 126.3368020179,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2830196_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "무로이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동광본동로 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "무인카페 산책",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4668838075,
+  "lng": 126.3369206678,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3396858_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무인카페 산책",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 고내로7길 49"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문개항아리 조천본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5535346551,
+  "lng": 126.6440031125,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2796240_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문개항아리 조천본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 217-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문쏘 제주협재점",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4057282066,
+  "lng": 126.2569178869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2858585_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문쏘 제주협재점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림상로 15-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문치비",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2528934686,
+  "lng": 126.5060330058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2843859_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문치비",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신서로32번길 14 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미쁜제과",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.26916433,
+  "lng": 126.1801414853,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2831603_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "미쁜제과",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 도원남로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미스칠",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4939470207,
+  "lng": 126.4833684316,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2758904_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미스칠",
+    "desc": "",
+    "address": "제주특별자치도 제주시 일주서로 7831 (연동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미스틱3도",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4500241681,
+  "lng": 126.487380188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2836864_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미스틱3도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 2894-49 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미엘드세화",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5245497062,
+  "lng": 126.8618543076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2838052_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "미엘드세화",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1464"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미친부엌",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.5170284317,
+  "lng": 126.5231672257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2840454_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미친부엌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 탑동로 15 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바그다드",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5103069552,
+  "lng": 126.523242372,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "바그다드",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로8길 34"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다다",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2378551429,
+  "lng": 126.4366310264,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2843880_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다다",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대포로 148-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다를본돼지",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.3656706031,
+  "lng": 126.1979322434,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2764006_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다를본돼지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 판포1길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다보는날",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4839603437,
+  "lng": 126.3780111538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2861418_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "바다보는날",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월해안로 722"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다속고등어쌈밥",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.484299651,
+  "lng": 126.4067836428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2764017_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다속고등어쌈밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 일주서로 7089"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바다위에코끼리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3978677462,
+  "lng": 126.2429414999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2756013_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다위에코끼리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재1길 27-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바당한그릇",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4784329318,
+  "lng": 126.3624376332,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2870612_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바당한그릇",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 552-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바람벽에흰당나귀",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5538828606,
+  "lng": 126.7076142444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2836884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바람벽에흰당나귀",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 동복로 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바램목장&카페",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3111818331,
+  "lng": 126.3525866828,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2850989_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바램목장&카페",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신화역사로 611"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바움하우스",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5177194543,
+  "lng": 126.4875064221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2902729_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바움하우스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 448"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바타타식탁",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3271655353,
+  "lng": 126.8359360817,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2876482_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "바타타식탁",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 표선동서로264번길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "반양",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2812303818,
+  "lng": 126.2261788847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2863767_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "반양",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 중산간서로 2985"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "배셰프",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.4843433703,
+  "lng": 126.5362973823,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2871925_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "배셰프",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구산로 3 (아라일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백기해녀의집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.449986705,
+  "lng": 126.9223591149,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3466506_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백기해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 88-19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백록집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5417447548,
+  "lng": 126.6727147762,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "백록집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 함덕로 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뱅인타코 제주본점",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2886026732,
+  "lng": 126.2826099295,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2871882_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뱅인타코 제주본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 에듀시티로 74 (라온프라이빗에듀)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "버드나무집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5413197163,
+  "lng": 126.6673958034,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2799701_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "버드나무집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신북로 540"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "범섬앞어촌계횟집",
+  "district": "서귀포시",
+  "category": "해산물·회",
+  "lat": 33.235801053,
+  "lng": 126.5150881596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3466498_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "범섬앞어촌계횟집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 막숙포로 61 (법환동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "벙커하우스",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.24048949,
+  "lng": 126.5192349174,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2859172_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "벙커하우스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 막숙포로41번길 66 (법환동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베메로 (BAKE MAKE ROAST)",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2496534392,
+  "lng": 126.4111246414,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2860729_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "베메로 (BAKE MAKE ROAST)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로72번길 29-9 신우성타운"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베카신",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4649816279,
+  "lng": 126.7102243865,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "베카신",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우진오름길 144"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베케",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2619829233,
+  "lng": 126.6049853373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2850099_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "베케",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 효돈로 54 (신효동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "별돈별 정원본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3088766061,
+  "lng": 126.1800961663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2854038_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별돈별 정원본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 고산로8길 21-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "볕이드는곳벧디",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4706857673,
+  "lng": 126.4871991809,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2891893_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "볕이드는곳벧디",
+    "desc": "",
+    "address": "제주특별자치도 제주시 은수길 65"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "복자씨연탄구이",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4692039841,
+  "lng": 126.9197672298,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2758905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복자씨연탄구이",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 해맞이해안로 2764"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "볼스카페",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2534285165,
+  "lng": 126.4424940592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2851057_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "볼스카페",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 626 (회수동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "봉성식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4187193119,
+  "lng": 126.3126266402,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2852019_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉성식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 봉성로 66"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "봉순이네흑돼지",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.2778093738,
+  "lng": 126.2795632114,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2756093_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉순이네흑돼지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 영어도시로 64"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "봉주르마담",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2527962138,
+  "lng": 126.5033360199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2871906_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉주르마담",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대청로 33 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부두식당 / (주)부두식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2188543277,
+  "lng": 126.2510586602,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2758895_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부두식당 / (주)부두식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 하모항구로 62"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부부요리단",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2437000371,
+  "lng": 126.5059832166,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3444890_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부부요리단",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 월드컵로 63 (법환동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부온",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4894650097,
+  "lng": 126.5352862427,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2899579_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부온",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구남동2길 26"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부촌",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4489783952,
+  "lng": 126.9169512735,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2847888_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부촌",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동류암로 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뷰스트",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2278069374,
+  "lng": 126.3034900221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2859078_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "뷰스트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 형제해안로 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블루마운틴4255",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3804763385,
+  "lng": 126.8371930884,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2847860_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "블루마운틴4255",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간동로 4255"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블루메베이글",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.496741947,
+  "lng": 126.5331112664,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2899560_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "블루메베이글",
+    "desc": "",
+    "address": "제주특별자치도 제주시 가령로4길 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블루사이공",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.457044354,
+  "lng": 126.4080008181,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2852029_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "블루사이공",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 중산간서로 6333"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블리스풀",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4040863279,
+  "lng": 126.4081908825,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2891905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "블리스풀",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 산록서로 383"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "비마이게스트",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3979927727,
+  "lng": 126.2454968306,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2838069_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비마이게스트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 406"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "비양놀",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4290090665,
+  "lng": 126.2635167927,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2862052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비양놀",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림해안로 311"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "비지곶식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5280378892,
+  "lng": 126.8420753877,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비지곶식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 일주동로 3002"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "비케이브",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.50838254,
+  "lng": 126.7200169877,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비케이브",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동백로 122"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뿌리와열매",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4718264992,
+  "lng": 126.7838706179,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2902755_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뿌리와열매",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중산간동로 2255"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쁠랑뜨",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4528293831,
+  "lng": 126.4855025099,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2902764_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쁠랑뜨",
+    "desc": "",
+    "address": "제주특별자치도 제주시 1100로 2977-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사계의시간",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2322454224,
+  "lng": 126.3089977789,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2847776_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사계의시간",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 사계남로 214"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사랑분식",
+  "district": "제주시",
+  "category": "분식·주점",
+  "lat": 33.5124928981,
+  "lng": 126.5278585879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2870896_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사랑분식",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동문로4길 12 (일도일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사일리커피",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2001734425,
+  "lng": 126.2757874827,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2790957_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사일리커피",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 최남단해안로 412"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산지해장국",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.5163924761,
+  "lng": 126.5285223303,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2851074_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산지해장국",
+    "desc": "",
+    "address": "제주특별자치도 제주시 임항로 34"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼다도횟집",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.5189945013,
+  "lng": 126.4993275871,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3396849_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼다도횟집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 572"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼대국수회관",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.5068657788,
+  "lng": 126.5301029645,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3396822_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼대국수회관",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼성로 41"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼무국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4905891798,
+  "lng": 126.4909789569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2759707_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼무국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 삼무로3길 46-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼미흑돼지 중문점",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.2585497158,
+  "lng": 126.4134575743,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2831933_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼미흑돼지 중문점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 색달중앙로 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼보식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2476448874,
+  "lng": 126.5590868593,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2800363_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼보식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중정로 25 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼성혈해물탕",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.4912225503,
+  "lng": 126.4977255785,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/656845_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼성혈해물탕",
+    "desc": "",
+    "address": "제주특별자치도 제주시 선덕로5길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼일해장국",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4856662979,
+  "lng": 126.4151162206,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2852056_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼일해장국",
+    "desc": "",
+    "address": "제주특별자치도 제주시 하귀9길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "새빌",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3615847697,
+  "lng": 126.3636734821,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3576308_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새빌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 평화로 1529"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "색달해녀의집",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2450679043,
+  "lng": 126.4156104662,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "색달해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 154-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서귀포 제주에인 감귤밭 카페",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2565935822,
+  "lng": 126.5390217302,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3071646_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포 제주에인 감귤밭 카페",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 호근서호로 20-14 (호근동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서귀피안 베이커리",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4352827669,
+  "lng": 126.9219900411,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2877635_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀피안 베이커리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신양로122번길 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서귀피안 보래드 베이커스",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2444429618,
+  "lng": 126.5905508715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2839722_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀피안 보래드 베이커스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 보목로64번길 178 (보목동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서서방숯불닭갈비 제주본점",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.4866479357,
+  "lng": 126.4901152327,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2839779_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서서방숯불닭갈비 제주본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신광로 61"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서홍정원",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2526164877,
+  "lng": 126.5544260403,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2877655_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서홍정원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 솜반천로55번길 12-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선이네밥집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5381668477,
+  "lng": 126.6399843684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3578959_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선이네밥집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 조천리"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선흘곶",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5108928938,
+  "lng": 126.6901500792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2799608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선흘곶",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선흘서2길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선흘방주할머니식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4846070775,
+  "lng": 126.7003970128,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2850001_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "선흘방주할머니식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 선교로 212"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "섬소나이 우도본점",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.5133691617,
+  "lng": 126.9576601478,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2870647_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "섬소나이 우도본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 814"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "섭섭이네",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4715876451,
+  "lng": 126.7843928004,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2840473_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "섭섭이네",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 중산간동로 2261"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성산 부뚜막식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4451287653,
+  "lng": 126.9135544343,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2833196_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "성산 부뚜막식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 고성오조로 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성산 타쿠마스시",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.4390739586,
+  "lng": 126.9185069225,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2833294_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "성산 타쿠마스시",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성산포 자연산 회센타",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.468170694,
+  "lng": 126.9154092981,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2870946_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산포 자연산 회센타",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 한도로 67"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성산해촌",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4592802468,
+  "lng": 126.9300249033,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3401566_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산해촌",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 220"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성산흑돼지두루치기 성산일출봉점",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.4662128917,
+  "lng": 126.9348243278,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2839736_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성산흑돼지두루치기 성산일출봉점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 한도로 255"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성읍칠십리식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3893025655,
+  "lng": 126.8013682122,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3400321_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성읍칠십리식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 성읍정의현로 74"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "센트로",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2466895723,
+  "lng": 126.5675833663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2871921_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "센트로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 449 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소규모식탁",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2833896168,
+  "lng": 126.2989780683,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2877725_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소규모식탁",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서광남로115번길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소금바치순이네",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5036972787,
+  "lng": 126.9126503843,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3578861_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소금바치순이네",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 2196"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소라횟집",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.5325096853,
+  "lng": 126.8463054731,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/1827421_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소라횟집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1240-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소리원",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.4825012221,
+  "lng": 126.4932011692,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2894412_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소리원",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연동12길 37"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소섬전복",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.498868108,
+  "lng": 126.9651070604,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2854058_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소섬전복",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 1158"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "솔동산고기국수",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.2429705005,
+  "lng": 126.5652336535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2833236_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "솔동산고기국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 부두로 23 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송당나무",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4769510167,
+  "lng": 126.7890922698,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "송당나무",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당5길 68-140"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송림반점",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.5124511065,
+  "lng": 126.5197592925,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2860630_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송림반점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로 2-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쇠소깍 복순이네",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2509121773,
+  "lng": 126.6210730819,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2850088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쇠소깍 복순이네",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 쇠소깍로 156 (하효동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수망다원",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3365903957,
+  "lng": 126.7189265562,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2871939_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수망다원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태수로608번길 84"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수애기베이커리",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2222482902,
+  "lng": 126.2442091801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2831906_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수애기베이커리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동일하모로98번길 48-59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수와래베이커리",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2724741457,
+  "lng": 126.6498228833,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2873715_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수와래베이커리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수희식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2453646181,
+  "lng": 126.5612617215,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수희식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 377"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "숙성도 제주본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4873145093,
+  "lng": 126.4888958794,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2800138_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "숙성도 제주본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 제원길 30 (연동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순두부엔짬뽕",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4894328604,
+  "lng": 126.4348421978,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2894489_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순두부엔짬뽕",
+    "desc": "",
+    "address": "제주특별자치도 제주시 통물길 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순아커피",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5131038591,
+  "lng": 126.5227367964,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2840492_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순아커피",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로 32-1 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순천미향 제주산방산본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.235700651,
+  "lng": 126.312494621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2784583_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순천미향 제주산방산본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계남로216번길 24-73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "숲 제주",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.513778724,
+  "lng": 126.5189482217,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2864266_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "숲 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 무근성3길 9 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쉬어갓",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3861208867,
+  "lng": 126.8822834985,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2845333_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쉬어갓",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일주동로 5023"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스마일러",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4699597157,
+  "lng": 126.4158748424,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2756014_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스마일러",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 상고길 47"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스모크하우스인구억",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.270818461,
+  "lng": 126.2783968021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2843907_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스모크하우스인구억",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 보성구억로 223"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스시애월",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4522250681,
+  "lng": 126.3842807673,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2838086_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스시애월",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 장전로 57"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스테이위드커피",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4582838623,
+  "lng": 126.4557438621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2858937_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "스테이위드커피",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해안마을5길 29 (해안동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "슬로보트",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4901296811,
+  "lng": 126.414385628,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2783168_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "슬로보트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 하귀2길 46-16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시골길",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4940311883,
+  "lng": 126.5363666008,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2854070_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시골길",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오복2길 23 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시스터필드",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2490216935,
+  "lng": 126.5073357581,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2871959_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시스터필드",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 월드컵로 8 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신왕",
+  "district": "서귀포시",
+  "category": "중식",
+  "lat": 33.4364604082,
+  "lng": 126.9215622735,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2877744_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신왕",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신양로 112"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신해바라기",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5142426737,
+  "lng": 126.5259503799,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2854096_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신해바라기",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로13길 13 (일도일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "심바카레",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4634172083,
+  "lng": 126.3168641577,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2852104_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "심바카레",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로 87-16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "싸이공레시피",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4797111671,
+  "lng": 126.4002870893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2863640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "싸이공레시피",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 하귀로25길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "썬셋클리프",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4618395082,
+  "lng": 126.3107175054,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2893737_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "썬셋클리프",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월로1길 19-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아날로그사운즈",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5116682578,
+  "lng": 126.8903215808,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2792076_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아날로그사운즈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 하도9길 72"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아리",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2614377519,
+  "lng": 126.5554202004,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2851355_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 홍중로 99 (서홍동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아리랑밀면",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.2505805813,
+  "lng": 126.5532067468,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2840916_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아리랑밀면",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서홍로 29 (서홍동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아베베베이커리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5126845582,
+  "lng": 126.5288029453,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2899538_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아베베베이커리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동문로6길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아서원",
+  "district": "서귀포시",
+  "category": "중식",
+  "lat": 33.2543617354,
+  "lng": 126.6171816748,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아서원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 칠십리로 699 (하효동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아일랜드팩토리 풍류",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5105485969,
+  "lng": 126.5233756881,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2902905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아일랜드팩토리 풍류",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로8길 31"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아줄레주",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3665251268,
+  "lng": 126.8388016012,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2851099_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아줄레주",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신풍하동로19번길 59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아트인명도암",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4677297391,
+  "lng": 126.6113106873,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2756027_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아트인명도암",
+    "desc": "",
+    "address": "제주특별자치도 제주시 봉개동"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안거리 밖거리",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2442786707,
+  "lng": 126.5640615038,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안거리 밖거리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 솔동산로 6-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안녕전복",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4989963433,
+  "lng": 126.4759245195,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2767594_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "안녕전복",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오일장중길 89-16 (도두일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안녕협재씨",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3865992669,
+  "lng": 126.2249905356,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2799720_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안녕협재씨",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안도르",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4553586672,
+  "lng": 126.7709498938,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2853462_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안도르",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당리"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "알동네집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3164771319,
+  "lng": 126.2673967427,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2911041_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "알동네집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 연명로 543"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "앙끄레국수 서귀포본점",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.2474636019,
+  "lng": 126.5117576314,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2859065_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "앙끄레국수 서귀포본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 법환상로2번길 97-18 (법환동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "애월 너와의 첫 여행 감귤창고카페",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4506585782,
+  "lng": 126.384553001,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2851878_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애월 너와의 첫 여행 감귤창고카페",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 장소로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "애월더선셋",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4562095496,
+  "lng": 126.3090427778,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2862043_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "애월더선셋",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 일주서로 6111"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "애월리순메밀막국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4656613963,
+  "lng": 126.3163947036,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2864213_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애월리순메밀막국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "애월튀김간",
+  "district": "제주시",
+  "category": "분식·주점",
+  "lat": 33.4643977009,
+  "lng": 126.3197749933,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2792991_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애월튀김간",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로 118"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "애플망고1947",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2662630814,
+  "lng": 126.2575126051,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2858478_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "애플망고1947",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 신평로 32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "양가네 신화월드 본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3062571628,
+  "lng": 126.3389629754,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2840900_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양가네 신화월드 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 동광로 112"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "양가형제",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.3072473859,
+  "lng": 126.2539592266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2899520_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양가형제",
+    "desc": "",
+    "address": "제주특별자치도 제주시 청수동8길 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "어니스트밀크 본점",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.450441394,
+  "lng": 126.8718968106,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2791200_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "어니스트밀크 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 중산간동로 3147-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "어멍이해녀",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4998782328,
+  "lng": 126.9112117082,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2871911_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "어멍이해녀",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 2244"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "어장군",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4909364471,
+  "lng": 126.4962284931,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어장군",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신대로 72"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에오마르",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5257673656,
+  "lng": 126.5865781812,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2784627_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에오마르",
+    "desc": "",
+    "address": "제주특별자치도 제주시 선사로8길 13-6 (삼양일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "연돈",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2588912291,
+  "lng": 126.4061248696,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2829946_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연돈",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 색달로 10 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "연미정",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5246662305,
+  "lng": 126.853854999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2877927_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연미정",
+    "desc": "",
+    "address": "제주특별자치도 제주시 세평항로 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "연정식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4838148633,
+  "lng": 126.4867766981,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2854113_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연정식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신광로10길 29 (연동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "연화키친",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4489831231,
+  "lng": 126.3439926768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2864225_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "연화키친",
+    "desc": "",
+    "address": "제주특별자치도 제주시 상가로 51"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영국찻집",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4172639406,
+  "lng": 126.3141237647,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2891933_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영국찻집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 녹근로 19-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영실국수",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.2544508767,
+  "lng": 126.4583815477,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2774938_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영실국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 470"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영육일삼",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2344702214,
+  "lng": 126.4883516177,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2872000_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영육일삼",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 679 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옛날팥죽",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3885998263,
+  "lng": 126.7989489935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2847843_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옛날팥죽",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성읍민속로 130"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오는정김밥",
+  "district": "서귀포시",
+  "category": "분식·주점",
+  "lat": 33.2496475788,
+  "lng": 126.5675888551,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오는정김밥",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동문동로 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오늘은녹차한잔",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.381089421,
+  "lng": 126.7912859405,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2791222_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오늘은녹차한잔",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4772"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오드랑베이커리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5421641344,
+  "lng": 126.6715954192,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오드랑베이커리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조함해안로 552-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오뚜기빵집",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.275146254,
+  "lng": 126.6611773948,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2864297_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오뚜기빵집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 129"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오라숲소리",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4955500733,
+  "lng": 126.5117825919,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3396928_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오라숲소리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오라로 80"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오랑우탄면사무소",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2311675843,
+  "lng": 126.297571017,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2904372_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오랑우탄면사무소",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 산방로 367-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오른",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4718314066,
+  "lng": 126.915767516,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2845351_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오른",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 해맞이해안로 2714"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오스모시스",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5407946303,
+  "lng": 126.830889953,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2903075_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오스모시스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해맞이해안로 1026"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오전열한시",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2667762829,
+  "lng": 126.3942757212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2756070_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오전열한시",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 상예로 248"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오조해녀의집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4697761845,
+  "lng": 126.9223003307,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3382135_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오조해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 한도로 141-13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오짜장",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.4890245608,
+  "lng": 126.4341228251,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2840627_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오짜장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조공포길 36 (외도일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "온더스톤 브런치카페 제주성산점",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4702982825,
+  "lng": 126.9182256717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3030204_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온더스톤 브런치카페 제주성산점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 해맞이해안로 2746"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "온차",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.5151842636,
+  "lng": 126.5276835417,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2857362_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온차",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서부두남길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "올드북촌",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5455418078,
+  "lng": 126.6883438872,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2903094_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "올드북촌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 일주동로 1437"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "올디벗구디",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.252987388,
+  "lng": 126.473471938,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2859051_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "올디벗구디",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 330"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "올래국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4914891794,
+  "lng": 126.4972061735,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "올래국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 귀아랑길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "올레안뜰",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2372591895,
+  "lng": 126.5128244343,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "올레안뜰",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 법환로 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "와르다레스토랑",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5110679801,
+  "lng": 126.5231229205,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2856988_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "와르다레스토랑",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로8길 24-1 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "와토커피",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2254897918,
+  "lng": 126.2565469257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2843930_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "와토커피",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동일하모로 238"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕일번지식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3900830635,
+  "lng": 126.8031597057,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3024417_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕일번지식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4610"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "외도339",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4937712193,
+  "lng": 126.4317173715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2836949_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "외도339",
+    "desc": "",
+    "address": "제주특별자치도 제주시 일주서로 7345 (외도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용꽈배기",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4817204094,
+  "lng": 126.4716113971,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2851601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용꽈배기",
+    "desc": "",
+    "address": "제주특별자치도 제주시 수덕5길 85-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우동카덴",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4358676834,
+  "lng": 126.6793082885,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2853596_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우동카덴",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 교래3길 23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우무 본점",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.405928177,
+  "lng": 126.2564540339,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2861891_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우무 본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 542-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우유부단",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3476524167,
+  "lng": 126.3280741083,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2830333_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "우유부단",
+    "desc": "",
+    "address": "제주특별자치도 제주시 금악동길 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우호적무관심",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3377608871,
+  "lng": 126.2672212843,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2854177_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우호적무관심",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 저지12길 103"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "운정이네",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2635773213,
+  "lng": 126.4377636869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2774950_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운정이네",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간서로 726 (중문동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조남원포구식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2783662631,
+  "lng": 126.7188195525,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2850072_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "원조남원포구식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 남원회관로 53"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "월정리 달이뜨는식탁 (달이뜨는식탁)",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5531870564,
+  "lng": 126.790807035,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2785328_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월정리 달이뜨는식탁 (달이뜨는식탁)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 월정1길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "월정리갈비밥",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.5548925198,
+  "lng": 126.7968120307,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2799743_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월정리갈비밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 월정7길 46"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유동커피",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2445703014,
+  "lng": 126.5638031862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2833267_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "유동커피",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 406-1 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유디에이(UDA)",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2410562417,
+  "lng": 126.5285396544,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2851262_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유디에이(UDA)",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 속골로 13-7 (호근동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "육도담 제주시청본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4950753788,
+  "lng": 126.5276839983,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2876767_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "육도담 제주시청본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도남로 59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "윤스타피자앤파스타",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5252472254,
+  "lng": 126.8849939513,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2864282_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "윤스타피자앤파스타",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 문주란로1길 74-20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "은혜전복",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4630171465,
+  "lng": 126.3101758592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2759718_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "은혜전복",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로1길 24-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "은희네해장국",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.5085574275,
+  "lng": 126.540738113,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "은희네해장국",
+    "desc": "",
+    "address": "제주특별자치도 제주시 고마로13길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이돈갓",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.5145343053,
+  "lng": 126.5257892768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2861696_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이돈갓",
+    "desc": "",
+    "address": "제주특별자치도 제주시 칠성로길 27 (일도일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이스트포레스트",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4959118035,
+  "lng": 126.8987795441,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3066831_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이스트포레스트",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 종달로1길 26-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이어도식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3844031223,
+  "lng": 126.8023710152,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2840881_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이어도식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성읍정의현로22번길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이정의댁",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2496809134,
+  "lng": 126.3920651834,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2876673_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이정의댁",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 예래로144번길 22-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이춘옥 원조 고등어쌈밥",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4890243164,
+  "lng": 126.4187130541,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2759734_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이춘옥 원조 고등어쌈밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 일주서로 7213"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "인그리드",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.502531758,
+  "lng": 126.4567455524,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2854194_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인그리드",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 64"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "인디고트리",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2638248613,
+  "lng": 126.634841043,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3552623_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인디고트리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 하례망장포로 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "인스밀",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.238507372,
+  "lng": 126.2292406748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2858471_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인스밀",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 일과대수로27번길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "인카페온더비치",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5452329825,
+  "lng": 126.8280623182,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2863631_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인카페온더비치",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 943"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일통이반",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5171006294,
+  "lng": 126.5220923173,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2798548_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "일통이반",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로2길 25 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "임금님밥상",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4849337731,
+  "lng": 126.4609483627,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2760109_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "임금님밥상",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오광로 128"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "임성반점",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.5095179388,
+  "lng": 126.509763006,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2839791_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "임성반점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 용화로 57-1 (용담이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "잇칸시타",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.477113757,
+  "lng": 126.3702508713,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2853630_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "잇칸시타",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 신엄안2길 54-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자리돔횟집",
+  "district": "서귀포시",
+  "category": "해산물·회",
+  "lat": 33.2555609294,
+  "lng": 126.5747658776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2843961_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자리돔횟집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 동홍동로 7 (동홍동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자연과사람들 밀면",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4604841192,
+  "lng": 126.6613759501,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2899502_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자연과사람들 밀면",
+    "desc": "",
+    "address": "제주특별자치도 제주시 남조로 2185"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자연몸국",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5117679337,
+  "lng": 126.5250699577,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2840659_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자연몸국",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로 63-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "자연스러운식당",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2435310361,
+  "lng": 126.5328058954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2851122_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자연스러운식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로92번길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "잔물결",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3881213939,
+  "lng": 126.2296595393,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2853648_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "잔물결",
+    "desc": "",
+    "address": "제주특별자치도 제주시 금능길 58-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장모식탁",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4968782641,
+  "lng": 126.5469489499,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2861960_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장모식탁",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연신로 51 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장수애섬식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2433981431,
+  "lng": 126.5596952349,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2932529_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장수애섬식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남성중로 2-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장인의집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4657726604,
+  "lng": 126.3268465691,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2847666_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "장인의집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로19길 31"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "재벌식당",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4908168279,
+  "lng": 126.4843989686,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2852130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "재벌식당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도령로7길 20 신광아파트"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "점점",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.537063796,
+  "lng": 126.6152615419,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2899484_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "점점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신촌북3길 39-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정가네밥상",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4687562651,
+  "lng": 126.5399668613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2836983_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "정가네밥상",
+    "desc": "",
+    "address": "제주특별자치도 제주시 아란서길 110 (아라일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정직한돈 본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.467397672,
+  "lng": 126.3390038084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2853546_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정직한돈 본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 253"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제레미",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4645504417,
+  "lng": 126.3185167661,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2852151_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제레미",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로 106-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주고로",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2711838996,
+  "lng": 126.2024645004,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2843972_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주고로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 서삼중로 94"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주고사리맛집 복돼지식당",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.3975711157,
+  "lng": 126.8025679194,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2847904_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주고사리맛집 복돼지식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 서성일로 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주공항그때그집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5104174096,
+  "lng": 126.4827764432,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2876824_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주공항그때그집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 352-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주광해 애월점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4877767845,
+  "lng": 126.3904433191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2758876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주광해 애월점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 867"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주그림카페",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3031485262,
+  "lng": 126.2978138414,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2847746_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주그림카페",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 218"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주돌창고",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3371215416,
+  "lng": 126.2335770008,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2792102_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주돌창고",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 조수7길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주돔베고기집",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.4879031676,
+  "lng": 126.4784939918,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2836968_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주돔베고기집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 월랑로4길 6 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주돗",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3332080432,
+  "lng": 126.2308467693,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주돗",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한경면 조수2길 34"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주또시랑",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4956423901,
+  "lng": 126.5532484301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2876846_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주또시랑",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연북로 724"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주뚝배기",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4611967513,
+  "lng": 126.9330912603,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3024707_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주뚝배기",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 255"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주로운청해원",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4367798025,
+  "lng": 126.9206595666,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2784594_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주로운청해원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 신양로 101"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주맛집칼국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4363898514,
+  "lng": 126.6795082596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2906206_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주맛집칼국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 비자림로 685"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주명가두루치기",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.249605972,
+  "lng": 126.5710330019,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2904418_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주명가두루치기",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로 495"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주몹시",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4945794928,
+  "lng": 126.4335894126,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2849988_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주몹시",
+    "desc": "",
+    "address": "제주특별자치도 제주시 월대1길 10 (외도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주미담",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5023775012,
+  "lng": 126.5372941084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2854260_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주미담",
+    "desc": "",
+    "address": "제주특별자치도 제주시 가령로 19 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주미향",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2551612466,
+  "lng": 126.4163601758,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제주미향",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 99"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주살롱",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4710460093,
+  "lng": 126.7825901914,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2794178_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주살롱",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 송당2길 7-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주선채향",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2263570271,
+  "lng": 126.2989876672,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2847728_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주선채향",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 사계남로84번길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주순메밀막국수",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.2913082326,
+  "lng": 126.3019248585,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2785304_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주순메밀막국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 60"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주시새우리",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5146397691,
+  "lng": 126.5207480456,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2870833_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주시새우리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 무근성7길 24 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주약수터",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2477615824,
+  "lng": 126.5617171836,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2863712_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주약수터",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중앙로 35 (서귀동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주에가면",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.514764712,
+  "lng": 126.5180205022,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2861946_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제주에가면",
+    "desc": "",
+    "address": "제주특별자치도 제주시 탑동로 119 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주연탄길 신제주본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4757463539,
+  "lng": 126.4894322054,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2871892_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주연탄길 신제주본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연화남길 10 (연동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주태백산본점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4947688948,
+  "lng": 126.4672142621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2800563_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주태백산본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도공로 154-12 (이호이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주한라국수",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.2503119092,
+  "lng": 126.4244290287,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2800476_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주한라국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로188번길 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주해물밥",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.4947350372,
+  "lng": 126.4339782641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2893721_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주해물밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 월대3길 14-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주해조네 보말성게전문점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2358042713,
+  "lng": 126.3668593459,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2836499_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주해조네 보말성게전문점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 대평감산로 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "젤코바 베이커리 카페",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4797861527,
+  "lng": 126.3998926774,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2877717_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "젤코바 베이커리 카페",
+    "desc": "",
+    "address": "제주특별자치도 제주시 하소로 1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "젬마손",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5193788962,
+  "lng": 126.5686021115,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2863587_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "젬마손",
+    "desc": "",
+    "address": "제주특별자치도 제주시 진동로 3 (화북일동, 건하주택)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "종달수다뜰",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4918621597,
+  "lng": 126.8931273496,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "종달수다뜰",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 용눈이오름로 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "죽성고을",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4622818879,
+  "lng": 126.5341175164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2854305_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "죽성고을",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한북로 176 (오등동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문 돌담흑돼지",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.2577303589,
+  "lng": 126.4132881627,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2876696_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문 돌담흑돼지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 909"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문 모메든식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2535175856,
+  "lng": 126.4545402345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2850947_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문 모메든식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 508"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문갈치조림 이조은식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2551056935,
+  "lng": 126.4161324192,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2843945_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문갈치조림 이조은식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 97 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문색달통갈치 본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2583912595,
+  "lng": 126.4045389069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2859005_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문색달통갈치 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 993 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문수두리보말칼국수",
+  "district": "서귀포시",
+  "category": "면·국물",
+  "lat": 33.2516062199,
+  "lng": 126.4250095051,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2800696_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문수두리보말칼국수",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 192"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문칠돈가",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2574915152,
+  "lng": 126.4144741763,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2755638_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문칠돈가",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 8 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문해녀의집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2424043651,
+  "lng": 126.4191518851,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2758892_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 194"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문해물라면오빠네",
+  "district": "서귀포시",
+  "category": "해산물·회",
+  "lat": 33.2583635404,
+  "lng": 126.4080774899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2858978_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "중문해물라면오빠네",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 962 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중문회포장센터 새벽야시장",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2466568335,
+  "lng": 126.4292786894,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2858402_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "중문회포장센터 새벽야시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 293 (대포동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지오아라",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2363505061,
+  "lng": 126.3078283451,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지오아라",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계로114번길 54-86"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지은이네밥상",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4520585324,
+  "lng": 126.9121210656,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2836806_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지은이네밥상",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 고성오조로97번길 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진미명가",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2283513861,
+  "lng": 126.3076174292,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3024766_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진미명가",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 사계남로 167"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "짱구분식",
+  "district": "서귀포시",
+  "category": "분식·주점",
+  "lat": 33.2502030663,
+  "lng": 126.5671583243,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2843995_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "짱구분식",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중동로48번길 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쪼끌락",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5578415238,
+  "lng": 126.7553155654,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2851553_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쪼끌락",
+    "desc": "",
+    "address": "제주특별자치도 제주시 김녕로21길 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "차롱보말전복칼국수 제주공항점",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.5185332833,
+  "lng": 126.4894034608,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2863602_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "차롱보말전복칼국수 제주공항점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 468-4 (용담삼동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "착한집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5000133921,
+  "lng": 126.5070162384,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2764060_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "착한집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서광로 98"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "착한튀김",
+  "district": "제주시",
+  "category": "분식·주점",
+  "lat": 33.5204953959,
+  "lng": 126.5658634352,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2841332_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "착한튀김",
+    "desc": "",
+    "address": "제주특별자치도 제주시 진남로6길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "참맛나김밥",
+  "district": "제주시",
+  "category": "분식·주점",
+  "lat": 33.4786485812,
+  "lng": 126.4750333913,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2870867_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "참맛나김밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한라대학로 31 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "천돈가 중문본점",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2580803858,
+  "lng": 126.4174405726,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2844012_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천돈가 중문본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일주서로 873 (색달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "천짓골식당",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2482698538,
+  "lng": 126.5613172072,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2831953_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "천짓골식당",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중앙로41번길 4 천짓골식당"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청도",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5199610235,
+  "lng": 126.4969999896,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2841357_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청도",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 546 (용담삼동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "초가헌",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.390352448,
+  "lng": 126.8012793071,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2877686_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "초가헌",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4628"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "춘미향",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2314342058,
+  "lng": 126.2965127692,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2800419_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘미향",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 산방로 378"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "춘심이네",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2645067162,
+  "lng": 126.3705528309,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2655480_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘심이네",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 창천중앙로24번길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "취향의섬",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2744162356,
+  "lng": 126.6898277081,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2873759_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "취향의섬",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로398번길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "친봉산장",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2911545642,
+  "lng": 126.5961909984,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2851165_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "친봉산장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 하신상로 417"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 귤꽃다락",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2464388857,
+  "lng": 126.522523388,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3564111_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 귤꽃다락",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로1027번길 34"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 나모나모베이커리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5089340685,
+  "lng": 126.4719635282,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2837052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 나모나모베이커리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도두봉6길 4 (도두일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 동백",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5091407006,
+  "lng": 126.7144980053,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2871088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 동백",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 동백로 68"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 아오오",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.3791188448,
+  "lng": 126.8799727482,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2784598_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 아오오",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 환해장성로 75"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 이스틀리",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4561052475,
+  "lng": 126.9084129597,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2791240_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 이스틀리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 산성효자로114번길 131-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 톨칸이",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4940129228,
+  "lng": 126.9548691711,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2811454_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 톨칸이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도면 우도해안길 32-24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페477플러스",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5270215609,
+  "lng": 126.8560464211,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2840683_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페477플러스",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 세평항로 46-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페더라이트",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4656657488,
+  "lng": 126.9360103489,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2858959_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "카페더라이트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 한도로 269"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페루시아 본점",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2346182342,
+  "lng": 126.363240242,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2836818_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페루시아 본점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 난드르로 49-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5339816371,
+  "lng": 126.8396671263,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2785337_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 평대2길 39"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페모알보알 제주점",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5595964443,
+  "lng": 126.7279651224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2783163_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페모알보알 제주점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 구좌해안로 141"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페브리프",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4583721062,
+  "lng": 126.4156862313,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2852179_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페브리프",
+    "desc": "",
+    "address": "제주특별자치도 제주시 광성로 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페서연의집",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2694523481,
+  "lng": 126.6555891188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2753538_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페서연의집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 위미해안로 86"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페숑",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2663802615,
+  "lng": 126.6427791869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2905773_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페숑",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 공천포로 91"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페술도가제주바당",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5372671402,
+  "lng": 126.824537808,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3056355_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페술도가제주바당",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 한동로 27"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페이면",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.3886212901,
+  "lng": 126.2265653531,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2864367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페이면",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능5길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페지니",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2648998349,
+  "lng": 126.6406544039,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2861615_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "카페지니",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 남원읍 공천포로11번길 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페콜라",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4433440378,
+  "lng": 126.291927889,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2858670_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페콜라",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 일주서로 5857"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페텐저린",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2363120071,
+  "lng": 126.5087220331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2844041_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페텐저린",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 880"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페하귀리",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4803471778,
+  "lng": 126.3983789075,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2877738_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페하귀리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 일주서로 7000"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페한라산",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.524749702,
+  "lng": 126.8629764281,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2863620_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "카페한라산",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 면수1길 48"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피냅로스터스 제주",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4893353163,
+  "lng": 126.4138690241,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2891944_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커피냅로스터스 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 하귀2길 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피스케치",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2334009178,
+  "lng": 126.3133001582,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2852518_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "커피스케치",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 사계남로216번길 24-32 네덜란드엿보기전시관"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피프렌즈촬영지",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2886863834,
+  "lng": 126.3072216792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2737542_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커피프렌즈촬영지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 중산간서로 2026"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "코리코카페 제주점",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4365434621,
+  "lng": 126.7325203236,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3443264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코리코카페 제주점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 비자림로 1199"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "코우",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.256162556,
+  "lng": 126.5062940212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2871991_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코우",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신중로13번길 3-5 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "코코마마",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.4610523426,
+  "lng": 126.9343189349,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2755652_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코코마마",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 일출로 258-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "콜린 제주",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4629116076,
+  "lng": 126.3104425058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2891952_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "콜린 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월로1길 24-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "크라운돼지",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.3934398929,
+  "lng": 126.3834849354,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2861352_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "크라운돼지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 상가목장길 84"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "크래커스",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.263316532,
+  "lng": 126.2797079652,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2784605_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "크래커스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 보성구억로126번길 34"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "키친아루요",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4237924354,
+  "lng": 126.4052962464,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2795030_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "키친아루요",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 유수암평화5길 15-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "타무라",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4989714565,
+  "lng": 126.6568893511,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2853290_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "타무라",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 중산간동로 670"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "토끼와거북이",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5188499582,
+  "lng": 126.4921365493,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2764063_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토끼와거북이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 498-6 (용담삼동, 블루문)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "토토네",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4894213675,
+  "lng": 126.4106831878,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2870828_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "토토네",
+    "desc": "",
+    "address": "제주특별자치도 제주시 하귀10길 49-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "톰톰카레",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5375034354,
+  "lng": 126.8375450072,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2851474_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "톰톰카레",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1112"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "트라이브",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4600591587,
+  "lng": 126.3112758307,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2861931_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "트라이브",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월로 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "트라인커피",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4939660761,
+  "lng": 126.6332192986,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2899442_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트라인커피",
+    "desc": "",
+    "address": "제주특별자치도 제주시 와흘상길 32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "트로피컬 하이드어웨이 카페",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2092671261,
+  "lng": 126.2912859363,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2858416_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "트로피컬 하이드어웨이 카페",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 형제해안로 284"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "판포미인",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.365212326,
+  "lng": 126.1982461153,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2849979_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "판포미인",
+    "desc": "",
+    "address": "제주특별자치도 제주시 판포1길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "페를로",
+  "district": "서귀포시",
+  "category": "양식·세계요리",
+  "lat": 33.2567176785,
+  "lng": 126.3063224681,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2845361_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "페를로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 덕수회관로74번길 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "평대스낵",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5366396491,
+  "lng": 126.8379755451,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2861367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평대스낵",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 대수길 26"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "포도원흑돼지",
+  "district": "제주시",
+  "category": "고기·구이",
+  "lat": 33.4700581065,
+  "lng": 126.4901906019,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2870895_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포도원흑돼지",
+    "desc": "",
+    "address": "제주특별자치도 제주시 수목원길 51 (연동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "포하노이",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4486068479,
+  "lng": 126.4363513218,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2871843_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "포하노이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 광령중길 133-2 예그리나"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "표선세화해녀의집",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3036426522,
+  "lng": 126.8062030805,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3024863_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "표선세화해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 민속해안로 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풀베개",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.285511671,
+  "lng": 126.3032220973,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "풀베개",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순서서로 492-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풍천만가",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4782462172,
+  "lng": 126.4982369392,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "풍천만가",
+    "desc": "",
+    "address": "제주특별자치도 제주시 아연로 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "피어22",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.3899739377,
+  "lng": 126.2278124372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2861707_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "피어22",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 금능7길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "피즈 버거 노형점",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.483650847,
+  "lng": 126.4776191647,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2839896_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "피즈 버거 노형점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 노형10길 6 (노형동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "피커스 제주",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4739110719,
+  "lng": 126.5287816055,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2854326_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "피커스 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 아연로 444-1 (오등동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하귀정담",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.512151183,
+  "lng": 126.5224396217,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2877749_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "하귀정담",
+    "desc": "",
+    "address": "제주특별자치도 제주시 중앙로12길 21 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하라케케",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2426199585,
+  "lng": 126.5285812818,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2861510_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "하라케케",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 속골로 29-10 (호근동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하례감귤점빵협동조합",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2713738458,
+  "lng": 126.623364089,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2910838_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하례감귤점빵협동조합",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 하례로 272"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하르방짬뽕",
+  "district": "제주시",
+  "category": "중식",
+  "lat": 33.4825082726,
+  "lng": 126.4124692997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2853271_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하르방짬뽕",
+    "desc": "",
+    "address": "제주특별자치도 제주시 하귀동남4길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하영 흑돼지구이집",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.2550751487,
+  "lng": 126.4165962685,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3477212_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하영 흑돼지구이집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 101"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하우스레서피",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4437523808,
+  "lng": 126.2954247979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2756037_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하우스레서피",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 일주서로 5892"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하하호호",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.5209209575,
+  "lng": 126.9485746495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2854350_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하하호호",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도해안길 532"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한길정",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.2639818043,
+  "lng": 126.5484040845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2877708_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "한길정",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간동로 8128-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한데모아 정실점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4700472992,
+  "lng": 126.5092139488,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2839915_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한데모아 정실점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 아연로 182 (오라이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한라산아래첫마을 영농조합법인",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.3279942898,
+  "lng": 126.3796367363,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2845376_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한라산아래첫마을 영농조합법인",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 산록남로 675"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한라향",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4911897022,
+  "lng": 126.5279562849,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2839926_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한라향",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도남로 104 (도남동, 백록아파트)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한림칼국수 제주본점",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.4155966307,
+  "lng": 126.2615172662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2800503_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한림칼국수 제주본점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림해안로 141"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "함덕회춘",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5431583226,
+  "lng": 126.6624906317,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2854399_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "함덕회춘",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 신북로 489"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "함쉐프키친",
+  "district": "서귀포시",
+  "category": "중식",
+  "lat": 33.2420825647,
+  "lng": 126.4436553232,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2844070_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "함쉐프키친",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 이어도로 217-4 (대포동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해녀의 부엌",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4978173678,
+  "lng": 126.912306105,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3578892_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해녀의 부엌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 2265"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해녀의집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4784135608,
+  "lng": 126.3669400192,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2852222_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 591"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해녀잠수촌",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5192638011,
+  "lng": 126.4921643149,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2759097_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해녀잠수촌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 498 (용담삼동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해녀촌",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5536884744,
+  "lng": 126.7098946061,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3466512_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해녀촌",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 동복로 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해물통라면 문개항아리 애월해안도로점",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.4858131444,
+  "lng": 126.3924515219,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2850034_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "해물통라면 문개항아리 애월해안도로점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 가문동길 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해성도뚜리",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4817883141,
+  "lng": 126.3749809108,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2796262_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해성도뚜리",
+    "desc": "",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 682"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해왓",
+  "district": "서귀포시",
+  "category": "한식·백반",
+  "lat": 33.4385517727,
+  "lng": 126.9171792715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2755658_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해왓",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 신고로 30-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "행복밀",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5000525164,
+  "lng": 126.5220815945,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "행복밀",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서광로 239 (삼도일동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "향원복집",
+  "district": "서귀포시",
+  "category": "일식",
+  "lat": 33.2411790255,
+  "lng": 126.5648726139,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "향원복집",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 부두로 43"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "허니문하우스",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.246959152,
+  "lng": 126.578029677,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3389969_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "허니문하우스",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 토평동 511"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "헬로남생이",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5336113809,
+  "lng": 126.6140367267,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2877765_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "헬로남생이",
+    "desc": "",
+    "address": "제주특별자치도 제주시 원당북로 197-20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "협재 수우동",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.3965428856,
+  "lng": 126.2424860137,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2800436_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "협재 수우동",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재1길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "협재신국수",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.3952264638,
+  "lng": 126.2488049381,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2870966_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "협재신국수",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 명재로 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "협재해녀의집",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3988648733,
+  "lng": 126.2439108383,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2759108_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "협재해녀의집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 협재3길 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "협재해물라면오빠네",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.4020118583,
+  "lng": 126.2510184831,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2837025_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "협재해물라면오빠네",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 475"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "형돈",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4893510958,
+  "lng": 126.5329253392,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2854382_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "형돈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구남로 22 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호랑호랑 성산카페",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.4500589058,
+  "lng": 126.9215564052,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2847820_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호랑호랑 성산카페",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 일출로 86"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호자",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.5215083065,
+  "lng": 126.8575797487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2851394_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호자",
+    "desc": "",
+    "address": "제주특별자치도 제주시 세화8길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "혼저",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.3857660241,
+  "lng": 126.2248544545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3059359_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "혼저",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 158"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "홀츠 애월",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4243616788,
+  "lng": 126.3965636592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2891970_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홀츠 애월",
+    "desc": "",
+    "address": "제주특별자치도 제주시 하소로 681-13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "홍성방",
+  "district": "서귀포시",
+  "category": "중식",
+  "lat": 33.2201653043,
+  "lng": 126.2517224623,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2800487_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍성방",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 하모항구로 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "화고 흑돼지 신시가지점",
+  "district": "서귀포시",
+  "category": "고기·구이",
+  "lat": 33.2533795283,
+  "lng": 126.5061996473,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2844083_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화고 흑돼지 신시가지점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 신서로32번길 20 (강정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "환영키친",
+  "district": "제주시",
+  "category": "양식·세계요리",
+  "lat": 33.4714903929,
+  "lng": 126.7818624665,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2877947_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "환영키친",
+    "desc": "",
+    "address": "제주특별자치도 제주시 송당2길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "회춘 애월점",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4890710908,
+  "lng": 126.3907765945,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2893694_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "회춘 애월점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 가문동길 80"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "효은디저트",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2455333133,
+  "lng": 126.3388976667,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3574992_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효은디저트",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 화순해안로 189"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "효퇴국수국밥",
+  "district": "제주시",
+  "category": "면·국물",
+  "lat": 33.5015661986,
+  "lng": 126.51961233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2860562_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효퇴국수국밥",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서사로 122-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "훈남횟집",
+  "district": "제주시",
+  "category": "해산물·회",
+  "lat": 33.5421279676,
+  "lng": 126.6678651887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2854411_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "훈남횟집",
+    "desc": "",
+    "address": "제주특별자치도 제주시 조천읍 함덕13길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "훈데르트윈즈",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4921103615,
+  "lng": 126.9552580701,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2811456_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "훈데르트윈즈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 우도해안길 32-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "휴일로",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2322657684,
+  "lng": 126.3665955587,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2785323_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "휴일로",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 안덕면 난드르로 49-65"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "흑돈가 제주",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.4800372929,
+  "lng": 126.473552933,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "흑돈가 제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한라대학로 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "흑돼지해물삼합",
+  "district": "서귀포시",
+  "category": "해산물·회",
+  "lat": 33.2456869486,
+  "lng": 126.5703303734,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2894400_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "흑돼지해물삼합",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 태평로482번길 50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "흑본오겹 함덕점",
+  "district": "제주시",
+  "category": "한식·백반",
+  "lat": 33.5436693167,
+  "lng": 126.6587242813,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2899416_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "흑본오겹 함덕점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 신북로 454"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "513텐동",
+  "district": "제주시",
+  "category": "일식",
+  "lat": 33.4902927242,
+  "lng": 126.5370555146,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2857259_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "513텐동",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구남로8길 17 (이도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "52번가",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4957030765,
+  "lng": 126.5270118197,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2863937_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "52번가",
+    "desc": "",
+    "address": "제주특별자치도 제주시 도남로 52 (도남동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "5L2F",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4939577489,
+  "lng": 126.6335581582,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2911076_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "5L2F",
+    "desc": "",
+    "address": "제주특별자치도 제주시 와흘상길 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "73st",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4570339914,
+  "lng": 126.4551439425,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/2899702_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "73st",
+    "desc": "",
+    "address": "제주특별자치도 제주시 해안마을길 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "88로스터즈",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5258892057,
+  "lng": 126.5634996293,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2904474_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "88로스터즈",
+    "desc": "",
+    "address": "제주특별자치도 제주시 금산5길 35-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "ABC 에이팩토리베이커리카페",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.5166840271,
+  "lng": 126.5232394495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2852455_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "ABC 에이팩토리베이커리카페",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로7길 39 (삼도이동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "AND 유 CAFE",
+  "district": "제주시",
+  "category": "카페·베이커리",
+  "lat": 33.4046005109,
+  "lng": 126.2542070367,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2904495_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "AND 유 CAFE",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 518"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "M1971 카페 엠브릿지",
+  "district": "서귀포시",
+  "category": "카페·베이커리",
+  "lat": 33.2101442731,
+  "lng": 126.2571416578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/2877798_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "M1971 카페 엠브릿지",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 최남단해안로 128"
+   }
+  }
+ }
+]

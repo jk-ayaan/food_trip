@@ -1,0 +1,1311 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "간성전통시장",
+  "district": "고성군",
+  "category": "5일장",
+  "lat": 38.3802151301,
+  "lng": 128.4697191736,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3378469_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "간성전통시장",
+    "desc": "",
+    "address": "강원특별자치도 고성군 간성읍 간성시장2길 9-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉 농산물도매시장",
+  "district": "강릉시",
+  "category": "상설시장",
+  "lat": 37.7367152805,
+  "lng": 128.9182652483,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3378370_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강릉 농산물도매시장",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 유산로 60 (유산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉 동부시장",
+  "district": "강릉시",
+  "category": "상설시장",
+  "lat": 37.7601039005,
+  "lng": 128.9007299929,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3029812_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강릉 동부시장",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 옥천로 48"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉갤럭시",
+  "district": "강릉시",
+  "category": "사후면세점",
+  "lat": 37.7527046739,
+  "lng": 128.8964917145,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강릉갤럭시",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 금성로 41"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉교동건어물",
+  "district": "강릉시",
+  "category": "특산물판매점",
+  "lat": 37.7607093929,
+  "lng": 128.9011021629,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강릉교동건어물",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 옥가로50번길 7"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉식자재마트",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7626808654,
+  "lng": 128.8743350687,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강릉식자재마트",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 정원로 68 (교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉전통약과2공장",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7435365545,
+  "lng": 128.9100991063,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강릉전통약과2공장",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 율곡로2631번길 45-2 (노암동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강릉항회센터",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7701176433,
+  "lng": 128.9525889012,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3577853_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강릉항회센터",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 창해로14번길 55-21 (견소동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강원식자재마트 주문진점 (구 강원양돈하나로마트주문진지점)",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.8902707345,
+  "lng": 128.8274603439,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강원식자재마트 주문진점 (구 강원양돈하나로마트주문진지점)",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 시장길 28"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "거진전통시장",
+  "district": "고성군",
+  "category": "5일장",
+  "lat": 38.4479596904,
+  "lng": 128.4538101632,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3026775_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거진전통시장",
+    "desc": "",
+    "address": "강원특별자치도 고성군 거진읍 거진시장길 17-11"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "경기건어물",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.891262304,
+  "lng": 128.8283630094,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경기건어물",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 해안로 1747-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "고성 DMZ박물관 뮤지엄샵",
+  "district": "고성군",
+  "category": "특산물판매점",
+  "lat": 38.5763766314,
+  "lng": 128.3827237217,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3026739_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고성 DMZ박물관 뮤지엄샵",
+    "desc": "",
+    "address": "강원특별자치도 고성군 현내면 통일전망대로 369"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "고한 구공탄시장",
+  "district": "정선군",
+  "category": "상설시장",
+  "lat": 37.2008758104,
+  "lng": 128.8539762367,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2785641_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고한 구공탄시장",
+    "desc": "",
+    "address": "강원특별자치도 정선군 고한읍 고한6길 7"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "관음불교사",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7529102374,
+  "lng": 128.8981415598,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "관음불교사",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 중앙시장2길 29 (성남동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "꽃사슴복권마트(슈퍼맨편의점)",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7561431866,
+  "lng": 128.8976220619,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꽃사슴복권마트(슈퍼맨편의점)",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 경강로 2113 (임당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "다이소 강릉내곡점",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7422972456,
+  "lng": 128.8811795266,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다이소 강릉내곡점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 범일로 618 (내곡동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대진항 수산시장",
+  "district": "고성군",
+  "category": "상설시장",
+  "lat": 38.5026750089,
+  "lng": 128.4275136191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3569552_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대진항 수산시장",
+    "desc": "",
+    "address": "강원특별자치도 고성군 현내면 대진항길 147"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대화시장 (4,9일)",
+  "district": "평창군",
+  "category": "5일장",
+  "lat": 37.5006836134,
+  "lng": 128.45411146,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3040102_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대화시장 (4,9일)",
+    "desc": "",
+    "address": "강원특별자치도 평창군 대화면 대화3길 31"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동송전통시장",
+  "district": "철원군",
+  "category": "5일장",
+  "lat": 38.2087753996,
+  "lng": 127.2192082115,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3572296_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동송전통시장",
+    "desc": "",
+    "address": "강원특별자치도 철원군 동송읍 이평로47번길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "묵호항 활·선어판매센터",
+  "district": "동해시",
+  "category": "전문매장",
+  "lat": 37.5519515485,
+  "lng": 129.1139283754,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3448321_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "묵호항 활·선어판매센터",
+    "desc": "",
+    "address": "강원특별자치도 동해시 묵호진동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "물치항활어회센터",
+  "district": "양양군",
+  "category": "전문매장",
+  "lat": 38.1561050811,
+  "lng": 128.6100911934,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3500540_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "물치항활어회센터",
+    "desc": "",
+    "address": "강원특별자치도 양양군 강현면 동해대로 3584"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "민속풍물시장",
+  "district": "원주시",
+  "category": "5일장",
+  "lat": 37.3490389422,
+  "lng": 127.9541387992,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3045198_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "민속풍물시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 풍물시장길 30 (평원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "방파제회센터",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.8944842599,
+  "lng": 128.8338429706,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3577807_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방파제회센터",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 해안로 1822"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "베이비하우스 강릉점",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.758401298,
+  "lng": 128.8996329222,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "베이비하우스 강릉점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 옥가로 24 (옥천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "봉포항활어회센터",
+  "district": "고성군",
+  "category": "전문매장",
+  "lat": 38.2524041656,
+  "lng": 128.5680947778,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3557132_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉포항활어회센터",
+    "desc": "",
+    "address": "강원특별자치도 고성군 토성면 토성로 44-12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "북평민속오일장 (3, 8일)",
+  "district": "동해시",
+  "category": "5일장",
+  "lat": 37.4825320089,
+  "lng": 129.1260627613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2741966_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북평민속오일장 (3, 8일)",
+    "desc": "",
+    "address": "강원특별자치도 동해시 오일장길 32 (북평동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "사북시장",
+  "district": "정선군",
+  "category": "상설시장",
+  "lat": 37.2272803953,
+  "lng": 128.8168732078,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2785651_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사북시장",
+    "desc": "",
+    "address": "강원특별자치도 정선군 사북읍 사북중앙로 17-8"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼일식품",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7570459797,
+  "lng": 128.9037631476,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "삼일식품",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 옥천로 9 (옥천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼척 도계전두시장",
+  "district": "삼척시",
+  "category": "상설시장",
+  "lat": 37.2373586135,
+  "lng": 129.0437415047,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3394080_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼척 도계전두시장",
+    "desc": "",
+    "address": "강원특별자치도 삼척시 도계읍 강원남부로 1488"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼척 중앙시장 (2, 7일)",
+  "district": "삼척시",
+  "category": "5일장",
+  "lat": 37.4418569004,
+  "lng": 129.1650771862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3378529_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼척 중앙시장 (2, 7일)",
+    "desc": "",
+    "address": "강원특별자치도 삼척시 진주로 12-21 (남양동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "샘밭장터(4, 9일)",
+  "district": "춘천시",
+  "category": "5일장",
+  "lat": 37.9244350324,
+  "lng": 127.7472628136,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2788264_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "샘밭장터(4, 9일)",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 신북읍 율문리 935-91"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "센스안경",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7645363166,
+  "lng": 128.8799900575,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "센스안경",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 교동광장로 137 (교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "소금강행복펜션마트",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.8465762113,
+  "lng": 128.7058837858,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소금강행복펜션마트",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 연곡면 소금강길 3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "속초수협 청호활어센터",
+  "district": "속초시",
+  "category": "전문매장",
+  "lat": 38.1962834336,
+  "lng": 128.5943524795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3394137_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "속초수협 청호활어센터",
+    "desc": "",
+    "address": "강원특별자치도 속초시 설악금강대교로 67"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "쇠바우골탄광문화장터",
+  "district": "태백시",
+  "category": "상설시장",
+  "lat": 37.1167279072,
+  "lng": 129.037904005,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2610083_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "쇠바우골탄광문화장터",
+    "desc": "",
+    "address": "강원특별자치도 태백시 동태백로 434 (철암동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "아남프라자",
+  "district": "속초시",
+  "category": "전문매장",
+  "lat": 38.1974551954,
+  "lng": 128.5777261751,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3394130_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아남프라자",
+    "desc": "",
+    "address": "강원특별자치도 속초시 동해대로 4236"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "야옹아멍멍해봐 강릉내곡점",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7404169309,
+  "lng": 128.8823850316,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "야옹아멍멍해봐 강릉내곡점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 남부로17번길 8 (내곡동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양구명품관(강원)",
+  "district": "양구군",
+  "category": "특산물판매점",
+  "lat": 38.1069378024,
+  "lng": 127.9906379341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3077199_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양구명품관(강원)",
+    "desc": "",
+    "address": "강원특별자치도 양구군 양구읍 관공서로 10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "에이스마트 주문진점",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.8948980383,
+  "lng": 128.8306404689,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "에이스마트 주문진점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 주문로 144"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영월중앙시장",
+  "district": "영월군",
+  "category": "상설시장",
+  "lat": 37.1832149975,
+  "lng": 128.4718359882,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3557240_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "영월중앙시장",
+    "desc": "",
+    "address": "강원특별자치도 영월군 영월읍 중앙시장길 7"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "예밀와인 힐링센터",
+  "district": "영월군",
+  "category": "전문매장",
+  "lat": 37.1416164777,
+  "lng": 128.5905432481,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2797090_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예밀와인 힐링센터",
+    "desc": "",
+    "address": "강원특별자치도 영월군 김삿갓면 예밀촌길 229-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "옥계5일장",
+  "district": "강릉시",
+  "category": "5일장",
+  "lat": 37.6089684239,
+  "lng": 129.0348087155,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "옥계5일장",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 옥계면 현내시장길 78"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "요넥스 강릉점(모던스포츠)",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7636729511,
+  "lng": 128.9017270149,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "요넥스 강릉점(모던스포츠)",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 강릉대로 304 (포남동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 남부시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3431451847,
+  "lng": 127.9544556091,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3544576_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 남부시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 치악로 1803 (명륜동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 농산물도매시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3549376881,
+  "lng": 127.9233108537,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3557049_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 농산물도매시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 서원대로 33 (단계동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 단구시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3312270793,
+  "lng": 127.9524005866,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3440453_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 단구시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 송림길 48-13"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 도래미시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3512580488,
+  "lng": 127.9497335765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3460660_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 도래미시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 중앙시장길 31-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 문막시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3060135627,
+  "lng": 127.8153692408,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/1948076_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 문막시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 문막읍 문막시장1길 52-10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 자유시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3513246876,
+  "lng": 127.9486225637,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/1948087_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 자유시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 자유시장길 11"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원주 중앙시장",
+  "district": "원주시",
+  "category": "상설시장",
+  "lat": 37.3500137379,
+  "lng": 127.9491781074,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3460688_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원주 중앙시장",
+    "desc": "",
+    "address": "강원특별자치도 원주시 중앙시장길 6"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원천상회",
+  "district": "화천군",
+  "category": "전문매장",
+  "lat": 38.0578818807,
+  "lng": 127.6672216868,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2710993_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원천상회",
+    "desc": "",
+    "address": "강원특별자치도 화천군 하남면 영서로 5500"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원통장 (2, 7일)",
+  "district": "인제군",
+  "category": "5일장",
+  "lat": 38.1226233783,
+  "lng": 128.2044596498,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3375952_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "원통장 (2, 7일)",
+    "desc": "",
+    "address": "강원특별자치도 인제군 북면 원통리 647-6"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "월드마트 초당점",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7843874886,
+  "lng": 128.9153973642,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월드마트 초당점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 연당길 74 (초당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "육림고개",
+  "district": "춘천시",
+  "category": "상설시장",
+  "lat": 37.8775957069,
+  "lng": 127.7295435962,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3351486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "육림고개",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 춘천로151번길 21-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "이마트24 강릉여고점",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.7574875327,
+  "lng": 128.9005356469,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이마트24 강릉여고점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 경강로 2144-1 (옥천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "정선석공예단지",
+  "district": "정선군",
+  "category": "공예·공방",
+  "lat": 37.3542194834,
+  "lng": 128.7201113946,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3584600_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정선석공예단지",
+    "desc": "",
+    "address": "강원특별자치도 정선군 정선읍 소금강로 19"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제임스딘 강릉점",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7541934153,
+  "lng": 128.8977748864,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제임스딘 강릉점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 금성로 24 (금학동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "주문진식자재마트",
+  "district": "강릉시",
+  "category": "대형마트",
+  "lat": 37.8813884076,
+  "lng": 128.8262718384,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주문진식자재마트",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 연주로 324"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "주문진원마트",
+  "district": "강릉시",
+  "category": "쇼핑",
+  "lat": 37.8880876272,
+  "lng": 128.8260772034,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주문진원마트",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 장성로 51"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진부전통시장 (3, 8일)",
+  "district": "평창군",
+  "category": "5일장",
+  "lat": 37.6378280865,
+  "lng": 128.5582979332,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3379362_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진부전통시장 (3, 8일)",
+    "desc": "",
+    "address": "강원특별자치도 평창군 진부면 진부시장안길 23"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "참조은생활마트 포남점",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7710167147,
+  "lng": 128.9103648985,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "참조은생활마트 포남점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 강릉대로 422-8 (포남동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청정건어물직매장",
+  "district": "강릉시",
+  "category": "특산물판매점",
+  "lat": 37.8910928796,
+  "lng": 128.8283907906,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청정건어물직매장",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 주문진읍 해안로 1747"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "초려공방",
+  "district": "강릉시",
+  "category": "공예·공방",
+  "lat": 37.7794540334,
+  "lng": 128.879920158,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2797147_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "초려공방",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 율곡로3139번길 24-2 (죽헌동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "춘천 남부시장",
+  "district": "춘천시",
+  "category": "상설시장",
+  "lat": 37.8705436829,
+  "lng": 127.7259607988,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3475290_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘천 남부시장",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 공지로 367"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "춘천 동부시장",
+  "district": "춘천시",
+  "category": "상설시장",
+  "lat": 37.877290273,
+  "lng": 127.7341348545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3475255_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘천 동부시장",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 동부시장길 8"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "춘천 서부시장",
+  "district": "춘천시",
+  "category": "상설시장",
+  "lat": 37.8849030941,
+  "lng": 127.7243716281,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3382402_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "춘천 서부시장",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 서부대성로 12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "춘천 풍물시장(2, 7일)",
+  "district": "춘천시",
+  "category": "5일장",
+  "lat": 37.8682826674,
+  "lng": 127.7169755725,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/2745845_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘천 풍물시장(2, 7일)",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 영서로 2352-21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "통리장 (5, 15, 25일)",
+  "district": "태백시",
+  "category": "5일장",
+  "lat": 37.1684997127,
+  "lng": 129.0363803567,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3396969_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "통리장 (5, 15, 25일)",
+    "desc": "",
+    "address": "강원특별자치도 태백시 통리1길 39"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "파스텔상점",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7603787408,
+  "lng": 128.894169464,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3585949_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "파스텔상점",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 강릉대로211번길 20-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "평창올림픽시장(구 평창전통시장)",
+  "district": "평창군",
+  "category": "5일장",
+  "lat": 37.366803494,
+  "lng": 128.3946374787,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2733639_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평창올림픽시장(구 평창전통시장)",
+    "desc": "",
+    "address": "강원특별자치도 평창군 평창읍 평창시장1길 8-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한길DC마트",
+  "district": "강릉시",
+  "category": "대형마트",
+  "lat": 37.7650531166,
+  "lng": 128.8898919271,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한길DC마트",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 화부산로 109 (교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "향토공예관",
+  "district": "춘천시",
+  "category": "특산물판매점",
+  "lat": 37.8668662471,
+  "lng": 127.7213863239,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/1947770_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "향토공예관",
+    "desc": "",
+    "address": "강원특별자치도 춘천시 춘천로 19 (온의동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "헬스케어의료기",
+  "district": "강릉시",
+  "category": "전문매장",
+  "lat": 37.7719165956,
+  "lng": 128.9096010505,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "헬스케어의료기",
+    "desc": "",
+    "address": "강원특별자치도 강릉시 보래미하길 19 (포남동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "홍천 중앙시장 (1,6일)",
+  "district": "홍천군",
+  "category": "5일장",
+  "lat": 37.6910786322,
+  "lng": 127.886129343,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2770048_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍천 중앙시장 (1,6일)",
+    "desc": "",
+    "address": "강원특별자치도 홍천군 홍천읍 홍천로8길 17"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "화천시장",
+  "district": "화천군",
+  "category": "상설시장",
+  "lat": 38.1039577742,
+  "lng": 127.7052557242,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3493494_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화천시장",
+    "desc": "",
+    "address": "강원특별자치도 화천군 화천읍 중앙로4길 12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "황지 자유시장",
+  "district": "태백시",
+  "category": "상설시장",
+  "lat": 37.1732122213,
+  "lng": 128.9929424273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3379341_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "황지 자유시장",
+    "desc": "",
+    "address": "강원특별자치도 태백시 시장안2길 14 (황지동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "DMZ마켓",
+  "district": "철원군",
+  "category": "상설시장",
+  "lat": 38.1980221848,
+  "lng": 127.2780281325,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2774053_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "DMZ마켓",
+    "desc": "",
+    "address": "강원특별자치도 철원군 동송읍 한탄강길 92"
+   }
+  }
+ }
+]

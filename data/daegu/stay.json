@@ -1,0 +1,631 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "공감호스텔 동성로(공감동성로게스트하우스)",
+  "district": "중구",
+  "category": "게스트하우스",
+  "lat": 35.871689255,
+  "lng": 128.5963486591,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "공감호스텔 동성로(공감동성로게스트하우스)",
+    "desc": "",
+    "address": "대구광역시 중구 동성로12길 9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "군위 상매댁(군위남천고택)",
+  "district": "군위군",
+  "category": "한옥스테이",
+  "lat": 36.0586774643,
+  "lng": 128.6540133379,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2684905_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위 상매댁(군위남천고택)",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 한밤5길 19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "글렌즈 게스트하우스(글렌즈게스트하우스)",
+  "district": "중구",
+  "category": "게스트하우스",
+  "lat": 35.8633459531,
+  "lng": 128.6070729458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2570919_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "글렌즈 게스트하우스(글렌즈게스트하우스)",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로445길 16-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "대구 메리어트 호텔",
+  "district": "동구",
+  "category": "관광호텔",
+  "lat": 35.8753644169,
+  "lng": 128.6276707967,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2721553_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 메리어트 호텔",
+    "desc": "",
+    "address": "대구광역시 동구 동부로26길 6 (신천동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도동유교문화관",
+  "district": "달성군",
+  "category": "한옥스테이",
+  "lat": 35.7019904471,
+  "lng": 128.3715481419,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도동유교문화관",
+    "desc": "",
+    "address": "대구광역시 달성군 구지면 구지서로 716"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트 호텔 대구수성점",
+  "district": "수성구",
+  "category": "관광호텔",
+  "lat": 35.8411237664,
+  "lng": 128.6232471403,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3054872_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트 호텔 대구수성점",
+    "desc": "",
+    "address": "대구광역시 수성구 동대구로25길 33 (황금동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비바스호텔",
+  "district": "서구",
+  "category": "모텔",
+  "lat": 35.868088895,
+  "lng": 128.5547079832,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비바스호텔",
+    "desc": "",
+    "address": "대구광역시 서구 서대구로21길 6 (평리동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "빌리언웨스턴호텔 대구성서점",
+  "district": "달서구",
+  "category": "관광호텔",
+  "lat": 35.8411824445,
+  "lng": 128.4913948644,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "빌리언웨스턴호텔 대구성서점",
+    "desc": "",
+    "address": "대구광역시 달서구 달서대로 467 (호산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사라네집",
+  "district": "남구",
+  "category": "게스트하우스",
+  "lat": 35.8502860622,
+  "lng": 128.5930856531,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사라네집",
+    "desc": "",
+    "address": "대구광역시 남구 중앙대로40길 48-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "상상하우스",
+  "district": "남구",
+  "category": "게스트하우스",
+  "lat": 35.8314792407,
+  "lng": 128.5595891251,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "상상하우스",
+    "desc": "",
+    "address": "대구광역시 남구 매자안길 39"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서문한옥게스트하우스",
+  "district": "중구",
+  "category": "한옥스테이",
+  "lat": 35.8667617259,
+  "lng": 128.5795752731,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2568115_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서문한옥게스트하우스",
+    "desc": "",
+    "address": "대구광역시 중구 큰장로24길 26"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 원향",
+  "district": "남구",
+  "category": "한옥스테이",
+  "lat": 35.8543079491,
+  "lng": 128.5995960785,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이 원향",
+    "desc": "",
+    "address": "대구광역시 남구 이천로28길 27-2 (이천동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "시안호텔",
+  "district": "서구",
+  "category": "관광호텔",
+  "lat": 35.8684110847,
+  "lng": 128.554924622,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "시안호텔",
+    "desc": "",
+    "address": "대구광역시 서구 서대구로 117 (평리동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "애가 한옥 게스트하우스",
+  "district": "중구",
+  "category": "한옥스테이",
+  "lat": 35.8574267397,
+  "lng": 128.5832668745,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "애가 한옥 게스트하우스",
+    "desc": "",
+    "address": "대구광역시 중구 남산로2길 11-11 (남산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여주현_감성독채한옥숙소",
+  "district": "중구",
+  "category": "한옥스테이",
+  "lat": 35.8720251545,
+  "lng": 128.5869328122,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "여주현_감성독채한옥숙소",
+    "desc": "",
+    "address": "대구광역시 중구 서성로13길 7-6 (서성로1가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "유니드호텔",
+  "district": "달서구",
+  "category": "관광호텔",
+  "lat": 35.8545867532,
+  "lng": 128.5061348611,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유니드호텔",
+    "desc": "",
+    "address": "대구광역시 달서구 이곡서로 86 (이곡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "유원게스트하우스",
+  "district": "남구",
+  "category": "게스트하우스",
+  "lat": 35.8343097649,
+  "lng": 128.5753098848,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2575079_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "유원게스트하우스",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로93길 48"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "컨벤션비지니스호텔",
+  "district": "북구",
+  "category": "관광호텔",
+  "lat": 35.905963479,
+  "lng": 128.6140600312,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "컨벤션비지니스호텔",
+    "desc": "",
+    "address": "대구광역시 북구 유통단지로8길 86 (산격동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "팔공 에밀리아호텔",
+  "district": "동구",
+  "category": "관광호텔",
+  "lat": 35.9917135068,
+  "lng": 128.6901620328,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3526566_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "팔공 에밀리아호텔",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 1121"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥,만월 프리미엄스테이",
+  "district": "중구",
+  "category": "한옥스테이",
+  "lat": 35.8624153364,
+  "lng": 128.5980793198,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한옥,만월 프리미엄스테이",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화1길 8-4 (봉산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥게스트하우스 '安(Ahn)'",
+  "district": "중구",
+  "category": "한옥스테이",
+  "lat": 35.8728977199,
+  "lng": 128.6108890108,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한옥게스트하우스 '安(Ahn)'",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로149길 98"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "핸드메이드 숙소 호텔제나 서대구역점",
+  "district": "서구",
+  "category": "모텔",
+  "lat": 35.8694470557,
+  "lng": 128.5536885908,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "핸드메이드 숙소 호텔제나 서대구역점",
+    "desc": "",
+    "address": "대구광역시 서구 서대구로25길 5 (평리동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 노블스테이",
+  "district": "중구",
+  "category": "관광호텔",
+  "lat": 35.8717420443,
+  "lng": 128.5972985735,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2771872_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 노블스테이",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로123길 23 (동문동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 라온제나",
+  "district": "수성구",
+  "category": "관광호텔",
+  "lat": 35.853577899,
+  "lng": 128.6225190798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2719288_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 라온제나",
+    "desc": "",
+    "address": "대구광역시 수성구 범어천로 73 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 아젤리아",
+  "district": "달성군",
+  "category": "관광호텔",
+  "lat": 35.692285665,
+  "lng": 128.5060393495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3564919_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 아젤리아",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 일연선사길 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 투하트",
+  "district": "동구",
+  "category": "관광호텔",
+  "lat": 35.8702650074,
+  "lng": 128.6283847647,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 투하트",
+    "desc": "",
+    "address": "대구광역시 동구 동부로26길 63 (신천동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 피에드 수성",
+  "district": "수성구",
+  "category": "관광호텔",
+  "lat": 35.8402278273,
+  "lng": 128.6872331999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3054019_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔 피에드 수성",
+    "desc": "",
+    "address": "대구광역시 수성구 알파시티1로4길 18 (대흥동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔시리즈5.0",
+  "district": "달서구",
+  "category": "관광호텔",
+  "lat": 35.8385799521,
+  "lng": 128.4908894255,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔시리즈5.0",
+    "desc": "",
+    "address": "대구광역시 달서구 달서대로85길 6-15 (호림동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔야자 대구성서점",
+  "district": "달서구",
+  "category": "모텔",
+  "lat": 35.8406935873,
+  "lng": 128.4901088809,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔야자 대구성서점",
+    "desc": "",
+    "address": "대구광역시 달서구 성서공단로15길 61 (호산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔인터불고 대구",
+  "district": "수성구",
+  "category": "관광호텔",
+  "lat": 35.8731069392,
+  "lng": 128.6601346676,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2864828_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "호텔인터불고 대구",
+    "desc": "",
+    "address": "대구광역시 수성구 팔현길 212"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔인터불고 엑스코",
+  "district": "북구",
+  "category": "관광호텔",
+  "lat": 35.9070688589,
+  "lng": 128.6113352412,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3533728_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔인터불고 엑스코",
+    "desc": "",
+    "address": "대구광역시 북구 유통단지로 80 (산격동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔크라페 성서점",
+  "district": "달서구",
+  "category": "관광호텔",
+  "lat": 35.8354885923,
+  "lng": 128.488542496,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2949273_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔크라페 성서점",
+    "desc": "",
+    "address": "대구광역시 달서구 성서공단로11길 6-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔포레스트701",
+  "district": "동구",
+  "category": "모텔",
+  "lat": 35.8689373579,
+  "lng": 128.6271599097,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3055006_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔포레스트701",
+    "desc": "",
+    "address": "대구광역시 동구 동부로22길 86 (신천동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "히로텔",
+  "district": "중구",
+  "category": "모텔",
+  "lat": 35.870084006,
+  "lng": 128.6031119965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3476610_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "히로텔",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로 657-12 (동인동2가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "(사)영남선비문화수련원(구암서원)",
+  "district": "북구",
+  "category": "한옥스테이",
+  "lat": 35.9016247638,
+  "lng": 128.5968533361,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2679876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "(사)영남선비문화수련원(구암서원)",
+    "desc": "",
+    "address": "대구광역시 북구 연암공원로17길 20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "(주)동성갤러리아",
+  "district": "중구",
+  "category": "모텔",
+  "lat": 35.8667176143,
+  "lng": 128.5973570412,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "(주)동성갤러리아",
+    "desc": "",
+    "address": "대구광역시 중구 동성로2길 18-19 (삼덕동1가)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "The house of Gallery(The house of gallery)",
+  "district": "남구",
+  "category": "게스트하우스",
+  "lat": 35.8450032255,
+  "lng": 128.5875973939,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2567057_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "The house of Gallery(The house of gallery)",
+    "desc": "",
+    "address": "대구광역시 남구 대명로57길 20-22"
+   }
+  }
+ }
+]

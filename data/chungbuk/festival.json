@@ -1,0 +1,122 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "보은 회인 국가유산 야행",
+  "district": "보은군",
+  "category": "일반축제",
+  "lat": 36.4914477395,
+  "lng": 127.5983173147,
+  "phone": "043-540-3406~9",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3547467_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "보은 회인 국가유산 야행",
+    "desc": "",
+    "address": "충청북도 보은군 회인면 중앙리"
+   }
+  },
+  "pstart": "2025-09-12",
+  "pend": "2025-09-14",
+  "period": "2025.09.12~2025.09.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "생거진천 문화축제",
+  "district": "진천군",
+  "category": "일반축제",
+  "lat": 36.8589861493,
+  "lng": 127.4463068746,
+  "phone": "043-532-3325, 539-3603",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3540862_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "생거진천 문화축제",
+    "desc": "",
+    "address": "충청북도 진천군 진천읍 읍내리"
+   }
+  },
+  "pstart": "2025-09-25",
+  "pend": "2025-09-28",
+  "period": "2025.09.25~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전통시장 청년상인 축제",
+  "district": "영동군",
+  "category": "일반축제",
+  "lat": 36.1750953824,
+  "lng": 127.7745936029,
+  "phone": "042-826-5929",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3534119_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전통시장 청년상인 축제",
+    "desc": "",
+    "address": "충청북도 영동군 영동읍 계산리"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-21",
+  "period": "2025.09.19~2025.09.21"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제천국제한방천연물산업엑스포",
+  "district": "제천시",
+  "category": "박람회",
+  "lat": 37.1442275073,
+  "lng": 128.1596679322,
+  "phone": "043-640-0808",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3516636_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제천국제한방천연물산업엑스포",
+    "desc": "",
+    "address": "충청북도 제천시 한방엑스포로 19 (왕암동)"
+   }
+  },
+  "pstart": "2025-09-20",
+  "pend": "2025-10-19",
+  "period": "2025.09.20~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청남대 가을축제",
+  "district": "청주시",
+  "category": "일반축제",
+  "lat": 36.4667931119,
+  "lng": 127.492591341,
+  "phone": "043-250-5080",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3552356_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청남대 가을축제",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 문의면 청남대길 646"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-11-09",
+  "period": "2025.10.25~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 충청북도 정원박람회",
+  "district": "제천시",
+  "category": "박람회",
+  "lat": 37.1442275073,
+  "lng": 128.1596679322,
+  "phone": "043-212-7893",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3524987_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 충청북도 정원박람회",
+    "desc": "",
+    "address": "충청북도 제천시 한방엑스포로 19 (왕암동)"
+   }
+  },
+  "pstart": "2025-09-24",
+  "pend": "2025-09-28",
+  "period": "2025.09.24~2025.09.28"
+ }
+]

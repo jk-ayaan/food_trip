@@ -1,0 +1,818 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "관문시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.8356342966,
+  "lng": 128.5580002605,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3033198_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "관문시장",
+    "desc": "",
+    "address": "대구광역시 남구 대명서7길 24-3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "관음시장(대구)",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.944974493,
+  "lng": 128.5472453897,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "관음시장(대구)",
+    "desc": "",
+    "address": "대구광역시 북구 관음중앙로28길 1 (관음동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "교동시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.8729335639,
+  "lng": 128.5966291549,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3570092_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "교동시장",
+    "desc": "",
+    "address": "대구광역시 중구 동성로 70-15 (교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "군위장 (3, 8일)",
+  "district": "군위군",
+  "category": "5일장",
+  "lat": 36.2389498117,
+  "lng": 128.5668104006,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3569905_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "군위장 (3, 8일)",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 중앙5길 12-8"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남문시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.8610987071,
+  "lng": 128.5919937818,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3585374_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남문시장",
+    "desc": "",
+    "address": "대구광역시 중구 명륜로 70"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "달서시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8399307867,
+  "lng": 128.5446457627,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2746210_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달서시장",
+    "desc": "",
+    "address": "대구광역시 달서구 당산로 27 (본리동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대곡시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8076259409,
+  "lng": 128.5354835758,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3570009_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대곡시장",
+    "desc": "",
+    "address": "대구광역시 달서구 도원로 24 (도원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 번개시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.8753916221,
+  "lng": 128.5968096265,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3569673_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 번개시장",
+    "desc": "",
+    "address": "대구광역시 중구 태평로 177-1 (태평로1가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 봉덕시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.8447424291,
+  "lng": 128.6030821485,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3569936_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 봉덕시장",
+    "desc": "",
+    "address": "대구광역시 남구 봉덕로 115 (봉덕동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 서문시장 & 서문시장 야시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.8689226144,
+  "lng": 128.5807862176,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3039247_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 서문시장 & 서문시장 야시장",
+    "desc": "",
+    "address": "대구광역시 중구 큰장로26길 45"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 안지랑시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.8383454491,
+  "lng": 128.5769235188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3569938_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 안지랑시장",
+    "desc": "",
+    "address": "대구광역시 남구 대명로36길 19"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 칠성시장&별별상상 칠성야시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.8765360847,
+  "lng": 128.6048061121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3586510_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 칠성시장&별별상상 칠성야시장",
+    "desc": "",
+    "address": "대구광역시 북구 칠성시장로 28"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 평화시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 35.8830133956,
+  "lng": 128.6192713239,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3476561_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 평화시장",
+    "desc": "",
+    "address": "대구광역시 동구 아양로9길 10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구 한약재 도매시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.8672952342,
+  "lng": 128.5923741312,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3578154_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 한약재 도매시장",
+    "desc": "",
+    "address": "대구광역시 중구 남성로 51-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구광역시농수산물도매시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.903712457,
+  "lng": 128.5448356404,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2742384_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구광역시농수산물도매시장",
+    "desc": "",
+    "address": "대구광역시 북구 매천로18길 34 (매천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대구칠곡시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.9425470645,
+  "lng": 128.5512645476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2744803_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구칠곡시장",
+    "desc": "",
+    "address": "대구광역시 북구 칠곡중앙대로 526 (읍내동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대동종합시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8113783538,
+  "lng": 128.5387304081,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3570002_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대동종합시장",
+    "desc": "",
+    "address": "대구광역시 달서구 상화북로 113-1 (상인동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대명시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.8580765484,
+  "lng": 128.5768896406,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3532359_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대명시장",
+    "desc": "",
+    "address": "대구광역시 남구 명덕로14길 16 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대평리시장",
+  "district": "서구",
+  "category": "상설시장",
+  "lat": 35.8780545119,
+  "lng": 128.5589601096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2751576_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대평리시장",
+    "desc": "",
+    "address": "대구광역시 서구 문화로49길 25 (평리동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동구시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 35.8743286529,
+  "lng": 128.6401086197,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2742237_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동구시장",
+    "desc": "",
+    "address": "대구광역시 동구 화랑로25길 1 (효목동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동대구시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.8811189784,
+  "lng": 128.6091250487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2742246_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동대구시장",
+    "desc": "",
+    "address": "대구광역시 북구 대현로20길 30 (대현동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "목련시장",
+  "district": "수성구",
+  "category": "상설시장",
+  "lat": 35.8208123335,
+  "lng": 128.6318191729,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2732653_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목련시장",
+    "desc": "",
+    "address": "대구광역시 수성구 용학로42길 9 (지산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "반야월종합시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 35.8724189171,
+  "lng": 128.7027781548,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "반야월종합시장",
+    "desc": "",
+    "address": "대구광역시 동구 율하동로 144 (신기동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "방천시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 35.8621766224,
+  "lng": 128.606048069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3570114_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방천시장",
+    "desc": "",
+    "address": "대구광역시 중구 대봉동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "방촌시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 35.8813338657,
+  "lng": 128.6644757224,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2746281_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방촌시장",
+    "desc": "",
+    "address": "대구광역시 동구 동촌로46길 2 (방촌동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "불로전통시장",
+  "district": "동구",
+  "category": "5일장",
+  "lat": 35.9123382806,
+  "lng": 128.6423906901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3035333_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "불로전통시장",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로26길 9-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "산격종합시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.8986448004,
+  "lng": 128.6106466481,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3558117_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "산격종합시장",
+    "desc": "",
+    "address": "대구광역시 북구 대동로1길 34 (산격동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "상동시장",
+  "district": "수성구",
+  "category": "상설시장",
+  "lat": 35.8348658858,
+  "lng": 128.6094124215,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3560998_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상동시장",
+    "desc": "",
+    "address": "대구광역시 수성구 상화로 21-1 (상동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "새길시장",
+  "district": "서구",
+  "category": "상설시장",
+  "lat": 35.8643535298,
+  "lng": 128.57220099,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2751568_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "새길시장",
+    "desc": "",
+    "address": "대구광역시 서구 달서로4길 17-7 (내당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서남신시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8541042034,
+  "lng": 128.5457897128,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3532360_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서남신시장",
+    "desc": "",
+    "address": "대구광역시 달서구 달구벌대로329길 10 (감삼동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서대구시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8606400332,
+  "lng": 128.5707123358,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3577203_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서대구시장",
+    "desc": "",
+    "address": "대구광역시 달서구 명덕로2길 30"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "성당시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.8501829257,
+  "lng": 128.5729652054,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2732627_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성당시장",
+    "desc": "",
+    "address": "대구광역시 남구 성당로 196 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "송현시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8308763522,
+  "lng": 128.5498899962,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3577164_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송현시장",
+    "desc": "",
+    "address": "대구광역시 달서구 송현동3길 2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영선시장",
+  "district": "남구",
+  "category": "상설시장",
+  "lat": 35.852349715,
+  "lng": 128.592943941,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2732644_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영선시장",
+    "desc": "",
+    "address": "대구광역시 남구 중앙대로48길 36 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "와룡시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.857389089,
+  "lng": 128.4993492702,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2744818_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "와룡시장",
+    "desc": "",
+    "address": "대구광역시 달서구 신당동 1750"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "원대신시장",
+  "district": "서구",
+  "category": "상설시장",
+  "lat": 35.8855789522,
+  "lng": 128.5748251685,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2751553_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원대신시장",
+    "desc": "",
+    "address": "대구광역시 서구 달서로54길 6 (원대동3가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "월배시장",
+  "district": "달서구",
+  "category": "상설시장",
+  "lat": 35.8141000604,
+  "lng": 128.5274091076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2744768_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월배시장",
+    "desc": "",
+    "address": "대구광역시 달서구 월배로24길 13 (진천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "천미사 (상감입사장)",
+  "district": "수성구",
+  "category": "공예·공방",
+  "lat": 35.8395349443,
+  "lng": 128.6171282789,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3577964_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "천미사 (상감입사장)",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 108"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청구시장",
+  "district": "수성구",
+  "category": "상설시장",
+  "lat": 35.8648103646,
+  "lng": 128.6443529554,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2732582_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청구시장",
+    "desc": "",
+    "address": "대구광역시 수성구 만촌로 66 (만촌동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "칠성종합시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.8767082752,
+  "lng": 128.6041561645,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3384518_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "칠성종합시장",
+    "desc": "",
+    "address": "대구광역시 북구 칠성시장로 28 (칠성동1가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "침산골목시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.8904479315,
+  "lng": 128.5795023986,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3586501_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "침산골목시장",
+    "desc": "",
+    "address": "대구광역시 북구 노원동1가 19-17"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "퀸스로드",
+  "district": "서구",
+  "category": "쇼핑",
+  "lat": 35.8617144394,
+  "lng": 128.545056233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2366433_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "퀸스로드",
+    "desc": "",
+    "address": "대구광역시 서구 평리로35길 18-17"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "팔달신시장",
+  "district": "북구",
+  "category": "상설시장",
+  "lat": 35.890944856,
+  "lng": 128.5664063167,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2744736_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔달신시장",
+    "desc": "",
+    "address": "대구광역시 북구 팔달로27길 42 (노원동3가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "현풍백년도깨비시장",
+  "district": "달성군",
+  "category": "상설시장",
+  "lat": 35.6948036591,
+  "lng": 128.4422532259,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3542604_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "현풍백년도깨비시장",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍읍 현풍로6길 5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "현풍장 (5, 10일)",
+  "district": "달성군",
+  "category": "5일장",
+  "lat": 35.6947231113,
+  "lng": 128.4421643471,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3023488_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현풍장 (5, 10일)",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍읍 비슬로130길 53-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "화원시장",
+  "district": "달성군",
+  "category": "5일장",
+  "lat": 35.8011760035,
+  "lng": 128.4991508433,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2744840_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화원시장",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 인흥길 33-4"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "황금시장",
+  "district": "수성구",
+  "category": "상설시장",
+  "lat": 35.8484450995,
+  "lng": 128.6199833351,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "황금시장",
+    "desc": "",
+    "address": "대구광역시 수성구 청솔로 19 (황금동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "효목시장",
+  "district": "동구",
+  "category": "상설시장",
+  "lat": 35.885819006,
+  "lng": 128.6394055831,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2744859_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효목시장",
+    "desc": "",
+    "address": "대구광역시 동구 아양로50길 22-2 (효목동)"
+   }
+  }
+ }
+]

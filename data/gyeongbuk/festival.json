@@ -1,0 +1,462 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "경북 K-스토리 페스티벌",
+  "district": "안동시",
+  "category": "기타행사",
+  "lat": 36.5646797112,
+  "lng": 128.7335001826,
+  "phone": "054-840-7044",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3516661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경북 K-스토리 페스티벌",
+    "desc": "",
+    "address": "경상북도 안동시 영가로 16 (동부동)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "경산 갓바위소원성취축제",
+  "district": "경산시",
+  "category": "일반축제",
+  "lat": 35.9850459218,
+  "lng": 128.7495653181,
+  "phone": "053-819-0332",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3550790_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경산 갓바위소원성취축제",
+    "desc": "",
+    "address": "경상북도 경산시 와촌면 대한리"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "경산 대추축제 & 농산물 한마당",
+  "district": "경산시",
+  "category": "일반축제",
+  "lat": 35.8199172753,
+  "lng": 128.7434010472,
+  "phone": "053-819-0334, 0338",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3566322_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경산 대추축제 & 농산물 한마당",
+    "desc": "",
+    "address": "경상북도 경산시 남매로 100 (상방동)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "경주국가유산야행",
+  "district": "경주시",
+  "category": "일반축제",
+  "lat": 35.8313803696,
+  "lng": 129.2157425929,
+  "phone": "054-743-7182",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3529605_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "경주국가유산야행",
+    "desc": "",
+    "address": "경상북도 경주시 교동"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-28",
+  "period": "2025.09.26~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "구미산단 페스티벌",
+  "district": "구미시",
+  "category": "일반축제",
+  "lat": 36.1018394432,
+  "lng": 128.3647571396,
+  "phone": "054-441-7419",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3590399_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구미산단 페스티벌",
+    "desc": "",
+    "address": "경상북도 구미시 1공단로 18 (공단동)"
+   }
+  },
+  "pstart": "2025-10-08",
+  "pend": "2025-10-09",
+  "period": "2025.10.08~2025.10.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "굿네이버스 세계 놀이 페스티벌 '놀자GO! 지구로!'",
+  "district": "포항시",
+  "category": "기타행사",
+  "lat": 36.0800254208,
+  "lng": 129.4107100131,
+  "phone": "053-214-7124",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3567661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "굿네이버스 세계 놀이 페스티벌 '놀자GO! 지구로!'",
+    "desc": "",
+    "address": "경상북도 포항시 북구 양덕남로 166 (양덕동)"
+   }
+  },
+  "pstart": "2025-12-07",
+  "pend": "2025-12-07",
+  "period": "2025.12.07~2025.12.07"
+ },
+ {
+  "section": "festival",
+  "name_ko": "문경사과축제",
+  "district": "문경시",
+  "category": "일반축제",
+  "lat": 36.761650493,
+  "lng": 128.0770113639,
+  "phone": "054-571-7677",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3531723_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문경사과축제",
+    "desc": "",
+    "address": "경상북도 문경시 문경읍 새재로 932"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-26",
+  "period": "2025.10.18~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "백두대간 봉자페스티벌",
+  "district": "봉화군",
+  "category": "일반축제",
+  "lat": 37.0081974711,
+  "lng": 128.8299396966,
+  "phone": "054-679-1000",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3544414_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "백두대간 봉자페스티벌",
+    "desc": "",
+    "address": "경상북도 봉화군 춘양면 춘양로 1501"
+   }
+  },
+  "pstart": "2025-10-02",
+  "pend": "2025-10-12",
+  "period": "2025.10.02~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "봉화송이축제",
+  "district": "봉화군",
+  "category": "일반축제",
+  "lat": 36.8892259685,
+  "lng": 128.7351766678,
+  "phone": "054-674-3053",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2620592_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉화송이축제",
+    "desc": "",
+    "address": "경상북도 봉화군 봉화읍 내성리"
+   }
+  },
+  "pstart": "2025-10-16",
+  "pend": "2025-10-19",
+  "period": "2025.10.16~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "성주가야산황금들녘메뚜기축제",
+  "district": "성주군",
+  "category": "일반축제",
+  "lat": 35.8694487366,
+  "lng": 128.1896734915,
+  "phone": "054-930-6982~4",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3539685_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성주가야산황금들녘메뚜기축제",
+    "desc": "",
+    "address": "경상북도 성주군 수륜면 수성리"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-10-19",
+  "period": "2025.10.18~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "아이가 행복입니다 해피투게더 경북 in 포항",
+  "district": "포항시",
+  "category": "기타행사",
+  "lat": 36.0065133515,
+  "lng": 129.3615414552,
+  "phone": "1688-5368",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3567122_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아이가 행복입니다 해피투게더 경북 in 포항",
+    "desc": "",
+    "address": "경상북도 포항시 남구 희망대로 814 (대도동)"
+   }
+  },
+  "pstart": "2025-11-21",
+  "pend": "2025-11-22",
+  "period": "2025.11.21~2025.11.22"
+ },
+ {
+  "section": "festival",
+  "name_ko": "예천 금당야행",
+  "district": "예천군",
+  "category": "일반축제",
+  "lat": 36.6932034107,
+  "lng": 128.4105057637,
+  "phone": "054-650-8244",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3520837_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예천 금당야행",
+    "desc": "",
+    "address": "경상북도 예천군 용문면 금당실길 118-32"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "죽변항 수산물축제",
+  "district": "울진군",
+  "category": "일반축제",
+  "lat": 37.0571311575,
+  "lng": 129.4250268958,
+  "phone": "054-789-5485~7",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3563382_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "죽변항 수산물축제",
+    "desc": "",
+    "address": "경상북도 울진군 죽변면 죽변항길 150"
+   }
+  },
+  "pstart": "2025-11-07",
+  "pend": "2025-11-09",
+  "period": "2025.11.07~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청도 국가유산 야행",
+  "district": "청도군",
+  "category": "일반축제",
+  "lat": 35.6501135567,
+  "lng": 128.7067173227,
+  "phone": "054-370-2281",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3533639_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청도 국가유산 야행",
+    "desc": "",
+    "address": "경상북도 청도군 화양읍 동상리"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청도반시축제",
+  "district": "청도군",
+  "category": "일반축제",
+  "lat": 35.6512053494,
+  "lng": 128.7202383285,
+  "phone": "053-249-4949",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3544326_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청도반시축제",
+    "desc": "",
+    "address": "경상북도 청도군 화양읍 청려로 1846"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "청도세계코미디아트페스티벌",
+  "district": "청도군",
+  "category": "일반축제",
+  "lat": 35.6512053494,
+  "lng": 128.7202383285,
+  "phone": "054-370-2211",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2852352_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청도세계코미디아트페스티벌",
+    "desc": "",
+    "address": "경상북도 청도군 청려로 1846"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "트리헌드레드 페스티벌 울진",
+  "district": "울진군",
+  "category": "일반축제",
+  "lat": 36.9676409285,
+  "lng": 129.4010150835,
+  "phone": "02-6958-7990",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3546691_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "트리헌드레드 페스티벌 울진",
+    "desc": "",
+    "address": "경상북도 울진군 근남면 왕피천공원길 1"
+   }
+  },
+  "pstart": "2025-10-09",
+  "pend": "2025-10-09",
+  "period": "2025.10.09~2025.10.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 교촌버스킹",
+  "district": "경주시",
+  "category": "기타행사",
+  "lat": 35.8300277808,
+  "lng": 129.2176480199,
+  "phone": "054-777-6781",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3524048_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 교촌버스킹",
+    "desc": "",
+    "address": "경상북도 경주시 교촌안길 31 (교동)"
+   }
+  },
+  "pstart": "2025-08-22",
+  "pend": "2025-08-31",
+  "period": "2025.08.22~2025.08.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 유니카 코리아 국제영화제",
+  "district": "경산시",
+  "category": "영화",
+  "lat": 35.8331017706,
+  "lng": 128.7366762706,
+  "phone": "053-818-4055",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3533601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 유니카 코리아 국제영화제",
+    "desc": "",
+    "address": "경상북도 경산시 대학로28길 6-5 (중방동)"
+   }
+  },
+  "pstart": "2025-10-11",
+  "pend": "2025-10-12",
+  "period": "2025.10.11~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 포항스틸아트페스티벌 (2025PSAF)",
+  "district": "포항시",
+  "category": "전시회",
+  "lat": 36.0486865532,
+  "lng": 129.3716421277,
+  "phone": "054-289-7854",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3547903_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 포항스틸아트페스티벌 (2025PSAF)",
+    "desc": "",
+    "address": "경상북도 포항시 북구 선착로 78 (동빈1가)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-11-09",
+  "period": "2025.10.25~2025.11.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 한국공예전",
+  "district": "경주시",
+  "category": "전시회",
+  "lat": 35.8339676142,
+  "lng": 129.2911192494,
+  "phone": "02-398-7936",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3553940_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 한국공예전",
+    "desc": "",
+    "address": "경상북도 경주시 경감로 627 (천군동)"
+   }
+  },
+  "pstart": "2025-10-27",
+  "pend": "2025-11-30",
+  "period": "2025.10.27~2025.11.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025년 제1회 한국 마늘 산업 박람회",
+  "district": "영천시",
+  "category": "박람회",
+  "lat": 35.9674317325,
+  "lng": 128.9242421022,
+  "phone": "044-868-6332",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3525029_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025년 제1회 한국 마늘 산업 박람회",
+    "desc": "",
+    "address": "경상북도 영천시 운동장로 60 (교촌동)"
+   }
+  },
+  "pstart": "2025-08-25",
+  "pend": "2025-08-27",
+  "period": "2025.08.25~2025.08.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "EX-펌킨나잇 : 매직킹덤",
+  "district": "경주시",
+  "category": "기타행사",
+  "lat": 35.8340564631,
+  "lng": 129.2895443842,
+  "phone": "054-740-3950",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3536324_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "EX-펌킨나잇 : 매직킹덤",
+    "desc": "",
+    "address": "경상북도 경주시 경감로 614 (천군동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-10-26",
+  "period": "2025.09.26~2025.10.26"
+ }
+]

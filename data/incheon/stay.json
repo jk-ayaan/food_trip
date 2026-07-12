@@ -1,0 +1,801 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "골든튤립인천에어포트호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4923125872,
+  "lng": 126.4924230049,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3529857_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골든튤립인천에어포트호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 흰바위로59번길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그린게스트하우스(Green guest house)",
+  "district": "서해구",
+  "category": "게스트하우스",
+  "lat": 37.52858876,
+  "lng": 126.6409750982,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그린게스트하우스(Green guest house)",
+    "desc": "",
+    "address": "인천광역시 서해구 청라루비로42번길 6-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "글로스터호텔 인천",
+  "district": "남동구",
+  "category": "관광호텔",
+  "lat": 37.4003414436,
+  "lng": 126.7354589383,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2707769_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "글로스터호텔 인천",
+    "desc": "",
+    "address": "인천광역시 남동구 소래역로 36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "네이쳐펜션(자연의집)",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2811479685,
+  "lng": 126.4774662809,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "네이쳐펜션(자연의집)",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥북로426번길 105-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "노을내리는아름다운집",
+  "district": "강화군",
+  "category": "펜션",
+  "lat": 37.6890725216,
+  "lng": 126.3063373769,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2594673_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노을내리는아름다운집",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산남로 933"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달에게 빌려온 하루",
+  "district": "강화군",
+  "category": "한옥스테이",
+  "lat": 37.6809697706,
+  "lng": 126.4125306446,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "달에게 빌려온 하루",
+    "desc": "",
+    "address": "인천광역시 강화군 양도면 강화남로905번길 50-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "데이즈호텔 앤 스위트 인천에어포트",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4934735467,
+  "lng": 126.4915008349,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2594899_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "데이즈호텔 앤 스위트 인천에어포트",
+    "desc": "",
+    "address": "인천광역시 영종구 신도시남로142번길 6 (운서동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "델로스호스텔",
+  "district": "영종구",
+  "category": "게스트하우스",
+  "lat": 37.4507264363,
+  "lng": 126.3723740064,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "델로스호스텔",
+    "desc": "",
+    "address": "인천광역시 영종구 용유서로 365"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "델루나호텔",
+  "district": "서해구",
+  "category": "모텔",
+  "lat": 37.5081222414,
+  "lng": 126.6718422949,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "델루나호텔",
+    "desc": "",
+    "address": "인천광역시 서해구 가정로261번길 3 (석남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도자기펜션",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2680712064,
+  "lng": 126.4486470408,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3574302_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도자기펜션",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥로757번길 147"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "돈키호텔",
+  "district": "제물포구",
+  "category": "관광호텔",
+  "lat": 37.4695120175,
+  "lng": 126.6252170673,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "돈키호텔",
+    "desc": "",
+    "address": "인천광역시 제물포구 우현로9번길 36 (사동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "드림하우스",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2482240792,
+  "lng": 126.4813640463,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "드림하우스",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥남로9번길 133"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "러블리펫108 애견펜션",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2365290775,
+  "lng": 126.5309181873,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "러블리펫108 애견펜션",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 선재로 76-27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "럭셔리 G 모텔",
+  "district": "미추홀구",
+  "category": "모텔",
+  "lat": 37.4543445307,
+  "lng": 126.6362692579,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "럭셔리 G 모텔",
+    "desc": "",
+    "address": "인천광역시 미추홀구 토금북로18번길 11 (용현동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "레스테 호텔",
+  "district": "옹진군",
+  "category": "모텔",
+  "lat": 37.247783253,
+  "lng": 126.5266099391,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "레스테 호텔",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 선재로186번길 64"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "로얄엠포리움호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4918752573,
+  "lng": 126.5782901754,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "로얄엠포리움호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 은하수로 35 (중산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "루시아펜션",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.973403701,
+  "lng": 124.6976727988,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "루시아펜션",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 백령로 461-18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마전역 게스트하우스",
+  "district": "검단구",
+  "category": "게스트하우스",
+  "lat": 37.5968229257,
+  "lng": 126.6656959356,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마전역 게스트하우스",
+    "desc": "",
+    "address": "인천광역시 검단구 완정로65번안길 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베스트웨스턴 프리미어 인천 에어포트 호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4411901422,
+  "lng": 126.4574859381,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3003666_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베스트웨스턴 프리미어 인천 에어포트 호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 공항로424번길 48-27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베스트웨스턴 하버파크호텔",
+  "district": "제물포구",
+  "category": "관광호텔",
+  "lat": 37.4721727209,
+  "lng": 126.6196286148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2848252_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베스트웨스턴 하버파크호텔",
+    "desc": "",
+    "address": "인천광역시 제물포구 제물량로 217"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "별장아원",
+  "district": "강화군",
+  "category": "펜션",
+  "lat": 37.7188430434,
+  "lng": 126.4075133844,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3555427_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별장아원",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 고비고개로743번길 47-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트 호텔 검단사거리점",
+  "district": "검단구",
+  "category": "모텔",
+  "lat": 37.6006779222,
+  "lng": 126.6595102813,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트 호텔 검단사거리점",
+    "desc": "",
+    "address": "인천광역시 검단구 완정로117번길 31 (왕길동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 인천 송도",
+  "district": "연수구",
+  "category": "관광호텔",
+  "lat": 37.4162464474,
+  "lng": 126.6514883708,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 인천 송도",
+    "desc": "",
+    "address": "인천광역시 연수구 능허대로 227-7 (옥련동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "블루오션펜션",
+  "district": "영종구",
+  "category": "펜션",
+  "lat": 37.496246984,
+  "lng": 126.5789899894,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "블루오션펜션",
+    "desc": "",
+    "address": "인천광역시 영종구 영종진광장로 52"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "섬뜰아래 호스텔(섬뜰아래 카페/캠핑장/펜션)",
+  "district": "영종구",
+  "category": "게스트하우스",
+  "lat": 37.3961975801,
+  "lng": 126.4248401537,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "섬뜰아래 호스텔(섬뜰아래 카페/캠핑장/펜션)",
+    "desc": "",
+    "address": "인천광역시 영종구 대무의로 229"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소래호텔카카오",
+  "district": "남동구",
+  "category": "관광호텔",
+  "lat": 37.4007330808,
+  "lng": 126.7363644005,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소래호텔카카오",
+    "desc": "",
+    "address": "인천광역시 남동구 앵고개로948번길 48 (논현동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스위스파크",
+  "district": "영종구",
+  "category": "게스트하우스",
+  "lat": 37.4493043832,
+  "lng": 126.3725712499,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스위스파크",
+    "desc": "",
+    "address": "인천광역시 영종구 을왕로58번길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스카이탑호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4913572868,
+  "lng": 126.5006445023,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2791012_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스카이탑호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 영종대로196번길 15-7 (운서동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아라미르리조트 풀빌라펜션&글램핑",
+  "district": "강화군",
+  "category": "펜션",
+  "lat": 37.7006550201,
+  "lng": 126.3359037893,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아라미르리조트 풀빌라펜션&글램핑",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 삼산북로 330"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에떼르모 펜션",
+  "district": "강화군",
+  "category": "펜션",
+  "lat": 37.6206900708,
+  "lng": 126.3774327523,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "에떼르모 펜션",
+    "desc": "",
+    "address": "인천광역시 강화군 화도면 해안남로 2421-202"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "영흥도관광펜션",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2594424747,
+  "lng": 126.4958457545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2575544_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영흥도관광펜션",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥로156번길 33-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옛날에금잔디",
+  "district": "강화군",
+  "category": "한옥스테이",
+  "lat": 37.7161235947,
+  "lng": 126.3892095829,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2451823_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옛날에금잔디",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 강화서로225번길 18-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오라카이 송도파크호텔",
+  "district": "연수구",
+  "category": "관광호텔",
+  "lat": 37.3881800742,
+  "lng": 126.6408040104,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2489064_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오라카이 송도파크호텔",
+    "desc": "",
+    "address": "인천광역시 연수구 테크노파크로 151 (송도동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오션사이드 호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4265356564,
+  "lng": 126.4212063206,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3535380_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오션사이드 호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 마시란로 40 (덕교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오션파크나인호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4928029438,
+  "lng": 126.579226175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2790865_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오션파크나인호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 영종진광장로 10 (중산동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오크우드 프리미어 인천",
+  "district": "연수구",
+  "category": "콘도미니엄",
+  "lat": 37.3891939097,
+  "lng": 126.6444564277,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2720037_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오크우드 프리미어 인천",
+    "desc": "",
+    "address": "인천광역시 연수구 컨벤시아대로 165"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오후엔",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.5367193201,
+  "lng": 126.3788154991,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2813512_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오후엔",
+    "desc": "",
+    "address": "인천광역시 옹진군 장봉로26번길 76-28"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "올인원게스트하우스",
+  "district": "서해구",
+  "category": "게스트하우스",
+  "lat": 37.5412234429,
+  "lng": 126.6433245314,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "올인원게스트하우스",
+    "desc": "",
+    "address": "인천광역시 서해구 청라한울로59번길 26 (청라동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월미도 해월관광호텔",
+  "district": "제물포구",
+  "category": "관광호텔",
+  "lat": 37.473586065,
+  "lng": 126.5980444343,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2655561_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월미도 해월관광호텔",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로260번길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "장보고한옥펜션",
+  "district": "강화군",
+  "category": "한옥스테이",
+  "lat": 37.7626608462,
+  "lng": 126.4469446583,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2050278_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장보고한옥펜션",
+    "desc": "",
+    "address": "인천광역시 강화군 송해면 강화대로833번길 44-30"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "제이앤비호텔",
+  "district": "옹진군",
+  "category": "모텔",
+  "lat": 37.9741563555,
+  "lng": 124.6955451994,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제이앤비호텔",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 백령로 485"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "조은펜션",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.258129172,
+  "lng": 126.520726858,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "조은펜션",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 선재로306번길 31-100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "퀸스비치",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2579069336,
+  "lng": 126.5183104175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2575665_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "퀸스비치",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 선재로306번길 27-116"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한가라지 농원",
+  "district": "강화군",
+  "category": "펜션",
+  "lat": 37.6920247875,
+  "lng": 126.2967492857,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한가라지 농원",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 삼산남로 1011"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔프라하",
+  "district": "남동구",
+  "category": "모텔",
+  "lat": 37.4640780555,
+  "lng": 126.7111566018,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔프라하",
+    "desc": "",
+    "address": "인천광역시 남동구 남동대로916번길 49 (간석동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "(주)워커힐 인천공항 환승호텔",
+  "district": "영종구",
+  "category": "관광호텔",
+  "lat": 37.4475920851,
+  "lng": 126.4523223448,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "(주)워커힐 인천공항 환승호텔",
+    "desc": "",
+    "address": "인천광역시 영종구 공항로 271"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "Ann299",
+  "district": "옹진군",
+  "category": "펜션",
+  "lat": 37.2569289209,
+  "lng": 126.4983455956,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "Ann299",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥로144번길 68"
+   }
+  }
+ }
+]

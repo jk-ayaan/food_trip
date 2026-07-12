@@ -1,0 +1,801 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "곡성 기차당 뚝방마켓",
+  "district": "전남광주통합특별시",
+  "category": "특산물판매점",
+  "lat": 35.2814328952,
+  "lng": 127.3012647759,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "곡성 기차당 뚝방마켓",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 곡성읍 곡성로 898"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "곡성기차마을전통시장 (3, 8일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.2798080307,
+  "lng": 127.2984539545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2032567_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곡성기차마을전통시장 (3, 8일)",
+    "desc": "",
+    "address": "전남광주통합특별시 곡성군 곡성읍 곡성로 856"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "공산장 (1, 6일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.9429566034,
+  "lng": 126.6091093957,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/1971564_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "공산장 (1, 6일)",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 공산면 공산로 120"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "과역시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.6794572169,
+  "lng": 127.3622690801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3518715_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "과역시장",
+    "desc": "",
+    "address": "전남광주통합특별시 고흥군 과역면 시장안길 15"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광양5일장 (1, 6일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.9711478468,
+  "lng": 127.5903972633,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3050908_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광양5일장 (1, 6일)",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 광양읍 백운로 3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "김미영 돌산갓김치",
+  "district": "전남광주통합특별시",
+  "category": "전문매장",
+  "lat": 34.5939771211,
+  "lng": 127.8026854999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3010383_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김미영 돌산갓김치",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 돌산읍 향일암로 57"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "나주목사고을시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 35.0370340097,
+  "lng": 126.7235497464,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3548284_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나주목사고을시장",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 청동길 14 (삼도동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남도상회",
+  "district": "전남광주통합특별시",
+  "category": "특산물판매점",
+  "lat": 34.9464750697,
+  "lng": 127.7187894096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3548136_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남도상회",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 눈소9길 55 (마동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남악시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.8103692926,
+  "lng": 126.4728107716,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3535461_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남악시장",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 삼향읍 남악5로52번길 13-7"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남창장 (2, 7일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.4042535393,
+  "lng": 126.6270624955,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남창장 (2, 7일)",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 북평면 달량진길 52-10"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남평장 (1, 6일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.0456544424,
+  "lng": 126.8405197515,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남평장 (1, 6일)",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 남평읍 지석로 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "녹차골보성향토시장 (2, 7일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.7656343875,
+  "lng": 127.0772586154,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3027182_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "녹차골보성향토시장 (2, 7일)",
+    "desc": "",
+    "address": "전남광주통합특별시 보성군 보성읍 현충로 42-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "능주전통시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.990929286,
+  "lng": 126.959771698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3536164_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "능주전통시장",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 능주면 학포로 1955"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대치장 (3, 8일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.2754209258,
+  "lng": 126.8861071953,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3582045_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대치장 (3, 8일)",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 대전면 대치8길 28-12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "덕양시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.7979985577,
+  "lng": 127.6320285789,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3580299_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕양시장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 소라면 하세동길 12-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "독천장(4, 9일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.7245388526,
+  "lng": 126.5680822175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/1971640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독천장(4, 9일)",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 미암면 독천1길 19"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동박새꿈정원",
+  "district": "전남광주통합특별시",
+  "category": "특산물판매점",
+  "lat": 34.7444819002,
+  "lng": 127.7676180755,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동박새꿈정원",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 오동도로 238-32 오동도 등대"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마량 놀토수산시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.4490600303,
+  "lng": 126.8198556151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2752180_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "마량 놀토수산시장",
+    "desc": "",
+    "address": "전남광주통합특별시 강진군 마량면 미항로 164"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "목포 동부시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.8041242271,
+  "lng": 126.3921097173,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3534255_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목포 동부시장",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 산정로 174"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "목포 신중앙시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.8102316343,
+  "lng": 126.3775525232,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3534247_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목포 신중앙시장",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 원산중앙로 51"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "목포 청호시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.8153651607,
+  "lng": 126.4246260181,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3060703_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목포 청호시장",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 석현로 28"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "목포농산물도매시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.8219505394,
+  "lng": 126.4252035854,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3534262_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목포농산물도매시장",
+    "desc": "",
+    "address": "전남광주통합특별시 목포시 영산로 648-23"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "무안장 (4, 9일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.9865799772,
+  "lng": 126.4725176318,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/1971656_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무안장 (4, 9일)",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 무안읍 면성1길 134"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "무안전통시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.9934958653,
+  "lng": 126.4726341196,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3582446_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무안전통시장",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 무안읍 성내리 21-13"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서시장 (4, 9일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.7407955187,
+  "lng": 127.7281966158,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3580367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서시장 (4, 9일)",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 광무동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "순천 웃장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.9586141,
+  "lng": 127.4849124008,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "순천 웃장",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 북문길 40 (동외동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "여수 특산품전시판매장",
+  "district": "전남광주통합특별시",
+  "category": "특산물판매점",
+  "lat": 34.7307160898,
+  "lng": 127.7280468858,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3027322_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수 특산품전시판매장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 어항단지로 205 (봉산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "여수수산시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.7381847622,
+  "lng": 127.7317935902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2787606_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "여수수산시장",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 여객선터미널길 24"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영광고추특화시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.2747616412,
+  "lng": 126.4941225265,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2876901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영광고추특화시장",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 신남로 100-35"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영산포풍물시장(5, 10일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.9915055499,
+  "lng": 126.7078383684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/1972036_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영산포풍물시장(5, 10일)",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 풍물시장2길 12-14 (이창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영암장 (5, 10일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.8013074122,
+  "lng": 126.7007936539,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/1972044_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영암장 (5, 10일)",
+    "desc": "",
+    "address": "전남광주통합특별시 영암군 영암읍 오일시장길 28"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "오룡시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.8069166899,
+  "lng": 126.459809225,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3535415_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오룡시장",
+    "desc": "",
+    "address": "전남광주통합특별시 무안군 삼향읍 남악3로 15"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "옥곡시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.9882339529,
+  "lng": 127.7006843695,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "옥곡시장",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 옥곡면 큰골1길 2-26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "완도 금일 수협활·선어위판장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.3257865542,
+  "lng": 126.7497286097,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3590786_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "완도 금일 수협활·선어위판장",
+    "desc": "",
+    "address": "전남광주통합특별시 완도군 완도읍 해변공원로124번길 26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "정남진장흥토요시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.6773052718,
+  "lng": 126.9031288719,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3535912_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정남진장흥토요시장",
+    "desc": "",
+    "address": "전남광주통합특별시 장흥군 장흥읍 토요시장1길 53"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중마시장",
+  "district": "전남광주통합특별시",
+  "category": "상설시장",
+  "lat": 34.938242314,
+  "lng": 127.698869145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2798453_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "중마시장",
+    "desc": "",
+    "address": "전남광주통합특별시 광양시 중마중앙로 88 (중동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중앙쇼핑센터",
+  "district": "전남광주통합특별시",
+  "category": "전문매장",
+  "lat": 34.7737876842,
+  "lng": 127.6495248838,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3582109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중앙쇼핑센터",
+    "desc": "",
+    "address": "전남광주통합특별시 여수시 무선중앙로 43 (선원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "지리산조청아낙",
+  "district": "전남광주통합특별시",
+  "category": "특산물판매점",
+  "lat": 35.3173954524,
+  "lng": 127.4589804839,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2952650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지리산조청아낙",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 산동면 지리산온천로 280"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "진도장·진도조금시장 (2, 7일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.4812305613,
+  "lng": 126.2573042985,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3061039_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진도장·진도조금시장 (2, 7일)",
+    "desc": "",
+    "address": "전남광주통합특별시 진도군 진도읍 조금시장길 25"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "창평장 (5, 10일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.3694988367,
+  "lng": 127.0298226417,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/1972088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "창평장 (5, 10일)",
+    "desc": "",
+    "address": "전남광주통합특별시 담양군 창평면 사동길 14-25"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "충주산방",
+  "district": "전남광주통합특별시",
+  "category": "공예·공방",
+  "lat": 34.9622124632,
+  "lng": 126.5908633152,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3537357_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "충주산방",
+    "desc": "",
+    "address": "전남광주통합특별시 나주시 공산면 금강로 253"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "태랑도예원",
+  "district": "전남광주통합특별시",
+  "category": "공예·공방",
+  "lat": 34.8688824839,
+  "lng": 127.4832092713,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "태랑도예원",
+    "desc": "",
+    "address": "전남광주통합특별시 순천시 별량면 일출길 141"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "해남장 (1, 6일)",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 34.568087443,
+  "lng": 126.5960446344,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/1972104_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해남장 (1, 6일)",
+    "desc": "",
+    "address": "전남광주통합특별시 해남군 해남읍 중앙2로 100-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "호호의 숲",
+  "district": "전남광주통합특별시",
+  "category": "쇼핑",
+  "lat": 35.2161483631,
+  "lng": 127.6083532714,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3081575_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "호호의 숲",
+    "desc": "",
+    "address": "전남광주통합특별시 구례군 토지면 외곡중기길 24-5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "화순고인돌전통시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.0596108299,
+  "lng": 126.9832290254,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3536174_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화순고인돌전통시장",
+    "desc": "",
+    "address": "전남광주통합특별시 화순군 화순읍 시장길 44"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "황룡시장",
+  "district": "전남광주통합특별시",
+  "category": "5일장",
+  "lat": 35.2913727847,
+  "lng": 126.7741583797,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3582462_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황룡시장",
+    "desc": "",
+    "address": "전남광주통합특별시 장성군 삼월길 5"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "GB포유공방",
+  "district": "전남광주통합특별시",
+  "category": "공예·공방",
+  "lat": 35.2764339291,
+  "lng": 126.5094683447,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3002490_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "GB포유공방",
+    "desc": "",
+    "address": "전남광주통합특별시 영광군 영광읍 현암길 43"
+   }
+  }
+ }
+]

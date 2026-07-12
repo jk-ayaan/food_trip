@@ -1,0 +1,602 @@
+[
+ {
+  "section": "festival",
+  "name_ko": "고창국가유산야행",
+  "district": "고창군",
+  "category": "일반축제",
+  "lat": 35.4299836923,
+  "lng": 126.704877711,
+  "phone": "063-560-2461",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3489020_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고창국가유산야행",
+    "desc": "",
+    "address": "전북특별자치도 고창군 고창읍 읍내리"
+   }
+  },
+  "pstart": "2025-06-13",
+  "pend": "2025-06-14",
+  "period": "2025.06.13~2025.06.14"
+ },
+ {
+  "section": "festival",
+  "name_ko": "군산짬뽕페스티벌",
+  "district": "군산시",
+  "category": "일반축제",
+  "lat": 35.9892174387,
+  "lng": 126.7141403863,
+  "phone": "063-454-3912",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3568605_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군산짬뽕페스티벌",
+    "desc": "",
+    "address": "전북특별자치도 군산시 해망로 214 (장미동)"
+   }
+  },
+  "pstart": "2025-10-09",
+  "pend": "2025-10-12",
+  "period": "2025.10.09~2025.10.12"
+ },
+ {
+  "section": "festival",
+  "name_ko": "담그랑께 나누랑께",
+  "district": "전주시",
+  "category": "기타행사",
+  "lat": 35.8157779693,
+  "lng": 127.1455841839,
+  "phone": "063-232-9938",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3569495_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "담그랑께 나누랑께",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전라감영로 55 (중앙동4가)"
+   }
+  },
+  "pstart": "2025-11-30",
+  "pend": "2025-11-30",
+  "period": "2025.11.30~2025.11.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "동편제국악축제",
+  "district": "남원시",
+  "category": "일반축제",
+  "lat": 35.4578119261,
+  "lng": 127.5613650169,
+  "phone": "010-2814-1055",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3540937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동편제국악축제",
+    "desc": "",
+    "address": "전북특별자치도 남원시 운봉읍 가산화수길 84"
+   }
+  },
+  "pstart": "2025-09-13",
+  "pend": "2025-09-13",
+  "period": "2025.09.13~2025.09.13"
+ },
+ {
+  "section": "festival",
+  "name_ko": "무형유산원 나들이",
+  "district": "전주시",
+  "category": "기타행사",
+  "lat": 35.8099038819,
+  "lng": 127.1596636399,
+  "phone": "063-280-1426",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3533457_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무형유산원 나들이",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 서학로 95 (동서학동)"
+   }
+  },
+  "pstart": "2025-09-27",
+  "pend": "2025-09-28",
+  "period": "2025.09.27~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "별빛주막 : 소양점",
+  "district": "완주군",
+  "category": "일반축제",
+  "lat": 35.9031141763,
+  "lng": 127.2433009708,
+  "phone": "070-4740-2135",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3567029_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별빛주막 : 소양점",
+    "desc": "",
+    "address": "전북특별자치도 완주군 소양면 송광수만로 472-23"
+   }
+  },
+  "pstart": "2025-11-15",
+  "pend": "2025-11-15",
+  "period": "2025.11.15~2025.11.15"
+ },
+ {
+  "section": "festival",
+  "name_ko": "보물찾기 축제 - 금괴를 찾아라 !",
+  "district": "익산시",
+  "category": "일반축제",
+  "lat": 35.9335834631,
+  "lng": 126.9541092806,
+  "phone": "070-4116-7828",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3536391_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보물찾기 축제 - 금괴를 찾아라 !",
+    "desc": "",
+    "address": "전북특별자치도 익산시 인북로12길 28 (주현동)"
+   }
+  },
+  "pstart": "2025-11-01",
+  "pend": "2025-11-02",
+  "period": "2025.11.01~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "부안 설(雪)숭어 축제",
+  "district": "부안군",
+  "category": "일반축제",
+  "lat": 35.7272448141,
+  "lng": 126.7312455993,
+  "phone": "010-4679-3810",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3575947_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부안 설(雪)숭어 축제",
+    "desc": "",
+    "address": "전북특별자치도 부안군 부안읍 서외리"
+   }
+  },
+  "pstart": "2025-12-05",
+  "pend": "2025-12-06",
+  "period": "2025.12.05~2025.12.06"
+ },
+ {
+  "section": "festival",
+  "name_ko": "부안국가유산야행",
+  "district": "부안군",
+  "category": "일반축제",
+  "lat": 35.7317582207,
+  "lng": 126.7330897643,
+  "phone": "063-278-5714",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3526909_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부안국가유산야행",
+    "desc": "",
+    "address": "전북특별자치도 부안군 부안읍 당산로 91"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "부안붉은노을축제",
+  "district": "부안군",
+  "category": "일반축제",
+  "lat": 35.6753000532,
+  "lng": 126.5272901102,
+  "phone": "063-580-4774",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3560714_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부안붉은노을축제",
+    "desc": "",
+    "address": "전북특별자치도 부안군 변산면 대항리"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-10-26",
+  "period": "2025.10.24~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "익산마한문화대전",
+  "district": "익산시",
+  "category": "일반축제",
+  "lat": 36.0006415547,
+  "lng": 127.0609146595,
+  "phone": "1577-0072 익산시 민원콜센터",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3546713_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "익산마한문화대전",
+    "desc": "",
+    "address": "전북특별자치도 익산시 금마면 고도9길 41-14"
+   }
+  },
+  "pstart": "2025-10-03",
+  "pend": "2025-10-05",
+  "period": "2025.10.03~2025.10.05"
+ },
+ {
+  "section": "festival",
+  "name_ko": "익산천만송이 국화축제",
+  "district": "익산시",
+  "category": "일반축제",
+  "lat": 35.9492655338,
+  "lng": 126.9844672731,
+  "phone": "063-859-4977",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3542875_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "익산천만송이 국화축제",
+    "desc": "",
+    "address": "전북특별자치도 익산시 하나로 322 (어양동)"
+   }
+  },
+  "pstart": "2025-10-24",
+  "pend": "2025-11-02",
+  "period": "2025.10.24~2025.11.02"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전라관찰사의 탄생",
+  "district": "전주시",
+  "category": "기타행사",
+  "lat": 35.8157779693,
+  "lng": 127.1455841839,
+  "phone": "063-232-9938",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3546908_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전라관찰사의 탄생",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전라감영로 55 (중앙동4가)"
+   }
+  },
+  "pstart": "2025-10-18",
+  "pend": "2025-11-30",
+  "period": "2025.10.18~2025.11.30"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전북특별자치도 청년축제",
+  "district": "익산시",
+  "category": "일반축제",
+  "lat": 35.9492655338,
+  "lng": 126.9844672731,
+  "phone": "063-227-2030",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3547488_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "전북특별자치도 청년축제",
+    "desc": "",
+    "address": "전북특별자치도 익산시 하나로 322 (어양동)"
+   }
+  },
+  "pstart": "2025-09-19",
+  "pend": "2025-09-20",
+  "period": "2025.09.19~2025.09.20"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전주 가맥축제",
+  "district": "전주시",
+  "category": "일반축제",
+  "lat": 35.813913403,
+  "lng": 127.0942388022,
+  "phone": "070-8870-6870",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3497942_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전주 가맥축제",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 천잠로 303 (효자동2가)"
+   }
+  },
+  "pstart": "2025-08-07",
+  "pend": "2025-08-09",
+  "period": "2025.08.07~2025.08.09"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전주막걸리축제",
+  "district": "전주시",
+  "category": "일반축제",
+  "lat": 35.8100832359,
+  "lng": 127.0914919246,
+  "phone": "063-281-2826",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3550475_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전주막걸리축제",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 효자동2가"
+   }
+  },
+  "pstart": "2025-10-31",
+  "pend": "2025-11-01",
+  "period": "2025.10.31~2025.11.01"
+ },
+ {
+  "section": "festival",
+  "name_ko": "전주제야축제",
+  "district": "전주시",
+  "category": "일반축제",
+  "lat": 35.8236298879,
+  "lng": 127.1475254718,
+  "phone": "063-281-2682",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3589873_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전주제야축제",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 서노송동"
+   }
+  },
+  "pstart": "2025-12-31",
+  "pend": "2025-12-31",
+  "period": "2025.12.31~2025.12.31"
+ },
+ {
+  "section": "festival",
+  "name_ko": "정읍 물빛축제",
+  "district": "정읍시",
+  "category": "일반축제",
+  "lat": 35.5613102375,
+  "lng": 126.8557220904,
+  "phone": "063-539-5235",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3514059_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "정읍 물빛축제",
+    "desc": "",
+    "address": "전북특별자치도 정읍시 시기동 407-3"
+   }
+  },
+  "pstart": "2025-08-08",
+  "pend": "2025-08-10",
+  "period": "2025.08.08~2025.08.10"
+ },
+ {
+  "section": "festival",
+  "name_ko": "정읍사문화제",
+  "district": "정읍시",
+  "category": "일반축제",
+  "lat": 35.5517697693,
+  "lng": 126.8625439495,
+  "phone": "063-532-8880",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3551903_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정읍사문화제",
+    "desc": "",
+    "address": "전북특별자치도 정읍시 정읍사로 541 (시기동)"
+   }
+  },
+  "pstart": "2025-10-25",
+  "pend": "2025-10-26",
+  "period": "2025.10.25~2025.10.26"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제 19회 전북과학축전",
+  "district": "전주시",
+  "category": "전시회",
+  "lat": 35.813913403,
+  "lng": 127.0942388022,
+  "phone": "063-260-9332",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3536343_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "제 19회 전북과학축전",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 천잠로 303 (효자동2가)"
+   }
+  },
+  "pstart": "2025-10-17",
+  "pend": "2025-10-19",
+  "period": "2025.10.17~2025.10.19"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제19회 전북청소년영화제",
+  "district": "전주시",
+  "category": "영화",
+  "lat": 35.8188247887,
+  "lng": 127.1423260609,
+  "phone": "063-253-4045",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3563364_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제19회 전북청소년영화제",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주객사3길 34 (고사동)"
+   }
+  },
+  "pstart": "2025-11-07",
+  "pend": "2025-11-08",
+  "period": "2025.11.07~2025.11.08"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제4회 호러 홀로그램 페스티벌",
+  "district": "익산시",
+  "category": "기타행사",
+  "lat": 36.0693453645,
+  "lng": 126.9316966194,
+  "phone": "010-5149-8272",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3521135_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제4회 호러 홀로그램 페스티벌",
+    "desc": "",
+    "address": "전북특별자치도 익산시 성당면 함낭로 207"
+   }
+  },
+  "pstart": "2025-09-18",
+  "pend": "2025-09-28",
+  "period": "2025.09.18~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "제8회 전주국제단편영화제",
+  "district": "전주시",
+  "category": "영화",
+  "lat": 35.8203690535,
+  "lng": 127.142095485,
+  "phone": "063-253-4045",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3539533_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "제8회 전주국제단편영화제",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 전주객사3길 72 (고사동)"
+   }
+  },
+  "pstart": "2025-09-25",
+  "pend": "2025-09-29",
+  "period": "2025.09.25~2025.09.29"
+ },
+ {
+  "section": "festival",
+  "name_ko": "중앙동 한바퀴 시즌3",
+  "district": "익산시",
+  "category": "기타행사",
+  "lat": 35.9417741297,
+  "lng": 126.9502371903,
+  "phone": "053-253-0515",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3507603_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중앙동 한바퀴 시즌3",
+    "desc": "",
+    "address": "전북특별자치도 익산시 중앙로3길 27 (창인동1가)"
+   }
+  },
+  "pstart": "2025-08-08",
+  "pend": "2025-08-16",
+  "period": "2025.08.08~2025.08.16"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 꼼순락(꼬마들의 순창 오락실)",
+  "district": "순창군",
+  "category": "기타행사",
+  "lat": 35.3687947722,
+  "lng": 127.1123375755,
+  "phone": "콘텐츠전략팀 063-653-1827",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3513638_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 꼼순락(꼬마들의 순창 오락실)",
+    "desc": "",
+    "address": "전북특별자치도 순창군 순창읍 장류로 55"
+   }
+  },
+  "pstart": "2025-08-23",
+  "pend": "2025-08-23",
+  "period": "2025.08.23~2025.08.23"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 우리가락 우리마당 '新명불허전'",
+  "district": "전주시",
+  "category": "전통공연",
+  "lat": 35.8192769633,
+  "lng": 127.1104844388,
+  "phone": "010-3380-1902",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3532535_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 우리가락 우리마당 '新명불허전'",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 효자로 225 (효자동3가)"
+   }
+  },
+  "pstart": "2025-07-12",
+  "pend": "2025-09-27",
+  "period": "2025.07.12~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 유네스코 인류무형유산 초청공연",
+  "district": "전주시",
+  "category": "클래식",
+  "lat": 35.8099038819,
+  "lng": 127.1596636399,
+  "phone": "02-2039-0342",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3525755_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 유네스코 인류무형유산 초청공연",
+    "desc": "",
+    "address": "전북특별자치도 전주시 완산구 서학로 95 (동서학동)"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-27",
+  "period": "2025.09.26~2025.09.27"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 전주드론축구월드컵",
+  "district": "전주시",
+  "category": "기타행사",
+  "lat": 35.8676429285,
+  "lng": 127.0670592641,
+  "phone": "063-281-8748",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3536480_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2025 전주드론축구월드컵",
+    "desc": "",
+    "address": "전북특별자치도 전주시 덕진구 기린대로 1055 (반월동)"
+   }
+  },
+  "pstart": "2025-09-25",
+  "pend": "2025-09-28",
+  "period": "2025.09.25~2025.09.28"
+ },
+ {
+  "section": "festival",
+  "name_ko": "2025 홀로그램 엑스포 - HOLO WAVE",
+  "district": "익산시",
+  "category": "기타행사",
+  "lat": 35.9670185276,
+  "lng": 126.9533945826,
+  "phone": "063-252-0048",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3565396_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "2025 홀로그램 엑스포 - HOLO WAVE",
+    "desc": "",
+    "address": "전북특별자치도 익산시 익산대로 460 (신동)"
+   }
+  },
+  "pstart": "2025-11-20",
+  "pend": "2025-11-22",
+  "period": "2025.11.20~2025.11.22"
+ },
+ {
+  "section": "festival",
+  "name_ko": "NS푸드페스타",
+  "district": "익산시",
+  "category": "일반축제",
+  "lat": 36.0314029894,
+  "lng": 126.9615032843,
+  "phone": "02-574-1753",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3578421_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "NS푸드페스타",
+    "desc": "",
+    "address": "전북특별자치도 익산시 함열읍 익산대로78길 137"
+   }
+  },
+  "pstart": "2025-09-26",
+  "pend": "2025-09-27",
+  "period": "2025.09.26~2025.09.27"
+ }
+]

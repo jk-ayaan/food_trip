@@ -1,0 +1,495 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "고운뜰공원",
+  "district": "",
+  "category": "공원",
+  "lat": 36.5125528023,
+  "lng": 127.2391322492,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고운뜰공원",
+    "desc": "",
+    "address": "세종특별자치시 만남로 151 (고운동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금남 백로 서식지",
+  "district": "금남면",
+  "category": "자연생태관광지",
+  "lat": 36.4424478663,
+  "lng": 127.2909156214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3562269_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금남 백로 서식지",
+    "desc": "",
+    "address": "세종특별자치시 금남면 감성리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "나무키움(전의양묘영농조합법인)",
+  "district": "전의면",
+  "category": "이색체험",
+  "lat": 36.6764471443,
+  "lng": 127.1978759312,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "나무키움(전의양묘영농조합법인)",
+    "desc": "",
+    "address": "세종특별자치시 전의면 근성길 14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무궁화테마공원",
+  "district": "세종동",
+  "category": "공원",
+  "lat": 36.5145479201,
+  "lng": 127.2900165196,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "무궁화테마공원",
+    "desc": "",
+    "address": "세종특별자치시 세종동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "밀마루전망대",
+  "district": "",
+  "category": "유명건물",
+  "lat": 36.5054483572,
+  "lng": 127.2558420543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3008609_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밀마루전망대",
+    "desc": "",
+    "address": "세종특별자치시 도움3로 58"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "바람재쉼터",
+  "district": "금남면",
+  "category": "공원",
+  "lat": 36.4476478693,
+  "lng": 127.3247180074,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3335816_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바람재쉼터",
+    "desc": "",
+    "address": "세종특별자치시 금남면 영대리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부강성당",
+  "district": "",
+  "category": "종교성지",
+  "lat": 36.5302586467,
+  "lng": 127.3697367202,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3562230_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부강성당",
+    "desc": "",
+    "address": "세종특별자치시  부강4길 33"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비녀랑 한복이랑",
+  "district": "조치원읍",
+  "category": "이색체험",
+  "lat": 36.6297679841,
+  "lng": 127.2872775071,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비녀랑 한복이랑",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 안터길 107"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비암사 도깨비도로",
+  "district": "",
+  "category": "이색체험",
+  "lat": 36.6109101221,
+  "lng": 127.19187826,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3027828_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비암사 도깨비도로",
+    "desc": "",
+    "address": "세종특별자치시  비암사길 137 비암사"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비오케이아트센터",
+  "district": "국책연구",
+  "category": "이색체험",
+  "lat": 36.4924201361,
+  "lng": 127.3032714889,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3350245_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비오케이아트센터",
+    "desc": "",
+    "address": "세종특별자치시 국책연구원3로 12 (반곡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "뽀로로파크 세종점",
+  "district": "",
+  "category": "이색체험",
+  "lat": 36.4951440955,
+  "lng": 127.2621806547,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2905482_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뽀로로파크 세종점",
+    "desc": "",
+    "address": "세종특별자치시  갈매로 351 에비뉴힐"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼버들협동조합",
+  "district": "부강면",
+  "category": "이색체험",
+  "lat": 36.5277089457,
+  "lng": 127.3700867581,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2820095_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼버들협동조합",
+    "desc": "",
+    "address": "세종특별자치시 부강면 시장1길 6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세종호수공원",
+  "district": "",
+  "category": "공원",
+  "lat": 36.4989993515,
+  "lng": 127.2701992755,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3353976_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세종호수공원",
+    "desc": "",
+    "address": "세종특별자치시 다솜로 216 (세종동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "숲뜰근린공원",
+  "district": "대평동",
+  "category": "공원",
+  "lat": 36.4674500965,
+  "lng": 127.2649144954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3415234_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "숲뜰근린공원",
+    "desc": "",
+    "address": "세종특별자치시 대평동 580-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신광사(세종)",
+  "district": "조치원읍",
+  "category": "사찰",
+  "lat": 36.6235770632,
+  "lng": 127.2892524995,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3559261_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신광사(세종)",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 토골고개길 24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "쌍류포도정원협동조합",
+  "district": "연서면",
+  "category": "이색체험",
+  "lat": 36.6033808619,
+  "lng": 127.2161818371,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2739606_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쌍류포도정원협동조합",
+    "desc": "",
+    "address": "세종특별자치시 연서면 쌍류송암길 76-36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아람달 체험마을",
+  "district": "전동면",
+  "category": "농어촌체험",
+  "lat": 36.6659380766,
+  "lng": 127.2449386547,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3461458_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아람달 체험마을",
+    "desc": "",
+    "address": "세종특별자치시 전동면 운주산로 606"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연기향교",
+  "district": "연기면",
+  "category": "유적지",
+  "lat": 36.5433916769,
+  "lng": 127.2811665273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3342770_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "연기향교",
+    "desc": "",
+    "address": "세종특별자치시 연기면 교촌3길 13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연화사(세종)",
+  "district": "연서면",
+  "category": "사찰",
+  "lat": 36.592605443,
+  "lng": 127.2793875653,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3559280_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연화사(세종)",
+    "desc": "",
+    "address": "세종특별자치시 연서면 연화사길 28-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우주측지관측센터",
+  "district": "",
+  "category": "기타 산업관광지",
+  "lat": 36.5212168325,
+  "lng": 127.3031373832,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3333372_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우주측지관측센터",
+    "desc": "",
+    "address": "세종특별자치시 월산공단로 276-73 (세종동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원수산MTB공원",
+  "district": "세종동",
+  "category": "자연생태관광지",
+  "lat": 36.522946561,
+  "lng": 127.2677155135,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "원수산MTB공원",
+    "desc": "",
+    "address": "세종특별자치시 세종동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "전의향교",
+  "district": "전의면",
+  "category": "유적지",
+  "lat": 36.6805106171,
+  "lng": 127.2007894471,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3481562_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전의향교",
+    "desc": "",
+    "address": "세종특별자치시 전의면 북촌1길 5-18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "청안사(세종)",
+  "district": "전의면",
+  "category": "사찰",
+  "lat": 36.6405039409,
+  "lng": 127.191627475,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3559210_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청안사(세종)",
+    "desc": "",
+    "address": "세종특별자치시 전의면 가느실길 128-23"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "학림사(세종)",
+  "district": "연서면",
+  "category": "사찰",
+  "lat": 36.5843585782,
+  "lng": 127.246218547,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3342788_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "학림사(세종)",
+    "desc": "",
+    "address": "세종특별자치시 연서면 와룡로 353"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세종문화예술회관",
+  "district": "조치원읍",
+  "category": "공연장",
+  "lat": 36.5984910341,
+  "lng": 127.288125509,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "세종문화예술회관",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 문예회관길 22"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세종문화원",
+  "district": "조치원읍",
+  "category": "문화원",
+  "lat": 36.6032018291,
+  "lng": 127.3007603571,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3585011_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세종문화원",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 문화로 17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "세종예술의전당",
+  "district": "",
+  "category": "공연장",
+  "lat": 36.4867173758,
+  "lng": 127.2673831951,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3028064_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "세종예술의전당",
+    "desc": "",
+    "address": "세종특별자치시  국립박물관로 21 세종 예술의 전당"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소피아갤러리",
+  "district": "금남면",
+  "category": "미술관·화랑",
+  "lat": 36.4381335591,
+  "lng": 127.2393620249,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2758514_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소피아갤러리",
+    "desc": "",
+    "address": "세종특별자치시 금남면 도남2길 50-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정부세종컨벤션센터",
+  "district": "",
+  "category": "컨벤션센터",
+  "lat": 36.5010685337,
+  "lng": 127.2688382303,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3564593_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정부세종컨벤션센터",
+    "desc": "",
+    "address": "세종특별자치시 다솜3로 66 (어진동)"
+   }
+  }
+ }
+]

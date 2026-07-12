@@ -1,0 +1,3640 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "가람초연재",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5389896786,
+  "lng": 128.5162424474,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2993048_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가람초연재",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 하회종가길 76-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "가야호텔",
+  "district": "성주군",
+  "category": "관광호텔",
+  "lat": 35.8028998655,
+  "lng": 128.1422906062,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3549832_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가야호텔",
+    "desc": "",
+    "address": "경상북도 성주군 수륜면 가야산식물원길 52"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "강이있는풍경펜션",
+  "district": "문경시",
+  "category": "펜션",
+  "lat": 36.6629292774,
+  "lng": 128.1206408277,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3573588_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강이있는풍경펜션",
+    "desc": "",
+    "address": "경상북도 문경시 마성면 구랑로 333"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "게스트하우스 play at home(플레이앳홈)",
+  "district": "안동시",
+  "category": "게스트하우스",
+  "lat": 36.5672736337,
+  "lng": 128.7215095058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2566872_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "게스트하우스 play at home(플레이앳홈)",
+    "desc": "",
+    "address": "경상북도 안동시 금곡길 21-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주 감포한옥펜션",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8153264806,
+  "lng": 129.5008736523,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2568463_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주 감포한옥펜션",
+    "desc": "",
+    "address": "경상북도 경주시 감포읍 감포로10길 40-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주 교동한옥집",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8289194614,
+  "lng": 129.2117818994,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주 교동한옥집",
+    "desc": "",
+    "address": "경상북도 경주시 천원안길 21-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주 오릉 한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8255836465,
+  "lng": 129.2075018128,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주 오릉 한옥",
+    "desc": "",
+    "address": "경상북도 경주시 국당1길 15-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주 춘추관",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8227779989,
+  "lng": 129.1858343474,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주 춘추관",
+    "desc": "",
+    "address": "경상북도 경주시 대경로 4821-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주 한옥(경주한옥펜션)",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.801408396,
+  "lng": 129.1968562111,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주 한옥(경주한옥펜션)",
+    "desc": "",
+    "address": "경상북도 경주시 도초길 124-31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주수호정",
+  "district": "경주시",
+  "category": "게스트하우스",
+  "lat": 35.8368574416,
+  "lng": 129.2110983992,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2635611_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주수호정",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1068번길 15-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주애견펜션 노비오스",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7821186485,
+  "lng": 129.3302728568,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2499400_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주애견펜션 노비오스",
+    "desc": "",
+    "address": "경상북도 경주시 진티길 37-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주오릉한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8258280631,
+  "lng": 129.2074990288,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3549979_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주오릉한옥",
+    "desc": "",
+    "address": "경상북도 경주시 국당2길 12-17 (사정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주읍성한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8495671257,
+  "lng": 129.2115257778,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주읍성한옥",
+    "desc": "",
+    "address": "경상북도 경주시 봉황로116번길 14-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주천년한옥펜션",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7741216208,
+  "lng": 129.2929124645,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2635527_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주천년한옥펜션",
+    "desc": "",
+    "address": "경상북도 경주시 시동로 86-61"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8042969107,
+  "lng": 129.1942924649,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주한옥",
+    "desc": "",
+    "address": "경상북도 경주시 도초길 124-31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주한옥1번가",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8257226259,
+  "lng": 129.2131318712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3021415_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주한옥1번가",
+    "desc": "",
+    "address": "경상북도 경주시 천원1길 20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주황리단길숙소 한옥스테이 목화",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8366713533,
+  "lng": 129.2111956188,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주황리단길숙소 한옥스테이 목화",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1068번길 15-11 (황남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "경주휴원",
+  "district": "경주시",
+  "category": "게스트하우스",
+  "lat": 35.8271220352,
+  "lng": 129.1902060635,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2691040_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주휴원",
+    "desc": "",
+    "address": "경상북도 경주시 충효서악길 154"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "계림궁",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.8243421893,
+  "lng": 129.2111959697,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "계림궁",
+    "desc": "",
+    "address": "경상북도 경주시 포석로 932"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "계와고택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5061914143,
+  "lng": 128.8529135077,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "계와고택",
+    "desc": "",
+    "address": "경상북도 안동시 금소중앙길 56-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고대안풀빌라펜션",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.8103240674,
+  "lng": 129.4904247093,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고대안풀빌라펜션",
+    "desc": "",
+    "address": "경상북도 경주시 감포읍 가래실길 135"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고려호텔",
+  "district": "안동시",
+  "category": "모텔",
+  "lat": 36.5644908297,
+  "lng": 128.7327530324,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3059598_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고려호텔",
+    "desc": "",
+    "address": "경상북도 안동시 영가로 13 (동부동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고립낙원",
+  "district": "청도군",
+  "category": "펜션",
+  "lat": 35.6255450564,
+  "lng": 128.6072628436,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고립낙원",
+    "desc": "",
+    "address": "경상북도 청도군 풍각면 차산길 9-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고성이씨 탑동종택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.569298832,
+  "lng": 128.7442796474,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2597514_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "고성이씨 탑동종택",
+    "desc": "",
+    "address": "경상북도 안동시 임청각길 103"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "구미센츄리호텔",
+  "district": "구미시",
+  "category": "관광호텔",
+  "lat": 36.1086671428,
+  "lng": 128.4026924803,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3573663_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구미센츄리호텔",
+    "desc": "",
+    "address": "경상북도 구미시 3공단1로 296 (임수동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "구토란펜션",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7519410756,
+  "lng": 129.1607746629,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2998914_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구토란펜션",
+    "desc": "",
+    "address": "경상북도 경주시 귀계길 17-25"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "귀애고택",
+  "district": "영천시",
+  "category": "한옥스테이",
+  "lat": 36.0570150915,
+  "lng": 128.8741439717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2917560_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "귀애고택",
+    "desc": "",
+    "address": "경상북도 영천시 화남면 귀호1길 37-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "기헌고택",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.9118037941,
+  "lng": 128.8734220139,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "기헌고택",
+    "desc": "",
+    "address": "경상북도 봉화군 법전면 경체정길 18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "김진호가옥",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.7337804756,
+  "lng": 128.6200998032,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "김진호가옥",
+    "desc": "",
+    "address": "경상북도 영주시 문수면 무섬로234번길 31-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "김천파크 관광호텔",
+  "district": "김천시",
+  "category": "관광호텔",
+  "lat": 36.1160259279,
+  "lng": 128.0169236874,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/1893561_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김천파크 관광호텔",
+    "desc": "",
+    "address": "경상북도 김천시 대항면 황학동길 35-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "나들한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8361159955,
+  "lng": 129.2183644504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2636486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나들한옥",
+    "desc": "",
+    "address": "경상북도 경주시 쪽샘길 4-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "낙안재",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8359908215,
+  "lng": 129.2084125487,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "낙안재",
+    "desc": "",
+    "address": "경상북도 경주시 사정로 46-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "남악종택",
+  "district": "예천군",
+  "category": "한옥스테이",
+  "lat": 36.6876868895,
+  "lng": 128.3844776874,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남악종택",
+    "desc": "",
+    "address": "경상북도 예천군 용문면 구계길 43-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "남호구택",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.8938305643,
+  "lng": 128.7124007849,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2626090_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남호구택",
+    "desc": "",
+    "address": "경상북도 봉화군 봉화읍 바래미길 21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "넘버25 호텔 경주터미널점",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.8407568904,
+  "lng": 129.2052182485,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "넘버25 호텔 경주터미널점",
+    "desc": "",
+    "address": "경상북도 경주시 금성로259번길 17 (노서동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "노블리온 호텔",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0123513036,
+  "lng": 129.347000896,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2912303_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노블리온 호텔",
+    "desc": "",
+    "address": "경상북도 포항시 남구 희망대로659번길 20 (대잠동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "노송정종택(퇴계생가)",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.749721482,
+  "lng": 128.8283502491,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3021983_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노송정종택(퇴계생가)",
+    "desc": "",
+    "address": "경상북도 안동시 도산면 온혜중마길 46-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다모디(다모디펜션)",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.0519317884,
+  "lng": 129.5770045806,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2568774_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다모디(다모디펜션)",
+    "desc": "",
+    "address": "경상북도 포항시 남구 호미곶면 관암일출길 29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다온민박",
+  "district": "안동시",
+  "category": "민박",
+  "lat": 36.5370871629,
+  "lng": 128.5186450663,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다온민박",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 하회남촌길 53-20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "다온한옥스테이",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5658931397,
+  "lng": 128.716376668,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다온한옥스테이",
+    "desc": "",
+    "address": "경상북도 안동시 서부시장2길 51 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더 포레 관광펜션",
+  "district": "청도군",
+  "category": "펜션",
+  "lat": 35.6373698403,
+  "lng": 128.6681627264,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더 포레 관광펜션",
+    "desc": "",
+    "address": "경상북도 청도군 각남면 구곡1길 66-32"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더스터닝",
+  "district": "안동시",
+  "category": "게스트하우스",
+  "lat": 36.5508088095,
+  "lng": 128.7195601552,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더스터닝",
+    "desc": "",
+    "address": "경상북도 안동시 예일길 22-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더옐로우",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8350214734,
+  "lng": 129.2076848625,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더옐로우",
+    "desc": "",
+    "address": "경상북도 경주시 금성로196번길 5 (사정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "덕구온천호텔&콘도",
+  "district": "울진군",
+  "category": "관광호텔",
+  "lat": 37.0790592288,
+  "lng": 129.2842331949,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3503639_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕구온천호텔&콘도",
+    "desc": "",
+    "address": "경상북도 울진군 북면 덕구온천로 924"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "덕동댁",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6668362609,
+  "lng": 128.2279478614,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2999052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕동댁",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실2길 39"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "덕만재",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8219403015,
+  "lng": 129.2439653891,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "덕만재",
+    "desc": "",
+    "address": "경상북도 경주시 하강선길 43-16 (보문동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "덕여재",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5406756026,
+  "lng": 128.5165368174,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "덕여재",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 하회남촌길 56"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "덕용재4.9",
+  "district": "예천군",
+  "category": "한옥스테이",
+  "lat": 36.6918174421,
+  "lng": 128.4096697675,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "덕용재4.9",
+    "desc": "",
+    "address": "경상북도 예천군 용문면 금당실길 78-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도봉서당",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8274885572,
+  "lng": 129.1847315323,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도봉서당",
+    "desc": "",
+    "address": "경상북도 경주시 서악4길 58"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "동의참누리원 영천한의마을한옥체험관",
+  "district": "영천시",
+  "category": "한옥스테이",
+  "lat": 35.9784693542,
+  "lng": 128.9233029829,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동의참누리원 영천한의마을한옥체험관",
+    "desc": "",
+    "address": "경상북도 영천시 천문로 485 (화룡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "동파랑",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8439402283,
+  "lng": 129.2244775811,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동파랑",
+    "desc": "",
+    "address": "경상북도 경주시 양정로98번길 16-8 (황오동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "딜라이트107풀빌라",
+  "district": "영덕군",
+  "category": "펜션",
+  "lat": 36.3912400941,
+  "lng": 129.4081289119,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "딜라이트107풀빌라",
+    "desc": "",
+    "address": "경상북도 영덕군 강구면 영덕대게로 509-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라마다 바이 윈덤 구미 호텔",
+  "district": "구미시",
+  "category": "관광호텔",
+  "lat": 36.109917289,
+  "lng": 128.4183521711,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2811903_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라마다 바이 윈덤 구미 호텔",
+    "desc": "",
+    "address": "경상북도 구미시 인동중앙로3길 41 라마다 구미 호텔"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라메르펜션리조트",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.03816118,
+  "lng": 129.5799824995,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라메르펜션리조트",
+    "desc": "",
+    "address": "경상북도 포항시 남구 호미곶면 일출로568번길 19-16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라한호텔 포항",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0645459792,
+  "lng": 129.3773689438,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3533627_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라한호텔 포항",
+    "desc": "",
+    "address": "경상북도 포항시 북구 삼호로265번길 1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "락희원",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8373712898,
+  "lng": 129.2120149707,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "락희원",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1050번길 43"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "로오우",
+  "district": "영덕군",
+  "category": "서비스드레지던스",
+  "lat": 36.6149008432,
+  "lng": 129.4119913846,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3082960_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "로오우",
+    "desc": "",
+    "address": "경상북도 영덕군 병곡면 흰돌로 116"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리앙스펜션",
+  "district": "문경시",
+  "category": "펜션",
+  "lat": 36.7372265214,
+  "lng": 128.1315182971,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "리앙스펜션",
+    "desc": "",
+    "address": "경상북도 문경시 문경읍 주흘로 241-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "리첼호텔",
+  "district": "안동시",
+  "category": "관광호텔",
+  "lat": 36.5680802316,
+  "lng": 128.7816208125,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3089826_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "리첼호텔",
+    "desc": "",
+    "address": "경상북도 안동시 관광단지로 346-69 (성곡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마골댁",
+  "district": "영덕군",
+  "category": "한옥스테이",
+  "lat": 36.5577510335,
+  "lng": 129.3726521162,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마골댁",
+    "desc": "",
+    "address": "경상북도 영덕군 창수면 인량1길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마치블루풀빌라",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.235404532,
+  "lng": 129.3838717333,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마치블루풀빌라",
+    "desc": "",
+    "address": "경상북도 포항시 북구 송라면 봉화길 202"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "만죽재 고택",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.7315335366,
+  "lng": 128.6214914114,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3016955_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만죽재 고택",
+    "desc": "",
+    "address": "경상북도 영주시 무섬로234번길 11-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "만회고택",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.8973024423,
+  "lng": 128.7152226538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3042238_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만회고택",
+    "desc": "",
+    "address": "경상북도 봉화군 봉화읍 바래미1길 51"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "망와고택",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.9827736538,
+  "lng": 128.7391068901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2568031_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "망와고택",
+    "desc": "",
+    "address": "경상북도 봉화군 물야면 오록2길 48"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "맥산댁",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6672890017,
+  "lng": 128.2287144477,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "맥산댁",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실2길 8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "모모제인",
+  "district": "경주시",
+  "category": "게스트하우스",
+  "lat": 35.8435484168,
+  "lng": 129.214492356,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "모모제인",
+    "desc": "",
+    "address": "경상북도 경주시 동성로 129-7 (황오동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "모지고택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5407367391,
+  "lng": 128.5182644399,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "모지고택",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 하회남촌길 33"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "목재고택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.7429034924,
+  "lng": 128.8638611802,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "목재고택",
+    "desc": "",
+    "address": "경상북도 안동시 도산면 백운로 533-20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "문행당",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.9132538839,
+  "lng": 128.7411004318,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2918487_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문행당",
+    "desc": "",
+    "address": "경상북도 봉화군 봉화읍 충재길 87-65"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "문화공간 진",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.8465451636,
+  "lng": 129.2072456836,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "문화공간 진",
+    "desc": "",
+    "address": "경상북도 경주시 동성로 83"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "미지한옥",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5679126993,
+  "lng": 128.7347694209,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미지한옥",
+    "desc": "",
+    "address": "경상북도 안동시 북문옥정길 67-8 (옥정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "박정우가옥",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.7346498149,
+  "lng": 128.6197803621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2600212_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "박정우가옥",
+    "desc": "",
+    "address": "경상북도 영주시 문수면 무섬로234번길 11-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "밸리1961",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7042473303,
+  "lng": 129.0593793333,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "밸리1961",
+    "desc": "",
+    "address": "경상북도 경주시 산내면 문복로 836-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "베니키아 스위스로젠 호텔",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.8405891164,
+  "lng": 129.2925689326,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3555728_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베니키아 스위스로젠 호텔",
+    "desc": "",
+    "address": "경상북도 경주시 보문로 465-37 (신평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "벨루스로즈펜션",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.8590558642,
+  "lng": 129.2602462373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3555765_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "벨루스로즈펜션",
+    "desc": "",
+    "address": "경상북도 경주시 북군길 107-19 (북군동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "별동산달빛아래",
+  "district": "청송군",
+  "category": "한옥스테이",
+  "lat": 36.439085693,
+  "lng": 129.0270583737,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "별동산달빛아래",
+    "desc": "",
+    "address": "경상북도 청송군 파천면 송소고택길 45-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "별사이",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.8231697168,
+  "lng": 129.1909005594,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "별사이",
+    "desc": "",
+    "address": "경상북도 경주시 노하길 27-11 (서악동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "별아래한옥",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5371900617,
+  "lng": 128.8213737375,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "별아래한옥",
+    "desc": "",
+    "address": "경상북도 안동시 임하면 인덕길 86"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "병암고택",
+  "district": "영양군",
+  "category": "한옥스테이",
+  "lat": 36.5580462975,
+  "lng": 129.1281320615,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "병암고택",
+    "desc": "",
+    "address": "경상북도 영양군 석보면 두들마을길 100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "봄날",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5602437107,
+  "lng": 128.7124966204,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "봄날",
+    "desc": "",
+    "address": "경상북도 안동시 태화길 91 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "불국사한옥팜스테이",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.7829935089,
+  "lng": 129.3281424622,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2813933_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "불국사한옥팜스테이",
+    "desc": "",
+    "address": "경상북도 경주시 진티길 5-52"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트 안동문화의거리점",
+  "district": "안동시",
+  "category": "관광호텔",
+  "lat": 36.5639241989,
+  "lng": 128.7311865212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3054650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트 안동문화의거리점",
+    "desc": "",
+    "address": "경상북도 안동시 문화광장길 16-13 (남부동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 포항 죽도점",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0292163567,
+  "lng": 129.3624351656,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2771847_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 포항 죽도점",
+    "desc": "",
+    "address": "경상북도 포항시 북구 죽도로40번길 51 (죽도동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 포항영일대점",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.05880221,
+  "lng": 129.3786801066,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2911701_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 포항영일대점",
+    "desc": "",
+    "address": "경상북도 포항시 북구 해안로 113 (두호동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "블루오션관광펜션",
+  "district": "영덕군",
+  "category": "펜션",
+  "lat": 36.3288771787,
+  "lng": 129.3794916026,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3532503_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "블루오션관광펜션",
+    "desc": "",
+    "address": "경상북도 영덕군 남정면 동해대로 4142"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비치호텔",
+  "district": "경주시",
+  "category": "모텔",
+  "lat": 35.6713669654,
+  "lng": 129.4625450111,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비치호텔",
+    "desc": "",
+    "address": "경상북도 경주시 양남면 양남로 297"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비프리비펜션",
+  "district": "영덕군",
+  "category": "펜션",
+  "lat": 36.6147425313,
+  "lng": 129.412163596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3555831_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비프리비펜션",
+    "desc": "",
+    "address": "경상북도 영덕군 병곡면 흰돌로 112"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "상일 호스텔(상일펜션)",
+  "district": "울릉군",
+  "category": "게스트하우스",
+  "lat": 37.4689579289,
+  "lng": 130.8813570684,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "상일 호스텔(상일펜션)",
+    "desc": "",
+    "address": "경상북도 울릉군 울릉읍 울릉순환로 680"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "새마을 시대촌",
+  "district": "청도군",
+  "category": "한옥스테이",
+  "lat": 35.599961885,
+  "lng": 128.7612028192,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "새마을 시대촌",
+    "desc": "",
+    "address": "경상북도 청도군 청도읍 새마을1길 72"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "서남산한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.7808636366,
+  "lng": 129.2045588973,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "서남산한옥",
+    "desc": "",
+    "address": "경상북도 경주시 내남면 포석로 435-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "석정댁",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6670529242,
+  "lng": 128.2290727562,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3435363_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "석정댁",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실2길 6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "선비촌",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.9313626658,
+  "lng": 128.5811891709,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "선비촌",
+    "desc": "",
+    "address": "경상북도 영주시 순흥면 소백로 2796"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "섬계고택",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.7346248007,
+  "lng": 128.6188776654,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "섬계고택",
+    "desc": "",
+    "address": "경상북도 영주시 문수면 무섬로234번길 11-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "성암재",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.9402401946,
+  "lng": 128.9136370309,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3042286_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성암재",
+    "desc": "",
+    "address": "경상북도 봉화군 춘양면 서동길 19-18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "셔블",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.836815788,
+  "lng": 129.2115428065,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2567078_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "셔블",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1092번길 26-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소강고택",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.8936916905,
+  "lng": 128.7123591267,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2803880_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "소강고택",
+    "desc": "",
+    "address": "경상북도 봉화군 바래미길 22"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소연정한옥스테이",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5662236662,
+  "lng": 128.7168571715,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소연정한옥스테이",
+    "desc": "",
+    "address": "경상북도 안동시 서동문로 46-4 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소이한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8348493462,
+  "lng": 129.211676184,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소이한옥",
+    "desc": "",
+    "address": "경상북도 경주시 첨성로81번길 22-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소풍한옥풀빌라",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8558535767,
+  "lng": 129.2670290677,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "소풍한옥풀빌라",
+    "desc": "",
+    "address": "경상북도 경주시 북군3길 12-58 (북군동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "송계헌",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5430149752,
+  "lng": 128.5566859586,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2706142_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송계헌",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 병산길 332"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "송라오스",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.2527550635,
+  "lng": 129.369305841,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3059914_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송라오스",
+    "desc": "",
+    "address": "경상북도 포항시 북구 송라면 동해대로 3229-24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "송정고택",
+  "district": "청송군",
+  "category": "한옥스테이",
+  "lat": 36.4359304808,
+  "lng": 129.0262446486,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3055937_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송정고택",
+    "desc": "",
+    "address": "경상북도 청송군 파천면 송소고택길 15-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "쇼모텔",
+  "district": "안동시",
+  "category": "모텔",
+  "lat": 36.561687807,
+  "lng": 128.7027474443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3059019_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쇼모텔",
+    "desc": "",
+    "address": "경상북도 안동시 옥동3길 41-6 (옥동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수곡고택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5741025235,
+  "lng": 128.5263155432,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2567008_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수곡고택",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 가일길 78"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수졸당",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.7338933212,
+  "lng": 128.8591729724,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수졸당",
+    "desc": "",
+    "address": "경상북도 안동시 도산면 하계길 1-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수춘제(김태길) 고택",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.7348414401,
+  "lng": 128.6187665577,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수춘제(김태길) 고택",
+    "desc": "",
+    "address": "경상북도 영주시 문수면 무섬로234번길 7-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 안김A",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.835527072,
+  "lng": 129.2129954936,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이 안김A",
+    "desc": "",
+    "address": "경상북도 경주시 첨성로99번길 26-5 (황남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이 오아스",
+  "district": "예천군",
+  "category": "펜션",
+  "lat": 36.7111991439,
+  "lng": 128.4410553,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3316811_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스테이 오아스",
+    "desc": "",
+    "address": "경상북도 예천군 용문면 맛질길 162"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이소소리",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7691754436,
+  "lng": 129.3186992384,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3081901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스테이소소리",
+    "desc": "",
+    "address": "경상북도 경주시 외동읍 신계길 69-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이시소",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5608020057,
+  "lng": 128.7138409294,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이시소",
+    "desc": "",
+    "address": "경상북도 안동시 태화중앙로 96-4 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이유심",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5602520879,
+  "lng": 128.7148658544,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이유심",
+    "desc": "",
+    "address": "경상북도 안동시 서경지3길 25 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라가족호텔",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.8073561487,
+  "lng": 129.2605199097,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신라가족호텔",
+    "desc": "",
+    "address": "경상북도 경주시 산업로 3540-5 (동방동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라부티크호텔 프리미엄",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.8414150801,
+  "lng": 129.2015352189,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2602459_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신라부티크호텔 프리미엄",
+    "desc": "",
+    "address": "경상북도 경주시 강변로 200 (노서동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "신라불교초전지",
+  "district": "구미시",
+  "category": "한옥스테이",
+  "lat": 36.2910706657,
+  "lng": 128.3632519698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2679949_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신라불교초전지",
+    "desc": "",
+    "address": "경상북도 구미시 도개면 도개다곡길 389-46"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아담게스트하우스",
+  "district": "경주시",
+  "category": "게스트하우스",
+  "lat": 35.8351964627,
+  "lng": 129.2081514824,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아담게스트하우스",
+    "desc": "",
+    "address": "경상북도 경주시 첨성로49번길 24-4 (사정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아라누리펜션",
+  "district": "울진군",
+  "category": "펜션",
+  "lat": 36.8473135601,
+  "lng": 129.4290356824,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2704146_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아라누리펜션",
+    "desc": "",
+    "address": "경상북도 울진군 기성면 망양로 123"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아지펜션",
+  "district": "영주시",
+  "category": "펜션",
+  "lat": 36.8610212154,
+  "lng": 128.6069278223,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아지펜션",
+    "desc": "",
+    "address": "경상북도 영주시 회헌로358번길 25"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안동 군자마을",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.6732852614,
+  "lng": 128.8013965489,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2678940_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안동 군자마을",
+    "desc": "",
+    "address": "경상북도 안동시 와룡면 군자리길 21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안동 수애당",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5533762601,
+  "lng": 128.9234058865,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안동 수애당",
+    "desc": "",
+    "address": "경상북도 안동시 임동면 수곡용계로 1714-11"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안동 이든민박",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5799103335,
+  "lng": 128.6818571061,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안동 이든민박",
+    "desc": "",
+    "address": "경상북도 안동시 노하3길 19 (노하동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안동고택 이상루",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.634748453,
+  "lng": 128.6784947054,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2993094_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안동고택 이상루",
+    "desc": "",
+    "address": "경상북도 안동시 서후면 풍산태사로 3193-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안동별장",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5661125684,
+  "lng": 128.7169127253,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안동별장",
+    "desc": "",
+    "address": "경상북도 안동시 서동문로 46-6 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안동한옥스테이휴",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5602409247,
+  "lng": 128.7120438826,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안동한옥스테이휴",
+    "desc": "",
+    "address": "경상북도 안동시 태화8길 9-1 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "앨리게스트하우스",
+  "district": "경주시",
+  "category": "게스트하우스",
+  "lat": 35.8437511762,
+  "lng": 129.2147145529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2707780_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앨리게스트하우스",
+    "desc": "",
+    "address": "경상북도 경주시 계림로106번길 12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "양소당",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5802355398,
+  "lng": 128.5468107666,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2803255_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양소당",
+    "desc": "",
+    "address": "경상북도 안동시 풍산읍 장태골길 28"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에스지빌라앤호텔(미동의)",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7705924587,
+  "lng": 129.4917340697,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "에스지빌라앤호텔(미동의)",
+    "desc": "",
+    "address": "경상북도 경주시 감포읍 동해안로 1819-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에스피에스타",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.073423313,
+  "lng": 129.4066661148,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "에스피에스타",
+    "desc": "",
+    "address": "경상북도 포항시 북구 여남포길21번길 15-8 (환호동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "에이원호텔 해도점",
+  "district": "포항시",
+  "category": "모텔",
+  "lat": 36.0256890893,
+  "lng": 129.3682653116,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2912820_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에이원호텔 해도점",
+    "desc": "",
+    "address": "경상북도 포항시 남구 중앙로 140 (해도동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "여유",
+  "district": "문경시",
+  "category": "게스트하우스",
+  "lat": 36.5964216717,
+  "lng": 128.1992190372,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "여유",
+    "desc": "",
+    "address": "경상북도 문경시 중앙4길 22"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연풍고가",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6710690884,
+  "lng": 128.2264339907,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "연풍고가",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실1길 44"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "연풍고택(문충고가)",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6680139185,
+  "lng": 128.2286394345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3008775_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연풍고택(문충고가)",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실1길 44"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "영양펜션 산적 (청년협동조합별빛고은)",
+  "district": "영양군",
+  "category": "펜션",
+  "lat": 36.6141945803,
+  "lng": 129.0825372244,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영양펜션 산적 (청년협동조합별빛고은)",
+    "desc": "",
+    "address": "경상북도 영양군 입암면 연당리 27-3 선바위 자연생태마을"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "영일대 게스트하우스",
+  "district": "포항시",
+  "category": "게스트하우스",
+  "lat": 36.0470617042,
+  "lng": 129.3699589893,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영일대 게스트하우스",
+    "desc": "",
+    "address": "경상북도 포항시 북구 삼호로 73"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오람정",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.7798022515,
+  "lng": 129.183655203,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오람정",
+    "desc": "",
+    "address": "경상북도 경주시 내남면 내남로 393-62"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오렌지모텔",
+  "district": "포항시",
+  "category": "모텔",
+  "lat": 35.97512322,
+  "lng": 129.4016555109,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오렌지모텔",
+    "desc": "",
+    "address": "경상북도 포항시 남구 오천읍 원동로131번길 6-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오류헌",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5195151591,
+  "lng": 128.8668396641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2706129_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오류헌",
+    "desc": "",
+    "address": "경상북도 안동시 임하면 기르마제길 18-15"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "오히",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.824170013,
+  "lng": 129.2125819637,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3070742_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오히",
+    "desc": "",
+    "address": "경상북도 경주시 탑리1길 18-31 (탑동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옥산정사 독락당",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 36.0169583419,
+  "lng": 129.1599755192,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "옥산정사 독락당",
+    "desc": "",
+    "address": "경상북도 경주시 안강읍 옥산서원길 300-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옥연정사",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5433753219,
+  "lng": 128.5180060538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3016973_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥연정사",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 광덕솔밭길 86"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "온계종택 삼백당",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.7495632059,
+  "lng": 128.8304056259,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3021675_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온계종택 삼백당",
+    "desc": "",
+    "address": "경상북도 안동시 온혜중마길 20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "온계종택(삼백당)",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.752626695,
+  "lng": 128.8278168774,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "온계종택(삼백당)",
+    "desc": "",
+    "address": "경상북도 안동시 도산면 온혜중마길 20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "온새미한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8342438298,
+  "lng": 129.2101318918,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "온새미한옥",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1050번길 8-6 (황남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "와담정",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.8258309439,
+  "lng": 129.2129763268,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3532436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "와담정",
+    "desc": "",
+    "address": "경상북도 경주시 천원1길 18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "운정루",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.7912826861,
+  "lng": 129.2458966484,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2567042_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "운정루",
+    "desc": "",
+    "address": "경상북도 경주시 칠불암길 77-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "울릉SKY펜션",
+  "district": "울릉군",
+  "category": "펜션",
+  "lat": 37.5265894275,
+  "lng": 130.843244652,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "울릉SKY펜션",
+    "desc": "",
+    "address": "경상북도 울릉군 북면 평리1길 85-86"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월암재",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8156710399,
+  "lng": 129.2162068881,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월암재",
+    "desc": "",
+    "address": "경상북도 경주시 남간안길 5-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월암종택(김호장군고택)",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8196345282,
+  "lng": 129.2186704484,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월암종택(김호장군고택)",
+    "desc": "",
+    "address": "경상북도 경주시 식혜골길 35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "월하",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8480672181,
+  "lng": 129.20741507,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월하",
+    "desc": "",
+    "address": "경상북도 경주시 북성로51번길 7 (서부동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "위연재",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8361882036,
+  "lng": 129.2180172566,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2731921_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "위연재",
+    "desc": "",
+    "address": "경상북도 경주시 쪽샘길 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "위클라드 애견 풀빌라",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.7412033678,
+  "lng": 129.3065788728,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "위클라드 애견 풀빌라",
+    "desc": "",
+    "address": "경상북도 경주시 외동읍 죽동길 160-100"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "은혜당",
+  "district": "영덕군",
+  "category": "한옥스테이",
+  "lat": 36.5076045038,
+  "lng": 129.4007483452,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "은혜당",
+    "desc": "",
+    "address": "경상북도 영덕군 축산면 상원길 109-24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "의성 소우당",
+  "district": "의성군",
+  "category": "한옥스테이",
+  "lat": 36.2456237857,
+  "lng": 128.7015510662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2804313_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "의성 소우당",
+    "desc": "",
+    "address": "경상북도 의성군 금성면 산운마을길 55"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "의양리 권진사댁",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.9447952016,
+  "lng": 128.9122314659,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3042306_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "의양리 권진사댁",
+    "desc": "",
+    "address": "경상북도 봉화군 낙천당길 39"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "이데아호텔",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0355656815,
+  "lng": 129.364670897,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이데아호텔",
+    "desc": "",
+    "address": "경상북도 포항시 북구 칠성천길 98-5 (죽도동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "인심좋은웅기댁",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6674973224,
+  "lng": 128.2293171673,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3008796_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인심좋은웅기댁",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실1길 32"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "작은행복",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.1572691748,
+  "lng": 129.3960479425,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "작은행복",
+    "desc": "",
+    "address": "경상북도 포항시 북구 흥해읍 해안로 1727"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "잔잔하루",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5616741484,
+  "lng": 128.7149074762,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "잔잔하루",
+    "desc": "",
+    "address": "경상북도 안동시 서경지길 70 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "전통리조트 구름에",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5732488352,
+  "lng": 128.7683329532,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3535466_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전통리조트 구름에",
+    "desc": "",
+    "address": "경상북도 안동시 민속촌길 190 (성곡동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "정재종택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5593226556,
+  "lng": 128.9155786292,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "정재종택",
+    "desc": "",
+    "address": "경상북도 안동시 임동면 경동로 2661-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "조각집",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8469035209,
+  "lng": 129.2106453758,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "조각집",
+    "desc": "",
+    "address": "경상북도 경주시 북성로 80-12 (동부동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "주식회사 황남관",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8337077694,
+  "lng": 129.2096180636,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2635706_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주식회사 황남관",
+    "desc": "",
+    "address": "경상북도 경주시 포석로 1038"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "주실고택",
+  "district": "영주시",
+  "category": "한옥스테이",
+  "lat": 36.7355747033,
+  "lng": 128.6194442537,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주실고택",
+    "desc": "",
+    "address": "경상북도 영주시 문수면 무섬로 238-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "주촌종택(주촌(두루)종택)",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.6426348092,
+  "lng": 128.7392529646,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주촌종택(주촌(두루)종택)",
+    "desc": "",
+    "address": "경상북도 안동시 와룡면 태리금산로 242-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지지관광호텔",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.8390154052,
+  "lng": 129.2044128127,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3090431_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "지지관광호텔",
+    "desc": "",
+    "address": "경상북도 경주시 태종로699번길 3 (노서동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "찰방공종택",
+  "district": "청송군",
+  "category": "한옥스테이",
+  "lat": 36.4371497864,
+  "lng": 129.0262279475,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2528907_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "찰방공종택",
+    "desc": "",
+    "address": "경상북도 청송군 파천면 송소고택길 23-8"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "창실고택",
+  "district": "청송군",
+  "category": "한옥스테이",
+  "lat": 36.4382746739,
+  "lng": 129.0270389537,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3037031_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "창실고택",
+    "desc": "",
+    "address": "경상북도 청송군 파천면 송소고택길 39"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "첨성대하우스",
+  "district": "경주시",
+  "category": "펜션",
+  "lat": 35.8437954261,
+  "lng": 129.204673765,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "첨성대하우스",
+    "desc": "",
+    "address": "경상북도 경주시 화랑로38번길 12 (성건동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청공한옥",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.7819459356,
+  "lng": 129.3033057771,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2637176_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청공한옥",
+    "desc": "",
+    "address": "경상북도 경주시 이구2길 5-6 (구정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "청도굿스파키즈풀빌라",
+  "district": "청도군",
+  "category": "펜션",
+  "lat": 35.655678373,
+  "lng": 128.6403091121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2813888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청도굿스파키즈풀빌라",
+    "desc": "",
+    "address": "경상북도 청도군 대전칠엽신길 82-60"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "초전고택",
+  "district": "청송군",
+  "category": "한옥스테이",
+  "lat": 36.4409493195,
+  "lng": 129.0244029984,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "초전고택",
+    "desc": "",
+    "address": "경상북도 청송군 파천면 송소고택길 35-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "추우재",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6687193734,
+  "lng": 128.2274672972,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2999060_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "추우재",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실2길 20-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "축구 꿈나무집",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.670274737,
+  "lng": 128.2266089972,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "축구 꿈나무집",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실1길 35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "축구꿈나무집",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6673362226,
+  "lng": 128.2289672019,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3008805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "축구꿈나무집",
+    "desc": "",
+    "address": "경상북도 고령군 개실1길 35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "춘우재고택",
+  "district": "예천군",
+  "category": "한옥스테이",
+  "lat": 36.706349703,
+  "lng": 128.4412748639,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3037082_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘우재고택",
+    "desc": "",
+    "address": "경상북도 예천군 용문면 맛질길 101"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "춘하원(죽헌고택)",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.6473356199,
+  "lng": 128.6634234586,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2567806_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "춘하원(죽헌고택)",
+    "desc": "",
+    "address": "경상북도 안동시 서후면 태장죽헌길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "치암고택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5832498622,
+  "lng": 128.7360438633,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2580133_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "치암고택",
+    "desc": "",
+    "address": "경상북도 안동시 퇴계로 297-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "케이스호텔((주)안동케이스)",
+  "district": "안동시",
+  "category": "관광호텔",
+  "lat": 36.5514423712,
+  "lng": 128.7355364965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2709290_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "케이스호텔((주)안동케이스)",
+    "desc": "",
+    "address": "경상북도 안동시 강남2길 60-16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코스모스 울릉도",
+  "district": "울릉군",
+  "category": "관광호텔",
+  "lat": 37.5342749666,
+  "lng": 130.8579958733,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3576367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코스모스 울릉도",
+    "desc": "",
+    "address": "경상북도 울릉군 북면 추산길 88-13"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "코오롱호텔",
+  "district": "경주시",
+  "category": "관광호텔",
+  "lat": 35.7873568037,
+  "lng": 129.3227344783,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3567587_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "코오롱호텔",
+    "desc": "",
+    "address": "경상북도 경주시 불국로 289-17 (마동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "킹모텔(구 호텔킹)",
+  "district": "문경시",
+  "category": "모텔",
+  "lat": 36.7302880308,
+  "lng": 128.1099954187,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3353397_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "킹모텔(구 호텔킹)",
+    "desc": "",
+    "address": "경상북도 문경시 문경읍 온천2길 16-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "토닥토닥한옥스테이",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5661820125,
+  "lng": 128.7173154652,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "토닥토닥한옥스테이",
+    "desc": "",
+    "address": "경상북도 안동시 서동문로 50-5 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "토향고택",
+  "district": "봉화군",
+  "category": "한옥스테이",
+  "lat": 36.8966636188,
+  "lng": 128.7148032655,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2627457_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토향고택",
+    "desc": "",
+    "address": "경상북도 봉화군 봉화읍 바래미1길 43"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "포항더케이프풀빌라",
+  "district": "포항시",
+  "category": "펜션",
+  "lat": 36.2423870316,
+  "lng": 129.3816550576,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "포항더케이프풀빌라",
+    "desc": "",
+    "address": "경상북도 포항시 북구 송라면 봉화길 297"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "퐁네프모텔",
+  "district": "포항시",
+  "category": "모텔",
+  "lat": 36.0126679259,
+  "lng": 129.346562036,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "퐁네프모텔",
+    "desc": "",
+    "address": "경상북도 포항시 남구 희망대로659번길 19 (대잠동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "풍송재",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5743744884,
+  "lng": 128.5141888362,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2813738_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍송재",
+    "desc": "",
+    "address": "경상북도 안동시 한옥마을1길 53-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "풍정(풍정게스트하우스)",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8407851479,
+  "lng": 129.2307854513,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2576289_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍정(풍정게스트하우스)",
+    "desc": "",
+    "address": "경상북도 경주시 원효로272번길 5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하녹명당",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8366297034,
+  "lng": 129.2118316746,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하녹명당",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1092번길 28 (황남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하녹집",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5647214301,
+  "lng": 128.7365026928,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하녹집",
+    "desc": "",
+    "address": "경상북도 안동시 동흥4길 7-5 (법흥동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하동댁",
+  "district": "고령군",
+  "category": "한옥스테이",
+  "lat": 35.6674556321,
+  "lng": 128.2277756378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3440276_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하동댁",
+    "desc": "",
+    "address": "경상북도 고령군 쌍림면 개실2길 45-4"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하벳 풀빌라 & 리조트",
+  "district": "영덕군",
+  "category": "펜션",
+  "lat": 36.6087765751,
+  "lng": 129.4137580779,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하벳 풀빌라 & 리조트",
+    "desc": "",
+    "address": "경상북도 영덕군 병곡면 흰돌로 46"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하얀성모텔",
+  "district": "안동시",
+  "category": "모텔",
+  "lat": 36.5629515457,
+  "lng": 128.7024141043,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3054908_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하얀성모텔",
+    "desc": "",
+    "address": "경상북도 안동시 광명로 178 (옥동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하회 북촌댁",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5397396234,
+  "lng": 128.517875614,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2626274_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하회 북촌댁",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 하회북촌길 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하회 양진당",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5390063513,
+  "lng": 128.5166729642,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2993077_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하회 양진당",
+    "desc": "",
+    "address": "경상북도 안동시 풍천면 하회종가길 68"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "학봉종택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.6097289201,
+  "lng": 128.6695795561,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2993101_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학봉종택",
+    "desc": "",
+    "address": "경상북도 안동시 서후면 풍산태사로 2830-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한국선비문화수련원",
+  "district": "영주시",
+  "category": "관광호텔",
+  "lat": 36.9326514102,
+  "lng": 128.5813724501,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한국선비문화수련원",
+    "desc": "",
+    "address": "경상북도 영주시 순흥면 소백로 2806"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥人(한옥인)",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.834868784,
+  "lng": 129.2114456476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2707565_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한옥人(한옥인)",
+    "desc": "",
+    "address": "경상북도 경주시 포석로1050번길 19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한옥스테이 유유자적",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8267501707,
+  "lng": 129.2069490509,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한옥스테이 유유자적",
+    "desc": "",
+    "address": "경상북도 경주시 국당안길 3 (사정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해랑",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5625739844,
+  "lng": 128.7116299636,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해랑",
+    "desc": "",
+    "address": "경상북도 안동시 태화9길 84 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해림펜션",
+  "district": "영덕군",
+  "category": "펜션",
+  "lat": 36.3748917953,
+  "lng": 129.4000717705,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3572899_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해림펜션",
+    "desc": "",
+    "address": "경상북도 영덕군 강구면 영덕대게로 313"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해오름관광펜션",
+  "district": "울릉군",
+  "category": "펜션",
+  "lat": 37.4831429411,
+  "lng": 130.9064432767,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2568025_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해오름관광펜션",
+    "desc": "",
+    "address": "경상북도 울릉군 울릉읍 도동1길 35-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "향단",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.9998898126,
+  "lng": 129.2529400659,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2998926_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "향단",
+    "desc": "",
+    "address": "경상북도 경주시 강동면 양동마을길 121-83"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 여기어때 영덕점",
+  "district": "영덕군",
+  "category": "모텔",
+  "lat": 36.3835187011,
+  "lng": 129.4056682456,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 여기어때 영덕점",
+    "desc": "",
+    "address": "경상북도 영덕군 강구면 영덕대게로 423"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔라테라스",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0145649511,
+  "lng": 129.3475091203,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔라테라스",
+    "desc": "",
+    "address": "경상북도 포항시 남구 새천년대로450번길 20-1 (대잠동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔야자 포항여객터미널점",
+  "district": "포항시",
+  "category": "모텔",
+  "lat": 36.0530277996,
+  "lng": 129.3753611204,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3053999_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔야자 포항여객터미널점",
+    "desc": "",
+    "address": "경상북도 포항시 북구 삼호로 162 (항구동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔영일대",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0147841252,
+  "lng": 129.3346046913,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3059151_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔영일대",
+    "desc": "",
+    "address": "경상북도 포항시 남구 행복길75번길 11 (대잠동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "황남별채",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8351520392,
+  "lng": 129.2089902991,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "황남별채",
+    "desc": "",
+    "address": "경상북도 경주시 금성로196번길 15-3 (사정동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "황남채",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8370518494,
+  "lng": 129.2103206843,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "황남채",
+    "desc": "",
+    "address": "경상북도 경주시 손효자길 7-8 (황남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "황토게스트하우스",
+  "district": "안동시",
+  "category": "게스트하우스",
+  "lat": 36.5688237249,
+  "lng": 128.7357081998,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2604733_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황토게스트하우스",
+    "desc": "",
+    "address": "경상북도 안동시 태사길 125-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "휴휴당",
+  "district": "경주시",
+  "category": "한옥스테이",
+  "lat": 35.8355131713,
+  "lng": 129.2122761125,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "휴휴당",
+    "desc": "",
+    "address": "경상북도 경주시 첨성로99번길 25-10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "흥해배씨 임연재종택",
+  "district": "안동시",
+  "category": "한옥스테이",
+  "lat": 36.5500213706,
+  "lng": 128.7916815548,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3010265_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "흥해배씨 임연재종택",
+    "desc": "",
+    "address": "경상북도 안동시 향교1길 51"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "11애비뉴호텔",
+  "district": "포항시",
+  "category": "관광호텔",
+  "lat": 36.0323604941,
+  "lng": 129.3649820735,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "11애비뉴호텔",
+    "desc": "",
+    "address": "경상북도 포항시 북구 죽도로40번길 11 (죽도동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "141미니호텔",
+  "district": "경주시",
+  "category": "모텔",
+  "lat": 35.842223604,
+  "lng": 129.2164644431,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3579632_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "141미니호텔",
+    "desc": "",
+    "address": "경상북도 경주시 원효로 141 (황오동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "(재)행복전통마을(박산정)(전통 리조트 구름에-박산정)",
+  "district": "안동시",
+  "category": "관광호텔",
+  "lat": 36.5732488352,
+  "lng": 128.7683329532,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "(재)행복전통마을(박산정)(전통 리조트 구름에-박산정)",
+    "desc": "",
+    "address": "경상북도 안동시 민속촌길 190 안동민속촌한자마을"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "YOU & I (유앤아이)(구미 유앤아이펜션)",
+  "district": "구미시",
+  "category": "펜션",
+  "lat": 36.1108680611,
+  "lng": 128.3150918404,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2571128_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "YOU & I (유앤아이)(구미 유앤아이펜션)",
+    "desc": "",
+    "address": "경상북도 구미시 금오산상가길 21-5"
+   }
+  }
+ }
+]

@@ -1,0 +1,461 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "고성오일시장",
+  "district": "서귀포시",
+  "category": "5일장",
+  "lat": 33.4518891163,
+  "lng": 126.9127293498,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2947292_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고성오일시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 고성오조로 93"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대정오일시장",
+  "district": "서귀포시",
+  "category": "5일장",
+  "lat": 33.2204929929,
+  "lng": 126.2483310829,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3477195_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대정오일시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 대정읍 신영로36번길 65"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동문재래시장",
+  "district": "제주시",
+  "category": "상설시장",
+  "lat": 33.5115624162,
+  "lng": 126.5260587646,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2678438_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동문재래시장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로14길 20"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동부농원",
+  "district": "서귀포시",
+  "category": "전문매장",
+  "lat": 33.4429313439,
+  "lng": 126.8862290743,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3477505_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동부농원",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 성산읍 서성일로 1007"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "바당수산",
+  "district": "제주시",
+  "category": "전문매장",
+  "lat": 33.5169924336,
+  "lng": 126.5300249638,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3396935_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바당수산",
+    "desc": "",
+    "address": "제주특별자치도 제주시 임항로 49"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "바람",
+  "district": "제주시",
+  "category": "특산물판매점",
+  "lat": 33.555195199,
+  "lng": 126.7927818175,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2792035_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바람",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 월정1길 46-9"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "바이제주",
+  "district": "제주시",
+  "category": "특산물판매점",
+  "lat": 33.516747603,
+  "lng": 126.5040466723,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3579098_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바이제주",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서해안로 626 (용담삼동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "보성시장",
+  "district": "제주시",
+  "category": "상설시장",
+  "lat": 33.5032716982,
+  "lng": 126.5279698982,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3053550_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보성시장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 동광로1길 32"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "불란지야시장",
+  "district": "서귀포시",
+  "category": "상설시장",
+  "lat": 33.2503257899,
+  "lng": 126.4240207301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2800688_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "불란지야시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문상로17번길 4 (중문동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서귀포매일올레시장",
+  "district": "서귀포시",
+  "category": "상설시장",
+  "lat": 33.2487281813,
+  "lng": 126.5641113997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3546866_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포매일올레시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 서귀동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서귀포향토오일시장",
+  "district": "서귀포시",
+  "category": "5일장",
+  "lat": 33.2669040864,
+  "lng": 126.5724963753,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3477324_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서귀포향토오일시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중산간동로7894번길 18-5 (동홍동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서문공설시장",
+  "district": "제주시",
+  "category": "상설시장",
+  "lat": 33.5113734195,
+  "lng": 126.5179483634,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3477949_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서문공설시장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서문로4길 13-2"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서부두수산시장",
+  "district": "제주시",
+  "category": "상설시장",
+  "lat": 33.5170396509,
+  "lng": 126.5300138523,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3585668_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서부두수산시장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 임항로 49"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "세화민속오일시장(5일, 0일)",
+  "district": "제주시",
+  "category": "5일장",
+  "lat": 33.5261772305,
+  "lng": 126.8573407727,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3410552_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세화민속오일시장(5일, 0일)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1412"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "이제주숍",
+  "district": "제주시",
+  "category": "특산물판매점",
+  "lat": 33.4993528886,
+  "lng": 126.5405800026,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3396921_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이제주숍",
+    "desc": "",
+    "address": "제주특별자치도 제주시 연삼로 473"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "이후북스 제주점",
+  "district": "제주시",
+  "category": "전문매장",
+  "lat": 33.5126316662,
+  "lng": 126.521248048,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3583282_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이후북스 제주점",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로4길 3"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "재주도좋아·반짝반짝 지구상회",
+  "district": "제주시",
+  "category": "공예·공방",
+  "lat": 33.4288317168,
+  "lng": 126.2894700944,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3539042_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "재주도좋아·반짝반짝 지구상회",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 귀덕6길 192"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제스토리",
+  "district": "서귀포시",
+  "category": "특산물판매점",
+  "lat": 33.2361121271,
+  "lng": 126.5149353881,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3579104_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제스토리",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 막숙포로 60 (법환동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제주관광공사 중문면세점",
+  "district": "서귀포시",
+  "category": "면세점",
+  "lat": 33.2413184576,
+  "lng": 126.4244653377,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3477413_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주관광공사 중문면세점",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 중문관광로 224"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제주수울 (JEJUSUUL)",
+  "district": "제주시",
+  "category": "특산물판매점",
+  "lat": 33.5120650209,
+  "lng": 126.5186677297,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2953016_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주수울 (JEJUSUUL)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 서문로 72-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제주시민속오일시장 (2, 7일)",
+  "district": "제주시",
+  "category": "5일장",
+  "lat": 33.4969271258,
+  "lng": 126.4758023552,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3585608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주시민속오일시장 (2, 7일)",
+    "desc": "",
+    "address": "제주특별자치도 제주시 오일장서길 26"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "제주칠성로상점가",
+  "district": "제주시",
+  "category": "전문매장",
+  "lat": 33.5140565855,
+  "lng": 126.5261253693,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3396972_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주칠성로상점가",
+    "desc": "",
+    "address": "제주특별자치도 제주시 관덕로13길 12 (일도일동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중문농수산물직판장",
+  "district": "서귀포시",
+  "category": "전문매장",
+  "lat": 33.2524564006,
+  "lng": 126.4423968665,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3403269_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문농수산물직판장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로 355 (회수동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중문향토오일시장",
+  "district": "서귀포시",
+  "category": "5일장",
+  "lat": 33.2507951855,
+  "lng": 126.4242345901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3477250_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중문향토오일시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 천제연로188번길 12"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "표선오일시장",
+  "district": "서귀포시",
+  "category": "5일장",
+  "lat": 33.3225437337,
+  "lng": 126.8304061108,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3077586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "표선오일시장",
+    "desc": "",
+    "address": "제주특별자치도 서귀포시 표선면 표선동서로 203-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한림매일시장",
+  "district": "제주시",
+  "category": "상설시장",
+  "lat": 33.4161382914,
+  "lng": 126.2649364013,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3585626_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한림매일시장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한림로 687"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한림민속오일시장",
+  "district": "제주시",
+  "category": "5일장",
+  "lat": 33.4198102588,
+  "lng": 126.2745604816,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3477729_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한림민속오일시장",
+    "desc": "",
+    "address": "제주특별자치도 제주시 한림읍 한수풀로4길 10"
+   }
+  }
+ }
+]

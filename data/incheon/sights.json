@@ -1,0 +1,3470 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "감중공원",
+  "district": "서해구",
+  "category": "공원",
+  "lat": 37.4932378921,
+  "lng": 126.6736203249,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3395610_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "감중공원",
+    "desc": "",
+    "address": "인천광역시 서해구 가정로98번길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "갑곶돈대",
+  "district": "강화군",
+  "category": "성",
+  "lat": 37.7335377029,
+  "lng": 126.5171140395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3364171_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갑곶돈대",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 해안동로1366번길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "갑곶순교성지",
+  "district": "강화군",
+  "category": "종교성지",
+  "lat": 37.7341959658,
+  "lng": 126.5174945418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3533184_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갑곶순교성지",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 해안동로1366번길 35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 사기리 탱자나무",
+  "district": "강화군",
+  "category": "관광자원",
+  "lat": 37.6165030596,
+  "lng": 126.4567228313,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3383833_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화 사기리 탱자나무",
+    "desc": "",
+    "address": "인천광역시 강화군 화도면 해안남로1114번길 6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 삼랑성",
+  "district": "강화군",
+  "category": "성",
+  "lat": 37.6333349172,
+  "lng": 126.4843559455,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3532443_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 삼랑성",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 온수리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 서도 중앙교회",
+  "district": "강화군",
+  "category": "종교성지",
+  "lat": 37.6436850663,
+  "lng": 126.2442776542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3530797_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 서도 중앙교회",
+    "desc": "",
+    "address": "인천광역시 강화군 서도면 주문도길 256-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 아르미애월드",
+  "district": "강화군",
+  "category": "이색체험",
+  "lat": 37.7029259337,
+  "lng": 126.4347557746,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3351051_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 아르미애월드",
+    "desc": "",
+    "address": "인천광역시 강화군 불은면 중앙로 742-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 오상리 고인돌군",
+  "district": "강화군",
+  "category": "유적지",
+  "lat": 37.7309554253,
+  "lng": 126.4022107557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3559310_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 오상리 고인돌군",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 오상리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 용두레마을",
+  "district": "강화군",
+  "category": "농어촌체험",
+  "lat": 37.7184755935,
+  "lng": 126.3604121578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3388779_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화 용두레마을",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 황청포구로385번길 8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 원도심 스토리워크",
+  "district": "강화군",
+  "category": "이색체험",
+  "lat": 37.7484743032,
+  "lng": 126.4861109075,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3537413_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화 원도심 스토리워크",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 관청길27번길 10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화 화문석마을",
+  "district": "강화군",
+  "category": "농어촌체험",
+  "lat": 37.8020036798,
+  "lng": 126.4584675001,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3389401_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화 화문석마을",
+    "desc": "",
+    "address": "인천광역시 강화군 송해면 전망대로468번길 11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화도령 화문석 체험장",
+  "district": "강화군",
+  "category": "기타 산업관광지",
+  "lat": 37.7678991029,
+  "lng": 126.4457501762,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3499155_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화도령 화문석 체험장",
+    "desc": "",
+    "address": "인천광역시 강화군 송해면 강화대로 891"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화산성",
+  "district": "강화군",
+  "category": "성",
+  "lat": 37.7560400476,
+  "lng": 126.4838970101,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3383787_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화산성",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 국화리 산3번지"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화유수부 동헌",
+  "district": "강화군",
+  "category": "고궁",
+  "lat": 37.7508851202,
+  "lng": 126.4854359021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3528604_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화유수부 동헌",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 북문길 42"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "거북바위",
+  "district": "영종구",
+  "category": "관광자원",
+  "lat": 37.4391529006,
+  "lng": 126.37916537,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3395945_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "거북바위",
+    "desc": "",
+    "address": "인천광역시 영종구 선녀바위로 68-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "거잠포선착장",
+  "district": "영종구",
+  "category": "항구·포구",
+  "lat": 37.4221140221,
+  "lng": 126.4254255008,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3303925_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "거잠포선착장",
+    "desc": "",
+    "address": "인천광역시 영종구 잠진도길 11 (운서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "거잠포해변",
+  "district": "영종구",
+  "category": "해수욕장",
+  "lat": 37.4221334646,
+  "lng": 126.4254532761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2661929_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "거잠포해변",
+    "desc": "",
+    "address": "인천광역시 영종구 잠진도길 11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "건지공원",
+  "district": "서해구",
+  "category": "공원",
+  "lat": 37.4940490113,
+  "lng": 126.6794142183,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3524419_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "건지공원",
+    "desc": "",
+    "address": "인천광역시 서해구 건지로334번길 47 (가좌동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "검은낭",
+  "district": "옹진군",
+  "category": "자연생태관광지",
+  "lat": 37.8427720065,
+  "lng": 124.7082252086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2918039_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "검은낭",
+    "desc": "",
+    "address": "인천광역시 옹진군 대청면 대청리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "경인아라뱃길 검암공원",
+  "district": "검단구",
+  "category": "공원",
+  "lat": 37.5702678536,
+  "lng": 126.6753791266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3395627_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "경인아라뱃길 검암공원",
+    "desc": "",
+    "address": "인천광역시 검단구 시천동 162-134"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "경인아라뱃길 아라타워 전망대",
+  "district": "검단구",
+  "category": "유명건물",
+  "lat": 37.5584374728,
+  "lng": 126.6073967784,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3395842_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "경인아라뱃길 아라타워 전망대",
+    "desc": "",
+    "address": "인천광역시 검단구 정서진1로 41"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계룡돈대",
+  "district": "강화군",
+  "category": "성",
+  "lat": 37.723527666,
+  "lng": 126.3538237336,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3309563_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계룡돈대",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 황청리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계산국민체육공원",
+  "district": "계양구",
+  "category": "공원",
+  "lat": 37.5450300732,
+  "lng": 126.7289832721,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3069146_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계산국민체육공원",
+    "desc": "",
+    "address": "인천광역시 계양구 주부토로 570"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계양산",
+  "district": "계양구",
+  "category": "산",
+  "lat": 37.550237702,
+  "lng": 126.7234086347,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3043565_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계양산",
+    "desc": "",
+    "address": "인천광역시 계양구 목상동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계양산 산림욕장",
+  "district": "계양구",
+  "category": "자연휴양림",
+  "lat": 37.5497517735,
+  "lng": 126.7305135554,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3043432_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계양산 산림욕장",
+    "desc": "",
+    "address": "인천광역시 계양구 임학동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계양산장미원",
+  "district": "계양구",
+  "category": "자연생태관광지",
+  "lat": 37.5471017664,
+  "lng": 126.7127513617,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3393585_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "계양산장미원",
+    "desc": "",
+    "address": "인천광역시 계양구 경명대로955번길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구 인천우체국",
+  "district": "제물포구",
+  "category": "유적지",
+  "lat": 37.4700591426,
+  "lng": 126.623317226,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3396404_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구 인천우체국",
+    "desc": "",
+    "address": "인천광역시 제물포구 제물량로 183"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구 일본우선주식회사 인천지점",
+  "district": "제물포구",
+  "category": "유적지",
+  "lat": 37.4726449029,
+  "lng": 126.6204590814,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3530025_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구 일본우선주식회사 인천지점",
+    "desc": "",
+    "address": "인천광역시 제물포구 제물량로218번길 3 (해안동1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국가유산 방문 캠페인 인천공항 홍보관",
+  "district": "영종구",
+  "category": "이색체험",
+  "lat": 37.4477031811,
+  "lng": 126.4521751331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3432207_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국가유산 방문 캠페인 인천공항 홍보관",
+    "desc": "",
+    "address": "인천광역시 영종구 공항로 271 (운서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국사봉(인천)",
+  "district": "영종구",
+  "category": "산",
+  "lat": 37.3915951817,
+  "lng": 126.4159494251,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3586984_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국사봉(인천)",
+    "desc": "",
+    "address": "인천광역시 영종구 무의동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "굴포천 생태하천",
+  "district": "부평구",
+  "category": "자연생태관광지",
+  "lat": 37.5119118371,
+  "lng": 126.7366501648,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3523760_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "굴포천 생태하천",
+    "desc": "",
+    "address": "인천광역시 부평구 굴포로 141 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "난정리 전망대",
+  "district": "강화군",
+  "category": "유명건물",
+  "lat": 37.7762804449,
+  "lng": 126.2294947954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3387867_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "난정리 전망대",
+    "desc": "",
+    "address": "인천광역시 강화군 교동면 난정리 729"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "난정리 해바라기마을 정원",
+  "district": "강화군",
+  "category": "농어촌체험",
+  "lat": 37.7766082017,
+  "lng": 126.2304808066,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3588490_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "난정리 해바라기마을 정원",
+    "desc": "",
+    "address": "인천광역시 강화군 교동면 난정리 741-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "넛출선착장",
+  "district": "옹진군",
+  "category": "항구·포구",
+  "lat": 37.2540766945,
+  "lng": 126.5109889667,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2791051_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "넛출선착장",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 선재리 636-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "늘푸른공원",
+  "district": "서해구",
+  "category": "공원",
+  "lat": 37.5422535285,
+  "lng": 126.6234846479,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3524483_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "늘푸른공원",
+    "desc": "",
+    "address": "인천광역시 서해구 국제대로 29"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "능내근린공원",
+  "district": "검단구",
+  "category": "공원",
+  "lat": 37.6014029692,
+  "lng": 126.666917918,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3524543_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "능내근린공원",
+    "desc": "",
+    "address": "인천광역시 검단구 검단로540번길 41 (마전동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달빛축제공원",
+  "district": "연수구",
+  "category": "공원",
+  "lat": 37.3953434658,
+  "lng": 126.6597659732,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2781378_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달빛축제공원",
+    "desc": "",
+    "address": "인천광역시 연수구 송도동 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대청도 농여해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.841163753,
+  "lng": 124.7015425379,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2918027_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대청도 농여해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 대청면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대청도 옥죽동 해안사구",
+  "district": "옹진군",
+  "category": "해안",
+  "lat": 37.8433331588,
+  "lng": 124.7148329142,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2799731_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대청도 옥죽동 해안사구",
+    "desc": "",
+    "address": "인천광역시 옹진군 대청면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대학공원",
+  "district": "연수구",
+  "category": "공원",
+  "lat": 37.4218824949,
+  "lng": 126.6849851612,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3524778_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대학공원",
+    "desc": "",
+    "address": "인천광역시 연수구 함박뫼로 162 (연수동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대한성공회 강화성당",
+  "district": "강화군",
+  "category": "종교성지",
+  "lat": 37.7496574902,
+  "lng": 126.4856636932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3552305_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대한성공회 강화성당",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 관청길27번길 10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "더위크앤리조트 (THE WEEK & RESORT)",
+  "district": "영종구",
+  "category": "관광단지",
+  "lat": 37.4511819177,
+  "lng": 126.3711713261,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2721672_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더위크앤리조트 (THE WEEK & RESORT)",
+    "desc": "",
+    "address": "인천광역시 영종구 용유서로 379"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "두리생태공원",
+  "district": "계양구",
+  "category": "자연생태관광지",
+  "lat": 37.5690944266,
+  "lng": 126.7563328792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3455864_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두리생태공원",
+    "desc": "",
+    "address": "인천광역시 계양구 당산길 291-20 (귤현동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "드림파크 주민체육공원",
+  "district": "검단구",
+  "category": "공원",
+  "lat": 37.5855043289,
+  "lng": 126.6391625652,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3524551_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "드림파크 주민체육공원",
+    "desc": "",
+    "address": "인천광역시 검단구 왕길동 581-15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마리앤쥬",
+  "district": "연수구",
+  "category": "테마공원",
+  "lat": 37.3946183987,
+  "lng": 126.6511945522,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3437040_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마리앤쥬",
+    "desc": "",
+    "address": "인천광역시 연수구 신송로125번길 13 (송도동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마이랜드",
+  "district": "제물포구",
+  "category": "테마공원",
+  "lat": 37.4737527231,
+  "lng": 126.59864993,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3422888_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "마이랜드",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로 252 (북성동1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "만수산 무장애나눔길",
+  "district": "남동구",
+  "category": "산",
+  "lat": 37.4679224874,
+  "lng": 126.7356764817,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3432342_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "만수산 무장애나눔길",
+    "desc": "",
+    "address": "인천광역시 남동구 만수로111번길 38-1 (만수동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "망월돈대 및 장성",
+  "district": "강화군",
+  "category": "성",
+  "lat": 37.7416894626,
+  "lng": 126.3553786415,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3390128_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "망월돈대 및 장성",
+    "desc": "",
+    "address": "인천광역시 강화군 하점면 망월리 2107번지"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무의도",
+  "district": "영종구",
+  "category": "섬",
+  "lat": 37.3893400446,
+  "lng": 126.4249153348,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3532995_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무의도",
+    "desc": "",
+    "address": "인천광역시 영종구 대무의로 310-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "무의바다누리길",
+  "district": "영종구",
+  "category": "자연생태관광지",
+  "lat": 37.3740754604,
+  "lng": 126.4426196934,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3302878_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "무의바다누리길",
+    "desc": "",
+    "address": "인천광역시 영종구 무의동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "민머루해변",
+  "district": "강화군",
+  "category": "해수욕장",
+  "lat": 37.6515995762,
+  "lng": 126.3328054311,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3303277_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "민머루해변",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 어류정길212번길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "밧지름해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.215244214,
+  "lng": 126.1393794447,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2718994_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밧지름해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 덕적면 덕적남로 209-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "배다리 헌책방 골목",
+  "district": "제물포구",
+  "category": "기타 산업관광지",
+  "lat": 37.4727868292,
+  "lng": 126.6361298698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3370329_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "배다리 헌책방 골목",
+    "desc": "",
+    "address": "인천광역시 제물포구 금곡로 3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백령도 콩돌해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.9234068099,
+  "lng": 124.6980823945,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3352640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백령도 콩돌해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백운공원",
+  "district": "부평구",
+  "category": "공원",
+  "lat": 37.4823424547,
+  "lng": 126.7029290659,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3395555_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "백운공원",
+    "desc": "",
+    "address": "인천광역시 부평구 십정동 186-419"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백운산전망대",
+  "district": "영종구",
+  "category": "유명건물",
+  "lat": 37.4924879905,
+  "lng": 126.5165819042,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3364277_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백운산전망대",
+    "desc": "",
+    "address": "인천광역시 영종구 운서동 산1-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부영공원",
+  "district": "부평구",
+  "category": "공원",
+  "lat": 37.4959632152,
+  "lng": 126.7098280569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3395562_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부영공원",
+    "desc": "",
+    "address": "인천광역시 부평구 안남로 146"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부평 굴포누리 기후변화체험관",
+  "district": "부평구",
+  "category": "이색체험",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3456089_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부평 굴포누리 기후변화체험관",
+    "desc": "",
+    "address": "인천광역시 부평구 장제로 267 (갈산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부평 해물탕거리",
+  "district": "부평구",
+  "category": "이색거리",
+  "lat": 37.4942526202,
+  "lng": 126.7277125843,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3309195_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부평 해물탕거리",
+    "desc": "",
+    "address": "인천광역시 부평구 부평동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부평역북광장",
+  "district": "부평구",
+  "category": "공원",
+  "lat": 37.4906252114,
+  "lng": 126.7247324019,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3395490_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부평역북광장",
+    "desc": "",
+    "address": "인천광역시 부평구 광장로 지하30 (부평동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "북성포구",
+  "district": "제물포구",
+  "category": "항구·포구",
+  "lat": 37.4831408166,
+  "lng": 126.6154759117,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3352647_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북성포구",
+    "desc": "",
+    "address": "인천광역시 제물포구 북성포길 49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "분바위와 월띠",
+  "district": "옹진군",
+  "category": "자연생태관광지",
+  "lat": 37.767653987,
+  "lng": 124.7658995773,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2918043_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "분바위와 월띠",
+    "desc": "",
+    "address": "인천광역시 옹진군 대청면 소청리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사곶해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.9528481792,
+  "lng": 124.7218016453,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2918022_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "사곶해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 사곶로 139"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼목선착장",
+  "district": "영종구",
+  "category": "유람선",
+  "lat": 37.4985639507,
+  "lng": 126.4532403015,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3381734_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼목선착장",
+    "desc": "",
+    "address": "인천광역시 영종구 영종해안북로847번길 55"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼산건강공원",
+  "district": "부평구",
+  "category": "자연생태관광지",
+  "lat": 37.5176669498,
+  "lng": 126.7493793984,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3523825_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼산건강공원",
+    "desc": "",
+    "address": "인천광역시 부평구 영성동로18번길 48 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼산저수지",
+  "district": "강화군",
+  "category": "강",
+  "lat": 37.7061924067,
+  "lng": 126.2868942424,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3040841_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼산저수지",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 삼산서로310번길 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼포 만화북투어",
+  "district": "제물포구",
+  "category": "이색체험",
+  "lat": 37.4819105045,
+  "lng": 126.6211198754,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3354088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼포 만화북투어",
+    "desc": "",
+    "address": "인천광역시 제물포구 어촌로5번길 3-3 (만석동, 만석3 우리집)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서포리해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.2220680151,
+  "lng": 126.1156647591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3497905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서포리해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 덕적면 덕적남로 582"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "석산곶",
+  "district": "영종구",
+  "category": "항구·포구",
+  "lat": 37.4447568721,
+  "lng": 126.4847916801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3338358_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "석산곶",
+    "desc": "",
+    "address": "인천광역시 영종구 운서동 2854-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선녀바위",
+  "district": "영종구",
+  "category": "관광자원",
+  "lat": 37.4396528391,
+  "lng": 126.3789681524,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3044425_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선녀바위",
+    "desc": "",
+    "address": "인천광역시 영종구 용유로380번길 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선미도 등대",
+  "district": "옹진군",
+  "category": "등대",
+  "lat": 37.2871320274,
+  "lng": 126.0775831577,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3511523_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선미도 등대",
+    "desc": "",
+    "address": "인천광역시 옹진군 덕적면 선미로 91"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소사나무 군락지",
+  "district": "옹진군",
+  "category": "자연생태관광지",
+  "lat": 37.2809314188,
+  "lng": 126.4827102531,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3044361_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소사나무 군락지",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥북로 420-26"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소야도 떼뿌리 해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.2126756954,
+  "lng": 126.175942845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3566308_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소야도 떼뿌리 해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 덕적면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송도 센트럴파크",
+  "district": "연수구",
+  "category": "공원",
+  "lat": 37.3903993102,
+  "lng": 126.6435981392,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3512919_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송도 센트럴파크",
+    "desc": "",
+    "address": "인천광역시 연수구 컨벤시아대로 160"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송도 한옥마을",
+  "district": "연수구",
+  "category": "민속마을",
+  "lat": 37.3903047923,
+  "lng": 126.6388013567,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3524687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송도 한옥마을",
+    "desc": "",
+    "address": "인천광역시 연수구 테크노파크로 180 (송도동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송현근린공원",
+  "district": "제물포구",
+  "category": "공원",
+  "lat": 37.4790556043,
+  "lng": 126.6394960555,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3039318_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송현근린공원",
+    "desc": "",
+    "address": "인천광역시 제물포구 송현공원로 75-21 (송현동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수기해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.5446026512,
+  "lng": 126.431177159,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3497898_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수기해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 북도면 시도로86번길 291-49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수도사(인천)",
+  "district": "미추홀구",
+  "category": "사찰",
+  "lat": 37.4567424796,
+  "lng": 126.693213998,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수도사(인천)",
+    "desc": "",
+    "address": "인천광역시 미추홀구 구월로8번길 36-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수봉공원",
+  "district": "미추홀구",
+  "category": "공원",
+  "lat": 37.4598832531,
+  "lng": 126.6633083041,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3030758_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수봉공원",
+    "desc": "",
+    "address": "인천광역시 미추홀구 수봉안길 84 (숭의동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "술작가 양조장",
+  "district": "제물포구",
+  "category": "이색체험",
+  "lat": 37.4733674091,
+  "lng": 126.6413349348,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3353997_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "술작가 양조장",
+    "desc": "",
+    "address": "인천광역시 제물포구 금곡로 52 (금곡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "스머프매직포레스트 송도점",
+  "district": "연수구",
+  "category": "테마공원",
+  "lat": 37.383144582,
+  "lng": 126.6427567492,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3098887_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스머프매직포레스트 송도점",
+    "desc": "",
+    "address": "인천광역시 연수구 하모니로 158 (송도동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "스카이랜드카라반 리조트",
+  "district": "강화군",
+  "category": "관광단지",
+  "lat": 37.6916526806,
+  "lng": 126.3008655853,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2800275_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스카이랜드카라반 리조트",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 삼산남로 991"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "승봉도 이일레 해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.1655916496,
+  "lng": 126.301277132,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3355829_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "승봉도 이일레 해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 자월면 승봉로116번길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "승봉도선착장",
+  "district": "옹진군",
+  "category": "항구·포구",
+  "lat": 37.1700465271,
+  "lng": 126.2919417508,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3497334_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "승봉도선착장",
+    "desc": "",
+    "address": "인천광역시 옹진군 자월면 승봉로 19"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신도선착장",
+  "district": "옹진군",
+  "category": "항구·포구",
+  "lat": 37.5152478762,
+  "lng": 126.4392855613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3567016_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신도선착장",
+    "desc": "",
+    "address": "인천광역시 옹진군 북도면 신도리 523-58"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신트리공원(인천)",
+  "district": "부평구",
+  "category": "공원",
+  "lat": 37.5064928445,
+  "lng": 126.726606788,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3030773_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신트리공원(인천)",
+    "desc": "",
+    "address": "인천광역시 부평구 신트리로 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신항 바다쉼터",
+  "district": "연수구",
+  "category": "해안",
+  "lat": 37.3470982744,
+  "lng": 126.6147547408,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3524681_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신항 바다쉼터",
+    "desc": "",
+    "address": "인천광역시 연수구 송도동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아라빛섬",
+  "district": "검단구",
+  "category": "섬",
+  "lat": 37.5927530419,
+  "lng": 126.6141118748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3395796_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아라빛섬",
+    "desc": "",
+    "address": "인천광역시 검단구 오류동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아암도해안공원",
+  "district": "연수구",
+  "category": "공원",
+  "lat": 37.4139631657,
+  "lng": 126.6393923145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3037250_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아암도해안공원",
+    "desc": "",
+    "address": "인천광역시 연수구 아암대로 612"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "약사사(인천)",
+  "district": "남동구",
+  "category": "사찰",
+  "lat": 37.4718466279,
+  "lng": 126.7128701186,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3030693_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "약사사(인천)",
+    "desc": "",
+    "address": "인천광역시 남동구 풀무로 48"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "어류정항",
+  "district": "강화군",
+  "category": "항구·포구",
+  "lat": 37.6454143692,
+  "lng": 126.3432824202,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3380025_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "어류정항",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 어류정길177번길 117"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연등국제선원",
+  "district": "강화군",
+  "category": "사찰",
+  "lat": 37.6709832912,
+  "lng": 126.483404985,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3388426_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "연등국제선원",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 강화동로 349-60"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연무당 옛터",
+  "district": "강화군",
+  "category": "유적지",
+  "lat": 37.7474742614,
+  "lng": 126.4771562014,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3040734_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연무당 옛터",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 국화리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연희자연마당",
+  "district": "서해구",
+  "category": "자연생태관광지",
+  "lat": 37.545653832,
+  "lng": 126.6630114993,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3524608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "연희자연마당",
+    "desc": "",
+    "address": "인천광역시 서해구 연희동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영흥도",
+  "district": "옹진군",
+  "category": "섬",
+  "lat": 37.2561176156,
+  "lng": 126.48181379,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2716511_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영흥도",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥로 294"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영흥도 십리포해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.2808536498,
+  "lng": 126.4826797024,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3306615_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영흥도 십리포해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥북로 420-26"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "예단포선착장",
+  "district": "영종구",
+  "category": "항구·포구",
+  "lat": 37.5314359892,
+  "lng": 126.5024321193,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3395991_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "예단포선착장",
+    "desc": "",
+    "address": "인천광역시 영종구 예단포1로 2-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오읍약수터",
+  "district": "강화군",
+  "category": "약수터",
+  "lat": 37.7552512601,
+  "lng": 126.484433094,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3389334_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "오읍약수터",
+    "desc": "",
+    "address": "인천광역시 강화군 북문길 110 오읍약수터"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "옹진 백령도 두무진",
+  "district": "옹진군",
+  "category": "해안",
+  "lat": 37.9742662146,
+  "lng": 124.6194550562,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2918007_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옹진 백령도 두무진",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 연화리 1026-9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "왕산마리나",
+  "district": "영종구",
+  "category": "이색체험",
+  "lat": 37.4577559204,
+  "lng": 126.3578140337,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3352795_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕산마리나",
+    "desc": "",
+    "address": "인천광역시 영종구 왕산마리나길 143"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "외포리선착장",
+  "district": "강화군",
+  "category": "항구·포구",
+  "lat": 37.7005030581,
+  "lng": 126.3814523947,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3352121_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "외포리선착장",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 해안서로 883"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용궁사(인천)",
+  "district": "영종구",
+  "category": "사찰",
+  "lat": 37.4971570919,
+  "lng": 126.5279807341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3047388_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용궁사(인천)",
+    "desc": "",
+    "address": "인천광역시 영종구 운남로 199-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용진진",
+  "district": "강화군",
+  "category": "성",
+  "lat": 37.7093182482,
+  "lng": 126.5138816793,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3389387_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "용진진",
+    "desc": "",
+    "address": "인천광역시 강화군 선원면 연리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용트림 바위",
+  "district": "옹진군",
+  "category": "자연생태관광지",
+  "lat": 37.9216565355,
+  "lng": 124.6685990704,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2918008_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용트림 바위",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 남포리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용화선원(인천)",
+  "district": "미추홀구",
+  "category": "사찰",
+  "lat": 37.4697518861,
+  "lng": 126.6822979649,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3395160_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "용화선원(인천)",
+    "desc": "",
+    "address": "인천광역시 미추홀구 주염로 43"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원적산체육공원",
+  "district": "부평구",
+  "category": "공원",
+  "lat": 37.5072754974,
+  "lng": 126.6933320244,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3523818_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원적산체육공원",
+    "desc": "",
+    "address": "인천광역시 부평구 원적로269번길 72 (산곡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월미 관광특구",
+  "district": "제물포구",
+  "category": "관광단지",
+  "lat": 37.4714251763,
+  "lng": 126.5964029776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3047118_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월미 관광특구",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미문화로 81"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월미공원",
+  "district": "제물포구",
+  "category": "공원",
+  "lat": 37.47574981,
+  "lng": 126.6041549279,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3532869_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월미공원",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로 131-31 (북성동1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월미도등대길",
+  "district": "제물포구",
+  "category": "이색거리",
+  "lat": 37.4693615054,
+  "lng": 126.5951337062,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3381758_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월미도등대길",
+    "desc": "",
+    "address": "인천광역시 제물포구 북성동1가 120"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월미문화의거리 & 달빛음악분수",
+  "district": "제물포구",
+  "category": "이색거리",
+  "lat": 37.4738860361,
+  "lng": 126.5983832839,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2786469_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월미문화의거리 & 달빛음악분수",
+    "desc": "",
+    "address": "인천광역시 제물포구 월미로 252"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월미산유리전망대",
+  "district": "제물포구",
+  "category": "유명건물",
+  "lat": 37.4712808586,
+  "lng": 126.6026468561,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3390140_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "월미산유리전망대",
+    "desc": "",
+    "address": "인천광역시 제물포구 북성동1가 125"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천 경서동 녹청자 요지",
+  "district": "서해구",
+  "category": "유적지",
+  "lat": 37.5585049971,
+  "lng": 126.656383968,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3524618_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천 경서동 녹청자 요지",
+    "desc": "",
+    "address": "인천광역시 서해구 도요지로 54 (경서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천국민안전체험관",
+  "district": "서해구",
+  "category": "이색체험",
+  "lat": 37.5220068205,
+  "lng": 126.6765220365,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3441838_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천국민안전체험관",
+    "desc": "",
+    "address": "인천광역시 서해구 봉오재1로 120 (가정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천국제공항 제2여객터미널",
+  "district": "영종구",
+  "category": "기타 산업관광지",
+  "lat": 37.4784546859,
+  "lng": 126.4250156573,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3396046_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천국제공항 제2여객터미널",
+    "desc": "",
+    "address": "인천광역시 영종구 제2터미널대로 446"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천기독교사회복지관(여선교사합숙소)",
+  "district": "제물포구",
+  "category": "유적지",
+  "lat": 37.4706816068,
+  "lng": 126.6411378044,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3039398_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천기독교사회복지관(여선교사합숙소)",
+    "desc": "",
+    "address": "인천광역시 제물포구 우각로 57"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천나비공원",
+  "district": "부평구",
+  "category": "공원",
+  "lat": 37.5202545329,
+  "lng": 126.6926983872,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/3039413_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천나비공원",
+    "desc": "",
+    "address": "인천광역시 부평구 평천로 26-47"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천대공원 반려견놀이터",
+  "district": "남동구",
+  "category": "공원",
+  "lat": 37.4577461335,
+  "lng": 126.749303301,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "인천대공원 반려견놀이터",
+    "desc": "",
+    "address": "인천광역시 남동구 무네미로 236"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천대공원 반려동물 놀이터",
+  "district": "남동구",
+  "category": "공원",
+  "lat": 37.4577461335,
+  "lng": 126.749303301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3590851_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천대공원 반려동물 놀이터",
+    "desc": "",
+    "address": "인천광역시 남동구 무네미로 236"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천대공원 치유숲길",
+  "district": "남동구",
+  "category": "자연휴양림",
+  "lat": 37.4577461335,
+  "lng": 126.749303301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3422792_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천대공원 치유숲길",
+    "desc": "",
+    "address": "인천광역시 남동구 무네미로 236 (장수동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천대교",
+  "district": "영종구",
+  "category": "다리",
+  "lat": 37.4256657486,
+  "lng": 126.5476448037,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3393362_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천대교",
+    "desc": "",
+    "address": "인천광역시 영종구 인천대교고속도로 3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천도호부관아",
+  "district": "미추홀구",
+  "category": "고궁",
+  "lat": 37.439472072,
+  "lng": 126.6823626896,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3079385_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천도호부관아",
+    "desc": "",
+    "address": "인천광역시 미추홀구 매소홀로 553"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천로봇랜드",
+  "district": "서해구",
+  "category": "테마공원",
+  "lat": 37.5196975976,
+  "lng": 126.6109530869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2781653_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천로봇랜드",
+    "desc": "",
+    "address": "인천광역시 서해구 로봇랜드로 155-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천북항다목적부두",
+  "district": "서해구",
+  "category": "항구·포구",
+  "lat": 37.506543967,
+  "lng": 126.6333486301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3524405_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천북항다목적부두",
+    "desc": "",
+    "address": "인천광역시 서해구 북항로 135 (원창동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천애뜰",
+  "district": "남동구",
+  "category": "이색체험",
+  "lat": 37.4550873442,
+  "lng": 126.7060989801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3457642_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천애뜰",
+    "desc": "",
+    "address": "인천광역시 남동구 정각로 29 (구월동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천어린이천문대",
+  "district": "검단구",
+  "category": "자연생태관광지",
+  "lat": 37.5904345493,
+  "lng": 126.6526667493,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3395816_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천어린이천문대",
+    "desc": "",
+    "address": "인천광역시 검단구 원당대로 454-14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천업사이클에코센터",
+  "district": "미추홀구",
+  "category": "이색체험",
+  "lat": 37.4432128271,
+  "lng": 126.6553344944,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3431877_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천업사이클에코센터",
+    "desc": "",
+    "address": "인천광역시 미추홀구 매소홀로290번길 7 (학익동, 인천 업사이클 에코센터)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천중구청(구 인천부 청사)",
+  "district": "제물포구",
+  "category": "유적지",
+  "lat": 37.4736836892,
+  "lng": 126.621495069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3395966_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천중구청(구 인천부 청사)",
+    "desc": "",
+    "address": "인천광역시 제물포구 신포로27번길 80"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천항 국제여객터미널",
+  "district": "연수구",
+  "category": "유람선",
+  "lat": 37.4241197229,
+  "lng": 126.6054979021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3399572_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천항 국제여객터미널",
+    "desc": "",
+    "address": "인천광역시 연수구 국제항만대로326번길 57"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장미공원",
+  "district": "연수구",
+  "category": "공원",
+  "lat": 37.4269095623,
+  "lng": 126.6778301185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3524787_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장미공원",
+    "desc": "",
+    "address": "인천광역시 연수구 연수동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장봉도 옹암해변",
+  "district": "옹진군",
+  "category": "해수욕장",
+  "lat": 37.53102257,
+  "lng": 126.3679055429,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3355854_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장봉도 옹암해변",
+    "desc": "",
+    "address": "인천광역시 옹진군 북도면 장봉로 227"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "점핑파크 인천계양점",
+  "district": "계양구",
+  "category": "이색체험",
+  "lat": 37.5407863555,
+  "lng": 126.7421655209,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3080966_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "점핑파크 인천계양점",
+    "desc": "",
+    "address": "인천광역시 계양구 용종로 78 (용종동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정수사(강화)",
+  "district": "강화군",
+  "category": "사찰",
+  "lat": 37.6077344413,
+  "lng": 126.4455879824,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3041108_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정수사(강화)",
+    "desc": "",
+    "address": "인천광역시 강화군 화도면 해안남로1258번길 142"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정족산",
+  "district": "강화군",
+  "category": "산",
+  "lat": 37.6324543953,
+  "lng": 126.4804118869,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3559339_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정족산",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 온수리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제물포고등학교 강당",
+  "district": "제물포구",
+  "category": "유적지",
+  "lat": 37.4763889721,
+  "lng": 126.6238531121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3396024_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "제물포고등학교 강당",
+    "desc": "",
+    "address": "인천광역시 제물포구 자유공원로 58-9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "지선사",
+  "district": "계양구",
+  "category": "사찰",
+  "lat": 37.5456269176,
+  "lng": 126.7116292839,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3048687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지선사",
+    "desc": "",
+    "address": "인천광역시 계양구 경명대로955번길 13-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "진두선착장",
+  "district": "옹진군",
+  "category": "항구·포구",
+  "lat": 37.2545208721,
+  "lng": 126.4986511891,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3524989_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진두선착장",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 내리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "진촌리 현무암",
+  "district": "옹진군",
+  "category": "자연생태관광지",
+  "lat": 37.9536926933,
+  "lng": 124.7321451059,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2918015_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "진촌리 현무암",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 진촌리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "초지대교",
+  "district": "강화군",
+  "category": "다리",
+  "lat": 37.6280419618,
+  "lng": 126.5339071139,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3350618_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "초지대교",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 초지로 141"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "측도",
+  "district": "옹진군",
+  "category": "섬",
+  "lat": 37.2319404532,
+  "lng": 126.5155947073,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3524960_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "측도",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 선재리 676-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "큰무리어촌체험마을",
+  "district": "영종구",
+  "category": "농어촌체험",
+  "lat": 37.4092736399,
+  "lng": 126.4135102749,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3047256_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큰무리어촌체험마을",
+    "desc": "",
+    "address": "인천광역시 영종구 대무의로 26-9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "통일사",
+  "district": "옹진군",
+  "category": "사찰",
+  "lat": 37.2707877723,
+  "lng": 126.4609625112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3395901_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "통일사",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥로722번길 146"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "투모로우시티(인천스타트업파크)",
+  "district": "연수구",
+  "category": "이색체험",
+  "lat": 37.3885911229,
+  "lng": 126.6399707417,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3339594_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "투모로우시티(인천스타트업파크)",
+    "desc": "",
+    "address": "인천광역시 연수구 컨벤시아대로 204"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "티라시아 리조트",
+  "district": "강화군",
+  "category": "관광단지",
+  "lat": 37.6293195845,
+  "lng": 126.3753382618,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2780149_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "티라시아 리조트",
+    "desc": "",
+    "address": "인천광역시 강화군 화도면 해안남로 2553-25"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "파라다이스시티",
+  "district": "영종구",
+  "category": "관광단지",
+  "lat": 37.4387542597,
+  "lng": 126.4543612904,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3545818_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파라다이스시티",
+    "desc": "",
+    "address": "인천광역시 영종구 영종해안남로321번길 186 (운서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "파라다이스시티 원더박스",
+  "district": "영종구",
+  "category": "테마공원",
+  "lat": 37.4373461143,
+  "lng": 126.4557445366,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3096364_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파라다이스시티 원더박스",
+    "desc": "",
+    "address": "인천광역시 영종구 영종해안남로321번길 186"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하늘정원",
+  "district": "영종구",
+  "category": "수목원",
+  "lat": 37.4442512024,
+  "lng": 126.4749120409,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3516548_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하늘정원",
+    "desc": "",
+    "address": "인천광역시 영종구 운서동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "하늘체육공원",
+  "district": "영종구",
+  "category": "공원",
+  "lat": 37.4882252908,
+  "lng": 126.5560534176,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3396098_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "하늘체육공원",
+    "desc": "",
+    "address": "인천광역시 영종구 하늘달빛로 108 (중산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한지생각이닥",
+  "district": "제물포구",
+  "category": "전통체험",
+  "lat": 37.4706813435,
+  "lng": 126.626208611,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3442105_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한지생각이닥",
+    "desc": "",
+    "address": "인천광역시 제물포구 우현로35번길 14-1 (신포동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해군영흥도 전적비",
+  "district": "옹진군",
+  "category": "기념탑·기념비",
+  "lat": 37.2577313693,
+  "lng": 126.4847912526,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3044339_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해군영흥도 전적비",
+    "desc": "",
+    "address": "인천광역시 옹진군 영흥면 영흥로251번길 24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해명산",
+  "district": "강화군",
+  "category": "산",
+  "lat": 37.67903008,
+  "lng": 126.3538721856,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해명산",
+    "desc": "",
+    "address": "인천광역시 강화군 삼산면 석포리 산 185"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "호룡곡산",
+  "district": "영종구",
+  "category": "산",
+  "lat": 37.376852609,
+  "lng": 126.4250489979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3497331_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호룡곡산",
+    "desc": "",
+    "address": "인천광역시 영종구 대무의로 464"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "호불사",
+  "district": "연수구",
+  "category": "사찰",
+  "lat": 37.4219097977,
+  "lng": 126.6582459308,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3524735_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호불사",
+    "desc": "",
+    "address": "인천광역시 연수구 청룡로 80 (옥련동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "홍예문",
+  "district": "제물포구",
+  "category": "문",
+  "lat": 37.4747003216,
+  "lng": 126.6262390524,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3395954_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "홍예문",
+    "desc": "",
+    "address": "인천광역시 제물포구 송학동3가"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "황룡사(인천)",
+  "district": "검단구",
+  "category": "사찰",
+  "lat": 37.5805775647,
+  "lng": 126.6640687601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3530650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황룡사(인천)",
+    "desc": "",
+    "address": "인천광역시 검단구 봉수대로 1172-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "효성공원",
+  "district": "계양구",
+  "category": "공원",
+  "lat": 37.5267902902,
+  "lng": 126.7156294449,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3393670_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "효성공원",
+    "desc": "",
+    "address": "인천광역시 계양구 새벌로111번길 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "후포항 선수포구",
+  "district": "강화군",
+  "category": "항구·포구",
+  "lat": 37.6405074614,
+  "lng": 126.3920447545,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3040780_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "후포항 선수포구",
+    "desc": "",
+    "address": "인천광역시 강화군 화도면 해안남로2903번길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "흥륜사(인천)",
+  "district": "연수구",
+  "category": "사찰",
+  "lat": 37.4166243183,
+  "lng": 126.659251542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3043938_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "흥륜사(인천)",
+    "desc": "",
+    "address": "인천광역시 연수구 청량로70번길 40-18 (동춘동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "(구)인천일본제58은행지점",
+  "district": "제물포구",
+  "category": "유적지",
+  "lat": 37.4728671156,
+  "lng": 126.6213839908,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3047225_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "(구)인천일본제58은행지점",
+    "desc": "",
+    "address": "인천광역시 제물포구 신포로23번길 69-1 제물포구음식업지부"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "BMW 드라이빙센터",
+  "district": "영종구",
+  "category": "기타 산업관광지",
+  "lat": 37.4624631493,
+  "lng": 126.4849384009,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3309381_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "BMW 드라이빙센터",
+    "desc": "",
+    "address": "인천광역시 영종구 공항동로 136 (운서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "G타워 전망대",
+  "district": "연수구",
+  "category": "유명건물",
+  "lat": 37.3964178789,
+  "lng": 126.6335544435,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3393341_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "G타워 전망대",
+    "desc": "",
+    "address": "인천광역시 연수구 아트센터대로 175 G-Tower"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화문예회관",
+  "district": "강화군",
+  "category": "공연장",
+  "lat": 37.7453439098,
+  "lng": 126.4746009394,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3350582_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화문예회관",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 고비고개로19번길 12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화문학관",
+  "district": "강화군",
+  "category": "기념관",
+  "lat": 37.7496074946,
+  "lng": 126.4855887017,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3350514_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화문학관",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 관청길 40"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화문화원",
+  "district": "강화군",
+  "category": "문화원",
+  "lat": 37.7425639138,
+  "lng": 126.4879775686,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3532833_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화문화원",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 남문로 52"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화역사박물관",
+  "district": "강화군",
+  "category": "박물관",
+  "lat": 37.7737399035,
+  "lng": 126.4352815292,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3383821_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "강화역사박물관",
+    "desc": "",
+    "address": "인천광역시 강화군 하점면 강화대로 994-19"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강화전쟁박물관",
+  "district": "강화군",
+  "category": "박물관",
+  "lat": 37.7336321177,
+  "lng": 126.5160613555,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3532928_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강화전쟁박물관",
+    "desc": "",
+    "address": "인천광역시 강화군 강화읍 해안동로1366번길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계양문화회관",
+  "district": "계양구",
+  "category": "공연장",
+  "lat": 37.5460492061,
+  "lng": 126.7181286785,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3533195_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계양문화회관",
+    "desc": "",
+    "address": "인천광역시 계양구 계양산로35번길 11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국자와 주걱",
+  "district": "강화군",
+  "category": "대형서점",
+  "lat": 37.6533568942,
+  "lng": 126.4450895395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3350540_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "국자와 주걱",
+    "desc": "",
+    "address": "인천광역시 강화군 양도면 강화남로428번길 46-27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "기차왕국박물관카페",
+  "district": "남동구",
+  "category": "박물관",
+  "lat": 37.4499527095,
+  "lng": 126.7558251461,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3533319_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "기차왕국박물관카페",
+    "desc": "",
+    "address": "인천광역시 남동구 장자로6번길 112-7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대불호텔전시관",
+  "district": "제물포구",
+  "category": "전시관",
+  "lat": 37.4736114488,
+  "lng": 126.6199896528,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2999549_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대불호텔전시관",
+    "desc": "",
+    "address": "인천광역시 제물포구 신포로23번길 101"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "바람숲그림책도서관",
+  "district": "강화군",
+  "category": "도서관",
+  "lat": 37.6486835254,
+  "lng": 126.5068590137,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2848436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바람숲그림책도서관",
+    "desc": "",
+    "address": "인천광역시 강화군 덕진로159번길 66-34 바람숲그림책도서관"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "배다리 성냥 박물관",
+  "district": "제물포구",
+  "category": "박물관",
+  "lat": 37.4729535051,
+  "lng": 126.6377491619,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3411562_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "배다리 성냥 박물관",
+    "desc": "",
+    "address": "인천광역시 제물포구 금곡로 19 (금곡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "배다리 아트스테이1930",
+  "district": "제물포구",
+  "category": "컨벤션센터",
+  "lat": 37.4728896065,
+  "lng": 126.6367686979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2848483_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "배다리 아트스테이1930",
+    "desc": "",
+    "address": "인천광역시 제물포구 금곡로11번길 1-4 진도여인숙"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "범패민속문화박물관",
+  "district": "미추홀구",
+  "category": "박물관",
+  "lat": 37.4647824704,
+  "lng": 126.6512259372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3395120_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "범패민속문화박물관",
+    "desc": "",
+    "address": "인천광역시 미추홀구 경인로70번길 11-13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부평 기적의도서관",
+  "district": "부평구",
+  "category": "도서관",
+  "lat": 37.5034323298,
+  "lng": 126.7401834131,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3078597_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부평 기적의도서관",
+    "desc": "",
+    "address": "인천광역시 부평구 길주남로 166"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부평아트센터",
+  "district": "부평구",
+  "category": "공연장",
+  "lat": 37.4822897181,
+  "lng": 126.7049455502,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3457455_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부평아트센터",
+    "desc": "",
+    "address": "인천광역시 부평구 아트센터로 166 (십정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼산도서관",
+  "district": "부평구",
+  "category": "도서관",
+  "lat": 37.5221579814,
+  "lng": 126.7430381845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2462006_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼산도서관",
+    "desc": "",
+    "address": "인천광역시 부평구 부평북로 445"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송도컨벤시아",
+  "district": "연수구",
+  "category": "컨벤션센터",
+  "lat": 37.3890356252,
+  "lng": 126.6461951621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3037277_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송도컨벤시아",
+    "desc": "",
+    "address": "인천광역시 연수구 센트럴로 123"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송암박두성기념관",
+  "district": "미추홀구",
+  "category": "기념관",
+  "lat": 37.4381689811,
+  "lng": 126.6560401258,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "송암박두성기념관",
+    "desc": "",
+    "address": "인천광역시 미추홀구 한나루로357번길 105-19 (학익동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "심청각",
+  "district": "옹진군",
+  "category": "전시관",
+  "lat": 37.9797643244,
+  "lng": 124.7136239269,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3497901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "심청각",
+    "desc": "",
+    "address": "인천광역시 옹진군 백령면 백령로316번길 109-117"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아트플러그 연수",
+  "district": "연수구",
+  "category": "전시관",
+  "lat": 37.4167547711,
+  "lng": 126.654263104,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2833481_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아트플러그 연수",
+    "desc": "",
+    "address": "인천광역시 연수구 청량로101번길 33"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "애관극장",
+  "district": "제물포구",
+  "category": "영화관",
+  "lat": 37.4722617789,
+  "lng": 126.6298082395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2725208_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애관극장",
+    "desc": "",
+    "address": "인천광역시 제물포구 개항로 63-2 (경동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "우공책방",
+  "district": "강화군",
+  "category": "대형서점",
+  "lat": 37.731925013,
+  "lng": 126.4167788373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3350551_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "우공책방",
+    "desc": "",
+    "address": "인천광역시 강화군 내가면 연촌길 77-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "은율탈춤전수관",
+  "district": "미추홀구",
+  "category": "문화전수시설",
+  "lat": 37.4615191552,
+  "lng": 126.6622472444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3530698_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "은율탈춤전수관",
+    "desc": "",
+    "address": "인천광역시 미추홀구 수봉안길 78"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천 부평문화원",
+  "district": "부평구",
+  "category": "문화원",
+  "lat": 37.5121201677,
+  "lng": 126.7378611598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3395499_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천 부평문화원",
+    "desc": "",
+    "address": "인천광역시 부평구 굴포로 151"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천 아트플랫폼",
+  "district": "제물포구",
+  "category": "공연장",
+  "lat": 37.4726060191,
+  "lng": 126.6205007453,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3529917_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천 아트플랫폼",
+    "desc": "",
+    "address": "인천광역시 제물포구 제물량로218번길 3 (해안동1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천광역시 중앙도서관",
+  "district": "남동구",
+  "category": "도서관",
+  "lat": 37.4562843746,
+  "lng": 126.7031103304,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3457898_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천광역시 중앙도서관",
+    "desc": "",
+    "address": "인천광역시 남동구 정각로 9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천광역시교육청북구도서관",
+  "district": "부평구",
+  "category": "도서관",
+  "lat": 37.5059789623,
+  "lng": 126.7236181866,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3078640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천광역시교육청북구도서관",
+    "desc": "",
+    "address": "인천광역시 부평구 신트리로 21 (부평동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천대공원 목재문화체험장",
+  "district": "남동구",
+  "category": "전시관",
+  "lat": 37.4577461335,
+  "lng": 126.749303301,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3499068_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천대공원 목재문화체험장",
+    "desc": "",
+    "address": "인천광역시 남동구 무네미로 236"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천수봉문화회관",
+  "district": "미추홀구",
+  "category": "공연장",
+  "lat": 37.4615191552,
+  "lng": 126.6622472444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3395129_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인천수봉문화회관",
+    "desc": "",
+    "address": "인천광역시 미추홀구 수봉안길 78"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천시민애집",
+  "district": "제물포구",
+  "category": "전시관",
+  "lat": 37.4743558558,
+  "lng": 126.6227865996,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3352267_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천시민애집",
+    "desc": "",
+    "address": "인천광역시 제물포구 신포로39번길 74"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천어린이과학관",
+  "district": "계양구",
+  "category": "전시관",
+  "lat": 37.5516350563,
+  "lng": 126.7400265233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3516517_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천어린이과학관",
+    "desc": "",
+    "address": "인천광역시 계양구 방축로 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천통일관",
+  "district": "미추홀구",
+  "category": "전시관",
+  "lat": 37.4598832531,
+  "lng": 126.6633083041,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3590876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천통일관",
+    "desc": "",
+    "address": "인천광역시 미추홀구 수봉안길 84 (숭의동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천학생과학관",
+  "district": "영종구",
+  "category": "전시관",
+  "lat": 37.4906880282,
+  "lng": 126.5067939592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3533575_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천학생과학관",
+    "desc": "",
+    "address": "인천광역시 영종구 영종대로277번길 74-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인천학생교육문화회관",
+  "district": "제물포구",
+  "category": "공연장",
+  "lat": 37.4758558031,
+  "lng": 126.6296581531,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2363110_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인천학생교육문화회관",
+    "desc": "",
+    "address": "인천광역시 제물포구 자유공원로 12 (인현동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인하대학교 박물관",
+  "district": "미추홀구",
+  "category": "박물관",
+  "lat": 37.4513923645,
+  "lng": 126.6514818413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3393302_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "인하대학교 박물관",
+    "desc": "",
+    "address": "인천광역시 미추홀구 인하로 100"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "중구생활사전시관",
+  "district": "제물포구",
+  "category": "전시관",
+  "lat": 37.4735170173,
+  "lng": 126.6201063115,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3039462_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "중구생활사전시관",
+    "desc": "",
+    "address": "인천광역시 제물포구 신포로23번길 97 (중앙동1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "청라호수도서관",
+  "district": "서해구",
+  "category": "도서관",
+  "lat": 37.5305967767,
+  "lng": 126.6362810266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3529712_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청라호수도서관",
+    "desc": "",
+    "address": "인천광역시 서해구 크리스탈로 59"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "추억극장미림",
+  "district": "제물포구",
+  "category": "전시관",
+  "lat": 37.4755448099,
+  "lng": 126.634310515,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3477028_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "추억극장미림",
+    "desc": "",
+    "address": "인천광역시 제물포구 화도진로 31 (송현동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "트릭아트스토리",
+  "district": "제물포구",
+  "category": "미술관·화랑",
+  "lat": 37.4776859887,
+  "lng": 126.6207394716,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3529785_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트릭아트스토리",
+    "desc": "",
+    "address": "인천광역시 제물포구 동화마을길 42 (송월동3가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "틈문화창작지대",
+  "district": "미추홀구",
+  "category": "전시관",
+  "lat": 37.4592363955,
+  "lng": 126.6796929393,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3337086_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "틈문화창작지대",
+    "desc": "",
+    "address": "인천광역시 미추홀구 미추홀대로 691"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한국가스공사 가스과학관",
+  "district": "연수구",
+  "category": "전시관",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3424320_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한국가스공사 가스과학관",
+    "desc": "",
+    "address": "인천광역시 연수구 인천신항대로 960 (송도동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한옥카페 갤러리 도솔",
+  "district": "강화군",
+  "category": "미술관·화랑",
+  "lat": 37.642050958,
+  "lng": 126.5064842332,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한옥카페 갤러리 도솔",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 길상로210번길 52-71"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해돋이도서관",
+  "district": "연수구",
+  "category": "도서관",
+  "lat": 37.3857834511,
+  "lng": 126.6590274163,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3533395_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해돋이도서관",
+    "desc": "",
+    "address": "인천광역시 연수구 해돋이로 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해든뮤지움",
+  "district": "강화군",
+  "category": "미술관·화랑",
+  "lat": 37.6121239304,
+  "lng": 126.5088570712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3549020_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해든뮤지움",
+    "desc": "",
+    "address": "인천광역시 강화군 길상면 장흥로101번길 44"
+   }
+  }
+ }
+]

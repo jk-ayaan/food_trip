@@ -1,0 +1,1107 @@
+[
+ {
+  "section": "food",
+  "name_ko": "가배서림",
+  "district": "금남면",
+  "category": "카페·베이커리",
+  "lat": 36.4213723942,
+  "lng": 127.2848028517,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2869965_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가배서림",
+    "desc": "",
+    "address": "세종특별자치시 금남면 안금로 241"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강산매운탕",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.5128132157,
+  "lng": 127.3579715849,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2869684_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강산매운탕",
+    "desc": "",
+    "address": "세종특별자치시  금강변길 1249"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고등어밥상",
+  "district": "장군",
+  "category": "한식·백반",
+  "lat": 36.5024842323,
+  "lng": 127.2233061648,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2869197_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고등어밥상",
+    "desc": "",
+    "address": "세종특별자치시 장군면 월현윗길 38-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곤드레말",
+  "district": "장군",
+  "category": "한식·백반",
+  "lat": 36.5031452524,
+  "lng": 127.2224562233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2758433_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곤드레말",
+    "desc": "",
+    "address": "세종특별자치시 장군면 월현윗길 47"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "광화문미진",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.4824288727,
+  "lng": 127.2613782945,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2767353_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광화문미진",
+    "desc": "",
+    "address": "세종특별자치시 한누리대로 194 (나성동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그랜드제빵소",
+  "district": "금남면",
+  "category": "카페·베이커리",
+  "lat": 36.4674781057,
+  "lng": 127.2781827496,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그랜드제빵소",
+    "desc": "",
+    "address": "세종특별자치시 금남면 용포로 119-55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꺼먹지명태조림 세종본점",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.5066700246,
+  "lng": 127.232416345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2871738_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꺼먹지명태조림 세종본점",
+    "desc": "",
+    "address": "세종특별자치시  마음로 96 다산근생"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꿈앤카페 세종호수공원점 (송담만리)",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.4989993515,
+  "lng": 127.2701992755,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꿈앤카페 세종호수공원점 (송담만리)",
+    "desc": "",
+    "address": "세종특별자치시 다솜로 216 (세종동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "넘버트웰브",
+  "district": "전동면",
+  "category": "카페·베이커리",
+  "lat": 36.6420993093,
+  "lng": 127.2539940486,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2871726_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "넘버트웰브",
+    "desc": "",
+    "address": "세종특별자치시 전동면 깊은내길 211"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "당미소",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.5193328205,
+  "lng": 127.2526947369,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2740483_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당미소",
+    "desc": "",
+    "address": "세종특별자치시 보듬7로 61"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대나무한소반",
+  "district": "장군",
+  "category": "한식·백반",
+  "lat": 36.4978710498,
+  "lng": 127.2333359459,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2871715_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대나무한소반",
+    "desc": "",
+    "address": "세종특별자치시 장군면 당암길 42"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대왕해물손칼국수",
+  "district": "연서면",
+  "category": "해산물·회",
+  "lat": 36.6128164553,
+  "lng": 127.2480870467,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2767368_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대왕해물손칼국수",
+    "desc": "",
+    "address": "세종특별자치시 연서면 도신고복로 913"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도가네매운탕(도가네)",
+  "district": "연서면",
+  "category": "한식·백반",
+  "lat": 36.5999814446,
+  "lng": 127.227042065,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2767367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도가네매운탕(도가네)",
+    "desc": "",
+    "address": "세종특별자치시 연서면 도신고복로 585"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "디그레이",
+  "district": "장군",
+  "category": "카페·베이커리",
+  "lat": 36.4988153266,
+  "lng": 127.2299584456,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "디그레이",
+    "desc": "",
+    "address": "세종특별자치시 장군면 장기로 854-20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뜨레",
+  "district": "",
+  "category": "양식·세계요리",
+  "lat": 36.5215103181,
+  "lng": 127.2509920529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2767356_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뜨레",
+    "desc": "",
+    "address": "세종특별자치시 달빛1로 284"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "모시울",
+  "district": "조치원읍",
+  "category": "카페·베이커리",
+  "lat": 36.5952249867,
+  "lng": 127.3018993621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2871233_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "모시울",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 장안로 74"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "밀크",
+  "district": "연서면",
+  "category": "카페·베이커리",
+  "lat": 36.5515187575,
+  "lng": 127.2943706766,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2871263_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밀크",
+    "desc": "",
+    "address": "세종특별자치시 연서면 수문강길 232-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "바우정원",
+  "district": "장군",
+  "category": "한식·백반",
+  "lat": 36.4895271557,
+  "lng": 127.2103604553,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2871286_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바우정원",
+    "desc": "",
+    "address": "세종특별자치시 장군면 장기로 650-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "밥상차려주는집(세종)",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.4956746388,
+  "lng": 127.2649248389,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2740508_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밥상차려주는집(세종)",
+    "desc": "",
+    "address": "세종특별자치시 가름로 232 (어진동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백두회수산",
+  "district": "",
+  "category": "해산물·회",
+  "lat": 36.5089059097,
+  "lng": 127.2341439071,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2871314_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백두회수산",
+    "desc": "",
+    "address": "세종특별자치시 고운서4길 7 (고운동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백제기사식당",
+  "district": "소정면",
+  "category": "한식·백반",
+  "lat": 36.6986132172,
+  "lng": 127.1514683893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2871372_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백제기사식당",
+    "desc": "",
+    "address": "세종특별자치시 소정면 도래말길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "번암반점",
+  "district": "",
+  "category": "중식",
+  "lat": 36.5834761843,
+  "lng": 127.2934115563,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2905472_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "번암반점",
+    "desc": "",
+    "address": "세종특별자치시  허만석로 13-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보재기손두부",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.5161661819,
+  "lng": 127.2337992962,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2871397_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보재기손두부",
+    "desc": "",
+    "address": "세종특별자치시 마음안로 161 (고운동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부강옥",
+  "district": "부강면",
+  "category": "한식·백반",
+  "lat": 36.5275007941,
+  "lng": 127.3789443029,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2676004_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "부강옥",
+    "desc": "",
+    "address": "세종특별자치시 부강면 부강외천로 103"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산장가든",
+  "district": "연서면",
+  "category": "한식·백반",
+  "lat": 36.6002959171,
+  "lng": 127.261938922,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산장가든",
+    "desc": "",
+    "address": "세종특별자치시 연서면 도신고복로 1131-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "세종 싱싱푸드 새롬점",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.4870199253,
+  "lng": 127.2564536116,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "세종 싱싱푸드 새롬점",
+    "desc": "",
+    "address": "세종특별자치시 새롬로 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "세종시 한글빵 본점",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.4813572788,
+  "lng": 127.2899118764,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "세종시 한글빵 본점",
+    "desc": "",
+    "address": "세종특별자치시 시청대로 167 113호"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "세종장어대가",
+  "district": "",
+  "category": "해산물·회",
+  "lat": 36.482459438,
+  "lng": 127.2621809993,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2871436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세종장어대가",
+    "desc": "",
+    "address": "세종특별자치시 나성남로 7-16 (나성동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "세종한우타운",
+  "district": "조치원읍",
+  "category": "고기·구이",
+  "lat": 36.5947414613,
+  "lng": 127.2879506275,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2871449_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세종한우타운",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 대첩로 75"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소나무향기",
+  "district": "금남면",
+  "category": "한식·백반",
+  "lat": 36.4565211579,
+  "lng": 127.2855129458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2833534_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소나무향기",
+    "desc": "",
+    "address": "세종특별자치시 금남면 발산1길 54-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소소루",
+  "district": "금남면",
+  "category": "카페·베이커리",
+  "lat": 36.448717177,
+  "lng": 127.3238791645,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2871470_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소소루",
+    "desc": "",
+    "address": "세종특별자치시 금남면 바람재로 440"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송하민어구이",
+  "district": "조치원읍",
+  "category": "한식·백반",
+  "lat": 36.6358284208,
+  "lng": 127.2884911212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2871486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송하민어구이",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 운주산로 72"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수미순두부&왕코다리&화덕생선구이",
+  "district": "",
+  "category": "해산물·회",
+  "lat": 36.5191047608,
+  "lng": 127.2353018592,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2758403_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수미순두부&왕코다리&화덕생선구이",
+    "desc": "",
+    "address": "세종특별자치시 마음로 272-22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시즌파이브 프리미엄 본점",
+  "district": "",
+  "category": "양식·세계요리",
+  "lat": 36.511389108,
+  "lng": 127.2425958593,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2871504_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시즌파이브 프리미엄 본점",
+    "desc": "",
+    "address": "세종특별자치시 아름서1길 13-5 (아름동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "식원반점",
+  "district": "",
+  "category": "중식",
+  "lat": 36.5153278266,
+  "lng": 127.2584998805,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2871517_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "식원반점",
+    "desc": "",
+    "address": "세종특별자치시 한누리대로 583 (도담동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아리에떼",
+  "district": "장군",
+  "category": "카페·베이커리",
+  "lat": 36.5095277552,
+  "lng": 127.2168898825,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2767338_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아리에떼",
+    "desc": "",
+    "address": "세종특별자치시 장군면 덕고개길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아크커피",
+  "district": "장군",
+  "category": "카페·베이커리",
+  "lat": 36.5030897297,
+  "lng": 127.2239560901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2871540_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아크커피",
+    "desc": "",
+    "address": "세종특별자치시 장군면 월현윗길 38-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에브리선데이 본점",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.6023785072,
+  "lng": 127.233541416,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2869215_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에브리선데이 본점",
+    "desc": "",
+    "address": "세종특별자치시  안산길 76"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에이트",
+  "district": "",
+  "category": "양식·세계요리",
+  "lat": 36.4899779312,
+  "lng": 127.2571118052,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2869694_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에이트",
+    "desc": "",
+    "address": "세종특별자치시  한누리대로 288 갤러리밸류시티"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "올진스시",
+  "district": "",
+  "category": "일식",
+  "lat": 36.5011794558,
+  "lng": 127.2588668989,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2905492_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "올진스시",
+    "desc": "",
+    "address": "세종특별자치시  한누리대로 411 KT&G세종타워A"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용암골",
+  "district": "연서면",
+  "category": "한식·백반",
+  "lat": 36.60270615,
+  "lng": 127.2280446786,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3552994_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용암골",
+    "desc": "",
+    "address": "세종특별자치시 연서면 도신고복로 613-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "육산 갈비",
+  "district": "",
+  "category": "고기·구이",
+  "lat": 36.4833237791,
+  "lng": 127.2932726334,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2869709_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "육산 갈비",
+    "desc": "",
+    "address": "세종특별자치시 시청대로 209 (보람동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이해윤 추어명가 세종본점",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.45962064,
+  "lng": 127.2763136862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2870018_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이해윤 추어명가 세종본점",
+    "desc": "",
+    "address": "세종특별자치시  성덕영곡길 29"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제주도화",
+  "district": "연서면",
+  "category": "카페·베이커리",
+  "lat": 36.5976761658,
+  "lng": 127.2277142903,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2869985_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제주도화",
+    "desc": "",
+    "address": "세종특별자치시 연서면 와룡로 606"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중부회수산시장",
+  "district": "",
+  "category": "해산물·회",
+  "lat": 36.5028624065,
+  "lng": 127.2481400379,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2735097_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중부회수산시장",
+    "desc": "",
+    "address": "세종특별자치시 도움1로 106 (종촌동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진성민속촌",
+  "district": "부강면",
+  "category": "한식·백반",
+  "lat": 36.532619336,
+  "lng": 127.3612513055,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3416971_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진성민속촌",
+    "desc": "",
+    "address": "세종특별자치시 부강면 청연로 125"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진주냉면 남가옥",
+  "district": "",
+  "category": "면·국물",
+  "lat": 36.4968551342,
+  "lng": 127.2691660933,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2905700_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "진주냉면 남가옥",
+    "desc": "",
+    "address": "세종특별자치시  다솜로 185"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청향일식",
+  "district": "조치원읍",
+  "category": "일식",
+  "lat": 36.596897031,
+  "lng": 127.3026770243,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3466456_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청향일식",
+    "desc": "",
+    "address": "세종특별자치시 조치원읍 장안1길 97"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "초당칼국수.보쌈",
+  "district": "장군",
+  "category": "면·국물",
+  "lat": 36.440124362,
+  "lng": 127.2033735306,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2869995_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "초당칼국수.보쌈",
+    "desc": "",
+    "address": "세종특별자치시 장군면 외암길 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 비일상",
+  "district": "금남면",
+  "category": "카페·베이커리",
+  "lat": 36.4730722736,
+  "lng": 127.2987390883,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2870047_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 비일상",
+    "desc": "",
+    "address": "세종특별자치시 금남면 호탄길 48"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페그리너리",
+  "district": "장군",
+  "category": "카페·베이커리",
+  "lat": 36.5051451569,
+  "lng": 127.2300221568,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2870033_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페그리너리",
+    "desc": "",
+    "address": "세종특별자치시 장군면 월현윗길 119-39"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페리즌",
+  "district": "금남면",
+  "category": "카페·베이커리",
+  "lat": 36.437475328,
+  "lng": 127.2408841284,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2767317_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페리즌",
+    "desc": "",
+    "address": "세종특별자치시 금남면 도남2안길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페용담",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.4226389039,
+  "lng": 127.2841223229,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2869669_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페용담",
+    "desc": "",
+    "address": "세종특별자치시  안금로 257"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페재생",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.6081004553,
+  "lng": 127.2551309873,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2869640_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페재생",
+    "desc": "",
+    "address": "세종특별자치시  고복오봉산길 18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페캐빈하우스",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.5242983064,
+  "lng": 127.3746308886,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2869552_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페캐빈하우스",
+    "desc": "",
+    "address": "세종특별자치시  시목부강로 685-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페플로랑스",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.4839820476,
+  "lng": 127.2938253431,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2869237_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페플로랑스",
+    "desc": "",
+    "address": "세종특별자치시 시청대로 219 (보람동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "칼로리 스테이션",
+  "district": "금남면",
+  "category": "양식·세계요리",
+  "lat": 36.4776857478,
+  "lng": 127.3051772748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2869613_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "칼로리 스테이션",
+    "desc": "",
+    "address": "세종특별자치시 금남면 장재길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피디(커피D)",
+  "district": "금남면",
+  "category": "카페·베이커리",
+  "lat": 36.471708321,
+  "lng": 127.286340237,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2869573_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커피디(커피D)",
+    "desc": "",
+    "address": "세종특별자치시 금남면 금남구즉로 60"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "큰집뼈대있는짬뽕",
+  "district": "",
+  "category": "중식",
+  "lat": 36.481467835,
+  "lng": 127.2593535019,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2875990_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큰집뼈대있는짬뽕",
+    "desc": "",
+    "address": "세종특별자치시 노을3로 19 (한솔동, 첫마을2단지)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "토바우 안심한우마을",
+  "district": "장군",
+  "category": "고기·구이",
+  "lat": 36.5006956771,
+  "lng": 127.2306083363,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2876023_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토바우 안심한우마을",
+    "desc": "",
+    "address": "세종특별자치시 장군면 월현윗길 173-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한아름보리밥",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.5193438635,
+  "lng": 127.2489061878,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2876054_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한아름보리밥",
+    "desc": "",
+    "address": "세종특별자치시 보듬7로 94 (아름동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "헤이믈",
+  "district": "",
+  "category": "카페·베이커리",
+  "lat": 36.5090531999,
+  "lng": 127.2389268072,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2876074_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "헤이믈",
+    "desc": "",
+    "address": "세종특별자치시 고운한옥1길 3 (고운동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "홀인원가든",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.6872565314,
+  "lng": 127.170739188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2905725_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홀인원가든",
+    "desc": "",
+    "address": "세종특별자치시  거제길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황가평양냉면",
+  "district": "",
+  "category": "면·국물",
+  "lat": 36.4993346265,
+  "lng": 127.2251727499,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2905743_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황가평양냉면",
+    "desc": "",
+    "address": "세종특별자치시  장척로 585-20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "180도씨",
+  "district": "",
+  "category": "한식·백반",
+  "lat": 36.5053618828,
+  "lng": 127.2347633922,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2869949_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "180도씨",
+    "desc": "",
+    "address": "세종특별자치시  고운서길 7 골드프라자"
+   }
+  }
+ }
+]

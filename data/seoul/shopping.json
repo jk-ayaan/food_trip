@@ -1,0 +1,2739 @@
+[
+ {
+  "section": "shopping",
+  "name_ko": "가락농수산물종합도매시장",
+  "district": "송파구",
+  "category": "상설시장",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3568037_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가락농수산물종합도매시장",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "가락몰",
+  "district": "송파구",
+  "category": "전문매장",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3467156_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가락몰",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "가락수산시장",
+  "district": "송파구",
+  "category": "상설시장",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3567934_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가락수산시장",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "간격 드로잉스페이스",
+  "district": "마포구",
+  "category": "쇼핑",
+  "lat": 37.5570179737,
+  "lng": 126.9077277407,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2989016_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "간격 드로잉스페이스",
+    "desc": "",
+    "address": "서울특별시 마포구 월드컵로23길 20 망원빌"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강남고속터미널 혼수상가",
+  "district": "서초구",
+  "category": "전문매장",
+  "lat": 37.5062061855,
+  "lng": 127.0055841495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3527832_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강남고속터미널 혼수상가",
+    "desc": "",
+    "address": "서울특별시 서초구 신반포로 194 (반포동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "강서농산물도매시장",
+  "district": "강서구",
+  "category": "상설시장",
+  "lat": 37.5557499181,
+  "lng": 126.8216495158,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3589922_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강서농산물도매시장",
+    "desc": "",
+    "address": "서울특별시 강서구 발산로 40 (외발산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "개봉중앙시장",
+  "district": "구로구",
+  "category": "상설시장",
+  "lat": 37.4916357215,
+  "lng": 126.8538844883,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3558661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "개봉중앙시장",
+    "desc": "",
+    "address": "서울특별시 구로구 개봉로17길 34 (개봉동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "갤러리아백화점 명품관",
+  "district": "강남구",
+  "category": "백화점",
+  "lat": 37.5285292127,
+  "lng": 127.0400692668,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3495074_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갤러리아백화점 명품관",
+    "desc": "",
+    "address": "서울특별시 강남구 압구정로 343 (압구정동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "견지동 불교용품거리",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.574478386,
+  "lng": 126.9819927,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3589201_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "견지동 불교용품거리",
+    "desc": "",
+    "address": "서울특별시 종로구 우정국로 55"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "고분다리전통시장",
+  "district": "강동구",
+  "category": "상설시장",
+  "lat": 37.5424098057,
+  "lng": 127.1316577579,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3571731_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고분다리전통시장",
+    "desc": "",
+    "address": "서울특별시 강동구 구천면로34길 8 (천호동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "고척근린시장",
+  "district": "구로구",
+  "category": "상설시장",
+  "lat": 37.5021872007,
+  "lng": 126.8498040086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3463574_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고척근린시장",
+    "desc": "",
+    "address": "서울특별시 구로구 고척로32길 11-3 (고척동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "공릉동도깨비시장",
+  "district": "노원구",
+  "category": "상설시장",
+  "lat": 37.6229161347,
+  "lng": 127.0771743155,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2779699_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "공릉동도깨비시장",
+    "desc": "",
+    "address": "서울특별시 노원구 동일로180길 53 (공릉동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광장시장",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5701653166,
+  "lng": 126.9997217621,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2668981_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광장시장",
+    "desc": "",
+    "address": "서울특별시 종로구 창경궁로 88"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "광장시장 한복매장",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5702347233,
+  "lng": 126.9980663554,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/1015080_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광장시장 한복매장",
+    "desc": "",
+    "address": "서울특별시 종로구 창경궁로 88 (예지동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "구로 중앙유통단지",
+  "district": "구로구",
+  "category": "전문매장",
+  "lat": 37.5009544532,
+  "lng": 126.8746156713,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3526888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구로 중앙유통단지",
+    "desc": "",
+    "address": "서울특별시 구로구 경인로53길 15"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "구로시장",
+  "district": "구로구",
+  "category": "상설시장",
+  "lat": 37.4896837364,
+  "lng": 126.8856260957,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3400248_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구로시장",
+    "desc": "",
+    "address": "서울특별시 구로구 구로동로22길 17-4 (구로동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "그랑핸드 가회점",
+  "district": "종로구",
+  "category": "공예·공방",
+  "lat": 37.5834468109,
+  "lng": 126.9832562196,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3572939_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "그랑핸드 가회점",
+    "desc": "",
+    "address": "서울특별시 종로구 북촌로11길 61 (가회동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "그래픽",
+  "district": "용산구",
+  "category": "쇼핑",
+  "lat": 37.5409852642,
+  "lng": 126.9936064792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3082648_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "그래픽",
+    "desc": "",
+    "address": "서울특별시 용산구 회나무로39길 33 (이태원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "금강제화 명동본점",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5624659415,
+  "lng": 126.984681684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/1309149_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금강제화 명동본점",
+    "desc": "",
+    "address": "서울특별시 중구 명동8길 30 (명동2가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "금남시장",
+  "district": "성동구",
+  "category": "상설시장",
+  "lat": 37.548507136,
+  "lng": 127.022728613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3414159_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금남시장",
+    "desc": "",
+    "address": "서울특별시 성동구 독서당로 303-7 (금호동3가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "길동복조리시장",
+  "district": "강동구",
+  "category": "상설시장",
+  "lat": 37.5369606466,
+  "lng": 127.1431985291,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2779574_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "길동복조리시장",
+    "desc": "",
+    "address": "서울특별시 강동구 천호대로187길 62 (길동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "낙원 악기상가",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5728259087,
+  "lng": 126.9880310857,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/923719_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낙원 악기상가",
+    "desc": "",
+    "address": "서울특별시 종로구 삼일대로 428 (낙원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남구로시장",
+  "district": "구로구",
+  "category": "상설시장",
+  "lat": 37.4899615113,
+  "lng": 126.8872731601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3581067_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남구로시장",
+    "desc": "",
+    "address": "서울특별시 구로구 구로동로26길 58 (구로동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문 문구상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5604465848,
+  "lng": 126.9765019308,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3573137_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남대문 문구상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문로 6-2 (남대문로4가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문 본동의류상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.559868877,
+  "lng": 126.9766574889,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3568376_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남대문 본동의류상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장2길 3-2 (남창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문 액세사리상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5591939725,
+  "lng": 126.9776157542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/1984373_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남대문 액세사리상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문 종합상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5592134153,
+  "lng": 126.9776518607,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/1015004_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남대문 종합상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문 중앙상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5591939725,
+  "lng": 126.9776157542,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/1009887_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남대문 중앙상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5592467455,
+  "lng": 126.9776796357,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2612867_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남대문시장",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 21"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남대문인삼시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5605299268,
+  "lng": 126.977504615,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3065131_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남대문인삼시장",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장길 25-8 (남대문로4가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "남평화상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5692239587,
+  "lng": 127.0108429971,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3568464_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남평화상가",
+    "desc": "",
+    "address": "서울특별시 중구 장충단로 282-10 (신당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "노량진수산물도매시장",
+  "district": "동작구",
+  "category": "상설시장",
+  "lat": 37.5148539488,
+  "lng": 126.9368207234,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2382954_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "노량진수산물도매시장",
+    "desc": "",
+    "address": "서울특별시 동작구 노들로 674"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "노룬산골목시장",
+  "district": "광진구",
+  "category": "상설시장",
+  "lat": 37.5369286806,
+  "lng": 127.064750115,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/2779656_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "노룬산골목시장",
+    "desc": "",
+    "address": "서울특별시 광진구 자양동 816-79"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "논현 가구거리",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.5124558057,
+  "lng": 127.0248794386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/3571728_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "논현 가구거리",
+    "desc": "",
+    "address": "서울특별시 강남구 학동로 125 (논현동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "단하",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5837550672,
+  "lng": 126.9809508653,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2947568_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단하",
+    "desc": "",
+    "address": "서울특별시 종로구 팔판길 39-7 (팔판동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "답십리 고미술상가",
+  "district": "동대문구",
+  "category": "전문매장",
+  "lat": 37.5682581489,
+  "lng": 127.0522448086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/3055898_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "답십리 고미술상가",
+    "desc": "",
+    "address": "서울특별시 동대문구 고미술로 39"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대도종합상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5597216902,
+  "lng": 126.9776907326,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3570439_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대도종합상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 9 (남창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대림중앙시장",
+  "district": "영등포구",
+  "category": "상설시장",
+  "lat": 37.4916032088,
+  "lng": 126.8997025371,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3581039_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대림중앙시장",
+    "desc": "",
+    "address": "서울특별시 영등포구 디지털로37나길 21 (대림동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대신시장",
+  "district": "영등포구",
+  "category": "상설시장",
+  "lat": 37.5111234834,
+  "lng": 126.9176003574,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3463525_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대신시장",
+    "desc": "",
+    "address": "서울특별시 영등포구 도신로60길 7 (신길동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "대학천 책방거리",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5707098195,
+  "lng": 127.0064961295,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/3571897_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대학천 책방거리",
+    "desc": "",
+    "address": "서울특별시 종로구 종로 258 (종로6가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "더현대 서울",
+  "district": "영등포구",
+  "category": "백화점",
+  "lat": 37.5271495732,
+  "lng": 126.9273156868,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2933437_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "더현대 서울",
+    "desc": "",
+    "address": "서울특별시 영등포구 여의대로 108 (여의도동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "덕분애",
+  "district": "서초구",
+  "category": "전문매장",
+  "lat": 37.4844366508,
+  "lng": 127.0144700672,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2799213_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕분애",
+    "desc": "",
+    "address": "서울특별시 서초구 효령로 276 (서초동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "도곡시장",
+  "district": "강남구",
+  "category": "상설시장",
+  "lat": 37.497452476,
+  "lng": 127.0518163002,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3571708_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도곡시장",
+    "desc": "",
+    "address": "서울특별시 강남구 역삼동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "도자기카페 줄",
+  "district": "마포구",
+  "category": "공예·공방",
+  "lat": 37.5573821924,
+  "lng": 126.9285063921,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2947643_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도자기카페 줄",
+    "desc": "",
+    "address": "서울특별시 마포구 동교동 179-38"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "독립문영천시장",
+  "district": "서대문구",
+  "category": "상설시장",
+  "lat": 37.5703868337,
+  "lng": 126.9618613174,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2789779_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독립문영천시장",
+    "desc": "",
+    "address": "서울특별시 서대문구 통일로 189-1 (영천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "독산동 우시장",
+  "district": "금천구",
+  "category": "상설시장",
+  "lat": 37.4668782419,
+  "lng": 126.8963118743,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3573148_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독산동 우시장",
+    "desc": "",
+    "address": "서울특별시 금천구 범안로 1209 (독산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동대문종합시장",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5709736927,
+  "lng": 127.0073349346,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3571855_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동대문종합시장",
+    "desc": "",
+    "address": "서울특별시 종로구 종로 266 (종로6가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동대문종합시장 액세서리상가",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5709736927,
+  "lng": 127.0073349346,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3571811_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동대문종합시장 액세서리상가",
+    "desc": "",
+    "address": "서울특별시 종로구 종로 266 (종로6가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동대문종합시장 한복상가",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5709736927,
+  "lng": 127.0073349346,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/1015219_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동대문종합시장 한복상가",
+    "desc": "",
+    "address": "서울특별시 종로구 종로 266 (종로6가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동묘벼룩시장",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5732541699,
+  "lng": 127.0177144794,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3571873_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동묘벼룩시장",
+    "desc": "",
+    "address": "서울특별시 종로구 숭인동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "동화상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5682434466,
+  "lng": 127.0069017178,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3570470_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동화상가",
+    "desc": "",
+    "address": "서울특별시 중구 장충단로13길 34 (을지로6가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "둔촌역전통시장",
+  "district": "강동구",
+  "category": "상설시장",
+  "lat": 37.5275365958,
+  "lng": 127.1351717503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3463700_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "둔촌역전통시장",
+    "desc": "",
+    "address": "서울특별시 강동구 풍성로58길 34 (성내동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "디타워 광화문",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5710481741,
+  "lng": 126.9789291877,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3573106_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "디타워 광화문",
+    "desc": "",
+    "address": "서울특별시 종로구 종로3길 17 (청진동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "랩포터리",
+  "district": "중구",
+  "category": "공예·공방",
+  "lat": 37.5627051837,
+  "lng": 127.0059019658,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "랩포터리",
+    "desc": "",
+    "address": "서울특별시 중구 퇴계로56길 26 (쌍림동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데몰 김포공항점",
+  "district": "강서구",
+  "category": "전문매장",
+  "lat": 37.5621960337,
+  "lng": 126.8015844987,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "롯데몰 김포공항점",
+    "desc": "",
+    "address": "서울특별시 강서구 하늘길 지하77 (방화동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데몰 은평점",
+  "district": "은평구",
+  "category": "전문매장",
+  "lat": 37.6375893423,
+  "lng": 126.9179162,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "롯데몰 은평점",
+    "desc": "",
+    "address": "서울특별시 은평구 통일로 1050 (진관동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 건대스타시티점",
+  "district": "광진구",
+  "category": "백화점",
+  "lat": 37.5390535504,
+  "lng": 127.0712300203,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3007052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 건대스타시티점",
+    "desc": "",
+    "address": "서울특별시 광진구 능동로 92 롯데백화점"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 김포공항점",
+  "district": "강서구",
+  "category": "백화점",
+  "lat": 19.69442748,
+  "lng": 117.9925662504,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2997804_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 김포공항점",
+    "desc": "",
+    "address": "서울특별시 강서구 하늘길 38 (방화동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 본점",
+  "district": "중구",
+  "category": "백화점",
+  "lat": 37.5647378465,
+  "lng": 126.9817152234,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2997124_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 본점",
+    "desc": "",
+    "address": "서울특별시 중구 남대문로 81"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 본점 에비뉴엘",
+  "district": "중구",
+  "category": "백화점",
+  "lat": 37.5647822864,
+  "lng": 126.9817485525,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3589509_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 본점 에비뉴엘",
+    "desc": "",
+    "address": "서울특별시 중구 남대문로 81 (소공동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데백화점 잠실점",
+  "district": "송파구",
+  "category": "사후면세점",
+  "lat": 37.5123821225,
+  "lng": 127.0976311526,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3009743_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데백화점 잠실점",
+    "desc": "",
+    "address": "서울특별시 송파구 올림픽로 240 롯데월드"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "롯데월드 쇼핑몰",
+  "district": "송파구",
+  "category": "전문매장",
+  "lat": 37.5141653654,
+  "lng": 127.1040749597,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/1920629_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "롯데월드 쇼핑몰",
+    "desc": "",
+    "address": "서울특별시 송파구 올림픽로 300 (신천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마리오아울렛",
+  "district": "금천구",
+  "category": "전문매장",
+  "lat": 37.4787739084,
+  "lng": 126.8865152102,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3538871_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마리오아울렛",
+    "desc": "",
+    "address": "서울특별시 금천구 디지털로9길 23 (가산동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마장 축산물시장",
+  "district": "성동구",
+  "category": "상설시장",
+  "lat": 37.5703743501,
+  "lng": 127.040020862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3463038_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마장 축산물시장",
+    "desc": "",
+    "address": "서울특별시 성동구 마장로33길 53 (마장동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "마천시장",
+  "district": "송파구",
+  "category": "상설시장",
+  "lat": 37.4980180786,
+  "lng": 127.1505795216,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3567921_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마천시장",
+    "desc": "",
+    "address": "서울특별시 송파구 마천로45길 23 (마천동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "만리시장",
+  "district": "용산구",
+  "category": "상설시장",
+  "lat": 37.5516390373,
+  "lng": 126.9632283903,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3564974_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "만리시장",
+    "desc": "",
+    "address": "서울특별시 용산구 효창원로 276"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "망원월드컵시장",
+  "district": "마포구",
+  "category": "상설시장",
+  "lat": 37.5576900854,
+  "lng": 126.9059167761,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2906867_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "망원월드컵시장",
+    "desc": "",
+    "address": "서울특별시 마포구 망원동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "메종쥬 성수 부티끄",
+  "district": "성동구",
+  "category": "전문매장",
+  "lat": 37.5467688264,
+  "lng": 127.0437545254,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2996467_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "메종쥬 성수 부티끄",
+    "desc": "",
+    "address": "서울특별시 성동구 서울숲4길 28-14"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "면목시장",
+  "district": "중랑구",
+  "category": "상설시장",
+  "lat": 37.5789352941,
+  "lng": 127.0859581012,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3539768_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "면목시장",
+    "desc": "",
+    "address": "서울특별시 중랑구 면목로37길 5 (면목동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "모자이크",
+  "district": "중구",
+  "category": "쇼핑",
+  "lat": 37.5630385781,
+  "lng": 127.011448673,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "모자이크",
+    "desc": "",
+    "address": "서울특별시 중구 다산로31길 64 (신당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "문정동 로데오거리",
+  "district": "송파구",
+  "category": "쇼핑",
+  "lat": 37.4891519596,
+  "lng": 127.1239099771,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3571793_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문정동 로데오거리",
+    "desc": "",
+    "address": "서울특별시 송파구 동남로4길 10 (문정동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "밀리오레 동대문점",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5679629533,
+  "lng": 127.0085265783,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3065149_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "밀리오레 동대문점",
+    "desc": "",
+    "address": "서울특별시 중구 장충단로 263"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "밀리오레 명동점",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5611022086,
+  "lng": 126.984540069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3468830_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "밀리오레 명동점",
+    "desc": "",
+    "address": "서울특별시 중구 퇴계로 115 (충무로1가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "방산 종합시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5687766093,
+  "lng": 127.0008217013,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2667479_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방산 종합시장",
+    "desc": "",
+    "address": "서울특별시 중구 동호로37길 20 (주교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "방신전통시장",
+  "district": "강서구",
+  "category": "상설시장",
+  "lat": 37.5714757018,
+  "lng": 126.8123638102,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3566887_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방신전통시장",
+    "desc": "",
+    "address": "서울특별시 강서구 방화동로16길 31 (방화동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "부르뎅 아동복 (Burdeng)",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5599161253,
+  "lng": 126.9784156601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/1015026_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부르뎅 아동복 (Burdeng)",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장8길 14"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "뷰티플레이",
+  "district": "중구",
+  "category": "쇼핑",
+  "lat": 37.5643240879,
+  "lng": 126.9863231484,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3564025_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뷰티플레이",
+    "desc": "",
+    "address": "서울특별시 중구 명동길 73 (명동1가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "사당시장",
+  "district": "동작구",
+  "category": "상설시장",
+  "lat": 37.4831388673,
+  "lng": 126.9747681614,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사당시장",
+    "desc": "",
+    "address": "서울특별시 동작구 사당로 244 (사당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "삼익패션타운",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5601966561,
+  "lng": 126.9788489464,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3064057_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼익패션타운",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장8길 7 (남창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "상계중앙시장",
+  "district": "노원구",
+  "category": "상설시장",
+  "lat": 37.6597006221,
+  "lng": 127.0702933369,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3566893_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상계중앙시장",
+    "desc": "",
+    "address": "서울특별시 노원구 상계로23나길 33 (상계동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울 중부시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5651409407,
+  "lng": 127.0019383691,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/1984446_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울 중부시장",
+    "desc": "",
+    "address": "서울특별시 중구 을지로36길 35"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울 중앙시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5667827371,
+  "lng": 127.0197783639,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3414144_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울 중앙시장",
+    "desc": "",
+    "address": "서울특별시 중구 퇴계로85길 36"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울 평화시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5694211079,
+  "lng": 127.0080126943,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3077619_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서울 평화시장",
+    "desc": "",
+    "address": "서울특별시 중구 청계천로 274"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울고속버스터미널 꽃도매상가",
+  "district": "서초구",
+  "category": "전문매장",
+  "lat": 37.5062061855,
+  "lng": 127.0055841495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3527824_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울고속버스터미널 꽃도매상가",
+    "desc": "",
+    "address": "서울특별시 서초구 신반포로 194 (반포동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울고속버스터미널 의류도매상가",
+  "district": "서초구",
+  "category": "전문매장",
+  "lat": 37.5062061855,
+  "lng": 127.0055841495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3527841_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울고속버스터미널 의류도매상가",
+    "desc": "",
+    "address": "서울특별시 서초구 신반포로 194 (반포동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울청과",
+  "district": "송파구",
+  "category": "전문매장",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3568008_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울청과",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "서울풍물시장",
+  "district": "동대문구",
+  "category": "상설시장",
+  "lat": 37.5727654781,
+  "lng": 127.0255193372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3107663_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울풍물시장",
+    "desc": "",
+    "address": "서울특별시 동대문구 천호대로4길 21 (신설동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "세브도르",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.478954545,
+  "lng": 127.0474283341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/1926445_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세브도르",
+    "desc": "",
+    "address": "서울특별시 강남구 언주로 431"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "세운전자상가",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5693347773,
+  "lng": 126.9952555258,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3571821_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "세운전자상가",
+    "desc": "",
+    "address": "서울특별시 종로구 청계천로 159 (장사동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "센트럴시티",
+  "district": "서초구",
+  "category": "쇼핑",
+  "lat": 37.5056062193,
+  "lng": 127.0035815712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3463399_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "센트럴시티",
+    "desc": "",
+    "address": "서울특별시 서초구 신반포로 176 (반포동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "손놀림공방",
+  "district": "종로구",
+  "category": "공예·공방",
+  "lat": 37.5779590034,
+  "lng": 127.0079541244,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2947481_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "손놀림공방",
+    "desc": "",
+    "address": "서울특별시 종로구 낙산성곽서1길 19-1 (이화동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "송화벽화시장",
+  "district": "강서구",
+  "category": "상설시장",
+  "lat": 37.5494536785,
+  "lng": 126.8357150763,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2779746_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송화벽화시장",
+    "desc": "",
+    "address": "서울특별시 강서구 내발산동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "수유시장",
+  "district": "강북구",
+  "category": "상설시장",
+  "lat": 37.6307392541,
+  "lng": 127.0232678952,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2779640_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "수유시장",
+    "desc": "",
+    "address": "서울특별시 강북구 도봉로67길 18 (수유동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "수유중앙시장",
+  "district": "강북구",
+  "category": "상설시장",
+  "lat": 37.6406214014,
+  "lng": 127.0212566863,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2779667_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "수유중앙시장",
+    "desc": "",
+    "address": "서울특별시 강북구 노해로17길 21 (수유동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "숭례문(남대문) 수입상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5592411902,
+  "lng": 126.9776685255,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3083029_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "숭례문(남대문) 수입상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 21 (남창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "숭인시장",
+  "district": "강북구",
+  "category": "상설시장",
+  "lat": 37.6131469738,
+  "lng": 127.0298594613,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2779686_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "숭인시장",
+    "desc": "",
+    "address": "서울특별시 강북구 도봉로 45 (미아동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "스타필드 코엑스몰",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.5119175967,
+  "lng": 127.059217995,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3081355_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스타필드 코엑스몰",
+    "desc": "",
+    "address": "서울특별시 강남구 영동대로 513 (삼성동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "슬로우파마씨",
+  "district": "성동구",
+  "category": "쇼핑",
+  "lat": 37.545666523,
+  "lng": 127.0630222462,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3052766_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "슬로우파마씨",
+    "desc": "",
+    "address": "서울특별시 성동구 아차산로11가길 26 (성수동2가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "승진완구",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5713959893,
+  "lng": 127.014203741,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3583807_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "승진완구",
+    "desc": "",
+    "address": "서울특별시 종로구 종로52길 30 (창신동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신곡종합시장",
+  "district": "양천구",
+  "category": "상설시장",
+  "lat": 37.5184213081,
+  "lng": 126.8432097098,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3568157_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신곡종합시장",
+    "desc": "",
+    "address": "서울특별시 양천구 남부순환로79길 37 (신월동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신사상가",
+  "district": "강남구",
+  "category": "상설시장",
+  "lat": 37.5323396711,
+  "lng": 127.0284174418,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신사상가",
+    "desc": "",
+    "address": "서울특별시 강남구 압구정로29길 72-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신성종합시장",
+  "district": "광진구",
+  "category": "상설시장",
+  "lat": 37.5581349705,
+  "lng": 127.0880668343,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3467172_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신성종합시장",
+    "desc": "",
+    "address": "서울특별시 광진구 용마산로 50 (중곡동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신세계백화점 본점",
+  "district": "중구",
+  "category": "백화점",
+  "lat": 37.5609966018,
+  "lng": 126.9810181709,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3589499_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신세계백화점 본점",
+    "desc": "",
+    "address": "서울특별시 중구 소공로 63 (충무로1가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신영시장(서울)",
+  "district": "양천구",
+  "category": "상설시장",
+  "lat": 37.5330667003,
+  "lng": 126.8360377297,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3568145_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신영시장(서울)",
+    "desc": "",
+    "address": "서울특별시 양천구 월정로 161-5 (신월동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신창시장",
+  "district": "도봉구",
+  "category": "상설시장",
+  "lat": 37.6394884919,
+  "lng": 127.0374719063,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2779701_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신창시장",
+    "desc": "",
+    "address": "서울특별시 도봉구 덕릉로57길 17 (창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "신평화패션타운",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5694989313,
+  "lng": 127.0110679692,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3569022_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신평화패션타운",
+    "desc": "",
+    "address": "서울특별시 중구 청계천로 298 (신당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "아이파크몰 고척점",
+  "district": "구로구",
+  "category": "전문매장",
+  "lat": 37.4982767377,
+  "lng": 126.8606503517,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3432251_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아이파크몰 고척점",
+    "desc": "",
+    "address": "서울특별시 구로구 경인로43길 49 (고척동, 고척아이파크)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "아현시장",
+  "district": "마포구",
+  "category": "상설시장",
+  "lat": 37.5567994008,
+  "lng": 126.9549928834,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2779719_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아현시장",
+    "desc": "",
+    "address": "서울특별시 마포구 굴레방로9길 11-1 (아현동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "암사종합시장",
+  "district": "강동구",
+  "category": "상설시장",
+  "lat": 37.5509115448,
+  "lng": 127.1288355503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2787768_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "암사종합시장",
+    "desc": "",
+    "address": "서울특별시 강동구 상암로11길 25 (암사동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "양재꽃시장",
+  "district": "서초구",
+  "category": "상설시장",
+  "lat": 37.467391878,
+  "lng": 127.0407514903,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2796289_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양재꽃시장",
+    "desc": "",
+    "address": "서울특별시 서초구 강남대로 27 (양재동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "연서시장",
+  "district": "은평구",
+  "category": "상설시장",
+  "lat": 37.6192137643,
+  "lng": 126.9213914038,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2780506_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "연서시장",
+    "desc": "",
+    "address": "서울특별시 은평구 통일로 850 (불광동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영등포전통시장",
+  "district": "영등포구",
+  "category": "상설시장",
+  "lat": 37.5198528553,
+  "lng": 126.908114865,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2779882_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "영등포전통시장",
+    "desc": "",
+    "address": "서울특별시 영등포구 영등포동2가"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영등포청과시장",
+  "district": "영등포구",
+  "category": "상설시장",
+  "lat": 37.5218580438,
+  "lng": 126.900601604,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2779892_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "영등포청과시장",
+    "desc": "",
+    "address": "서울특별시 영등포구 영신로41길 5-1 (당산동1가, 에이원하우징)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영일시장",
+  "district": "영등포구",
+  "category": "상설시장",
+  "lat": 37.5162531419,
+  "lng": 126.9007600806,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3463442_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영일시장",
+    "desc": "",
+    "address": "서울특별시 영등포구 문래로30길 27"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "영풍문고 종각종로본점",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5697233868,
+  "lng": 126.9821983715,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3571814_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영풍문고 종각종로본점",
+    "desc": "",
+    "address": "서울특별시 종로구 청계천로 41 (서린동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "오류시장",
+  "district": "구로구",
+  "category": "상설시장",
+  "lat": 37.4966071783,
+  "lng": 126.8433408649,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3558683_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오류시장",
+    "desc": "",
+    "address": "서울특별시 구로구 경인로19가길 14-1 (오류동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "용산전자랜드",
+  "district": "용산구",
+  "category": "전문매장",
+  "lat": 37.5327661657,
+  "lng": 126.9596403612,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3589437_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용산전자랜드",
+    "desc": "",
+    "address": "서울특별시 용산구 청파로 74 (한강로3가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "우석공예사",
+  "district": "종로구",
+  "category": "공예·공방",
+  "lat": 37.56972927,
+  "lng": 127.0004883714,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/1984414_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우석공예사",
+    "desc": "",
+    "address": "서울특별시 종로구 청계천로 205 (예지동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "우이시장",
+  "district": "강북구",
+  "category": "상설시장",
+  "lat": 37.6460929656,
+  "lng": 127.0200427521,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2779704_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "우이시장",
+    "desc": "",
+    "address": "서울특별시 강북구 노해로23길 68"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "을지로 철제가구거리",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5654602842,
+  "lng": 126.9984164588,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3077634_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "을지로 철제가구거리",
+    "desc": "",
+    "address": "서울특별시 중구 창경궁로 34-1 (예관동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "이새",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5734702409,
+  "lng": 126.985950701,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3440572_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이새",
+    "desc": "",
+    "address": "서울특별시 종로구 인사동길 30-1 (관훈동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "이태원시장",
+  "district": "용산구",
+  "category": "상설시장",
+  "lat": 37.5338832483,
+  "lng": 126.9900792234,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3568563_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이태원시장",
+    "desc": "",
+    "address": "서울특별시 용산구 이태원로14길 6 (이태원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인사동 문화의 거리",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5739535014,
+  "lng": 126.9850146618,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3571886_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인사동 문화의 거리",
+    "desc": "",
+    "address": "서울특별시 종로구 인사동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "인현시장",
+  "district": "중구",
+  "category": "상설시장",
+  "lat": 37.5640409493,
+  "lng": 126.9953417794,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3568387_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인현시장",
+    "desc": "",
+    "address": "서울특별시 중구 인현동2가 192-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "장안 악세사리상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5583023944,
+  "lng": 126.9767630795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/1015043_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장안 악세사리상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 42-2 (남창동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "정릉아리랑시장",
+  "district": "성북구",
+  "category": "상설시장",
+  "lat": 37.6027034367,
+  "lng": 127.0128390879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3463551_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정릉아리랑시장",
+    "desc": "",
+    "address": "서울특별시 성북구 아리랑로19길 10 (정릉동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "종로귀금속거리",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5715539165,
+  "lng": 126.9926140374,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3571858_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "종로귀금속거리",
+    "desc": "",
+    "address": "서울특별시 종로구 봉익동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "종로꽃시장",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5724012861,
+  "lng": 127.0063072098,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2784560_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "종로꽃시장",
+    "desc": "",
+    "address": "서울특별시 종로구 종로41길 25 (종로6가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "종이잡지클럽",
+  "district": "마포구",
+  "category": "쇼핑",
+  "lat": 37.5494134455,
+  "lng": 126.9157661119,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "종이잡지클럽",
+    "desc": "",
+    "address": "서울특별시 마포구 양화로8길 32-15"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중곡동 가구거리",
+  "district": "광진구",
+  "category": "전문매장",
+  "lat": 37.5566516806,
+  "lng": 127.0809147499,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3478411_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중곡동 가구거리",
+    "desc": "",
+    "address": "서울특별시 광진구 능동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중곡제일골목시장",
+  "district": "광진구",
+  "category": "상설시장",
+  "lat": 37.5636397621,
+  "lng": 127.0811367531,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2779666_image2_1.png",
+  "i18n": {
+   "ko": {
+    "name": "중곡제일골목시장",
+    "desc": "",
+    "address": "서울특별시 광진구 능동로47길 30 (중곡동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "중앙청과",
+  "district": "송파구",
+  "category": "전문매장",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2790967_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중앙청과",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "채그로",
+  "district": "마포구",
+  "category": "전문매장",
+  "lat": 37.5357044387,
+  "lng": 126.9442833439,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2741490_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "채그로",
+    "desc": "",
+    "address": "서울특별시 마포구 마포대로4다길 31 (마포동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청계 조명기구상가",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5671405907,
+  "lng": 126.9954361275,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3064041_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청계 조명기구상가",
+    "desc": "",
+    "address": "서울특별시 종로구 청계천로 155"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청량리청과물시장",
+  "district": "동대문구",
+  "category": "상설시장",
+  "lat": 37.579712197,
+  "lng": 127.0424148233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3474682_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청량리청과물시장",
+    "desc": "",
+    "address": "서울특별시 동대문구 왕산로33길 4 (제기동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청오가방도매상가",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5701348234,
+  "lng": 127.0029909094,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3109826_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청오가방도매상가",
+    "desc": "",
+    "address": "서울특별시 종로구 청계천로 229"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청자 수입상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5588356763,
+  "lng": 126.9773491223,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/1015053_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청자 수입상가",
+    "desc": "",
+    "address": "서울특별시 중구 남대문시장4길 29"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "청평화패션몰",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5695212208,
+  "lng": 127.0149565033,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3568408_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청평화패션몰",
+    "desc": "",
+    "address": "서울특별시 중구 청계천로 334 (신당동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "충신시장",
+  "district": "종로구",
+  "category": "상설시장",
+  "lat": 37.5750537379,
+  "lng": 127.0053155583,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3571866_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "충신시장",
+    "desc": "",
+    "address": "서울특별시 종로구 충신동"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "코오롱스포츠 솟솟618점",
+  "district": "서초구",
+  "category": "전문매장",
+  "lat": 37.4439226495,
+  "lng": 127.0557785643,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "코오롱스포츠 솟솟618점",
+    "desc": "",
+    "address": "서울특별시 서초구 원터2길 9"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "타임스퀘어",
+  "district": "영등포구",
+  "category": "전문매장",
+  "lat": 37.5178335971,
+  "lng": 126.905381837,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/3361454_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "타임스퀘어",
+    "desc": "",
+    "address": "서울특별시 영등포구 영중로 15 (영등포동4가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "태릉시장",
+  "district": "중랑구",
+  "category": "상설시장",
+  "lat": 37.5992605586,
+  "lng": 127.0775638424,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3463411_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태릉시장",
+    "desc": "",
+    "address": "서울특별시 중랑구 동일로129길 35"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "토인",
+  "district": "종로구",
+  "category": "전문매장",
+  "lat": 37.5744589884,
+  "lng": 126.9844702526,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2947786_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토인",
+    "desc": "",
+    "address": "서울특별시 종로구 인사동길 48 (관훈동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "퇴계로 오토바이상가",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 36.9844568739,
+  "lng": 126.9273224518,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3077647_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "퇴계로 오토바이상가",
+    "desc": "",
+    "address": "서울특별시 중구 충무로4가"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "파르나스몰",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.5095984514,
+  "lng": 127.0608845757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3463659_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파르나스몰",
+    "desc": "",
+    "address": "서울특별시 강남구 테헤란로 521"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "페이퍼돌메이트 아틀리에 서울숲점",
+  "district": "성동구",
+  "category": "전문매장",
+  "lat": 37.5464327563,
+  "lng": 127.0438461937,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "페이퍼돌메이트 아틀리에 서울숲점",
+    "desc": "",
+    "address": "서울특별시 성동구 서울숲2길 45-1 (성수동1가)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "포방터시장",
+  "district": "서대문구",
+  "category": "상설시장",
+  "lat": 37.5988249768,
+  "lng": 126.9497310627,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2779730_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "포방터시장",
+    "desc": "",
+    "address": "서울특별시 서대문구 포방터2길 11 (홍은동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "풍납도깨비시장",
+  "district": "송파구",
+  "category": "상설시장",
+  "lat": 37.5375518286,
+  "lng": 127.1201506098,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3568024_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍납도깨비시장",
+    "desc": "",
+    "address": "서울특별시 송파구 바람드리길 37-1 (풍납동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "프레젠트모먼트",
+  "district": "마포구",
+  "category": "전문매장",
+  "lat": 37.5531767536,
+  "lng": 126.907727849,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2785791_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "프레젠트모먼트",
+    "desc": "",
+    "address": "서울특별시 마포구 동교로 49-1"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "하모니마트 명동역점",
+  "district": "중구",
+  "category": "특산물판매점",
+  "lat": 37.5613522015,
+  "lng": 126.9857705052,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3041080_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "하모니마트 명동역점",
+    "desc": "",
+    "address": "서울특별시 중구 명동10길 58"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한국청과",
+  "district": "송파구",
+  "category": "전문매장",
+  "lat": 37.4960786971,
+  "lng": 127.1107693087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2791392_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한국청과",
+    "desc": "",
+    "address": "서울특별시 송파구 양재대로 932 (가락동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "한순례한복침구",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.5265819931,
+  "lng": 127.0276621188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3579249_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한순례한복침구",
+    "desc": "",
+    "address": "서울특별시 강남구 압구정로 164 (신사동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "해밀톤 쇼핑센터",
+  "district": "용산구",
+  "category": "전문매장",
+  "lat": 37.5346860011,
+  "lng": 126.9938927421,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3467130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해밀톤 쇼핑센터",
+    "desc": "",
+    "address": "서울특별시 용산구 이태원로 179 (이태원동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "헬로우 에이피엠 (Hello apm)",
+  "district": "중구",
+  "category": "전문매장",
+  "lat": 37.5674741142,
+  "lng": 127.0081710683,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3462914_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "헬로우 에이피엠 (Hello apm)",
+    "desc": "",
+    "address": "서울특별시 중구 장충단로 253"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "현대카드 바이닐앤플라스틱",
+  "district": "용산구",
+  "category": "전문매장",
+  "lat": 37.5368803162,
+  "lng": 127.0008837102,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "현대카드 바이닐앤플라스틱",
+    "desc": "",
+    "address": "서울특별시 용산구 이태원로 248"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "화곡본동시장",
+  "district": "강서구",
+  "category": "상설시장",
+  "lat": 37.5429379198,
+  "lng": 126.8441422693,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3566882_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화곡본동시장",
+    "desc": "",
+    "address": "서울특별시 강서구 까치산로 35 (화곡동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "후암시장",
+  "district": "용산구",
+  "category": "상설시장",
+  "lat": 37.5505143975,
+  "lng": 126.9760189231,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3520069_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "후암시장",
+    "desc": "",
+    "address": "서울특별시 용산구 후암로35길 24 (후암동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "10꼬르소꼬모 청담점",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.5269822119,
+  "lng": 127.0424190965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2947692_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "10꼬르소꼬모 청담점",
+    "desc": "",
+    "address": "서울특별시 강남구 압구정로 416 (청담동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "AK PLAZA 홍대",
+  "district": "마포구",
+  "category": "전문매장",
+  "lat": 37.557798775,
+  "lng": 126.9265121176,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3573277_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "AK PLAZA 홍대",
+    "desc": "",
+    "address": "서울특별시 마포구 양화로 188 (동교동)"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "KCDF 갤러리숍 공예정원",
+  "district": "종로구",
+  "category": "공예·공방",
+  "lat": 37.5740618063,
+  "lng": 126.9841425159,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "KCDF 갤러리숍 공예정원",
+    "desc": "",
+    "address": "서울특별시 종로구 인사동11길 8 공예종합유통지원센터"
+   }
+  }
+ },
+ {
+  "section": "shopping",
+  "name_ko": "T1 HQ SHOP",
+  "district": "강남구",
+  "category": "전문매장",
+  "lat": 37.512511677,
+  "lng": 127.0428028051,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2946987_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "T1 HQ SHOP",
+    "desc": "",
+    "address": "서울특별시 강남구 선릉로 627 (논현동)"
+   }
+  }
+ }
+]

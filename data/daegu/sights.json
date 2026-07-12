@@ -1,0 +1,4422 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "가창 찐빵 골목",
+  "district": "달성군",
+  "category": "이색거리",
+  "lat": 35.8027169806,
+  "lng": 128.6221983001,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3576084_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가창 찐빵 골목",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창로 1099"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "감삼못공원",
+  "district": "서구",
+  "category": "공원",
+  "lat": 35.8586871363,
+  "lng": 128.5522195747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3576044_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "감삼못공원",
+    "desc": "",
+    "address": "대구광역시 서구 서대구로3길 43 (내당동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강정고령보",
+  "district": "달성군",
+  "category": "공원",
+  "lat": 35.8411597415,
+  "lng": 128.4650416326,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3347856_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강정고령보",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 강정본길 57"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "경극고택",
+  "district": "동구",
+  "category": "고택",
+  "lat": 35.9074757619,
+  "lng": 128.6866758144,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2707032_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경극고택",
+    "desc": "",
+    "address": "대구광역시 동구 옻골로 195-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "경상감영공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 35.8720530283,
+  "lng": 128.5923073375,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3310544_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경상감영공원",
+    "desc": "",
+    "address": "대구광역시 중구 경상감영길 99"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고산골 메타쉐콰이어길",
+  "district": "남구",
+  "category": "수목원",
+  "lat": 35.8300524321,
+  "lng": 128.6034408589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3338336_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고산골 메타쉐콰이어길",
+    "desc": "",
+    "address": "대구광역시 남구 용두2길 43"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고산서당",
+  "district": "수성구",
+  "category": "유적지",
+  "lat": 35.8526436717,
+  "lng": 128.7186911959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3349582_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고산서당",
+    "desc": "",
+    "address": "대구광역시 수성구 성동로37길 39-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "공룡공원",
+  "district": "남구",
+  "category": "테마공원",
+  "lat": 35.8300524321,
+  "lng": 128.6034408589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3348450_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "공룡공원",
+    "desc": "",
+    "address": "대구광역시 남구 용두2길 43"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "관암사(대구)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.9776742307,
+  "lng": 128.7332252988,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3586468_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "관암사(대구)",
+    "desc": "",
+    "address": "대구광역시 동구 갓바위로 350 (능성동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "관음사(대구)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.9189546191,
+  "lng": 128.665152389,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3348084_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "관음사(대구)",
+    "desc": "",
+    "address": "대구광역시 동구 둔산로 535"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "광덕사(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.7978145763,
+  "lng": 128.6123965208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3537229_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "광덕사(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 헐티로 1190"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "교남YMCA 회관",
+  "district": "중구",
+  "category": "종교성지",
+  "lat": 35.8680812005,
+  "lng": 128.5893132677,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3585455_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "교남YMCA 회관",
+    "desc": "",
+    "address": "대구광역시 중구 남성로 22"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구암팜스테이마을",
+  "district": "동구",
+  "category": "농어촌체험",
+  "lat": 35.9527537859,
+  "lng": 128.6769031848,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3564895_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구암팜스테이마을",
+    "desc": "",
+    "address": "대구광역시 동구 구암길 38"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국우동 탱자나무",
+  "district": "북구",
+  "category": "관광자원",
+  "lat": 35.9531297374,
+  "lng": 128.5804811194,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3348735_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국우동 탱자나무",
+    "desc": "",
+    "address": "대구광역시 북구 도남길 45-7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위 남천고택",
+  "district": "군위군",
+  "category": "고택",
+  "lat": 36.0586385795,
+  "lng": 128.6539855641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3567365_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "군위 남천고택",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 한밤5길 19"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위 아미타여래삼존 석굴",
+  "district": "군위군",
+  "category": "사찰",
+  "lat": 36.0479173151,
+  "lng": 128.6400704267,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3529905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위 아미타여래삼존 석굴",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 남산4길 24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위 인각사지",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.1280941271,
+  "lng": 128.7783948409,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3029873_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위 인각사지",
+    "desc": "",
+    "address": "대구광역시 군위군 고로면 삼국유사로 250"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위 장곡자연휴양림",
+  "district": "군위군",
+  "category": "자연휴양림",
+  "lat": 36.1298034567,
+  "lng": 128.8419725161,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3029763_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위 장곡자연휴양림",
+    "desc": "",
+    "address": "대구광역시 군위군 고로면 장곡휴양림길 195"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위 화산산성 전망대",
+  "district": "군위군",
+  "category": "유명건물",
+  "lat": 36.0985448169,
+  "lng": 128.7845256945,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3496779_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위 화산산성 전망대",
+    "desc": "",
+    "address": "대구광역시 군위군 삼국유사면 화북리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위향교",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.2342364933,
+  "lng": 128.5686353725,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3349126_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "군위향교",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 동서2길 17-28"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "금용사(대구)",
+  "district": "달서구",
+  "category": "사찰",
+  "lat": 35.847724642,
+  "lng": 128.5605830316,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3041095_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금용사(대구)",
+    "desc": "",
+    "address": "대구광역시 달서구 공원순환로 213"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김수환 추기경 사랑과 나눔공원",
+  "district": "군위군",
+  "category": "종교성지",
+  "lat": 36.232584486,
+  "lng": 128.5999854222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3571492_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "김수환 추기경 사랑과 나눔공원",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 군위금성로 270"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "나불지 생태공원",
+  "district": "동구",
+  "category": "자연생태관광지",
+  "lat": 35.8799433837,
+  "lng": 128.7199264348,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3573281_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나불지 생태공원",
+    "desc": "",
+    "address": "대구광역시 동구 각산동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "낙동서원",
+  "district": "달서구",
+  "category": "유적지",
+  "lat": 35.8200052792,
+  "lng": 128.5454684646,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3361241_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낙동서원",
+    "desc": "",
+    "address": "대구광역시 달서구 송현로7길 32"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "낙빈서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.9079762085,
+  "lng": 128.4124555331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3526477_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낙빈서원",
+    "desc": "",
+    "address": "대구광역시 달성군 하빈면 묘동4길 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남계서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.2537618464,
+  "lng": 128.5576941217,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3377646_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남계서원",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 대북길 9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남곡서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.170081723,
+  "lng": 128.6668423916,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3338377_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남곡서원",
+    "desc": "",
+    "address": "대구광역시 군위군 우보면 미성3길 66-7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남산동 가톨릭타운",
+  "district": "중구",
+  "category": "농어촌체험",
+  "lat": 35.8618040741,
+  "lng": 128.5861109465,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3569574_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남산동 가톨릭타운",
+    "desc": "",
+    "address": "대구광역시 중구 남산로4길 112 (남산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "남평문씨본리세거지",
+  "district": "달성군",
+  "category": "농어촌체험",
+  "lat": 35.7922579204,
+  "lng": 128.5183355112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3572062_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "남평문씨본리세거지",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 인흥3길 16"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "노태우 대통령 생가",
+  "district": "동구",
+  "category": "생가",
+  "lat": 35.9824054582,
+  "lng": 128.6486381782,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3570077_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "노태우 대통령 생가",
+    "desc": "",
+    "address": "대구광역시 동구 용진길 172"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "녹동서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7231430831,
+  "lng": 128.6461261798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3365230_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "녹동서원",
+    "desc": "",
+    "address": "대구광역시 달성군 우록길 218 녹동서원"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "단산 저수지",
+  "district": "동구",
+  "category": "강",
+  "lat": 35.9220012197,
+  "lng": 128.6502036208,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3376037_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단산 저수지",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로50길 66"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달서목재문화관",
+  "district": "달서구",
+  "category": "이색체험",
+  "lat": 35.8232828993,
+  "lng": 128.5570645747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3455761_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달서목재문화관",
+    "desc": "",
+    "address": "대구광역시 달서구 앞산순환로 248 (송현동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성 태고정",
+  "district": "달성군",
+  "category": "고택",
+  "lat": 35.911350902,
+  "lng": 128.4166106288,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3537326_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성 태고정",
+    "desc": "",
+    "address": "대구광역시 달성군 하빈면 육신사길 64"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성 하목정",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.8818316802,
+  "lng": 128.3977575538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3537302_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성 하목정",
+    "desc": "",
+    "address": "대구광역시 달성군 하빈면 하목정길 56-10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성 현풍 석빙고",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.6975424097,
+  "lng": 128.4516245482,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3528951_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성 현풍 석빙고",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍읍 상리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성(현풍)사직단",
+  "district": "달성군",
+  "category": "종교성지",
+  "lat": 35.6979145842,
+  "lng": 128.4513134543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3377502_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성(현풍)사직단",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍면 상리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성공원",
+  "district": "중구",
+  "category": "공원",
+  "lat": 35.8735109601,
+  "lng": 128.5794806492,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/3565160_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성공원",
+    "desc": "",
+    "address": "대구광역시 중구 달성공원로 35 (달성동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달창저수지",
+  "district": "달성군",
+  "category": "강",
+  "lat": 35.6375830812,
+  "lng": 128.4825179191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3570050_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "달창저수지",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 본말리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 고모령비",
+  "district": "수성구",
+  "category": "기념탑·기념비",
+  "lat": 35.874467837,
+  "lng": 128.6569349112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3520911_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 고모령비",
+    "desc": "",
+    "address": "대구광역시 수성구 팔현길 241 (만촌동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 구 동촌역사",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 35.8901603738,
+  "lng": 128.6498350987,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3077500_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 구 동촌역사",
+    "desc": "",
+    "address": "대구광역시 동구 동촌역사로3길 35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 근대골목(근대로의 여행)",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 35.8677811868,
+  "lng": 128.5867579454,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3079118_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "대구 근대골목(근대로의 여행)",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로102길 66"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 녹색에너지체험관",
+  "district": "달서구",
+  "category": "기타 산업관광지",
+  "lat": 35.8346442369,
+  "lng": 128.4881981053,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3567376_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 녹색에너지체험관",
+    "desc": "",
+    "address": "대구광역시 달서구 성서공단로 52 (대천동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 달성습지",
+  "district": "달성군",
+  "category": "자연생태관광지",
+  "lat": 35.8233620931,
+  "lng": 128.483404395,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3564704_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 달성습지",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 구라리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 도동 측백나무 숲",
+  "district": "동구",
+  "category": "수목원",
+  "lat": 35.9182241168,
+  "lng": 128.6635775484,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3521282_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 도동 측백나무 숲",
+    "desc": "",
+    "address": "대구광역시 동구 도평로"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 동성로거리",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 35.8702143803,
+  "lng": 128.5940850103,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3349377_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 동성로거리",
+    "desc": "",
+    "address": "대구광역시 중구 동성로2길 27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 불로동 고분군",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 35.9145547565,
+  "lng": 128.6456570076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3421437_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 불로동 고분군",
+    "desc": "",
+    "address": "대구광역시 동구 불로동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 신천물놀이장",
+  "district": "남구",
+  "category": "이색체험",
+  "lat": 35.8542719889,
+  "lng": 128.6075537114,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3544675_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 신천물놀이장",
+    "desc": "",
+    "address": "대구광역시 남구 신천서쪽자전거길 237 (이천동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 오토바이골목",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 35.8722695138,
+  "lng": 128.5838136357,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3336151_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 오토바이골목",
+    "desc": "",
+    "address": "대구광역시 중구 인교동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 진골목",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 35.8689783843,
+  "lng": 128.5927462738,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3569516_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 진골목",
+    "desc": "",
+    "address": "대구광역시 중구 진골목길 31 (남일동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 팔거산성",
+  "district": "북구",
+  "category": "성",
+  "lat": 35.924943829,
+  "lng": 128.5689245921,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대구 팔거산성",
+    "desc": "",
+    "address": "대구광역시 북구 노곡동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 하중도 (금호꽃섬)",
+  "district": "북구",
+  "category": "섬",
+  "lat": 35.90079362,
+  "lng": 128.5598788398,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3586525_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구 하중도 (금호꽃섬)",
+    "desc": "",
+    "address": "대구광역시 북구 노곡동 665"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구경북디자인진흥원",
+  "district": "동구",
+  "category": "기타 산업관광지",
+  "lat": 35.8714286996,
+  "lng": 128.6248600431,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3348336_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구경북디자인진흥원",
+    "desc": "",
+    "address": "대구광역시 동구 동대구로 461"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구두류공원",
+  "district": "달서구",
+  "category": "공원",
+  "lat": 35.8500466594,
+  "lng": 128.5637271345,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3573529_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구두류공원",
+    "desc": "",
+    "address": "대구광역시 달서구 두류공원로 161 (성당동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구부수성비",
+  "district": "수성구",
+  "category": "기념탑·기념비",
+  "lat": 35.8753566453,
+  "lng": 128.6580042373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3349232_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구부수성비",
+    "desc": "",
+    "address": "대구광역시 수성구 팔현길 248"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구섬유박물관",
+  "district": "동구",
+  "category": "기타 산업관광지",
+  "lat": 35.9191430272,
+  "lng": 128.6403212387,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3407274_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구섬유박물관",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로 227 (봉무동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구시민안전테마파크",
+  "district": "동구",
+  "category": "테마공원",
+  "lat": 35.9892388205,
+  "lng": 128.6919647216,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3541636_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구시민안전테마파크",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 1155 (용수동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구어린이대공원",
+  "district": "수성구",
+  "category": "테마공원",
+  "lat": 35.8467259942,
+  "lng": 128.6277993617,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3459357_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구어린이대공원",
+    "desc": "",
+    "address": "대구광역시 수성구 동대구로 176"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구제일교회",
+  "district": "중구",
+  "category": "종교성지",
+  "lat": 35.8682366852,
+  "lng": 128.5864051864,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3534510_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구제일교회",
+    "desc": "",
+    "address": "대구광역시 중구 국채보상로102길 50 (동산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구향교",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.859751711,
+  "lng": 128.5959906893,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3349072_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구향교",
+    "desc": "",
+    "address": "대구광역시 중구 명륜로 112"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구화교협회",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.8688783799,
+  "lng": 128.5919046844,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대구화교협회",
+    "desc": "",
+    "address": "대구광역시 중구 종로 34 대구화교소학교"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대명공연거리",
+  "district": "남구",
+  "category": "이색거리",
+  "lat": 35.8557463623,
+  "lng": 128.582619756,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3590735_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대명공연거리",
+    "desc": "",
+    "address": "대구광역시 남구 계명중앙1길 54 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "덕산서원(대구)",
+  "district": "수성구",
+  "category": "유적지",
+  "lat": 35.8390493209,
+  "lng": 128.6405817836,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3338110_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕산서원(대구)",
+    "desc": "",
+    "address": "대구광역시 수성구 청호로46길 5-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도곡재",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.9107537439,
+  "lng": 128.4164106631,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3537177_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도곡재",
+    "desc": "",
+    "address": "대구광역시 달성군 하빈면 육신사길 62"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도남지",
+  "district": "북구",
+  "category": "강",
+  "lat": 35.9706446156,
+  "lng": 128.5911241354,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3564947_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "도남지",
+    "desc": "",
+    "address": "대구광역시 북구 도남동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도림사(대구)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.9491496222,
+  "lng": 128.7299069484,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2756805_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도림사(대구)",
+    "desc": "",
+    "address": "대구광역시 동구 인산로 242 (진인동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도성암 3층석탑",
+  "district": "달성군",
+  "category": "기념탑·기념비",
+  "lat": 35.7176857691,
+  "lng": 128.5167849274,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3347688_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도성암 3층석탑",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 도성길 180"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "독무재",
+  "district": "수성구",
+  "category": "유적지",
+  "lat": 35.8775173365,
+  "lng": 128.6485411211,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3529688_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "독무재",
+    "desc": "",
+    "address": "대구광역시 수성구 화랑로42길 31"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동대구역광장",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.8794806389,
+  "lng": 128.6288011378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3521295_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동대구역광장",
+    "desc": "",
+    "address": "대구광역시 동구 동대구로 550 (신암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동인동 찜갈비 골목",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 35.8709867192,
+  "lng": 128.6051506807,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3565135_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동인동 찜갈비 골목",
+    "desc": "",
+    "address": "대구광역시 중구 동인동1가"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동호서당·동호유적공원",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.8838794166,
+  "lng": 128.7397579123,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동호서당·동호유적공원",
+    "desc": "",
+    "address": "대구광역시 동구 동내동 1112-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동화사(대구)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.9843506081,
+  "lng": 128.6985587221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3576785_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "동화사(대구)",
+    "desc": "",
+    "address": "대구광역시 동구 동화사1길 1 (도학동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "들안길먹거리타운",
+  "district": "수성구",
+  "category": "이색거리",
+  "lat": 35.839709911,
+  "lng": 128.6163950052,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3377572_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "들안길먹거리타운",
+    "desc": "",
+    "address": "대구광역시 수성구 들안로 109-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "디아크문화관",
+  "district": "달성군",
+  "category": "기타 산업관광지",
+  "lat": 35.8379573803,
+  "lng": 128.4679803509,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3567769_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "디아크문화관",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 강정본길 57-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마비정 벽화마을",
+  "district": "달성군",
+  "category": "농어촌체험",
+  "lat": 35.7788098693,
+  "lng": 128.5416366092,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3570040_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마비정 벽화마을",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 마비정길 262-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마천산산림욕장",
+  "district": "달성군",
+  "category": "자연휴양림",
+  "lat": 35.8894429892,
+  "lng": 128.45562446,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3550209_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마천산산림욕장",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 이천리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "매양서원",
+  "district": "북구",
+  "category": "유적지",
+  "lat": 35.9153054604,
+  "lng": 128.5379220386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3338139_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "매양서원",
+    "desc": "",
+    "address": "대구광역시 북구 매천로37길 48"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "명품옻골 1616 협동조합",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 35.9077618439,
+  "lng": 128.686842458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2820113_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명품옻골 1616 협동조합",
+    "desc": "",
+    "address": "대구광역시 동구 옻골로 195-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "모영재",
+  "district": "동구",
+  "category": "고택",
+  "lat": 35.9343149895,
+  "lng": 128.7190416556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3089925_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "모영재",
+    "desc": "",
+    "address": "대구광역시 동구 도평로 905 (평광동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "묘골마을",
+  "district": "달성군",
+  "category": "민속마을",
+  "lat": 35.909112252,
+  "lng": 128.4157940963,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3570070_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "묘골마을",
+    "desc": "",
+    "address": "대구광역시 달성군 하빈면 육신사길 39-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "문양서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.0956820145,
+  "lng": 128.6763575443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3376069_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문양서원",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 남방길 37"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "바운스 트램폴린파크 동대구신세계백화점센터",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 35.8797195824,
+  "lng": 128.6332146318,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3586450_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "바운스 트램폴린파크 동대구신세계백화점센터",
+    "desc": "",
+    "address": "대구광역시 동구 효신로 88 (신암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "박곡서당",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7781344438,
+  "lng": 128.6652896366,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3576093_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "박곡서당",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창동로 219-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "반고개 무침회 골목",
+  "district": "서구",
+  "category": "이색거리",
+  "lat": 35.8623203882,
+  "lng": 128.5701651148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3564881_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "반고개 무침회 골목",
+    "desc": "",
+    "address": "대구광역시 서구 달구벌대로375길 14-1 (내당동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "반야월연꽃단지",
+  "district": "동구",
+  "category": "자연생태관광지",
+  "lat": 35.8686645503,
+  "lng": 128.7439829668,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2794772_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "반야월연꽃단지",
+    "desc": "",
+    "address": "대구광역시 동구 대림로2길 54-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백련사(대구)",
+  "district": "달서구",
+  "category": "사찰",
+  "lat": 35.8288628564,
+  "lng": 128.5588698165,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3577911_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "백련사(대구)",
+    "desc": "",
+    "address": "대구광역시 달서구 중흥로 67"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "백원서원",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 35.9207043807,
+  "lng": 128.6629747538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3342709_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백원서원",
+    "desc": "",
+    "address": "대구광역시 동구 도평로51길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "법장사(대구)",
+  "district": "남구",
+  "category": "사찰",
+  "lat": 35.8232892397,
+  "lng": 128.5997469274,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3569982_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "법장사(대구)",
+    "desc": "",
+    "address": "대구광역시 남구 고산3길 96-4 (봉덕동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "법주사(군위)",
+  "district": "군위군",
+  "category": "사찰",
+  "lat": 36.2726297081,
+  "lng": 128.4383208315,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3029790_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "법주사(군위)",
+    "desc": "",
+    "address": "대구광역시 군위군 소보면 달산3길 215"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "병암서원",
+  "district": "달서구",
+  "category": "유적지",
+  "lat": 35.8609140916,
+  "lng": 128.5212028021,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/3350075_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "병암서원",
+    "desc": "",
+    "address": "대구광역시 달서구 새방로 21"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "복현오거리 먹자골목",
+  "district": "북구",
+  "category": "이색거리",
+  "lat": 35.8969839584,
+  "lng": 128.6150240861,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3348841_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복현오거리 먹자골목",
+    "desc": "",
+    "address": "대구광역시 북구 복현동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉강서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.169295226,
+  "lng": 128.6412863399,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3338394_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉강서원",
+    "desc": "",
+    "address": "대구광역시 군위군 우보면 화계봉산길 795"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉무정",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 35.9280975733,
+  "lng": 128.640579299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3586480_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "봉무정",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로 327-7 (봉무동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉산문화거리",
+  "district": "중구",
+  "category": "이색거리",
+  "lat": 35.8618042938,
+  "lng": 128.5980293412,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3035820_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉산문화거리",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화길 38"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉산서원(대구)",
+  "district": "수성구",
+  "category": "유적지",
+  "lat": 35.8330189252,
+  "lng": 128.6122872193,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3452033_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "봉산서원(대구)",
+    "desc": "",
+    "address": "대구광역시 수성구 수성로12길 70"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "부인사(대구)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.9948156158,
+  "lng": 128.6730717862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3576789_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "부인사(대구)",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로 967-28 (신무동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "북산서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.2693768864,
+  "lng": 128.5657235235,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3376070_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북산서원",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 대북길 207-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "북지장사(대구)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.9762546003,
+  "lng": 128.7145742047,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/3590699_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "북지장사(대구)",
+    "desc": "",
+    "address": "대구광역시 동구 도장길 243 (도학동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비슬산 유가사",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.7136999137,
+  "lng": 128.5061804147,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3561003_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비슬산 유가사",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 유가사길 161"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "비슬산군립공원",
+  "district": "달성군",
+  "category": "군립공원",
+  "lat": 35.7167415801,
+  "lng": 128.5249231263,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3550236_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비슬산군립공원",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 가태리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사라온이야기마을",
+  "district": "군위군",
+  "category": "농어촌체험",
+  "lat": 36.2364140061,
+  "lng": 128.5677270578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3569924_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "사라온이야기마을",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 동서길 49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "사문진 주막촌",
+  "district": "달성군",
+  "category": "민속마을",
+  "lat": 35.8111411678,
+  "lng": 128.4786968148,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/1971470_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사문진 주막촌",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 사문진로1길 40-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "상리공원",
+  "district": "서구",
+  "category": "공원",
+  "lat": 35.8632417772,
+  "lng": 128.5305074724,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3565036_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "상리공원",
+    "desc": "",
+    "address": "대구광역시 서구 중리동 산198-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서계서원",
+  "district": "북구",
+  "category": "유적지",
+  "lat": 35.9251803643,
+  "lng": 128.5933557651,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3496741_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서계서원",
+    "desc": "",
+    "address": "대구광역시 북구 호국로51길 45-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서리지 수변생태공원",
+  "district": "북구",
+  "category": "자연생태관광지",
+  "lat": 35.9670500827,
+  "lng": 128.5642488295,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3565085_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서리지 수변생태공원",
+    "desc": "",
+    "address": "대구광역시 북구 동호동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서봉사",
+  "district": "남구",
+  "category": "사찰",
+  "lat": 35.8540246041,
+  "lng": 128.5972212958,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3041024_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서봉사",
+    "desc": "",
+    "address": "대구광역시 남구 명덕로54길 34 서봉사"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서부 오미가미거리",
+  "district": "서구",
+  "category": "이색거리",
+  "lat": 35.8746495855,
+  "lng": 128.5721868162,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3576191_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서부 오미가미거리",
+    "desc": "",
+    "address": "대구광역시 서구 국채보상로75길 25-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "석조부도",
+  "district": "북구",
+  "category": "사찰",
+  "lat": 35.8887070963,
+  "lng": 128.6138771954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3348604_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "석조부도",
+    "desc": "",
+    "address": "대구광역시 북구 대학로 80"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선교사블레어주택",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.8666257294,
+  "lng": 128.5849831341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3342623_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선교사블레어주택",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로 2029"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선교사스윗즈주택",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.867545067,
+  "lng": 128.5848109015,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3585414_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "선교사스윗즈주택",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로 2029"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선교사챔니스주택",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.8666090647,
+  "lng": 128.5849525818,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3349178_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선교사챔니스주택",
+    "desc": "",
+    "address": "대구광역시 중구 달구벌대로 2029"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선사시대로 테마거리",
+  "district": "달서구",
+  "category": "이색거리",
+  "lat": 35.8102587387,
+  "lng": 128.5225485314,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3537595_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선사시대로 테마거리",
+    "desc": "",
+    "address": "대구광역시 달서구 진천동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성당못",
+  "district": "달서구",
+  "category": "호수",
+  "lat": 35.8450388632,
+  "lng": 128.5620913067,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3569995_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성당못",
+    "desc": "",
+    "address": "대구광역시 달서구 공원순환로 216 (성당동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "성화사",
+  "district": "달서구",
+  "category": "사찰",
+  "lat": 35.8439638582,
+  "lng": 128.5552224968,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3041062_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성화사",
+    "desc": "",
+    "address": "대구광역시 달서구 장기로12길 10"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소계정",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7703404672,
+  "lng": 128.4917190155,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3361878_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소계정",
+    "desc": "",
+    "address": "대구광역시 달성군 옥포면 옥포로57길 25-14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "소재사(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.6915636097,
+  "lng": 128.5107111811,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3570052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소재사(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 유가면 휴양림길 228"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송담서원(대구)",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.6964852976,
+  "lng": 128.3596548955,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3338158_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송담서원(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 구지면 구지서로 530-47"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송해기념관 선비체험관",
+  "district": "달성군",
+  "category": "전통체험",
+  "lat": 35.7716930394,
+  "lng": 128.488852564,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3384570_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송해기념관 선비체험관",
+    "desc": "",
+    "address": "대구광역시 달성군 옥포읍 옥포로56길 5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송해둘레길",
+  "district": "달성군",
+  "category": "자연생태관광지",
+  "lat": 35.7803141286,
+  "lng": 128.480258639,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3024505_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "송해둘레길",
+    "desc": "",
+    "address": "대구광역시 달성군 옥포읍 기세리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수봉정사",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7925578812,
+  "lng": 128.518049417,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3338232_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수봉정사",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 인흥3길 16"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수성못 유원지",
+  "district": "수성구",
+  "category": "공원",
+  "lat": 35.8276418564,
+  "lng": 128.6177257792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2653751_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수성못 유원지",
+    "desc": "",
+    "address": "대구광역시 수성구 두산동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신무동마애불좌상",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 35.9896828337,
+  "lng": 128.6714359637,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3570780_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신무동마애불좌상",
+    "desc": "",
+    "address": "대구광역시 동구 신무동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신서 중앙공원",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.8809963063,
+  "lng": 128.7341501534,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3564681_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신서 중앙공원",
+    "desc": "",
+    "address": "대구광역시 동구 동내로 117 (신서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신숭겸장군유적",
+  "district": "동구",
+  "category": "유적지",
+  "lat": 35.9417876979,
+  "lng": 128.6410399865,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3570793_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신숭겸장군유적",
+    "desc": "",
+    "address": "대구광역시 동구 신숭겸길 17 (지묘동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신흥사(군위)",
+  "district": "군위군",
+  "category": "사찰",
+  "lat": 36.1500805032,
+  "lng": 128.6284519058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3338409_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신흥사(군위)",
+    "desc": "",
+    "address": "대구광역시 군위군 고산길 262 신흥사"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아르떼수성랜드",
+  "district": "수성구",
+  "category": "테마공원",
+  "lat": 35.8286138894,
+  "lng": 128.6133983551,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2756830_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아르떼수성랜드",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 42"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "아양기찻길",
+  "district": "동구",
+  "category": "다리",
+  "lat": 35.8903518064,
+  "lng": 128.6383388838,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3570773_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아양기찻길",
+    "desc": "",
+    "address": "대구광역시 동구 해동로 82 (지저동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안일사(대구)",
+  "district": "남구",
+  "category": "사찰",
+  "lat": 35.8236887493,
+  "lng": 128.5755657121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3008191_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안일사(대구)",
+    "desc": "",
+    "address": "대구광역시 남구 대명동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "안지랑 곱창골목",
+  "district": "남구",
+  "category": "이색거리",
+  "lat": 35.8369094686,
+  "lng": 128.5751903786,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3534556_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안지랑 곱창골목",
+    "desc": "",
+    "address": "대구광역시 남구 안지랑로16길 67"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "압곡사(군위)",
+  "district": "군위군",
+  "category": "사찰",
+  "lat": 36.1897405424,
+  "lng": 128.8123567556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3377638_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "압곡사(군위)",
+    "desc": "",
+    "address": "대구광역시 군위군 고로면 현리낙전길 836-144"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "앞산 해넘이전망대",
+  "district": "남구",
+  "category": "유명건물",
+  "lat": 35.8322070451,
+  "lng": 128.5655246933,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3372249_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "앞산 해넘이전망대",
+    "desc": "",
+    "address": "대구광역시 남구 대명동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "앞산빨래터공원",
+  "district": "남구",
+  "category": "공원",
+  "lat": 35.8324431329,
+  "lng": 128.5657357794,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/3569970_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "앞산빨래터공원",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 365 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "앞산카페거리",
+  "district": "남구",
+  "category": "이색거리",
+  "lat": 35.8358179977,
+  "lng": 128.5791122854,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3569987_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "앞산카페거리",
+    "desc": "",
+    "address": "대구광역시 남구 대명남로 191"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "양산서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.0473312758,
+  "lng": 128.640364862,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3377623_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양산서원",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 남산4길 32"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "양천서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.2477927125,
+  "lng": 128.5378654907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3338363_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양천서원",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 내외량길 243-55"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "엘리몽",
+  "district": "달서구",
+  "category": "테마공원",
+  "lat": 35.8250182369,
+  "lng": 128.5256839575,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3403344_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엘리몽",
+    "desc": "",
+    "address": "대구광역시 달서구 조암로 38 (월성동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "엘리바덴 월성점",
+  "district": "달서구",
+  "category": "이색찜질방",
+  "lat": 35.8250210143,
+  "lng": 128.5256756252,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3373622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엘리바덴 월성점",
+    "desc": "",
+    "address": "대구광역시 달서구 조암로 38"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "연암서당골",
+  "district": "북구",
+  "category": "이색체험",
+  "lat": 35.9005387706,
+  "lng": 128.5965783902,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "연암서당골",
+    "desc": "",
+    "address": "대구광역시 북구 연암로 180"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "열락당",
+  "district": "달서구",
+  "category": "유적지",
+  "lat": 35.8188276327,
+  "lng": 128.5453907267,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3338321_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "열락당",
+    "desc": "",
+    "address": "대구광역시 달서구 상인로 134-13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영남제일관",
+  "district": "수성구",
+  "category": "성",
+  "lat": 35.8754399732,
+  "lng": 128.6582347697,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3531622_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영남제일관",
+    "desc": "",
+    "address": "대구광역시 수성구 팔현길 248"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영영축성비",
+  "district": "수성구",
+  "category": "기념탑·기념비",
+  "lat": 35.8749566914,
+  "lng": 128.6580570212,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/3349361_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영영축성비",
+    "desc": "",
+    "address": "대구광역시 수성구 팔현길 248"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "예연서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.6557585794,
+  "lng": 128.470090736,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3347936_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예연서원",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 구례길 123"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오봉오감",
+  "district": "북구",
+  "category": "이색체험",
+  "lat": 35.8929976785,
+  "lng": 128.5814549332,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오봉오감",
+    "desc": "",
+    "address": "대구광역시 북구 침산남로서9길 24"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "오천서원",
+  "district": "수성구",
+  "category": "유적지",
+  "lat": 35.9819418183,
+  "lng": 129.3976973279,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3377527_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오천서원",
+    "desc": "",
+    "address": "대구광역시 수성구 파동로2안길 20"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "옹기종기행복마을",
+  "district": "동구",
+  "category": "농어촌체험",
+  "lat": 35.8910435489,
+  "lng": 128.6466797967,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3586494_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옹기종기행복마을",
+    "desc": "",
+    "address": "대구광역시 동구 입석동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "옻골동산",
+  "district": "북구",
+  "category": "공원",
+  "lat": 35.9422614565,
+  "lng": 128.5767928596,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/3521276_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옻골동산",
+    "desc": "",
+    "address": "대구광역시 북구 구암동 산 4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용강서원",
+  "district": "달서구",
+  "category": "유적지",
+  "lat": 35.8613833603,
+  "lng": 128.5145533749,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3338250_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용강서원",
+    "desc": "",
+    "address": "대구광역시 달서구 선원로33길 101"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용문사(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.7691386926,
+  "lng": 128.5390037751,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3570030_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용문사(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 화원휴양림길 132"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용연사(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.7482796084,
+  "lng": 128.5209476069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3073231_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용연사(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 옥포읍 용연사길 260"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용호서원(달성)",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.874689802,
+  "lng": 128.4936159625,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3573486_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용호서원(달성)",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 서재본4길 18-27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "운흥사(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.7799747648,
+  "lng": 128.6035783477,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3564717_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "운흥사(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 헐티로 1068"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원대가구 명물거리",
+  "district": "서구",
+  "category": "이색거리",
+  "lat": 35.8845346143,
+  "lng": 128.5741641444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3570788_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원대가구 명물거리",
+    "desc": "",
+    "address": "대구광역시 서구 원대동3가"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "원호루",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.6982284548,
+  "lng": 128.4522355866,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3537202_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원호루",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍면 현풍동로 92"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월광수변공원",
+  "district": "달서구",
+  "category": "공원",
+  "lat": 35.7988438375,
+  "lng": 128.5483299101,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3496940_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월광수변공원",
+    "desc": "",
+    "address": "대구광역시 달서구 월곡로 5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "은적사(대구)",
+  "district": "남구",
+  "category": "사찰",
+  "lat": 35.8235695788,
+  "lng": 128.5897144697,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3569965_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "은적사(대구)",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 574-120"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "읍내동 마애불상",
+  "district": "북구",
+  "category": "유적지",
+  "lat": 35.9637417391,
+  "lng": 128.5434229817,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3348710_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "읍내동 마애불상",
+    "desc": "",
+    "address": "대구광역시 북구 칠곡중앙대로129길 169-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "의흥향교",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.1735767607,
+  "lng": 128.7199542656,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/3349322_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "의흥향교",
+    "desc": "",
+    "address": "대구광역시 군위군 의흥면 읍내길 89-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이강서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.8867017569,
+  "lng": 128.4623739404,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/3370453_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이강서원",
+    "desc": "",
+    "address": "대구광역시 달성군 다사읍 이천리 277"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이곡장미공원",
+  "district": "달서구",
+  "category": "공원",
+  "lat": 35.8581254007,
+  "lng": 128.5148117758,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3558631_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이곡장미공원",
+    "desc": "",
+    "address": "대구광역시 달서구 이곡동 1306-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이공제비 및 군수이후범선영세불망비",
+  "district": "수성구",
+  "category": "기념탑·기념비",
+  "lat": 35.8356129735,
+  "lng": 128.6067181933,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/3349562_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이공제비 및 군수이후범선영세불망비",
+    "desc": "",
+    "address": "대구광역시 수성구 신천동로 117"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이양서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.6657982324,
+  "lng": 128.4218947006,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3361864_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이양서원",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍면 삼강3길 23"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이월드",
+  "district": "달서구",
+  "category": "테마공원",
+  "lat": 35.8548822436,
+  "lng": 128.5648324581,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2818982_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이월드",
+    "desc": "",
+    "address": "대구광역시 달서구 두류공원로 200"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "이천동 고미술거리",
+  "district": "남구",
+  "category": "이색거리",
+  "lat": 35.8553467018,
+  "lng": 128.5985933601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3569957_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이천동 고미술거리",
+    "desc": "",
+    "address": "대구광역시 남구 명덕로 262"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인각사(군위)",
+  "district": "군위군",
+  "category": "사찰",
+  "lat": 36.1276914161,
+  "lng": 128.7795058654,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3569946_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인각사(군위)",
+    "desc": "",
+    "address": "대구광역시 군위군 고로면 삼국유사로 250"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인동촌 아나고골목",
+  "district": "서구",
+  "category": "이색거리",
+  "lat": 35.8768216663,
+  "lng": 128.5778612559,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3377540_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인동촌 아나고골목",
+    "desc": "",
+    "address": "대구광역시 서구 북비산로74길 49"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인흥마을",
+  "district": "달성군",
+  "category": "민속마을",
+  "lat": 35.7932244734,
+  "lng": 128.5181077268,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3570032_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인흥마을",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 인흥3길 16"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "인흥서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7895581755,
+  "lng": 128.5155941606,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3526463_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인흥서원",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 인흥2길 26"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "임휴사",
+  "district": "달서구",
+  "category": "사찰",
+  "lat": 35.8101872168,
+  "lng": 128.5602229926,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3338291_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "임휴사",
+    "desc": "",
+    "address": "대구광역시 달서구 앞산순환로 12-25"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "제동서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.1232963959,
+  "lng": 128.5725326047,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3377601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제동서원",
+    "desc": "",
+    "address": "대구광역시 군위군 효령면 장군당1길 35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "주암산가창저수지",
+  "district": "청도군",
+  "category": "강",
+  "lat": 35.7996421023,
+  "lng": 128.609924466,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2746429_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주암산가창저수지",
+    "desc": "",
+    "address": "경상북도 청도군 각북면 오산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "중리동 곱창골목",
+  "district": "서구",
+  "category": "이색거리",
+  "lat": 35.8623810103,
+  "lng": 128.5439590887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/3576108_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "중리동 곱창골목",
+    "desc": "",
+    "address": "대구광역시 서구 평리로35길 28-10 (중리동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "청련암(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.7350803422,
+  "lng": 128.6308660801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3567392_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "청련암(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 남지장사길 127"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "청호서원",
+  "district": "수성구",
+  "category": "유적지",
+  "lat": 35.8394715028,
+  "lng": 128.6409928466,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3349603_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청호서원",
+    "desc": "",
+    "address": "대구광역시 수성구 청호로 250-11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "충혼탑",
+  "district": "남구",
+  "category": "기념탑·기념비",
+  "lat": 35.8323157014,
+  "lng": 128.5837480854,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3590715_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "충혼탑",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 540"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "칠곡향교",
+  "district": "북구",
+  "category": "유적지",
+  "lat": 35.9491657684,
+  "lng": 128.5518143144,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3348951_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "칠곡향교",
+    "desc": "",
+    "address": "대구광역시 북구 칠곡중앙대로 597"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "침산공원",
+  "district": "북구",
+  "category": "자연생태관광지",
+  "lat": 35.8952252855,
+  "lng": 128.585862816,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2744861_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "침산공원",
+    "desc": "",
+    "address": "대구광역시 북구 침산동 1344-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "큰장길 침구류 명물거리",
+  "district": "서구",
+  "category": "이색거리",
+  "lat": 35.8633925561,
+  "lng": 128.5737980982,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3349103_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큰장길 침구류 명물거리",
+    "desc": "",
+    "address": "대구광역시 서구 큰장로 35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "테크노폴리스중앙공원",
+  "district": "달성군",
+  "category": "공원",
+  "lat": 35.6915099007,
+  "lng": 128.4594212503,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3564505_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "테크노폴리스중앙공원",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 테크노공원로 58"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "파계사",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 36.0014476023,
+  "lng": 128.6410244261,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3560680_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파계사",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 741"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "팔공산 케이블카",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 35.9908470255,
+  "lng": 128.6948699756,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3572056_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공산 케이블카",
+    "desc": "",
+    "address": "대구광역시 동구 팔공산로185길 51"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "팔공산국립공원(동화사지구)",
+  "district": "동구",
+  "category": "도립공원",
+  "lat": 35.9899388189,
+  "lng": 128.6961615543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3586481_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공산국립공원(동화사지구)",
+    "desc": "",
+    "address": "대구광역시 동구 동화사1길 1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "팔공산국립공원(파계사지구)",
+  "district": "동구",
+  "category": "자연휴양림",
+  "lat": 36.0062941933,
+  "lng": 128.6365885705,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3342734_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공산국립공원(파계사지구)",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 741"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "팔공산분수광장",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.9895722112,
+  "lng": 128.6970920378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3564524_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "팔공산분수광장",
+    "desc": "",
+    "address": "대구광역시 동구 용수동 27-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "평광동 사과마을",
+  "district": "동구",
+  "category": "농어촌체험",
+  "lat": 35.9329840508,
+  "lng": 128.6902747827,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3348432_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "평광동 사과마을",
+    "desc": "",
+    "address": "대구광역시 동구 도평로116길 37"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "학산공원",
+  "district": "달서구",
+  "category": "자연생태관광지",
+  "lat": 35.8282431026,
+  "lng": 128.53822443,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/3577878_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학산공원",
+    "desc": "",
+    "address": "대구광역시 달서구 월성동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한밤마을",
+  "district": "군위군",
+  "category": "민속마을",
+  "lat": 36.0593162984,
+  "lng": 128.6549493486,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3571368_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한밤마을",
+    "desc": "",
+    "address": "대구광역시 군위군 부계면 한티로 2137-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한천서원",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7797785035,
+  "lng": 128.6545099833,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3537340_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한천서원",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 가창동로 117"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "향사례 대구시민단",
+  "district": "북구",
+  "category": "전통체험",
+  "lat": 35.8980946897,
+  "lng": 128.6012669341,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3338152_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "향사례 대구시민단",
+    "desc": "",
+    "address": "대구광역시 북구 연암공원로 89"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "현풍 500년 느티나무 테마공원",
+  "district": "달성군",
+  "category": "테마공원",
+  "lat": 35.7020333198,
+  "lng": 128.4380145117,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3590733_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현풍 500년 느티나무 테마공원",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍읍 비슬로 741"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "현풍포교당",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.6981894668,
+  "lng": 128.4465583097,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3570020_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현풍포교당",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍면 현풍동로27길 54-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "현풍향교",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.7015891775,
+  "lng": 128.451791089,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3576123_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현풍향교",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍면 현풍동로20길 27-8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "혜원의 집",
+  "district": "군위군",
+  "category": "이색체험",
+  "lat": 36.1797805789,
+  "lng": 128.6645450976,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3537566_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "혜원의 집",
+    "desc": "",
+    "address": "대구광역시 군위군 우보면 미성5길 58-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "호림강나루공원",
+  "district": "달서구",
+  "category": "공원",
+  "lat": 35.8341247866,
+  "lng": 128.4846567649,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3564455_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "호림강나루공원",
+    "desc": "",
+    "address": "대구광역시 달서구 대천동 900"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "호산공원",
+  "district": "달서구",
+  "category": "공원",
+  "lat": 35.8485703609,
+  "lng": 128.4840036451,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3534948_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호산공원",
+    "desc": "",
+    "address": "대구광역시 달서구 달서대로109길 70 (호산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "홍의장군 곽망우당 묘소",
+  "district": "달성군",
+  "category": "유적지",
+  "lat": 35.6292714907,
+  "lng": 128.4046972118,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3347788_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍의장군 곽망우당 묘소",
+    "desc": "",
+    "address": "대구광역시 달성군 구지면 대암리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화계서원",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.1380701413,
+  "lng": 128.7445892089,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3349349_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화계서원",
+    "desc": "",
+    "address": "대구광역시 군위군 의흥면 금양3길 16-3"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화본마을",
+  "district": "군위군",
+  "category": "농어촌체험",
+  "lat": 36.1278231789,
+  "lng": 128.6961465548,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3339033_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화본마을",
+    "desc": "",
+    "address": "대구광역시 군위군 산성면 산성가음로 722"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화산산성",
+  "district": "군위군",
+  "category": "성",
+  "lat": 36.0983475582,
+  "lng": 128.7813593127,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/3537580_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화산산성",
+    "desc": "",
+    "address": "대구광역시 군위군 삼국유사면 화북리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화원동산",
+  "district": "달성군",
+  "category": "공원",
+  "lat": 35.8132882108,
+  "lng": 128.4821853365,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3570057_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화원동산",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 사문진로1길 40-14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화원자연휴양림",
+  "district": "달성군",
+  "category": "자연휴양림",
+  "lat": 35.7718300136,
+  "lng": 128.5367594539,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3567387_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화원자연휴양림",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 화원휴양림길 126"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화장사(대구)",
+  "district": "달성군",
+  "category": "사찰",
+  "lat": 35.8027425408,
+  "lng": 128.5017700139,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3347603_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화장사(대구)",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 비슬로522길 41"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "환성정",
+  "district": "북구",
+  "category": "유적지",
+  "lat": 35.9250303832,
+  "lng": 128.5934474273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3349014_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "환성정",
+    "desc": "",
+    "address": "대구광역시 북구 호국로51길 45-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "회진당원의대사지비",
+  "district": "동구",
+  "category": "기념탑·기념비",
+  "lat": 35.9957148908,
+  "lng": 128.6394997221,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3534671_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "회진당원의대사지비",
+    "desc": "",
+    "address": "대구광역시 동구 파계로 741 (중대동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "효령사(장군당)",
+  "district": "군위군",
+  "category": "유적지",
+  "lat": 36.1226436732,
+  "lng": 128.5715104911,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3377583_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효령사(장군당)",
+    "desc": "",
+    "address": "대구광역시 군위군 효령면 장군당1길 35-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "2·28 기념중앙공원",
+  "district": "중구",
+  "category": "테마공원",
+  "lat": 35.8693367591,
+  "lng": 128.5971819845,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3350494_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2·28 기념중앙공원",
+    "desc": "",
+    "address": "대구광역시 중구 동성로2길 80 (공평동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "경북대학교박물관",
+  "district": "북구",
+  "category": "박물관",
+  "lat": 35.8906568441,
+  "lng": 128.6121828463,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3515805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경북대학교박물관",
+    "desc": "",
+    "address": "대구광역시 북구 대학로 80"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "경북대학교자연사박물관",
+  "district": "군위군",
+  "category": "박물관",
+  "lat": 36.1214827951,
+  "lng": 128.5769683751,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3338412_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경북대학교자연사박물관",
+    "desc": "",
+    "address": "대구광역시 군위군 효령면 경북대로 2228"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "계명아트센터",
+  "district": "달서구",
+  "category": "공연장",
+  "lat": 35.8557918555,
+  "lng": 128.4888835704,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/3476541_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "계명아트센터",
+    "desc": "",
+    "address": "대구광역시 달서구 달구벌대로 1095"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립대구기상과학관",
+  "district": "동구",
+  "category": "전시관",
+  "lat": 35.8790199813,
+  "lng": 128.6505242379,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "국립대구기상과학관",
+    "desc": "",
+    "address": "대구광역시 동구 효동로2길 10 (효목동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립대구박물관",
+  "district": "수성구",
+  "category": "박물관",
+  "lat": 35.8455790962,
+  "lng": 128.6383484648,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/3008585_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "국립대구박물관",
+    "desc": "",
+    "address": "대구광역시 수성구 청호로 321"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국채보상운동기념도서관",
+  "district": "중구",
+  "category": "도서관",
+  "lat": 35.8684841619,
+  "lng": 128.6017371619,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3569648_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "국채보상운동기념도서관",
+    "desc": "",
+    "address": "대구광역시 중구 공평로10길 25 (동인동2가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "군위문화원",
+  "district": "군위군",
+  "category": "문화원",
+  "lat": 36.2330643841,
+  "lng": 128.5675660557,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3573491_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "군위문화원",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 동서2길 35"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "근대문화체험관 계산예가",
+  "district": "중구",
+  "category": "전시관",
+  "lat": 35.8671840532,
+  "lng": 128.5878634206,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3510102_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "근대문화체험관 계산예가",
+    "desc": "",
+    "address": "대구광역시 중구 서성로 6-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "뉴평리도서관",
+  "district": "서구",
+  "category": "도서관",
+  "lat": 35.8689556044,
+  "lng": 128.5623128448,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3456902_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뉴평리도서관",
+    "desc": "",
+    "address": "대구광역시 서구 평리로73길 37 (평리동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성 한일우호관",
+  "district": "달성군",
+  "category": "전시관",
+  "lat": 35.7233680767,
+  "lng": 128.6471510842,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/3541655_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성 한일우호관",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 우록길 206"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성문화원",
+  "district": "달성군",
+  "category": "문화원",
+  "lat": 35.6989033745,
+  "lng": 128.4520133654,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3571572_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성문화원",
+    "desc": "",
+    "address": "대구광역시 달성군 현풍면 현풍동로 92"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성습지생태학습관",
+  "district": "달성군",
+  "category": "전시관",
+  "lat": 35.8167268005,
+  "lng": 128.4870792548,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3541635_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성습지생태학습관",
+    "desc": "",
+    "address": "대구광역시 달성군 화원읍 구라1길 88"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "달성화석박물관",
+  "district": "달성군",
+  "category": "박물관",
+  "lat": 35.6844274618,
+  "lng": 128.4645959888,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3456774_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달성화석박물관",
+    "desc": "",
+    "address": "대구광역시 달성군 유가읍 테크노대로6길 66"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 남구문화원",
+  "district": "남구",
+  "category": "문화원",
+  "lat": 35.8313073556,
+  "lng": 128.576887606,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3338331_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 남구문화원",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 478"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 북구문화원",
+  "district": "북구",
+  "category": "문화원",
+  "lat": 35.9336674219,
+  "lng": 128.5462263509,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3476589_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 북구문화원",
+    "desc": "",
+    "address": "대구광역시 북구 구암로 47 (관음동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 서구문화원",
+  "district": "서구",
+  "category": "문화원",
+  "lat": 35.8728270789,
+  "lng": 128.5455336604,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3338125_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 서구문화원",
+    "desc": "",
+    "address": "대구광역시 서구 당산로 403"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 중구문화원",
+  "district": "중구",
+  "category": "문화원",
+  "lat": 35.8634651907,
+  "lng": 128.5965849779,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3476618_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 중구문화원",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화길 77 (봉산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 코오롱 야외음악당",
+  "district": "달서구",
+  "category": "공연장",
+  "lat": 35.8510547396,
+  "lng": 128.5561555513,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3041151_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 코오롱 야외음악당",
+    "desc": "",
+    "address": "대구광역시 달서구 야외음악당로 180"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구 환경사랑홍보교육관",
+  "district": "달서구",
+  "category": "전시관",
+  "lat": 35.8345247894,
+  "lng": 128.4873009651,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2823547_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구 환경사랑홍보교육관",
+    "desc": "",
+    "address": "대구광역시 달서구 성서공단로 40"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구광역시립남부도서관",
+  "district": "남구",
+  "category": "도서관",
+  "lat": 35.8320990049,
+  "lng": 128.5807761305,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3571594_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구광역시립남부도서관",
+    "desc": "",
+    "address": "대구광역시 남구 앞산순환로 512 (대명동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구근대역사관",
+  "district": "중구",
+  "category": "전시관",
+  "lat": 35.871839143,
+  "lng": 128.591187998,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3532905_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구근대역사관",
+    "desc": "",
+    "address": "대구광역시 중구 경상감영길 67 (포정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구문화예술회관",
+  "district": "달서구",
+  "category": "공연장",
+  "lat": 35.8451165839,
+  "lng": 128.5594887553,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3577796_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구문화예술회관",
+    "desc": "",
+    "address": "대구광역시 달서구 공원순환로 201"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구미술관",
+  "district": "수성구",
+  "category": "미술관·화랑",
+  "lat": 35.8270707445,
+  "lng": 128.6743652541,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3081383_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구미술관",
+    "desc": "",
+    "address": "대구광역시 수성구 미술관로 40 대구미술관"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구방짜유기박물관",
+  "district": "동구",
+  "category": "박물관",
+  "lat": 35.9655111282,
+  "lng": 128.7013923349,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3586383_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구방짜유기박물관",
+    "desc": "",
+    "address": "대구광역시 동구 도장길 29 (도학동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구북구청소년회관 아트홀",
+  "district": "북구",
+  "category": "공연장",
+  "lat": 35.9057718708,
+  "lng": 128.6160598608,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3348686_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구북구청소년회관 아트홀",
+    "desc": "",
+    "address": "대구광역시 북구 검단로 71-17"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구어린이세상",
+  "district": "수성구",
+  "category": "공연장",
+  "lat": 35.8466898866,
+  "lng": 128.6277826972,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3459858_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구어린이세상",
+    "desc": "",
+    "address": "대구광역시 수성구 동대구로 176"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구예술발전소",
+  "district": "중구",
+  "category": "공연장",
+  "lat": 35.8754886074,
+  "lng": 128.5845523698,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/3403232_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "대구예술발전소",
+    "desc": "",
+    "address": "대구광역시 중구 달성로22길 31-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대구오페라하우스",
+  "district": "북구",
+  "category": "공연장",
+  "lat": 35.8834739558,
+  "lng": 128.5922514697,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3376273_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대구오페라하우스",
+    "desc": "",
+    "address": "대구광역시 북구 호암로 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대백프라자갤러리",
+  "district": "중구",
+  "category": "미술관·화랑",
+  "lat": 35.8558412344,
+  "lng": 128.6063954369,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3376063_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대백프라자갤러리",
+    "desc": "",
+    "address": "대구광역시 중구 명덕로 333"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "더폴락",
+  "district": "중구",
+  "category": "대형서점",
+  "lat": 35.8736945265,
+  "lng": 128.5932516535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/3338468_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더폴락",
+    "desc": "",
+    "address": "대구광역시 중구 경상감영1길 62-5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동원화랑",
+  "district": "중구",
+  "category": "미술관·화랑",
+  "lat": 35.8620126066,
+  "lng": 128.598162657,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3573356_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동원화랑",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화길 42"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동제미술관(동제미술전시관)",
+  "district": "달성군",
+  "category": "전시관",
+  "lat": 35.7895012789,
+  "lng": 128.5934345322,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "동제미술관(동제미술전시관)",
+    "desc": "",
+    "address": "대구광역시 달성군 가창면 헐티로10길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "물레책방",
+  "district": "수성구",
+  "category": "대형서점",
+  "lat": 35.8574387529,
+  "lng": 128.6322514488,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "물레책방",
+    "desc": "",
+    "address": "대구광역시 수성구 달구벌대로492길 15 (범어동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "박물관 수",
+  "district": "수성구",
+  "category": "박물관",
+  "lat": 35.8648379507,
+  "lng": 128.6341705181,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3342645_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "박물관 수",
+    "desc": "",
+    "address": "대구광역시 수성구 국채보상로186길 79"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "반야월역사작은도서관",
+  "district": "동구",
+  "category": "도서관",
+  "lat": 35.8725054296,
+  "lng": 128.724959533,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3342730_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "반야월역사작은도서관",
+    "desc": "",
+    "address": "대구광역시 동구 신서로 50"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "보이드 갤러리",
+  "district": "중구",
+  "category": "미술관·화랑",
+  "lat": 35.8565354411,
+  "lng": 128.5977656222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2832751_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보이드 갤러리",
+    "desc": "",
+    "address": "대구광역시 중구 명륜로26길 79-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉산문화회관",
+  "district": "중구",
+  "category": "공연장",
+  "lat": 35.8631263392,
+  "lng": 128.5965516572,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3349310_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉산문화회관",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화길 77"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼국유사교육문화회관",
+  "district": "군위군",
+  "category": "공연장",
+  "lat": 36.2374751131,
+  "lng": 128.5739986953,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3338418_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "삼국유사교육문화회관",
+    "desc": "",
+    "address": "대구광역시 군위군 군위읍 군청로 158"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수성구립 고산도서관",
+  "district": "수성구",
+  "category": "도서관",
+  "lat": 35.8379479631,
+  "lng": 128.7106589801,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3342691_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수성구립 고산도서관",
+    "desc": "",
+    "address": "대구광역시 수성구 달구벌대로650길 6 고산도서관"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수성구립 범어도서관",
+  "district": "수성구",
+  "category": "도서관",
+  "lat": 35.8593857259,
+  "lng": 128.6306820879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3336296_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수성구립 범어도서관",
+    "desc": "",
+    "address": "대구광역시 수성구 달구벌대로 2451"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수성구립 용학도서관",
+  "district": "수성구",
+  "category": "도서관",
+  "lat": 35.821237549,
+  "lng": 128.6461040147,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3578103_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수성구립 용학도서관",
+    "desc": "",
+    "address": "대구광역시 수성구 지범로41길 36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수성아트피아",
+  "district": "수성구",
+  "category": "공연장",
+  "lat": 35.8294724001,
+  "lng": 128.628283132,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3021015_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수성아트피아",
+    "desc": "",
+    "address": "대구광역시 수성구 무학로 180"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "수창청춘맨숀",
+  "district": "중구",
+  "category": "전시관",
+  "lat": 35.8754330454,
+  "lng": 128.5838718758,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3403609_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "수창청춘맨숀",
+    "desc": "",
+    "address": "대구광역시 중구 달성로22길 27"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신미화랑",
+  "district": "중구",
+  "category": "미술관·화랑",
+  "lat": 35.8616737544,
+  "lng": 128.5980932281,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3476625_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신미화랑",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화길 34 (봉산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신전뮤지엄",
+  "district": "북구",
+  "category": "박물관",
+  "lat": 35.9347894045,
+  "lng": 128.5401046371,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3567427_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신전뮤지엄",
+    "desc": "",
+    "address": "대구광역시 북구 관음로 43 (관음동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "예송갤러리",
+  "district": "중구",
+  "category": "미술관·화랑",
+  "lat": 35.8625736428,
+  "lng": 128.5975960246,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3342605_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "예송갤러리",
+    "desc": "",
+    "address": "대구광역시 중구 봉산문화길 56"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월곡역사박물관",
+  "district": "달서구",
+  "category": "박물관",
+  "lat": 35.8192525904,
+  "lng": 128.5456656901,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3586748_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "월곡역사박물관",
+    "desc": "",
+    "address": "대구광역시 달서구 송현로7길 38"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "팔공문화원",
+  "district": "동구",
+  "category": "문화원",
+  "lat": 35.9559730939,
+  "lng": 128.6891964556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3348274_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팔공문화원",
+    "desc": "",
+    "address": "대구광역시 동구 팔공로197길 25"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "패션디자인개발지원센터",
+  "district": "북구",
+  "category": "공연장",
+  "lat": 35.9062217404,
+  "lng": 128.611760227,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3586515_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "패션디자인개발지원센터",
+    "desc": "",
+    "address": "대구광역시 북구 유통단지로14길 17 (산격동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "패션주얼리전문타운",
+  "district": "중구",
+  "category": "전시관",
+  "lat": 35.8718170251,
+  "lng": 128.5967152898,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "패션주얼리전문타운",
+    "desc": "",
+    "address": "대구광역시 중구 경상감영길 176 (동문동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "행복북구문화재단 어울아트센터",
+  "district": "북구",
+  "category": "공연장",
+  "lat": 35.9347756378,
+  "lng": 128.5466429499,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2591495_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "행복북구문화재단 어울아트센터",
+    "desc": "",
+    "address": "대구광역시 북구 구암로 47"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "향촌문화관",
+  "district": "중구",
+  "category": "전시관",
+  "lat": 35.8733612482,
+  "lng": 128.594184914,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/3021063_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "향촌문화관",
+    "desc": "",
+    "address": "대구광역시 중구 중앙대로 449"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "향토역사관",
+  "district": "중구",
+  "category": "박물관",
+  "lat": 35.8735109601,
+  "lng": 128.5794806492,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3349142_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "향토역사관",
+    "desc": "",
+    "address": "대구광역시 중구 달성공원로 35 (달성동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "희움 일본군 위안부 역사관",
+  "district": "중구",
+  "category": "기념관",
+  "lat": 35.871441948,
+  "lng": 128.590232538,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3428119_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "희움 일본군 위안부 역사관",
+    "desc": "",
+    "address": "대구광역시 중구 경상감영길 50 (서문로1가)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "2·28 민주운동기념회관",
+  "district": "중구",
+  "category": "기념관",
+  "lat": 35.858390651,
+  "lng": 128.5903995527,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3376551_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "2·28 민주운동기념회관",
+    "desc": "",
+    "address": "대구광역시 중구 남산동 2113-10"
+   }
+  }
+ }
+]

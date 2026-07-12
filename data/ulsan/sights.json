@@ -1,0 +1,2263 @@
+[
+ {
+  "section": "sights",
+  "name_ko": "간월산",
+  "district": "울주군",
+  "category": "산",
+  "lat": 35.5561610255,
+  "lng": 129.0480650268,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3078002_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "간월산",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 간월산길 614"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "간절곶",
+  "district": "울주군",
+  "category": "등대",
+  "lat": 35.3589668021,
+  "lng": 129.3605738299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3583350_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "간절곶",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 간절곶1길 39-2"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "간절곶 소망길",
+  "district": "울주군",
+  "category": "자연생태관광지",
+  "lat": 35.3546337414,
+  "lng": 129.3492110511,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3077956_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "간절곶 소망길",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 나사리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강동 화암 주상절리",
+  "district": "북구",
+  "category": "해안",
+  "lat": 35.6341985442,
+  "lng": 129.4424755991,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3538989_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "강동 화암 주상절리",
+    "desc": "",
+    "address": "울산광역시 북구 산하동 952-1번지 일원"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "강양항",
+  "district": "울주군",
+  "category": "항구·포구",
+  "lat": 35.3907268651,
+  "lng": 129.3465408293,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3534629_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강양항",
+    "desc": "",
+    "address": "울산광역시 울주군 온산읍 강양길 123"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고헌산(울산)",
+  "district": "울주군",
+  "category": "산",
+  "lat": 35.6396001019,
+  "lng": 129.1150012809,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3057715_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고헌산(울산)",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구강서원",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.5602187642,
+  "lng": 129.3371979914,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3049512_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구강서원",
+    "desc": "",
+    "address": "울산광역시 중구 서원11길 45 (반구동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "구영공원",
+  "district": "울주군",
+  "category": "공원",
+  "lat": 35.570810227,
+  "lng": 129.2420171122,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2871557_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "구영공원",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 점촌4길 62"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "국립 신불산폭포자연휴양림",
+  "district": "울주군",
+  "category": "자연휴양림",
+  "lat": 35.5259945138,
+  "lng": 129.0232319274,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3077987_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "국립 신불산폭포자연휴양림",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 청수골길 175"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "기박산성 의병 역사공원",
+  "district": "북구",
+  "category": "공원",
+  "lat": 35.6671852274,
+  "lng": 129.3753249675,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2822433_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "기박산성 의병 역사공원",
+    "desc": "",
+    "address": "울산광역시 북구 매곡로 483 (매곡동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "김씨네마카롱공장(주식회사필링)",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 35.4906034451,
+  "lng": 129.4357385879,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "김씨네마카롱공장(주식회사필링)",
+    "desc": "",
+    "address": "울산광역시 동구 등대로 99 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "나사해변(나사리해수욕장)",
+  "district": "울주군",
+  "category": "해수욕장",
+  "lat": 35.3563389636,
+  "lng": 129.34162833,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3534639_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나사해변(나사리해수욕장)",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 나사리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "내원암 계곡",
+  "district": "울주군",
+  "category": "계곡",
+  "lat": 35.3991681983,
+  "lng": 129.2310145451,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/3377679_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "내원암 계곡",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 대운상대길 382"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "내원암(울산)",
+  "district": "울주군",
+  "category": "사찰",
+  "lat": 35.3990459917,
+  "lng": 129.2310950974,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3049300_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "내원암(울산)",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 대운상대길 382"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "당사마을",
+  "district": "북구",
+  "category": "농어촌체험",
+  "lat": 35.5825185165,
+  "lng": 129.4568174821,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/1358445_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당사마을",
+    "desc": "",
+    "address": "울산광역시 북구 당사동 359-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "당사해양낚시공원",
+  "district": "북구",
+  "category": "공원",
+  "lat": 35.5811408729,
+  "lng": 129.4557092851,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3537289_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당사해양낚시공원",
+    "desc": "",
+    "address": "울산광역시 북구 용바위1길 58"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대왕암 송림",
+  "district": "동구",
+  "category": "자연생태관광지",
+  "lat": 35.4911006709,
+  "lng": 129.4388882995,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3341848_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대왕암 송림",
+    "desc": "",
+    "address": "울산광역시 동구 등대로 110"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대왕암공원",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.4904590082,
+  "lng": 129.4352747432,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3583516_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대왕암공원",
+    "desc": "",
+    "address": "울산광역시 동구 등대로 95 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대왕암공원 출렁다리",
+  "district": "동구",
+  "category": "다리",
+  "lat": 35.4904034587,
+  "lng": 129.4352775223,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3583469_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대왕암공원 출렁다리",
+    "desc": "",
+    "address": "울산광역시 동구 등대로 95"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "대운산",
+  "district": "울주군",
+  "category": "산",
+  "lat": 35.3901665277,
+  "lng": 129.2361865678,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3078007_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "대운산",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 대운상대길 225-92"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "더맑음",
+  "district": "남구",
+  "category": "이색체험",
+  "lat": 35.5405237823,
+  "lng": 129.3385956473,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3422495_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더맑음",
+    "desc": "",
+    "address": "울산광역시 남구 삼산중로74번길 30 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "덕신소공원",
+  "district": "울주군",
+  "category": "공원",
+  "lat": 35.4337686009,
+  "lng": 129.311595446,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/3534650_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕신소공원",
+    "desc": "",
+    "address": "울산광역시 울주군 온산읍 덕남로 4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "도솔암(울산)",
+  "district": "북구",
+  "category": "사찰",
+  "lat": 35.5949433365,
+  "lng": 129.3742687757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3077939_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "도솔암(울산)",
+    "desc": "",
+    "address": "울산광역시 북구 화동15길 77 (화봉동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "동축사",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.5482549876,
+  "lng": 129.419116185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3063365_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동축사",
+    "desc": "",
+    "address": "울산광역시 동구 옥류로 93 (동부동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "등억온천단지",
+  "district": "울주군",
+  "category": "온천",
+  "lat": 35.5543366785,
+  "lng": 129.0720851999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3084264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "등억온천단지",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 알프스온천로 197"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "레이홉",
+  "district": "남구",
+  "category": "이색체험",
+  "lat": 35.5424090943,
+  "lng": 129.3074066487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3337195_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레이홉",
+    "desc": "",
+    "address": "울산광역시 남구 월평로21번길 15 (신정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마근저수지",
+  "district": "울주군",
+  "category": "강",
+  "lat": 35.3750411922,
+  "lng": 129.2760279634,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3534656_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마근저수지",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 화산리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "마마스홈퀴진",
+  "district": "울주군",
+  "category": "이색체험",
+  "lat": 35.5615005936,
+  "lng": 129.1166894337,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3337210_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마마스홈퀴진",
+    "desc": "",
+    "address": "울산광역시 울주군 삼남읍 교동로 130"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "명선도",
+  "district": "울주군",
+  "category": "섬",
+  "lat": 35.3859413693,
+  "lng": 129.3507294877,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3534609_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명선도",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 진하리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "목도",
+  "district": "울주군",
+  "category": "섬",
+  "lat": 35.4490509773,
+  "lng": 129.3519859423,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3043051_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "목도",
+    "desc": "",
+    "address": "울산광역시 울주군 온산읍 당목길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "문수사(울주)",
+  "district": "울주군",
+  "category": "사찰",
+  "lat": 35.5318640861,
+  "lng": 129.2142484086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3049384_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "문수사(울주)",
+    "desc": "",
+    "address": "울산광역시 울주군 청량읍 문수산길 514"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "문수산전망대",
+  "district": "울주군",
+  "category": "유명건물",
+  "lat": 35.5317252076,
+  "lng": 129.2139678809,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3549214_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "문수산전망대",
+    "desc": "",
+    "address": "울산광역시 울주군 청량읍 문수산길 514"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "박상진의사 생가",
+  "district": "북구",
+  "category": "생가",
+  "lat": 35.6021894734,
+  "lng": 129.359953153,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3077930_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "박상진의사 생가",
+    "desc": "",
+    "address": "울산광역시 북구 박상진5로 10 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "박제상유적지",
+  "district": "울주군",
+  "category": "유적지",
+  "lat": 35.654564469,
+  "lng": 129.230326885,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2754470_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "박제상유적지",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 치술령길 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "반구서원",
+  "district": "울주군",
+  "category": "유적지",
+  "lat": 35.6092185129,
+  "lng": 129.173752552,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/3341904_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "반구서원",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 반구대안길 299"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "발리온천",
+  "district": "울주군",
+  "category": "온천",
+  "lat": 35.4059713746,
+  "lng": 129.2931117223,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/3077977_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "발리온천",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 상발2길 34"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "배내골(울산)",
+  "district": "울주군",
+  "category": "계곡",
+  "lat": 35.5331129203,
+  "lng": 129.0104800665,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3077982_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "배내골(울산)",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 이천리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "번개맨 체험관",
+  "district": "울주군",
+  "category": "이색체험",
+  "lat": 35.556494693,
+  "lng": 129.0680104958,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/3581374_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "번개맨 체험관",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 알프스온천5길 103-8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "범서온천 지지워터피아",
+  "district": "울주군",
+  "category": "온천",
+  "lat": 35.6258064399,
+  "lng": 129.2220173109,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "범서온천 지지워터피아",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 두동로 704"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "봉화재 반려견 놀이터",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.4928916546,
+  "lng": 129.4133460299,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3341838_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉화재 반려견 놀이터",
+    "desc": "",
+    "address": "울산광역시 동구 봉수로 27-53"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "불고기 팜 농어촌 테마공원",
+  "district": "울주군",
+  "category": "기타 산업관광지",
+  "lat": 35.5879698389,
+  "lng": 129.1168192368,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/3549286_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "불고기 팜 농어촌 테마공원",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 지내리 8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "삼일사",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.5756394057,
+  "lng": 129.3453246242,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/1588320_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼일사",
+    "desc": "",
+    "address": "울산광역시 중구 병영성11길 25 (서동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "서생포왜성",
+  "district": "울주군",
+  "category": "성",
+  "lat": 35.3834691158,
+  "lng": 129.3342504359,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3077992_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "서생포왜성",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 서생리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "석계서원",
+  "district": "울주군",
+  "category": "유적지",
+  "lat": 35.4699603258,
+  "lng": 129.2351788717,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/3055896_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "석계서원",
+    "desc": "",
+    "address": "울산광역시 울주군 웅촌면 대복동천로 160-12"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "석남사계곡",
+  "district": "울주군",
+  "category": "계곡",
+  "lat": 35.5331267827,
+  "lng": 129.0091496267,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3077965_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "석남사계곡",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 이천리 642-7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선바위",
+  "district": "울주군",
+  "category": "산",
+  "lat": 35.5822393705,
+  "lng": 129.2352757129,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3549315_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선바위",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 두동로 160"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선바위(입암)",
+  "district": "울주군",
+  "category": "관광자원",
+  "lat": 35.5662858909,
+  "lng": 129.250285962,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/3049429_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "선바위(입암)",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 모두박길 6-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "선바위공원",
+  "district": "울주군",
+  "category": "공원",
+  "lat": 35.583364229,
+  "lng": 129.2344951937,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2871584_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "선바위공원",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 입암리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "솔개공원",
+  "district": "울주군",
+  "category": "공원",
+  "lat": 35.373315002,
+  "lng": 129.3503993143,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/3534665_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솔개공원",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 해맞이로 1416"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "솔개해수욕장",
+  "district": "울주군",
+  "category": "해수욕장",
+  "lat": 35.3737398854,
+  "lng": 129.3467301771,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/3534645_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솔개해수욕장",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 진하리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송운사",
+  "district": "울주군",
+  "category": "사찰",
+  "lat": 35.5471600955,
+  "lng": 129.0928335863,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3581415_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송운사",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 자수정로 212"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "송정공원",
+  "district": "울주군",
+  "category": "공원",
+  "lat": 35.3696182621,
+  "lng": 129.3540268796,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2796522_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "송정공원",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 송정1길 96"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "쇠평어린이공원",
+  "district": "동구",
+  "category": "공원",
+  "lat": 35.5508383137,
+  "lng": 129.434045366,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2752330_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "쇠평어린이공원",
+    "desc": "",
+    "address": "울산광역시 동구 동해안로 263 (동부동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신불산군립공원",
+  "district": "울주군",
+  "category": "군립공원",
+  "lat": 35.5598579998,
+  "lng": 129.057097467,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신불산군립공원",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "신흥사(울산)",
+  "district": "북구",
+  "category": "사찰",
+  "lat": 35.6610639896,
+  "lng": 129.390921002,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/3048924_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신흥사(울산)",
+    "desc": "",
+    "address": "울산광역시 북구 대안4길 280"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "애니언파크(울산 반려동물 문화센터)",
+  "district": "북구",
+  "category": "테마공원",
+  "lat": 35.6347442892,
+  "lng": 129.3676487809,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2917379_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애니언파크(울산 반려동물 문화센터)",
+    "desc": "",
+    "address": "울산광역시 북구 호계매곡6로 108"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "언양성당 성지",
+  "district": "울주군",
+  "category": "종교성지",
+  "lat": 35.5698468467,
+  "lng": 129.1150893401,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3581718_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "언양성당 성지",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 구교동1길 11"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "언양읍성",
+  "district": "울주군",
+  "category": "성",
+  "lat": 35.5693026053,
+  "lng": 129.1226553607,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3377671_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "언양읍성",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 성안2길 53-4"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "영남알프스 복합웰컴센터",
+  "district": "울주군",
+  "category": "이색체험",
+  "lat": 35.556494693,
+  "lng": 129.0680104958,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2674936_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영남알프스 복합웰컴센터",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 알프스온천5길 103-8"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "옥천암(울산)",
+  "district": "북구",
+  "category": "사찰",
+  "lat": 35.5801174291,
+  "lng": 129.3850376997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3341884_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥천암(울산)",
+    "desc": "",
+    "address": "울산광역시 북구 무룡로 225"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "온실리움",
+  "district": "울주군",
+  "category": "수목원",
+  "lat": 35.5976434793,
+  "lng": 129.1023646745,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3581588_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "온실리움",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 도동신리로 138"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "와나스타",
+  "district": "울주군",
+  "category": "이색체험",
+  "lat": 35.5402511517,
+  "lng": 129.1672272797,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/3337219_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "와나스타",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 대암1길 207"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "외고산 옹기마을",
+  "district": "울주군",
+  "category": "기타 산업관광지",
+  "lat": 35.432879217,
+  "lng": 129.2798871229,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3534617_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "외고산 옹기마을",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 외고산3길 36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "용연서원",
+  "district": "남구",
+  "category": "유적지",
+  "lat": 35.5476723367,
+  "lng": 129.3045095305,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3341831_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용연서원",
+    "desc": "",
+    "address": "울산광역시 남구 이휴정길 20"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울기등대",
+  "district": "동구",
+  "category": "등대",
+  "lat": 35.49247561,
+  "lng": 129.4438267191,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/3341846_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울기등대",
+    "desc": "",
+    "address": "울산광역시 동구 등대로 155"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 12경",
+  "district": "남구",
+  "category": "산",
+  "lat": 35.5475915537,
+  "lng": 129.2918939669,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3078011_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 12경",
+    "desc": "",
+    "address": "울산광역시 남구 태화동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 귀신고래 회유해면",
+  "district": "남구",
+  "category": "관광자원",
+  "lat": 35.5041121316,
+  "lng": 129.3876451745,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/3072901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 귀신고래 회유해면",
+    "desc": "",
+    "address": "울산광역시 남구 장생포동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 롯데 그랜드 휠",
+  "district": "남구",
+  "category": "테마공원",
+  "lat": 35.5389628501,
+  "lng": 129.3387790086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3065264_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 롯데 그랜드 휠",
+    "desc": "",
+    "address": "울산광역시 남구 삼산로 288 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 신화마을",
+  "district": "남구",
+  "category": "농어촌체험",
+  "lat": 35.5235174122,
+  "lng": 129.3413431085,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3014916_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 신화마을",
+    "desc": "",
+    "address": "울산광역시 남구 여천로66번길 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 큰애기집",
+  "district": "중구",
+  "category": "이색체험",
+  "lat": 35.5566272097,
+  "lng": 129.3217188878,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3581842_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 큰애기집",
+    "desc": "",
+    "address": "울산광역시 중구 문화의거리 28"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 태화사지 십이지상 사리탑",
+  "district": "남구",
+  "category": "기념탑·기념비",
+  "lat": 35.5271580556,
+  "lng": 129.3087097418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3072951_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 태화사지 십이지상 사리탑",
+    "desc": "",
+    "address": "울산광역시 남구 두왕로 277"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산대교 전망대",
+  "district": "동구",
+  "category": "유명건물",
+  "lat": 35.5017849664,
+  "lng": 129.4062491748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/3422817_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "울산대교 전망대",
+    "desc": "",
+    "address": "울산광역시 동구 봉수로 155-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산동헌 및 내아",
+  "district": "중구",
+  "category": "고궁",
+  "lat": 35.5577409465,
+  "lng": 129.3202856482,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3341921_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산동헌 및 내아",
+    "desc": "",
+    "address": "울산광역시 중구 동헌길 167"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산시립어린이테마파크",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 35.4885176062,
+  "lng": 129.437746805,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/3573051_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "울산시립어린이테마파크",
+    "desc": "",
+    "address": "울산광역시 동구 등대로 100 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산안전체험관",
+  "district": "북구",
+  "category": "이색체험",
+  "lat": 35.6177364666,
+  "lng": 129.4403484748,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3534606_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산안전체험관",
+    "desc": "",
+    "address": "울산광역시 북구 산하중앙2로 87-33 (정자동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산양떼목장",
+  "district": "북구",
+  "category": "농어촌체험",
+  "lat": 35.5652974488,
+  "lng": 129.4155243491,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/3537237_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산양떼목장",
+    "desc": "",
+    "address": "울산광역시 북구 아랫율동2길 262-113 (어물동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산어린이천문대",
+  "district": "울주군",
+  "category": "자연생태관광지",
+  "lat": 35.6301004882,
+  "lng": 129.2266473413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3335095_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산어린이천문대",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 지지1길 100"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산중구생활문화센터",
+  "district": "중구",
+  "category": "이색체험",
+  "lat": 35.5565300067,
+  "lng": 129.3221632958,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3581890_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산중구생활문화센터",
+    "desc": "",
+    "address": "울산광역시 중구 중앙길 161"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산중구어린이역사과학체험관",
+  "district": "중구",
+  "category": "이색체험",
+  "lat": 35.5566827286,
+  "lng": 129.3201051378,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3080927_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산중구어린이역사과학체험관",
+    "desc": "",
+    "address": "울산광역시 중구 새즈믄해거리 37 (성남동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산테마식물수목원",
+  "district": "동구",
+  "category": "수목원",
+  "lat": 35.5535517673,
+  "lng": 129.4271792207,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/3084249_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산테마식물수목원",
+    "desc": "",
+    "address": "울산광역시 동구 쇠평길 33-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산함",
+  "district": "남구",
+  "category": "이색체험",
+  "lat": 35.5024094506,
+  "lng": 129.3826178832,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3335081_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산함",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 252 (매암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산향교",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.5606210946,
+  "lng": 129.3158609529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3084293_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산향교",
+    "desc": "",
+    "address": "울산광역시 중구 명륜로 117"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울주 간월사지 석조여래좌상",
+  "district": "울주군",
+  "category": "유적지",
+  "lat": 35.5554560097,
+  "lng": 129.0727628873,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/3049327_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울주 간월사지 석조여래좌상",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 알프스온천4길 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울주 구량리 은행나무",
+  "district": "울주군",
+  "category": "관광자원",
+  "lat": 35.6213414259,
+  "lng": 129.1352305797,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2728935_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울주 구량리 은행나무",
+    "desc": "",
+    "address": "울산광역시 울주군 두서면"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "월봉사(울산)",
+  "district": "동구",
+  "category": "사찰",
+  "lat": 35.4934638757,
+  "lng": 129.4167012764,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3077915_image3_1.bmp",
+  "i18n": {
+   "ko": {
+    "name": "월봉사(울산)",
+    "desc": "",
+    "address": "울산광역시 동구 봉수로 55 (화정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "은하수 다리",
+  "district": "남구",
+  "category": "다리",
+  "lat": 35.5500133446,
+  "lng": 129.2834751892,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/3014972_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "은하수 다리",
+    "desc": "",
+    "address": "울산광역시 남구 무거동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "일산해수욕장(울산)",
+  "district": "동구",
+  "category": "해수욕장",
+  "lat": 35.4949278551,
+  "lng": 129.4302000587,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3528444_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "일산해수욕장(울산)",
+    "desc": "",
+    "address": "울산광역시 동구 해수욕장10길 18"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "자드락숲",
+  "district": "울주군",
+  "category": "산",
+  "lat": 35.6278245225,
+  "lng": 129.161553096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3341900_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자드락숲",
+    "desc": "",
+    "address": "울산광역시 울주군 두서면 서하천전로 76"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "자수정 동굴나라",
+  "district": "울주군",
+  "category": "동굴",
+  "lat": 35.5426827762,
+  "lng": 129.0904172556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3549535_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "자수정 동굴나라",
+    "desc": "",
+    "address": "울산광역시 울주군 자수정로 212 자수정동굴나라"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장생포 고래바다여행선",
+  "district": "남구",
+  "category": "유람선",
+  "lat": 35.5028149271,
+  "lng": 129.3808541361,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/3072895_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장생포 고래바다여행선",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 244"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장생포 모노레일",
+  "district": "남구",
+  "category": "이색체험",
+  "lat": 35.5029704748,
+  "lng": 129.3813402009,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3549052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장생포 모노레일",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 246"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장생포고래문화특구",
+  "district": "남구",
+  "category": "농어촌체험",
+  "lat": 35.5032009945,
+  "lng": 129.3808374607,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "장생포고래문화특구",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 244 (매암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "정광사",
+  "district": "남구",
+  "category": "사찰",
+  "lat": 35.5469748116,
+  "lng": 129.2842113214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2754532_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정광사",
+    "desc": "",
+    "address": "울산광역시 남구 정광로4번길 14"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "주식회사도시나무",
+  "district": "동구",
+  "category": "이색체험",
+  "lat": 35.4893949299,
+  "lng": 129.4189067548,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "주식회사도시나무",
+    "desc": "",
+    "address": "울산광역시 동구 월봉4길 36 (방어동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "주전몽돌해변",
+  "district": "동구",
+  "category": "해수욕장",
+  "lat": 35.565609276,
+  "lng": 129.4552486547,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3014942_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주전몽돌해변",
+    "desc": "",
+    "address": "울산광역시 동구 주전동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "주전봉수대",
+  "district": "동구",
+  "category": "성",
+  "lat": 35.5442532013,
+  "lng": 129.4477415807,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/3581984_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주전봉수대",
+    "desc": "",
+    "address": "울산광역시 동구 동해안로 230"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "주전어촌체험마을",
+  "district": "동구",
+  "category": "농어촌체험",
+  "lat": 35.5592600061,
+  "lng": 129.4561043157,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2609416_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주전어촌체험마을",
+    "desc": "",
+    "address": "울산광역시 동구 새싹길 23 주전어촌체험마을안내센터"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "중산동 고분군",
+  "district": "북구",
+  "category": "유적지",
+  "lat": 35.6611296321,
+  "lng": 129.3371506965,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3048935_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "중산동 고분군",
+    "desc": "",
+    "address": "울산광역시 북구 이화5길 27-18 (중산동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "처용암",
+  "district": "남구",
+  "category": "관광자원",
+  "lat": 35.4671988875,
+  "lng": 129.349219007,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/3072911_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "처용암",
+    "desc": "",
+    "address": "울산광역시 남구 황성동 668-1"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천전리각석계곡(울산)",
+  "district": "울주군",
+  "category": "계곡",
+  "lat": 35.6096544965,
+  "lng": 129.1695751274,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3585139_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "천전리각석계곡(울산)",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 천전각석길"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "천전리공룡발자국화석",
+  "district": "울주군",
+  "category": "관광자원",
+  "lat": 35.614440215,
+  "lng": 129.1773798662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3049142_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "천전리공룡발자국화석",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 천전리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "철구소계곡",
+  "district": "울주군",
+  "category": "계곡",
+  "lat": 35.5469419576,
+  "lng": 129.0125267245,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/3564989_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "철구소계곡",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 이천리"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "치산서원",
+  "district": "울주군",
+  "category": "유적지",
+  "lat": 35.6545394713,
+  "lng": 129.2303018878,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/3049114_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "치산서원",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 치술령길 7"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "카페 곰곰(더씨앗)",
+  "district": "울주군",
+  "category": "이색체험",
+  "lat": 35.487005253,
+  "lng": 129.2149023859,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/3337192_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 곰곰(더씨앗)",
+    "desc": "",
+    "address": "울산광역시 울주군 삼동로 1653"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "태화강",
+  "district": "남구",
+  "category": "강",
+  "lat": 35.5486691244,
+  "lng": 129.2873637765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/3008621_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태화강",
+    "desc": "",
+    "address": "울산광역시 남구 무거동"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "태화강 국가정원",
+  "district": "중구",
+  "category": "수목원",
+  "lat": 35.5487747405,
+  "lng": 129.2911995498,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3422843_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "태화강 국가정원",
+    "desc": "",
+    "address": "울산광역시 중구 샛강남길 5 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "태화강 전망대",
+  "district": "남구",
+  "category": "유명건물",
+  "lat": 35.5450918732,
+  "lng": 129.2939660784,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3341812_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태화강 전망대",
+    "desc": "",
+    "address": "울산광역시 남구 남산로 223"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "태화강동굴피아",
+  "district": "남구",
+  "category": "이색체험",
+  "lat": 35.5452836784,
+  "lng": 129.3024681091,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2601308_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태화강동굴피아",
+    "desc": "",
+    "address": "울산광역시 남구 남산로 306"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "태화루",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.5533995305,
+  "lng": 129.3076757594,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3341926_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "태화루",
+    "desc": "",
+    "address": "울산광역시 중구 태화로 300"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "학산서원",
+  "district": "중구",
+  "category": "유적지",
+  "lat": 35.5540797809,
+  "lng": 129.2955212458,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2953166_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "학산서원",
+    "desc": "",
+    "address": "울산광역시 중구 신기16길 15"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "한방테마파크 초락당",
+  "district": "울주군",
+  "category": "헬스투어",
+  "lat": 35.7099187672,
+  "lng": 129.1996780011,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/3043042_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한방테마파크 초락당",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 계명로 44-34"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "해남사",
+  "district": "중구",
+  "category": "사찰",
+  "lat": 35.5597740535,
+  "lng": 129.3204133573,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/98/1357098_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해남사",
+    "desc": "",
+    "address": "울산광역시 중구 기상대길 13"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "현대자동차 울산공장",
+  "district": "북구",
+  "category": "산업관광지",
+  "lat": 35.5389803669,
+  "lng": 129.3839750664,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3048893_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현대자동차 울산공장",
+    "desc": "",
+    "address": "울산광역시 북구 염포로 700"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "홍류폭포",
+  "district": "울주군",
+  "category": "폭포",
+  "lat": 35.5596834909,
+  "lng": 129.0823702624,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3049207_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "홍류폭포",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 명촌길천로 33-6"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "화암추 등대",
+  "district": "동구",
+  "category": "등대",
+  "lat": 35.4725632681,
+  "lng": 129.4073304603,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/3073206_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "화암추 등대",
+    "desc": "",
+    "address": "울산광역시 동구 화암등대길 50 (방어동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "회야댐 생태습지",
+  "district": "울주군",
+  "category": "자연생태관광지",
+  "lat": 35.4683912467,
+  "lng": 129.2452780347,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3549193_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "회야댐 생태습지",
+    "desc": "",
+    "address": "울산광역시 울주군 웅촌면 통천리 산109-1번지"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "효자 송도선생 정려비",
+  "district": "중구",
+  "category": "기념탑·기념비",
+  "lat": 35.5585880748,
+  "lng": 129.3203689502,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3057734_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "효자 송도선생 정려비",
+    "desc": "",
+    "address": "울산광역시 중구 동헌길 167"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "㈜ 희품씨",
+  "district": "울주군",
+  "category": "이색체험",
+  "lat": 35.5671609878,
+  "lng": 129.1124285363,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/3353912_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "㈜ 희품씨",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 방천8길 5"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "고복수음악관",
+  "district": "중구",
+  "category": "전시관",
+  "lat": 35.5563549816,
+  "lng": 129.3197857306,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2795254_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고복수음악관",
+    "desc": "",
+    "address": "울산광역시 중구 중앙1길 9"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 동구문화원",
+  "district": "동구",
+  "category": "문화원",
+  "lat": 35.4937778782,
+  "lng": 129.4246061342,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3581336_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 동구문화원",
+    "desc": "",
+    "address": "울산광역시 동구 화진6길 4 (화정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산 옹기박물관",
+  "district": "울주군",
+  "category": "박물관",
+  "lat": 35.4350595214,
+  "lng": 129.2795176492,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3538038_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산 옹기박물관",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 외고산3길 36"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산과학관",
+  "district": "남구",
+  "category": "전시관",
+  "lat": 35.540128062,
+  "lng": 129.2684017827,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2800680_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산과학관",
+    "desc": "",
+    "address": "울산광역시 남구 남부순환도로 111 (옥동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산동부도서관",
+  "district": "동구",
+  "category": "도서관",
+  "lat": 35.5282379059,
+  "lng": 129.4250884527,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/3073190_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산동부도서관",
+    "desc": "",
+    "address": "울산광역시 동구 봉수로 505"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산문화예술회관",
+  "district": "남구",
+  "category": "공연장",
+  "lat": 35.542964959,
+  "lng": 129.3271521316,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/1587977_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산문화예술회관",
+    "desc": "",
+    "address": "울산광역시 남구 번영로 200"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산박물관",
+  "district": "남구",
+  "category": "박물관",
+  "lat": 35.5271580556,
+  "lng": 129.3087097418,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/3072936_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산박물관",
+    "desc": "",
+    "address": "울산광역시 남구 두왕로 277"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산시립미술관",
+  "district": "중구",
+  "category": "미술관·화랑",
+  "lat": 35.5577104058,
+  "lng": 129.3209022617,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3084300_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산시립미술관",
+    "desc": "",
+    "address": "울산광역시 중구 미술관길 72 (북정동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산울주도서관",
+  "district": "울주군",
+  "category": "도서관",
+  "lat": 35.5584568854,
+  "lng": 129.1377460121,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/3377659_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산울주도서관",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 언양로 109"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울산전시컨벤션센터",
+  "district": "울주군",
+  "category": "컨벤션센터",
+  "lat": 35.5556598644,
+  "lng": 129.1316827314,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3581367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울산전시컨벤션센터",
+    "desc": "",
+    "address": "울산광역시 울주군 삼남읍 울산역로 255"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "울주문화원",
+  "district": "울주군",
+  "category": "문화원",
+  "lat": 35.4362955209,
+  "lng": 129.2810147062,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/3335231_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "울주문화원",
+    "desc": "",
+    "address": "울산광역시 울주군 온양읍 외고산1길 4-19"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장생포 고래박물관",
+  "district": "남구",
+  "category": "박물관",
+  "lat": 35.5032009945,
+  "lng": 129.3808374607,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3581305_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장생포 고래박물관",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 244 (매암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "장생포 고래생태체험관",
+  "district": "남구",
+  "category": "전시관",
+  "lat": 35.5023705573,
+  "lng": 129.3821429257,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3549034_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장생포 고래생태체험관",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 248 (매암동)"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "큐빅광장",
+  "district": "중구",
+  "category": "공연장",
+  "lat": 35.5547606861,
+  "lng": 129.3181748052,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/3335215_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큐빅광장",
+    "desc": "",
+    "address": "울산광역시 중구 학성로 65"
+   }
+  }
+ },
+ {
+  "section": "sights",
+  "name_ko": "현대예술관",
+  "district": "동구",
+  "category": "공연장",
+  "lat": 35.5228997416,
+  "lng": 129.4317185812,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/1355323_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현대예술관",
+    "desc": "",
+    "address": "울산광역시 동구 명덕로 10 현대예술관"
+   }
+  }
+ }
+]

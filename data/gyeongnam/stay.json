@@ -1,0 +1,1685 @@
+[
+ {
+  "section": "stay",
+  "name_ko": "거제 돔 관광호텔",
+  "district": "거제시",
+  "category": "관광호텔",
+  "lat": 34.8224815267,
+  "lng": 128.7099866882,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "거제 돔 관광호텔",
+    "desc": "",
+    "address": "경상남도 거제시 일운면 거제대로 2372"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "거제 선셋한옥&오션리조트",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.953428793,
+  "lng": 128.6000372174,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "거제 선셋한옥&오션리조트",
+    "desc": "",
+    "address": "경상남도 거제시 하청면 연하해안로 1076-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "거제스테이",
+  "district": "거제시",
+  "category": "모텔",
+  "lat": 34.8847591334,
+  "lng": 128.6243008183,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "거제스테이",
+    "desc": "",
+    "address": "경상남도 거제시 거제중앙로17길 5 (고현동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "게스트하우스 리좀",
+  "district": "창원시",
+  "category": "게스트하우스",
+  "lat": 35.2091496495,
+  "lng": 128.5735799046,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "게스트하우스 리좀",
+    "desc": "",
+    "address": "경상남도 창원시 마산합포구 동서북14길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "고성 최필간고택",
+  "district": "고성군",
+  "category": "한옥스테이",
+  "lat": 34.9505829528,
+  "lng": 128.1936699642,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2574712_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고성 최필간고택",
+    "desc": "",
+    "address": "경상남도 고성군 하일면 학동돌담길 55"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "골든비즈니스호텔",
+  "district": "진주시",
+  "category": "관광호텔",
+  "lat": 35.1778370506,
+  "lng": 128.1403742084,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3081230_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골든비즈니스호텔",
+    "desc": "",
+    "address": "경상남도 진주시 에나로 101 (충무공동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "골든튤립 호텔 남강",
+  "district": "진주시",
+  "category": "관광호텔",
+  "lat": 35.1916150997,
+  "lng": 128.0865896708,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2813169_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "골든튤립 호텔 남강",
+    "desc": "",
+    "address": "경상남도 진주시 남강로673번길 16 골든튤립에센셜 남강"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "그레이70호텔",
+  "district": "거제시",
+  "category": "모텔",
+  "lat": 34.9180260651,
+  "lng": 128.5370991949,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그레이70호텔",
+    "desc": "",
+    "address": "경상남도 거제시 사등면 성포로 319"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "까미노(Camino) bnb",
+  "district": "창원시",
+  "category": "게스트하우스",
+  "lat": 35.2426003363,
+  "lng": 128.6652043289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2571608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "까미노(Camino) bnb",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 반송로81번길 37"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "나무향기펜션",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.841754191,
+  "lng": 128.6998481684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2566810_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나무향기펜션",
+    "desc": "",
+    "address": "경상남도 거제시 일운면 소동4길 54"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "나인호텔",
+  "district": "진주시",
+  "category": "관광호텔",
+  "lat": 35.1910400513,
+  "lng": 128.0802235776,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "나인호텔",
+    "desc": "",
+    "address": "경상남도 진주시 남강로 629-5 (본성동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "남해 디풀빌라",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7077714996,
+  "lng": 128.050638747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2819547_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남해 디풀빌라",
+    "desc": "",
+    "address": "경상남도 남해군 미조로 164"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "뉴그랜드호텔",
+  "district": "진주시",
+  "category": "관광호텔",
+  "lat": 35.1778203786,
+  "lng": 128.1399936864,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "뉴그랜드호텔",
+    "desc": "",
+    "address": "경상남도 진주시 에나로 97 (충무공동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달강",
+  "district": "진주시",
+  "category": "펜션",
+  "lat": 35.1596670017,
+  "lng": 127.991212766,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3575193_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달강",
+    "desc": "",
+    "address": "경상남도 진주시 대평면 호반로 405"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "달의 정원",
+  "district": "합천군",
+  "category": "한옥스테이",
+  "lat": 35.7900725493,
+  "lng": 128.0873319214,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2631943_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달의 정원",
+    "desc": "",
+    "address": "경상남도 합천군 가야면 치인1길 13-31"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "당항포관광지 펜션",
+  "district": "고성군",
+  "category": "펜션",
+  "lat": 35.0563858594,
+  "lng": 128.3986687125,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/3017016_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "당항포관광지 펜션",
+    "desc": "",
+    "address": "경상남도 고성군 회화면 당항만로 1116"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "더뷰펜션(더뷰1151)",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7964605849,
+  "lng": 127.835102515,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "더뷰펜션(더뷰1151)",
+    "desc": "",
+    "address": "경상남도 남해군 서면 남서대로 1477"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "덴바스타 테마 키즈호텔",
+  "district": "김해시",
+  "category": "모텔",
+  "lat": 35.2752479945,
+  "lng": 128.8892866547,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3547157_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덴바스타 테마 키즈호텔",
+    "desc": "",
+    "address": "경상남도 김해시 인제로 545-20"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "도르가관광호스텔",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8413770016,
+  "lng": 128.4209085599,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "도르가관광호스텔",
+    "desc": "",
+    "address": "경상남도 통영시 새터길 74-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "드레피인풀빌라",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.886189268,
+  "lng": 128.4551321768,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2987216_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "드레피인풀빌라",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 남해안대로 205-39"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "딘호텔",
+  "district": "창원시",
+  "category": "모텔",
+  "lat": 35.2300326033,
+  "lng": 128.681719893,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "딘호텔",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 용지로169번길 3 (용호동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "똘레랑스모텔",
+  "district": "거제시",
+  "category": "모텔",
+  "lat": 34.8916680038,
+  "lng": 128.6968248814,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "똘레랑스모텔",
+    "desc": "",
+    "address": "경상남도 거제시 옥포로4길 32-1 (옥포동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라별풀빌라 남해펜션",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.72528576,
+  "lng": 128.0250933029,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라별풀빌라 남해펜션",
+    "desc": "",
+    "address": "경상남도 남해군 미조면 미송로486번길 29"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "라온 on 37",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8261039132,
+  "lng": 128.4323190785,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라온 on 37",
+    "desc": "",
+    "address": "경상남도 통영시 남포2길 37 (도남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "마리조아펜션",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.8726707189,
+  "lng": 128.4206272061,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/3546557_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마리조아펜션",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 기호바깥길 7-35"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "맘마논맘마",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.8603976319,
+  "lng": 128.4508304533,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "맘마논맘마",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 용남해안로 230"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "맨하탄호텔",
+  "district": "남해군",
+  "category": "모텔",
+  "lat": 34.8367460007,
+  "lng": 127.8946990482,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "맨하탄호텔",
+    "desc": "",
+    "address": "경상남도 남해군 남해읍 화전로 60-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "무척산관광예술원",
+  "district": "김해시",
+  "category": "한옥스테이",
+  "lat": 35.38373767,
+  "lng": 128.8394658113,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "무척산관광예술원",
+    "desc": "",
+    "address": "경상남도 김해시 생림면 안양로358번길 38"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "문화객가 사랑채",
+  "district": "밀양시",
+  "category": "한옥스테이",
+  "lat": 35.5046308478,
+  "lng": 128.7550809844,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "문화객가 사랑채",
+    "desc": "",
+    "address": "경상남도 밀양시 밀양향교2길 4-7 (교동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "미륵미륵 맥주호스텔",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8431158588,
+  "lng": 128.4300188316,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "미륵미륵 맥주호스텔",
+    "desc": "",
+    "address": "경상남도 통영시 해송정4길 37"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "밀양관광펜션아름드리",
+  "district": "밀양시",
+  "category": "펜션",
+  "lat": 35.5219039011,
+  "lng": 128.9055173372,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "밀양관광펜션아름드리",
+    "desc": "",
+    "address": "경상남도 밀양시 단장면 표충로 826-14"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다정원펜션",
+  "district": "사천시",
+  "category": "펜션",
+  "lat": 34.9898550844,
+  "lng": 127.9662193887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2571696_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다정원펜션",
+    "desc": "",
+    "address": "경상남도 사천시 서포면 토끼로 245-41"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "바다향기",
+  "district": "통영시",
+  "category": "관광호텔",
+  "lat": 34.8872468645,
+  "lng": 128.4205518289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2709405_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "바다향기",
+    "desc": "",
+    "address": "경상남도 통영시 광도면 죽림해안로 36"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "박진사고택",
+  "district": "고성군",
+  "category": "한옥스테이",
+  "lat": 35.1170246518,
+  "lng": 128.3079417017,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2918272_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "박진사고택",
+    "desc": "",
+    "address": "경상남도 고성군 개천면 청광6길 25-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "백무산장 황토방 펜션",
+  "district": "함양군",
+  "category": "모텔",
+  "lat": 35.3623136917,
+  "lng": 127.6804320079,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/3567310_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백무산장 황토방 펜션",
+    "desc": "",
+    "address": "경상남도 함양군 마천면 백무동로 321"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "부곡 로얄관광호텔",
+  "district": "창녕군",
+  "category": "관광호텔",
+  "lat": 35.4414154223,
+  "lng": 128.5858614292,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "부곡 로얄관광호텔",
+    "desc": "",
+    "address": "경상남도 창녕군 부곡면 온천중앙로 3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트 항남점",
+  "district": "통영시",
+  "category": "관광호텔",
+  "lat": 34.8420991965,
+  "lng": 128.423894392,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3577983_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트 항남점",
+    "desc": "",
+    "address": "경상남도 통영시 동충4길 53 (항남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "브라운도트호텔 진주충무공점",
+  "district": "진주시",
+  "category": "관광호텔",
+  "lat": 35.1786230714,
+  "lng": 128.1402686411,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "브라운도트호텔 진주충무공점",
+    "desc": "",
+    "address": "경상남도 진주시 에나로 103-9 (충무공동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "블루비치모텔",
+  "district": "거제시",
+  "category": "모텔",
+  "lat": 34.8908236272,
+  "lng": 128.6953583651,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "블루비치모텔",
+    "desc": "",
+    "address": "경상남도 거제시 옥포로6길 16 (옥포동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비마이아일랜드",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.8421145465,
+  "lng": 128.0362087641,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "비마이아일랜드",
+    "desc": "",
+    "address": "경상남도 남해군 창선면 흥선로 1857-33"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "비진도 더씨펜션",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.7212189187,
+  "lng": 128.4608943413,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/3579687_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "비진도 더씨펜션",
+    "desc": "",
+    "address": "경상남도 통영시 한산면 외항길 48-63"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "빈센트펜션",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7238418788,
+  "lng": 127.8891329847,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/3547093_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빈센트펜션",
+    "desc": "",
+    "address": "경상남도 남해군 남면 남면로 775-19"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "사계절호스텔(통영 사계절펜션)",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8653418426,
+  "lng": 128.4686509931,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사계절호스텔(통영 사계절펜션)",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 해간길 46-87"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "산청한방가족호텔",
+  "district": "산청군",
+  "category": "관광호텔",
+  "lat": 35.4387993581,
+  "lng": 127.830019591,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산청한방가족호텔",
+    "desc": "",
+    "address": "경상남도 산청군 금서면 동의보감로479번길 43"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "생각의 계절",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7648921612,
+  "lng": 127.8502020026,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3579205_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "생각의 계절",
+    "desc": "",
+    "address": "경상남도 남해군 남면 남면로1673번길 20-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "석주재",
+  "district": "밀양시",
+  "category": "한옥스테이",
+  "lat": 35.5106122528,
+  "lng": 128.8377263604,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "석주재",
+    "desc": "",
+    "address": "경상남도 밀양시 산외면 금곡2길 50"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "소낭구펜션",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.8512508091,
+  "lng": 128.7250873889,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/3460135_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소낭구펜션",
+    "desc": "",
+    "address": "경상남도 거제시 일운면 마전1길 83"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "솜누스",
+  "district": "진주시",
+  "category": "모텔",
+  "lat": 35.1909151926,
+  "lng": 128.0873979517,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3546833_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "솜누스",
+    "desc": "",
+    "address": "경상남도 진주시 논개길 53"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "수성그린비",
+  "district": "고성군",
+  "category": "펜션",
+  "lat": 34.9424818379,
+  "lng": 128.236185907,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "수성그린비",
+    "desc": "",
+    "address": "경상남도 고성군 삼산면 자란만로 2128"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "숲속통나무펜션",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7750848996,
+  "lng": 127.9769045613,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "숲속통나무펜션",
+    "desc": "",
+    "address": "경상남도 남해군 이동면 보리암로 160"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스테이다옴",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7284743966,
+  "lng": 127.8720676898,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스테이다옴",
+    "desc": "",
+    "address": "경상남도 남해군 남면 남면로 956"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "스페이스 우분투",
+  "district": "창원시",
+  "category": "게스트하우스",
+  "lat": 35.1589984063,
+  "lng": 128.6541131099,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스페이스 우분투",
+    "desc": "",
+    "address": "경상남도 창원시 진해구 여명로 29-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아름다운 산골",
+  "district": "하동군",
+  "category": "민박",
+  "lat": 35.2703452212,
+  "lng": 127.6193009027,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2785826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아름다운 산골",
+    "desc": "",
+    "address": "경상남도 하동군 화개면 범왕길 196"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "아이리움 바이 비클래시",
+  "district": "밀양시",
+  "category": "펜션",
+  "lat": 35.4538745857,
+  "lng": 128.7079309513,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "아이리움 바이 비클래시",
+    "desc": "",
+    "address": "경상남도 밀양시 초동면 방동안길 41"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "안정궁 관광 한옥 펜션",
+  "district": "통영시",
+  "category": "한옥스테이",
+  "lat": 34.9454732795,
+  "lng": 128.3981550249,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "안정궁 관광 한옥 펜션",
+    "desc": "",
+    "address": "경상남도 통영시 광도면 안정2길 95"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "언덕위에 하얀집",
+  "district": "진주시",
+  "category": "펜션",
+  "lat": 35.1613168126,
+  "lng": 127.9910016296,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/3587547_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "언덕위에 하얀집",
+    "desc": "",
+    "address": "경상남도 진주시 대평면 호반로 414-23"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "얼음골한옥펜션",
+  "district": "밀양시",
+  "category": "한옥스테이",
+  "lat": 35.5982934067,
+  "lng": 128.9532971446,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2691004_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "얼음골한옥펜션",
+    "desc": "",
+    "address": "경상남도 밀양시 산내면 하양지안길 11-12"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "엘담스테이",
+  "district": "밀양시",
+  "category": "펜션",
+  "lat": 35.537573278,
+  "lng": 128.8470720194,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "엘담스테이",
+    "desc": "",
+    "address": "경상남도 밀양시 산외면 밀양대로 3377"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "예다움",
+  "district": "산청군",
+  "category": "한옥스테이",
+  "lat": 35.2737087577,
+  "lng": 127.936778438,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "예다움",
+    "desc": "",
+    "address": "경상남도 산청군 단성면 지리산대로 2901-6"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옛마실펜션",
+  "district": "거제시",
+  "category": "한옥스테이",
+  "lat": 34.851028597,
+  "lng": 128.7243180171,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/3017007_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옛마실펜션",
+    "desc": "",
+    "address": "경상남도 거제시 마전1길 65"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "옥포비지니스호텔",
+  "district": "거제시",
+  "category": "관광호텔",
+  "lat": 34.890304217,
+  "lng": 128.6940418263,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/3054925_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥포비지니스호텔",
+    "desc": "",
+    "address": "경상남도 거제시 옥포성안로 43 (옥포동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "원탑 풀빌라",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.8717224518,
+  "lng": 128.3561467398,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2987325_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원탑 풀빌라",
+    "desc": "",
+    "address": "경상남도 통영시 도산일주로 1810"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "주식회사제이스퀘어호텔",
+  "district": "진주시",
+  "category": "관광호텔",
+  "lat": 35.1787752354,
+  "lng": 128.1067465759,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2803218_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주식회사제이스퀘어호텔",
+    "desc": "",
+    "address": "경상남도 진주시 솔밭로 107"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "중제고택",
+  "district": "의령군",
+  "category": "한옥스테이",
+  "lat": 35.3849031017,
+  "lng": 128.3213667077,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "중제고택",
+    "desc": "",
+    "address": "경상남도 의령군 정곡면 호암길 18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "지리산태고재 (정일품농원)",
+  "district": "함양군",
+  "category": "한옥스테이",
+  "lat": 35.5651089702,
+  "lng": 127.7672967821,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "지리산태고재 (정일품농원)",
+    "desc": "",
+    "address": "경상남도 함양군 지곡면 개평길 39-2"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "참조은펜션",
+  "district": "산청군",
+  "category": "펜션",
+  "lat": 35.3710476001,
+  "lng": 127.9263462328,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/2571327_image2_1.PNG",
+  "i18n": {
+   "ko": {
+    "name": "참조은펜션",
+    "desc": "",
+    "address": "경상남도 산청군 신안면 산청대로1212번길 112-5"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "카리브콘도호텔",
+  "district": "통영시",
+  "category": "콘도미니엄",
+  "lat": 34.8294229861,
+  "lng": 128.4323134362,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/3476369_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카리브콘도호텔",
+    "desc": "",
+    "address": "경상남도 통영시 도남로 257-29 (도남동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "퀸모텔",
+  "district": "거제시",
+  "category": "모텔",
+  "lat": 34.8918818979,
+  "lng": 128.6984302918,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "퀸모텔",
+    "desc": "",
+    "address": "경상남도 거제시 옥포로2길 39-2 (옥포동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "큐브아일랜드",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.9796292041,
+  "lng": 128.6313810113,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "큐브아일랜드",
+    "desc": "",
+    "address": "경상남도 거제시 하청면 칠천로 269"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "크라운관광호텔",
+  "district": "창원시",
+  "category": "관광호텔",
+  "lat": 35.2378504117,
+  "lng": 128.6400510996,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2807206_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "크라운관광호텔",
+    "desc": "",
+    "address": "경상남도 창원시 의창구 창원대로363번길 22-5 (팔용동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "키즈스테이호텔 인 부곡",
+  "district": "창녕군",
+  "category": "모텔",
+  "lat": 35.4396184802,
+  "lng": 128.5901305488,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/3349948_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "키즈스테이호텔 인 부곡",
+    "desc": "",
+    "address": "경상남도 창녕군 온천2길 48"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영 비지니스 관광호텔",
+  "district": "통영시",
+  "category": "관광호텔",
+  "lat": 34.8563951018,
+  "lng": 128.4396620873,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/3581344_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영 비지니스 관광호텔",
+    "desc": "",
+    "address": "경상남도 통영시 통영해안로 575 (무전동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영 유어스게스트하우스",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8285506655,
+  "lng": 128.4213033069,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2705888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영 유어스게스트하우스",
+    "desc": "",
+    "address": "경상남도 통영시 데메3길 27-7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영 퀸모텔",
+  "district": "통영시",
+  "category": "모텔",
+  "lat": 34.8414159645,
+  "lng": 128.4252776227,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/3577339_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영 퀸모텔",
+    "desc": "",
+    "address": "경상남도 통영시 통영해안로 285"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영그란데호스텔",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8314056417,
+  "lng": 128.4067156134,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "통영그란데호스텔",
+    "desc": "",
+    "address": "경상남도 통영시 진남아랫길 10"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영대교게스트하우스",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8333193408,
+  "lng": 128.4080848879,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2568643_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영대교게스트하우스",
+    "desc": "",
+    "address": "경상남도 통영시 진남1길 24"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영더스토리 게스트하우스",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8300838622,
+  "lng": 128.4232725396,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2576246_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영더스토리 게스트하우스",
+    "desc": "",
+    "address": "경상남도 통영시 도남로 175-27"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "통영타워펜션",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.8895892005,
+  "lng": 128.4725888997,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/3581634_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "통영타워펜션",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 견유1길 151"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "트로피칼드림 리조트",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.8155704624,
+  "lng": 128.6698209173,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/3592356_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트로피칼드림 리조트",
+    "desc": "",
+    "address": "경상남도 거제시 일운면 망양1길 16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "팜비치리조텔",
+  "district": "통영시",
+  "category": "콘도미니엄",
+  "lat": 34.8296757444,
+  "lng": 128.4327495026,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/3547681_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팜비치리조텔",
+    "desc": "",
+    "address": "경상남도 통영시 도남로 257-45 팜비치리조텔"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "펜션블루씨",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.626851036,
+  "lng": 128.2684218655,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/3575100_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "펜션블루씨",
+    "desc": "",
+    "address": "경상남도 통영시 욕지면 욕지일주로 1536-17"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "풍차마을 로즈힐펜션",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.8806234402,
+  "lng": 128.4672229371,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3579805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍차마을 로즈힐펜션",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 장평신촌1길 251-9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "풍차언덕관광펜션",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.8129130419,
+  "lng": 128.7039707983,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/06/2629706_image2_1.PNG",
+  "i18n": {
+   "ko": {
+    "name": "풍차언덕관광펜션",
+    "desc": "",
+    "address": "경상남도 거제시 일운면 거제대로 2210"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "프라다모텔",
+  "district": "거제시",
+  "category": "모텔",
+  "lat": 34.8913275791,
+  "lng": 128.6096047007,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/3055266_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "프라다모텔",
+    "desc": "",
+    "address": "경상남도 거제시 장평로 72 (장평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "프린스호텔",
+  "district": "고성군",
+  "category": "관광호텔",
+  "lat": 34.9642672419,
+  "lng": 128.3335657211,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/2631239_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "프린스호텔",
+    "desc": "",
+    "address": "경상남도 고성군 고성읍 남해안대로 2463-21"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "하늘테라스관광펜션(하늘테라스펜션)",
+  "district": "거제시",
+  "category": "펜션",
+  "lat": 34.9164434663,
+  "lng": 128.7219553684,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2567923_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하늘테라스관광펜션(하늘테라스펜션)",
+    "desc": "",
+    "address": "경상남도 거제시 장목면 옥포대첩로 536-16"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "한산호텔",
+  "district": "통영시",
+  "category": "관광호텔",
+  "lat": 34.839741095,
+  "lng": 128.4221057207,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한산호텔",
+    "desc": "",
+    "address": "경상남도 통영시 통영해안로 247"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "해모로펜션",
+  "district": "남해군",
+  "category": "펜션",
+  "lat": 34.7156427127,
+  "lng": 128.0432752979,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/3476240_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해모로펜션",
+    "desc": "",
+    "address": "경상남도 남해군 미조면 미송로 7"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔 스테이온",
+  "district": "거제시",
+  "category": "관광호텔",
+  "lat": 34.8927885414,
+  "lng": 128.6104379228,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔 스테이온",
+    "desc": "",
+    "address": "경상남도 거제시 장평1로9길 21-4 (장평동)"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔본",
+  "district": "통영시",
+  "category": "모텔",
+  "lat": 34.88587481,
+  "lng": 128.4213712382,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/3472158_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔본",
+    "desc": "",
+    "address": "경상남도 통영시 광도면 죽림5로 25-53"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔상상",
+  "district": "거제시",
+  "category": "관광호텔",
+  "lat": 34.8475731663,
+  "lng": 128.7098527001,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2986652_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호텔상상",
+    "desc": "",
+    "address": "경상남도 거제시 일운면 거제대로 2752"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "호텔어반아일랜드",
+  "district": "남해군",
+  "category": "관광호텔",
+  "lat": 34.9194001422,
+  "lng": 128.0254632563,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "호텔어반아일랜드",
+    "desc": "",
+    "address": "경상남도 남해군 창선면 서부로 1503-22"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "홈게스트하우스",
+  "district": "통영시",
+  "category": "게스트하우스",
+  "lat": 34.8313836505,
+  "lng": 128.4195506075,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2576050_image2_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "홈게스트하우스",
+    "desc": "",
+    "address": "경상남도 통영시 서송정1길 46-18"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "효성모텔",
+  "district": "남해군",
+  "category": "모텔",
+  "lat": 34.8359349831,
+  "lng": 127.8948296135,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "효성모텔",
+    "desc": "",
+    "address": "경상남도 남해군 남해읍 화전로 52-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "히아신스펜션",
+  "district": "통영시",
+  "category": "펜션",
+  "lat": 34.8808928511,
+  "lng": 128.4670118372,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/3582973_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "히아신스펜션",
+    "desc": "",
+    "address": "경상남도 통영시 용남면 장평신촌1길 251-3"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "힐포트하동",
+  "district": "하동군",
+  "category": "펜션",
+  "lat": 35.1500708823,
+  "lng": 127.6763545558,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2811864_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "힐포트하동",
+    "desc": "",
+    "address": "경상남도 하동군 섬진강대로 3352-1"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "AT비지니스호텔",
+  "district": "창원시",
+  "category": "관광호텔",
+  "lat": 35.2245192728,
+  "lng": 128.6783758898,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2808507_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "AT비지니스호텔",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 용지로 102 개나리종합상가"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "GuestH(진주게스트하우스_GuestH)",
+  "district": "진주시",
+  "category": "게스트하우스",
+  "lat": 35.1842384302,
+  "lng": 128.102288489,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "GuestH(진주게스트하우스_GuestH)",
+    "desc": "",
+    "address": "경상남도 진주시 모덕로64번길 9"
+   }
+  }
+ },
+ {
+  "section": "stay",
+  "name_ko": "mtm모텔",
+  "district": "창원시",
+  "category": "모텔",
+  "lat": 35.2193365742,
+  "lng": 128.6812813317,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "mtm모텔",
+    "desc": "",
+    "address": "경상남도 창원시 성산구 마디미로70번길 6 (상남동)"
+   }
+  }
+ }
+]

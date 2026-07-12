@@ -1,0 +1,1991 @@
+[
+ {
+  "section": "food",
+  "name_ko": "가지산언양불고기",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5655835584,
+  "lng": 129.1215777814,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2852549_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가지산언양불고기",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 헌양길 96"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "간절곶 돌문어",
+  "district": "울주군",
+  "category": "해산물·회",
+  "lat": 35.3471091228,
+  "lng": 129.324516188,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2848625_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "간절곶 돌문어",
+    "desc": "",
+    "address": "울산광역시 울주군 신암해안2길 23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "간절곶 보광 보리밥 손칼국수",
+  "district": "울주군",
+  "category": "면·국물",
+  "lat": 35.3459146391,
+  "lng": 129.3153142444,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2848638_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "간절곶 보광 보리밥 손칼국수",
+    "desc": "",
+    "address": "울산광역시 울주군 해맞이로 787"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "간절곶관광회센터",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.3645633419,
+  "lng": 129.3576294856,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2871357_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "간절곶관광회센터",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 간절곶해안길 246"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "간절바당",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.3467035733,
+  "lng": 129.3224552675,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2848649_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "간절바당",
+    "desc": "",
+    "address": "울산광역시 울주군 신암해안길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갈비구락부",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5606062683,
+  "lng": 129.1176727061,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "갈비구락부",
+    "desc": "",
+    "address": "울산광역시 울주군 삼남읍 남상평2길 34-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고래고기원조할매집",
+  "district": "남구",
+  "category": "고기·구이",
+  "lat": 35.5017814973,
+  "lng": 129.3695884811,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고래고기원조할매집",
+    "desc": "",
+    "address": "울산광역시 남구 장생포고래로 135"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "곽암아트카페갤러리",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.6133150698,
+  "lng": 129.457644314,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2848840_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "곽암아트카페갤러리",
+    "desc": "",
+    "address": "울산광역시 북구 판지1길 62 (구유동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구유림",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.6100181934,
+  "lng": 129.4563389658,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2852557_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구유림",
+    "desc": "",
+    "address": "울산광역시 북구 동해안로 1335"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꽃바위동해반점",
+  "district": "북구",
+  "category": "중식",
+  "lat": 35.6301640146,
+  "lng": 129.3552611034,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "꽃바위동해반점",
+    "desc": "",
+    "address": "울산광역시 북구 동대중앙로 43 (호계동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나고야 일식",
+  "district": "동구",
+  "category": "일식",
+  "lat": 35.5028741583,
+  "lng": 129.4288110665,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "나고야 일식",
+    "desc": "",
+    "address": "울산광역시 동구 방어진순환도로 683"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나인유",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.6093654739,
+  "lng": 129.4555473867,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2844890_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나인유",
+    "desc": "",
+    "address": "울산광역시 북구 동해안로 1321"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나해돌솥밥",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.5705496561,
+  "lng": 129.1210165802,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "나해돌솥밥",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 읍성로 111"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "농도",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5585086455,
+  "lng": 129.0835896331,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2822975_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "농도",
+    "desc": "",
+    "address": "울산광역시 울주군 명촌길천로 23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "누렁소불고기",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.7131989141,
+  "lng": 129.1976197557,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "누렁소불고기",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 계명로 80"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다운목살구이",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.5564902617,
+  "lng": 129.2764117349,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "다운목살구이",
+    "desc": "",
+    "address": "울산광역시 중구 운곡안길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "담소",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5110353597,
+  "lng": 129.1868236087,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2848658_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "담소",
+    "desc": "",
+    "address": "울산광역시 울주군 삼동로 1238-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대왕암아구찜",
+  "district": "동구",
+  "category": "해산물·회",
+  "lat": 35.4949417328,
+  "lng": 129.4297056573,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2794897_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대왕암아구찜",
+    "desc": "",
+    "address": "울산광역시 동구 해수욕장4길 8 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대일함흥냉면",
+  "district": "중구",
+  "category": "면·국물",
+  "lat": 35.5537075265,
+  "lng": 129.2915882663,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "대일함흥냉면",
+    "desc": "",
+    "address": "울산광역시 중구 명정4길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "더 스톤",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.6139325978,
+  "lng": 129.0641314517,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2848678_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "더 스톤",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 소야정길 115"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동남횟집",
+  "district": "동구",
+  "category": "해산물·회",
+  "lat": 35.5484389765,
+  "lng": 129.4548797291,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2832448_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동남횟집",
+    "desc": "",
+    "address": "울산광역시 동구 보밑길 75 (주전동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동부분식",
+  "district": "울주군",
+  "category": "분식·주점",
+  "lat": 35.5657030047,
+  "lng": 129.1223888178,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2871377_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "동부분식",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 남문길 35-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "디앤유커피 본점",
+  "district": "남구",
+  "category": "카페·베이커리",
+  "lat": 35.5170480647,
+  "lng": 129.3078489895,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2852575_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "디앤유커피 본점",
+    "desc": "",
+    "address": "울산광역시 남구 남부순환도로626번길 8 (두왕동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "떡바우횟집",
+  "district": "울주군",
+  "category": "해산물·회",
+  "lat": 35.3467535705,
+  "lng": 129.3226024757,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2871448_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "떡바우횟집",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 신암해안길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라메르판지",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.6135427715,
+  "lng": 129.4549862057,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2832516_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라메르판지",
+    "desc": "",
+    "address": "울산광역시 북구 판지1길 30 (구유동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라오",
+  "district": "북구",
+  "category": "중식",
+  "lat": 35.6007091199,
+  "lng": 129.3618613614,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2848862_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라오",
+    "desc": "",
+    "address": "울산광역시 북구 송정15길 10 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라온누리",
+  "district": "동구",
+  "category": "양식·세계요리",
+  "lat": 35.5439000541,
+  "lng": 129.426110143,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "라온누리",
+    "desc": "",
+    "address": "울산광역시 동구 옥류로 57"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리코파스토 우정혁신본점",
+  "district": "중구",
+  "category": "양식·세계요리",
+  "lat": 35.5588903231,
+  "lng": 129.2940406835,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2848834_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리코파스토 우정혁신본점",
+    "desc": "",
+    "address": "울산광역시 중구 종가1길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명촌한식뷔페",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.5568306037,
+  "lng": 129.3556436999,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2871832_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "명촌한식뷔페",
+    "desc": "",
+    "address": "울산광역시 북구 명촌23길 41 (진장동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "목포식당",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.5536268036,
+  "lng": 129.2822057538,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "목포식당",
+    "desc": "",
+    "address": "울산광역시 중구 태화강국가정원길 59 (태화동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "발레나식스",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.6234678866,
+  "lng": 129.2258698176,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2848699_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "발레나식스",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 지지길 55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "배내골참민물장어",
+  "district": "북구",
+  "category": "해산물·회",
+  "lat": 35.5589665145,
+  "lng": 129.357749012,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "배내골참민물장어",
+    "desc": "",
+    "address": "울산광역시 북구 명촌3길 7-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뱃고동횟집",
+  "district": "울주군",
+  "category": "해산물·회",
+  "lat": 35.3550254748,
+  "lng": 129.3551133042,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2848709_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뱃고동횟집",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 간절곶해안길 83"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베네치아",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.5271302482,
+  "lng": 129.0098469553,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/1983713_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베네치아",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 배내로 950"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베르츠 율리",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5263126762,
+  "lng": 129.2538701058,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2841601_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베르츠 율리",
+    "desc": "",
+    "address": "울산광역시 울주군 청량읍 상보두현길 75"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "베테랑 바베큐",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.3505699136,
+  "lng": 129.328149109,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2848720_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "베테랑 바베큐",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 해맞이로 924"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보리꽃",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.4920171252,
+  "lng": 129.4330998888,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2832466_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보리꽃",
+    "desc": "",
+    "address": "울산광역시 동구 해수욕장10길 74 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "복산돈까스",
+  "district": "중구",
+  "category": "양식·세계요리",
+  "lat": 35.5654624103,
+  "lng": 129.3261043673,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2785317_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복산돈까스",
+    "desc": "",
+    "address": "울산광역시 중구 손골2길 17-6 (복산동, 동덕아파트)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "본밀크(BONMILK)",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5650419543,
+  "lng": 129.1216166819,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2848734_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "본밀크(BONMILK)",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 헌양길 95"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "본치즈어리 유진목장",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.6353174427,
+  "lng": 129.1252727244,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2822754_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "본치즈어리 유진목장",
+    "desc": "",
+    "address": "울산광역시 울주군 구량차리로 320"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "봉계참솔한우",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.7129850813,
+  "lng": 129.1993251675,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/3576930_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "봉계참솔한우",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 두동로 1835"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부라더고깃집",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5365352811,
+  "lng": 129.3353710409,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2841525_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "부라더고깃집",
+    "desc": "",
+    "address": "울산광역시 남구 달삼로 57 (달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부산횟집",
+  "district": "중구",
+  "category": "해산물·회",
+  "lat": 35.5618645265,
+  "lng": 129.2694455246,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "부산횟집",
+    "desc": "",
+    "address": "울산광역시 중구 다운로 90-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "북경짜장",
+  "district": "북구",
+  "category": "중식",
+  "lat": 35.5566889718,
+  "lng": 129.3566297288,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2871917_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "북경짜장",
+    "desc": "",
+    "address": "울산광역시 북구 명촌23길 31 (진장동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사랑채",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.4995856091,
+  "lng": 129.4272446293,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "사랑채",
+    "desc": "",
+    "address": "울산광역시 동구 번덕로 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산다화 본점",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.595254752,
+  "lng": 129.0965958008,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2871023_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "산다화 본점",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 송락골길 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산돼지마을",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5397066642,
+  "lng": 129.012735241,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산돼지마을",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 배내로 1116"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼정한우축산",
+  "district": "북구",
+  "category": "고기·구이",
+  "lat": 35.6495202471,
+  "lng": 129.3593324218,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2848868_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼정한우축산",
+    "desc": "",
+    "address": "울산광역시 북구 매곡로 204 (매곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼태육경 회 타운",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5436236209,
+  "lng": 129.348514139,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2871805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼태육경 회 타운",
+    "desc": "",
+    "address": "울산광역시 남구 남중로 104 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "샬로우커피 성남점",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.5568633137,
+  "lng": 129.322760457,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2868015_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "샬로우커피 성남점",
+    "desc": "",
+    "address": "울산광역시 중구 중앙길 171-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서도밀면",
+  "district": "중구",
+  "category": "면·국물",
+  "lat": 35.5698399335,
+  "lng": 129.3387392518,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "서도밀면",
+    "desc": "",
+    "address": "울산광역시 중구 평산4길 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선바위한우갈비",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5711933504,
+  "lng": 129.2331317663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2871599_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "선바위한우갈비",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 구영앞길 140"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소울메이트",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.5749667526,
+  "lng": 129.3184436561,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2868022_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소울메이트",
+    "desc": "",
+    "address": "울산광역시 중구 성안6길 23 (성안동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소이빈삼동카페",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5012963033,
+  "lng": 129.1192686682,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2848750_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소이빈삼동카페",
+    "desc": "",
+    "address": "울산광역시 울주군 삼동로 267-7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "솔밭가든",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.5814549588,
+  "lng": 129.3209626975,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "솔밭가든",
+    "desc": "",
+    "address": "울산광역시 중구 함월20길 65"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "순례국밥",
+  "district": "동구",
+  "category": "면·국물",
+  "lat": 35.4793792976,
+  "lng": 129.4141380081,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2873195_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "순례국밥",
+    "desc": "",
+    "address": "울산광역시 동구 남진길 80-12 (방어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스컹크웍스 우정점",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.5632790528,
+  "lng": 129.3117890113,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2871605_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "스컹크웍스 우정점",
+    "desc": "",
+    "address": "울산광역시 중구 종가6길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "슬도수산(더가득)",
+  "district": "동구",
+  "category": "해산물·회",
+  "lat": 35.4905504257,
+  "lng": 129.4226202873,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "슬도수산(더가득)",
+    "desc": "",
+    "address": "울산광역시 동구 화진4가길 28 (방어동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시래담",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.5490740931,
+  "lng": 129.11020146,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/2848764_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시래담",
+    "desc": "",
+    "address": "울산광역시 울주군 삼남읍 등억알프스로 50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시선310 간절곶점",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.3452814818,
+  "lng": 129.3209026645,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2848675_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "시선310 간절곶점",
+    "desc": "",
+    "address": "울산광역시 울주군 신리길 102"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "식당153",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.4949278557,
+  "lng": 129.4302333899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2868254_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "식당153",
+    "desc": "",
+    "address": "울산광역시 동구 해수욕장10길 18 (일산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신사동보쌈&족발",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.4974692234,
+  "lng": 129.4295222686,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신사동보쌈&족발",
+    "desc": "",
+    "address": "울산광역시 동구 보성길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신천쭈꾸미",
+  "district": "북구",
+  "category": "해산물·회",
+  "lat": 35.6457262047,
+  "lng": 129.3580048668,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/2871943_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "신천쭈꾸미",
+    "desc": "",
+    "address": "울산광역시 북구 매곡로 152 (매곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신화곰장어",
+  "district": "중구",
+  "category": "해산물·회",
+  "lat": 35.5545080314,
+  "lng": 129.3231965963,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신화곰장어",
+    "desc": "",
+    "address": "울산광역시 중구 젊음의거리 105"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "싱귤러커피 울산본점",
+  "district": "남구",
+  "category": "카페·베이커리",
+  "lat": 35.5354588259,
+  "lng": 129.2515144991,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2841560_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "싱귤러커피 울산본점",
+    "desc": "",
+    "address": "울산광역시 남구 대학로1번길 3-35 (무거동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "어전생복집",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.5578194645,
+  "lng": 129.3600571757,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "어전생복집",
+    "desc": "",
+    "address": "울산광역시 북구 명촌5길 27 (진장동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "언양1번가 주먹떡갈비",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5622757821,
+  "lng": 129.1314575658,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "언양1번가 주먹떡갈비",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 언양로 37"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "언양불고기 한마당한우촌",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5686052288,
+  "lng": 129.1102286887,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/3588033_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "언양불고기 한마당한우촌",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 웃방천5길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "언양전통불고기",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5660334775,
+  "lng": 129.1199140249,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "언양전통불고기",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 헌양길 128"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에이오피(AOP)",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.3572333359,
+  "lng": 129.3431392843,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2832567_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에이오피(AOP)",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 해맞이로 1097-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영천한우마을",
+  "district": "동구",
+  "category": "고기·구이",
+  "lat": 35.4882840303,
+  "lng": 129.4235119405,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영천한우마을",
+    "desc": "",
+    "address": "울산광역시 동구 방어진순환도로 512"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오계절",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.6648939947,
+  "lng": 129.237400974,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/3581452_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오계절",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 박제상로 294-108"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오르토커피",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5746992083,
+  "lng": 129.1220441516,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2848705_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오르토커피",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 내곡길 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오리엔탈 무거면옥",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.538557289,
+  "lng": 129.336057035,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "오리엔탈 무거면옥",
+    "desc": "",
+    "address": "울산광역시 남구 삼산로266번길 4-1 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오션페어리",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.6135483066,
+  "lng": 129.4539307422,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/2868240_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오션페어리",
+    "desc": "",
+    "address": "울산광역시 북구 판지1길 16 (구유동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "완도참전복",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5428376209,
+  "lng": 129.3497223891,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/2871320_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "완도참전복",
+    "desc": "",
+    "address": "울산광역시 남구 남중로94번길 13 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우진참한우",
+  "district": "북구",
+  "category": "고기·구이",
+  "lat": 35.6325107365,
+  "lng": 129.342739908,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2871773_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "우진참한우",
+    "desc": "",
+    "address": "울산광역시 북구 고래로 2-1 (천곡동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유승추어탕",
+  "district": "울주군",
+  "category": "면·국물",
+  "lat": 35.5635802076,
+  "lng": 129.2272380508,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "유승추어탕",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 천상3길 10-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이너리트",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5502296194,
+  "lng": 129.1156037329,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2832549_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이너리트",
+    "desc": "",
+    "address": "울산광역시 울주군 삼남읍 수남벚꽃길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이안에들꽃",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.643734869,
+  "lng": 129.2162950835,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2848732_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이안에들꽃",
+    "desc": "",
+    "address": "울산광역시 울주군 이전장성길 60-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이조장어",
+  "district": "남구",
+  "category": "해산물·회",
+  "lat": 35.5367404332,
+  "lng": 129.3151644644,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/39/1901639_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이조장어",
+    "desc": "",
+    "address": "울산광역시 남구 삼산로77번길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이중생업",
+  "district": "남구",
+  "category": "양식·세계요리",
+  "lat": 35.538579515,
+  "lng": 129.3363931164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2868265_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이중생업",
+    "desc": "",
+    "address": "울산광역시 남구 삼산로266번길 5-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일산정삼계탕",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.495258367,
+  "lng": 129.4298778553,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "일산정삼계탕",
+    "desc": "",
+    "address": "울산광역시 동구 해수욕장3길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일품장어 본점",
+  "district": "울주군",
+  "category": "해산물·회",
+  "lat": 35.5684438202,
+  "lng": 129.2416894295,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2848741_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "일품장어 본점",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 점촌6길 19-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장현골추어탕",
+  "district": "중구",
+  "category": "면·국물",
+  "lat": 35.589032299,
+  "lng": 129.3429494533,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2837110_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장현골추어탕",
+    "desc": "",
+    "address": "울산광역시 중구 종가26길 26 (장현동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정나루",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.568529869,
+  "lng": 129.2388674513,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2848761_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "정나루",
+    "desc": "",
+    "address": "울산광역시 울주군 구영앞길 74"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정문식곱창구이",
+  "district": "북구",
+  "category": "고기·구이",
+  "lat": 35.6011646254,
+  "lng": 129.3619307869,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "정문식곱창구이",
+    "desc": "",
+    "address": "울산광역시 북구 송정14길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "정원숯불구이",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.7138794323,
+  "lng": 129.1997001095,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "정원숯불구이",
+    "desc": "",
+    "address": "울산광역시 울주군 두동면 두동로 1840"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "조포닭발",
+  "district": "중구",
+  "category": "한식·백반",
+  "lat": 35.555560633,
+  "lng": 129.3201301673,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "조포닭발",
+    "desc": "",
+    "address": "울산광역시 중구 중앙2길 20-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "진상가든",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.536851853,
+  "lng": 129.3322296392,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "진상가든",
+    "desc": "",
+    "address": "울산광역시 남구 왕생로 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "차일품한정식",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5385741276,
+  "lng": 129.3452867849,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "차일품한정식",
+    "desc": "",
+    "address": "울산광역시 남구 삼산로352번길 14 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "착한물고기",
+  "district": "남구",
+  "category": "고기·구이",
+  "lat": 35.5357742796,
+  "lng": 129.3366737266,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2841573_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "착한물고기",
+    "desc": "",
+    "address": "울산광역시 남구 삼산중로 24 (달동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "촌놈밥집",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5357022349,
+  "lng": 129.3456451682,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2844773_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "촌놈밥집",
+    "desc": "",
+    "address": "울산광역시 남구 정동로20번길 15 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카몬시 카페",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.5845711219,
+  "lng": 129.4599060442,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2845294_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카몬시 카페",
+    "desc": "",
+    "address": "울산광역시 북구 용바위2길 45 (당사동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 수피아",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.526937163,
+  "lng": 129.0817045681,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2848784_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 수피아",
+    "desc": "",
+    "address": "울산광역시 울주군 장제1길 13-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페벼리",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.5533329266,
+  "lng": 129.4577932253,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2832500_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페벼리",
+    "desc": "",
+    "address": "울산광역시 동구 물목길 20 (주전동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페은린",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.580363098,
+  "lng": 129.4512374747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2844995_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페은린",
+    "desc": "",
+    "address": "울산광역시 북구 아름1길 11 (어물동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "토르첼로",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5256248534,
+  "lng": 129.0093803712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2848800_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토르첼로",
+    "desc": "",
+    "address": "울산광역시 울주군 배내로 950"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "파란풍차",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.5549996189,
+  "lng": 129.3219300265,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "파란풍차",
+    "desc": "",
+    "address": "울산광역시 중구 중앙시장길 2-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "파파앤썬by랑콩뜨레",
+  "district": "북구",
+  "category": "카페·베이커리",
+  "lat": 35.5995675609,
+  "lng": 129.3607698222,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2837076_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "파파앤썬by랑콩뜨레",
+    "desc": "",
+    "address": "울산광역시 북구 박상진6로 7 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한가위",
+  "district": "북구",
+  "category": "한식·백반",
+  "lat": 35.5744175253,
+  "lng": 129.3561848229,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "한가위",
+    "desc": "",
+    "address": "울산광역시 북구 진장유통로 43"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해마지",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.5628318244,
+  "lng": 129.4559903355,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2844872_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해마지",
+    "desc": "",
+    "address": "울산광역시 동구 동해안로 634 (주전동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해와달",
+  "district": "동구",
+  "category": "한식·백반",
+  "lat": 35.5589628284,
+  "lng": 129.4566848285,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해와달",
+    "desc": "",
+    "address": "울산광역시 동구 동해안로 589"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해월당 본점",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.5751014964,
+  "lng": 129.0982489986,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "해월당 본점",
+    "desc": "",
+    "address": "울산광역시 울주군 상북면 봉화로 258-40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "헤이다이닝",
+  "district": "남구",
+  "category": "양식·세계요리",
+  "lat": 35.5428457506,
+  "lng": 129.3389816591,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2844804_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "헤이다이닝",
+    "desc": "",
+    "address": "울산광역시 남구 돋질로312번길 7 (삼산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호피폴라",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.356061088,
+  "lng": 129.3347456033,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2794916_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호피폴라",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 나사해안길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "환장라멘",
+  "district": "북구",
+  "category": "일식",
+  "lat": 35.6006146978,
+  "lng": 129.3624807543,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2848586_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "환장라멘",
+    "desc": "",
+    "address": "울산광역시 북구 송정17길 3 (송정동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "효정밥상",
+  "district": "울주군",
+  "category": "한식·백반",
+  "lat": 35.4924924593,
+  "lng": 129.3061720485,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2870983_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "효정밥상",
+    "desc": "",
+    "address": "울산광역시 울주군 신덕하1길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "히든블루",
+  "district": "울주군",
+  "category": "카페·베이커리",
+  "lat": 35.3448176447,
+  "lng": 129.3208915676,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2784185_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "히든블루",
+    "desc": "",
+    "address": "울산광역시 울주군 서생면 신리길 96"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "60헤르츠",
+  "district": "동구",
+  "category": "카페·베이커리",
+  "lat": 35.5610709159,
+  "lng": 129.456212588,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2832425_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "60헤르츠",
+    "desc": "",
+    "address": "울산광역시 동구 동해안로 612 (주전동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]언양한우불고기",
+  "district": "울주군",
+  "category": "고기·구이",
+  "lat": 35.5648614222,
+  "lng": 129.121808337,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2606468_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]언양한우불고기",
+    "desc": "",
+    "address": "울산광역시 울주군 언양읍 헌양길 87-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게] 구이와아구찜",
+  "district": "울주군",
+  "category": "해산물·회",
+  "lat": 35.5693992559,
+  "lng": 129.2409950188,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게] 구이와아구찜",
+    "desc": "",
+    "address": "울산광역시 울주군 범서읍 점촌6길 28"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게] 덤",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5426387385,
+  "lng": 129.2602913092,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게] 덤",
+    "desc": "",
+    "address": "울산광역시 남구 대학로84번길 5-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게] 솟대",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.5408166383,
+  "lng": 129.2558695241,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게] 솟대",
+    "desc": "",
+    "address": "울산광역시 남구 대학로47번길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게] 안창깍두기",
+  "district": "남구",
+  "category": "한식·백반",
+  "lat": 35.542760948,
+  "lng": 129.2603357463,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게] 안창깍두기",
+    "desc": "",
+    "address": "울산광역시 남구 대학로84번길 5-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[착한가게] 유가냉면",
+  "district": "중구",
+  "category": "면·국물",
+  "lat": 35.5545440797,
+  "lng": 129.3200746456,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[착한가게] 유가냉면",
+    "desc": "",
+    "address": "울산광역시 중구 먹자거리 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "smash coffee",
+  "district": "중구",
+  "category": "카페·베이커리",
+  "lat": 35.5532363253,
+  "lng": 129.343008792,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2848681_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "smash coffee",
+    "desc": "",
+    "address": "울산광역시 중구 내황2길 26"
+   }
+  }
+ }
+]

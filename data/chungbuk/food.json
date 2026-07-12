@@ -1,0 +1,5374 @@
+[
+ {
+  "section": "food",
+  "name_ko": "가덕한우정육점",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.5634910212,
+  "lng": 127.5291215233,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2903763_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "가덕한우정육점",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 단재로 940"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가든포레스트",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6968871677,
+  "lng": 127.5479605858,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2860335_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가든포레스트",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 도원세교로 222-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가람",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 36.932935468,
+  "lng": 128.1772085952,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2013726_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "가람",
+    "desc": "",
+    "address": "충청북도 제천시 수산면 월악로 2970"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "가연",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9792195516,
+  "lng": 128.3533442569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2741030_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "가연",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 삼봉로 87"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갈마가든",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.8893174561,
+  "lng": 127.9838966173,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2767257_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갈마가든",
+    "desc": "",
+    "address": "충청북도 충주시 살미면 용천갈마길 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갑돌갈비",
+  "district": "영동군",
+  "category": "고기·구이",
+  "lat": 36.173273469,
+  "lng": 127.7802292626,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2835391_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갑돌갈비",
+    "desc": "",
+    "address": "충청북도 영동군 계산로2길 5-23 갑돌갈비"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "갑오징어와코다리",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 37.0419072775,
+  "lng": 127.4757713143,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2767270_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "갑오징어와코다리",
+    "desc": "",
+    "address": "충청북도 음성군 삼성면 금일로 1274"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강대박",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.2697901167,
+  "lng": 127.6186826849,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2767296_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강대박",
+    "desc": "",
+    "address": "충청북도 옥천군 동이면 옥천로 2286"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강박사냉면숯불갈비",
+  "district": "제천시",
+  "category": "고기·구이",
+  "lat": 37.1487695571,
+  "lng": 128.208171776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2671148_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강박사냉면숯불갈비",
+    "desc": "",
+    "address": "충청북도 제천시 청전대로 91"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강서면옥",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.4824093444,
+  "lng": 127.722512015,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "강서면옥",
+    "desc": "",
+    "address": "충청북도 보은군 보은읍 동편길 35"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "강쇠낙지마을",
+  "district": "청주시",
+  "category": "해산물·회",
+  "lat": 36.6079093573,
+  "lng": 127.4415614811,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2856921_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "강쇠낙지마을",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 대림로 418"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "개신동해장국",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6247300843,
+  "lng": 127.465836618,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2859390_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "개신동해장국",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 모충로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "거궁회관",
+  "district": "충주시",
+  "category": "해산물·회",
+  "lat": 37.027342953,
+  "lng": 127.9676746747,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/75/2050575_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "거궁회관",
+    "desc": "",
+    "address": "충청북도 충주시 동량면 조동1길 69"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "겸하당",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6287132514,
+  "lng": 127.4820489428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3423109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "겸하당",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 무심서로 413 (모충동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경남식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9883773744,
+  "lng": 128.3821941854,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2857669_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경남식당",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 고수동굴길 4-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경주식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9807113621,
+  "lng": 128.3701677078,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2791729_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경주식당",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 도전6길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경주집버섯찌개",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6329211642,
+  "lng": 127.4854957395,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "경주집버섯찌개",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 남사로93번길 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경진각",
+  "district": "옥천군",
+  "category": "중식",
+  "lat": 36.3002218781,
+  "lng": 127.5698001051,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2740604_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경진각",
+    "desc": "",
+    "address": "충청북도 옥천군 옥천읍 중앙로4길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "경화대반점",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.6187697044,
+  "lng": 127.4684615469,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2857083_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "경화대반점",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 1순환로 866 경화반점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고기굼터 보궁",
+  "district": "증평군",
+  "category": "고기·구이",
+  "lat": 36.7813029168,
+  "lng": 127.5726199095,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2849657_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고기굼터 보궁",
+    "desc": "",
+    "address": "충청북도 증평군 초중로 89 한양식품(주)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고원갈비",
+  "district": "제천시",
+  "category": "고기·구이",
+  "lat": 37.1370403639,
+  "lng": 128.2087942841,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/3587938_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고원갈비",
+    "desc": "",
+    "address": "충청북도 제천시 의병대로15길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고자매맛카롱",
+  "district": "영동군",
+  "category": "카페·베이커리",
+  "lat": 36.1710263408,
+  "lng": 127.7711995718,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "고자매맛카롱",
+    "desc": "",
+    "address": "충청북도 영동군 영동읍 학산영동로 1211"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "고화갈비살 청주본점",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.5816858255,
+  "lng": 127.5106504544,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2860350_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "고화갈비살 청주본점",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 단재로 557"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "괴산한우타운",
+  "district": "괴산군",
+  "category": "고기·구이",
+  "lat": 36.7899458857,
+  "lng": 127.8516640736,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2857022_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "괴산한우타운",
+    "desc": "",
+    "address": "충청북도 괴산군 괴강로 632"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구경당",
+  "district": "단양군",
+  "category": "카페·베이커리",
+  "lat": 36.9821556414,
+  "lng": 128.370189886,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3422382_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구경당",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 도전5길 28"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "구옥,날다",
+  "district": "충주시",
+  "category": "카페·베이커리",
+  "lat": 36.9895339172,
+  "lng": 127.9949233133,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/02/3447102_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "구옥,날다",
+    "desc": "",
+    "address": "충청북도 충주시 충주호수로 1016-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "권가제면소",
+  "district": "청주시",
+  "category": "일식",
+  "lat": 36.6118926502,
+  "lng": 127.4648453943,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2856960_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "권가제면소",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 두꺼비로94번길 4-21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "궤짝카페",
+  "district": "음성군",
+  "category": "카페·베이커리",
+  "lat": 37.1100777794,
+  "lng": 127.6606277166,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2856858_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "궤짝카페",
+    "desc": "",
+    "address": "충청북도 음성군 감곡면 행군이길 87-65"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그냥찻집",
+  "district": "옥천군",
+  "category": "카페·베이커리",
+  "lat": 36.3150231539,
+  "lng": 127.5803737579,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그냥찻집",
+    "desc": "",
+    "address": "충청북도 옥천군 옥천읍 향수길 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "그린가든",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.0226379305,
+  "lng": 127.9672304053,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "그린가든",
+    "desc": "",
+    "address": "충청북도 충주시 동량면 동산로 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "글루글루",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 36.980685998,
+  "lng": 128.2019216672,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2792473_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "글루글루",
+    "desc": "",
+    "address": "충청북도 제천시 수산면 옥순봉로10길 2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금강올갱이",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3097706426,
+  "lng": 127.5617255662,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2795567_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금강올갱이",
+    "desc": "",
+    "address": "충청북도 옥천군 옥천읍 옥천로 1491"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금용",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.6572961175,
+  "lng": 127.4840090882,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/79/2856979_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금용",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 내덕로 33"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "금호송어장",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.4591545271,
+  "lng": 127.4606555199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2860367_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "금호송어장",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 노산하석로 166 금호송어장"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "기린",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.7319230674,
+  "lng": 127.451101643,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2857007_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "기린",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 주성1길 9-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김가네더덕밥",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6078843352,
+  "lng": 127.4401671623,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2860383_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김가네더덕밥",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 대림로421번길 24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김산기염소탕",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7242791922,
+  "lng": 127.4338645145,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2857105_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김산기염소탕",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 양청6길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "김천식당",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.4824482097,
+  "lng": 127.7214621081,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/96/2876496_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "김천식당",
+    "desc": "",
+    "address": "충청북도 보은군 삼산로1길 25-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꾸본석갈비",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.7171910541,
+  "lng": 127.430303919,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/29/2741329_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꾸본석갈비",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 오창읍 중심상업로 66-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "꿀참나무",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1781328476,
+  "lng": 128.2084458929,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2665232_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "꿀참나무",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로49길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나루터가마솥소머리곰탕",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.5311192596,
+  "lng": 127.5028581005,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2857016_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나루터가마솥소머리곰탕",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 미천고은로 73"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나릿집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6522239995,
+  "lng": 127.4573421765,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2859646_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나릿집",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 덕암로30번길 18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "나의신랑은나무꾼",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3497959466,
+  "lng": 127.5238695217,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/58/2835458_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "나의신랑은나무꾼",
+    "desc": "",
+    "address": "충청북도 옥천군 비야대정로 243"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남도예담IN벨포레",
+  "district": "증평군",
+  "category": "한식·백반",
+  "lat": 36.8448596342,
+  "lng": 127.5800619074,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2856186_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남도예담IN벨포레",
+    "desc": "",
+    "address": "충청북도 증평군 벨포레길 365 한식당"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남일순대",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.5884128426,
+  "lng": 127.511250215,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2903782_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "남일순대",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 효촌송정1길 5-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "남촌식당",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.8111507721,
+  "lng": 127.7962878848,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "남촌식당",
+    "desc": "",
+    "address": "충청북도 괴산군 괴산읍 읍내로19길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "낭만짜장",
+  "district": "제천시",
+  "category": "중식",
+  "lat": 37.1773246789,
+  "lng": 128.2122650178,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2850504_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "낭만짜장",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로48길 2-41"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "느티나무횟집",
+  "district": "제천시",
+  "category": "해산물·회",
+  "lat": 36.9969862452,
+  "lng": 128.1666576902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/3341383_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "느티나무횟집",
+    "desc": "",
+    "address": "충청북도 제천시 청풍면 배시론로 4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "능이손칼국수",
+  "district": "보은군",
+  "category": "면·국물",
+  "lat": 36.5118593776,
+  "lng": 127.7571581023,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2876522_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "능이손칼국수",
+    "desc": "",
+    "address": "충청북도 보은군 성족2길 41"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다래목장",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.7127940499,
+  "lng": 127.5687638322,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2857032_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다래목장",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 초정약수로 526-15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다래정",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.8126504925,
+  "lng": 127.7904078138,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2857068_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다래정",
+    "desc": "",
+    "address": "충청북도 괴산군 동진천길 165"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "다원",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9755729003,
+  "lng": 128.3614464161,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2741037_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "다원",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 삼봉로 172"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "단양 냉천막국수 식당",
+  "district": "단양군",
+  "category": "면·국물",
+  "lat": 36.9775394703,
+  "lng": 128.3683318533,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2857733_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단양 냉천막국수 식당",
+    "desc": "",
+    "address": "충청북도 단양군 도전3길 2 냉천막국수"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "단풍나무",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6075732844,
+  "lng": 127.4415531581,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2859685_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "단풍나무",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 대림로 414"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "달거니해장국 본점",
+  "district": "음성군",
+  "category": "면·국물",
+  "lat": 37.1173770608,
+  "lng": 127.6673574571,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2850480_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "달거니해장국 본점",
+    "desc": "",
+    "address": "충청북도 음성군 가곡로 226"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "닭마을",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.5680023148,
+  "lng": 127.5681012402,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2859711_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "닭마을",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 가덕시동길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대교식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.986371832,
+  "lng": 128.3706202799,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2857772_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대교식당",
+    "desc": "",
+    "address": "충청북도 단양군 중앙2로 9 대교식당"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대명도리탕전문",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6492104403,
+  "lng": 127.4564728935,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2859738_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대명도리탕전문",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 백봉로 188-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대산보리밥",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6103258145,
+  "lng": 127.445363852,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2741314_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대산보리밥",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 성화로69번길 43-23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대운분식",
+  "district": "청주시",
+  "category": "분식·주점",
+  "lat": 36.6656348644,
+  "lng": 127.3744798015,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/63/2859763_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대운분식",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 청주역로 652"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "대추나무집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6773548743,
+  "lng": 127.4811115712,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2859791_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "대추나무집",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 사천로18번길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "덕승관",
+  "district": "영동군",
+  "category": "중식",
+  "lat": 36.2255060738,
+  "lng": 127.9159685311,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/07/2835407_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덕승관",
+    "desc": "",
+    "address": "충청북도 영동군 소계로 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "덩실분식",
+  "district": "제천시",
+  "category": "분식·주점",
+  "lat": 37.1393150937,
+  "lng": 128.2083525907,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/20/3587020_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "덩실분식",
+    "desc": "",
+    "address": "충청북도 제천시  독순로6길 (5)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "도쿄이즈미 일식",
+  "district": "청주시",
+  "category": "일식",
+  "lat": 36.6113760585,
+  "lng": 127.4656981098,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2859848_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "도쿄이즈미 일식",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 산남로 76 인템프라자"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "동림가든",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6785575411,
+  "lng": 127.3274558924,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/76/2859876_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "동림가든",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 심동로 655"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "두남자와어머니청국장",
+  "district": "증평군",
+  "category": "한식·백반",
+  "lat": 36.7762756651,
+  "lng": 127.5697703057,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2849661_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "두남자와어머니청국장",
+    "desc": "",
+    "address": "충청북도 증평군 초중2길 4 두남자와 어머니 청국장"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "들녘애농원",
+  "district": "진천군",
+  "category": "한식·백반",
+  "lat": 36.8402692275,
+  "lng": 127.4667972198,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2858147_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "들녘애농원",
+    "desc": "",
+    "address": "충청북도 진천군 농다리로 1294"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뜰이있는집",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1536853532,
+  "lng": 128.1918758736,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/15/2751915_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뜰이있는집",
+    "desc": "",
+    "address": "충청북도 제천시 하소천길 176"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "라바크로카페",
+  "district": "음성군",
+  "category": "카페·베이커리",
+  "lat": 36.9435638063,
+  "lng": 127.5173092274,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2856083_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "라바크로카페",
+    "desc": "",
+    "address": "충청북도 음성군 대동로537번길 102"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "레인디어커피",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6162774801,
+  "lng": 127.4213686181,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2859931_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레인디어커피",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 가포산로 191"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "레인보우순카페",
+  "district": "영동군",
+  "category": "카페·베이커리",
+  "lat": 36.1611667384,
+  "lng": 127.7926146028,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3423094_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "레인보우순카페",
+    "desc": "",
+    "address": "충청북도 영동군 영동읍 영동힐링로 248"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리옌",
+  "district": "옥천군",
+  "category": "중식",
+  "lat": 36.3008080529,
+  "lng": 127.5771022149,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/00/2876600_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리옌",
+    "desc": "",
+    "address": "충청북도 옥천군 문장로3길 8-5 황돈"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리트리빈",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6160323946,
+  "lng": 127.3839525377,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "리트리빈",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 청정로 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "리틀포레스트",
+  "district": "단양군",
+  "category": "카페·베이커리",
+  "lat": 37.0769799294,
+  "lng": 128.4684366467,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2857813_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "리틀포레스트",
+    "desc": "",
+    "address": "충청북도 단양군 강변로 209-98"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마느리막국수",
+  "district": "단양군",
+  "category": "면·국물",
+  "lat": 36.9796861537,
+  "lng": 128.3527498522,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2857868_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마느리막국수",
+    "desc": "",
+    "address": "충청북도 단양군 삼봉로 79 마느리막국수"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마늘석갈비막국수",
+  "district": "단양군",
+  "category": "고기·구이",
+  "lat": 36.9428927398,
+  "lng": 128.3304918036,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2736744_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마늘석갈비막국수",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 단양로 510"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마묵라운지",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 37.156890596,
+  "lng": 128.0459139012,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "마묵라운지",
+    "desc": "",
+    "address": "충청북도 제천시 백운면 금봉로 365"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "마스타리바베큐in다게르",
+  "district": "청주시",
+  "category": "양식·세계요리",
+  "lat": 36.59888287,
+  "lng": 127.4558271171,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/25/2857325_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "마스타리바베큐in다게르",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 가마길 40-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "맥우 직영 식당",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3059930824,
+  "lng": 127.5497489602,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2860653_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "맥우 직영 식당",
+    "desc": "",
+    "address": "충청북도 옥천군 성왕로 975"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "멧돌포두부",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6112646327,
+  "lng": 127.4474108644,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2793404_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "멧돌포두부",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 성화로62번길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "명가박달재",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.160004712,
+  "lng": 128.2261920506,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "명가박달재",
+    "desc": "",
+    "address": "충청북도 제천시 신죽하로 50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "묵마을",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1337556185,
+  "lng": 128.1128946616,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/1849750_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "묵마을",
+    "desc": "",
+    "address": "충청북도 제천시 봉양읍 주포로 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "묵사랑",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7148194822,
+  "lng": 127.6056326902,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2795642_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "묵사랑",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 내수읍 초정1길 42"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "문정식당",
+  "district": "옥천군",
+  "category": "중식",
+  "lat": 36.3144898863,
+  "lng": 127.5806681899,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "문정식당",
+    "desc": "",
+    "address": "충청북도 옥천군 향수3길 20 문정식당"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "뭐하농 하우스",
+  "district": "괴산군",
+  "category": "카페·베이커리",
+  "lat": 36.8353410238,
+  "lng": 127.8708138495,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/3493882_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "뭐하농 하우스",
+    "desc": "",
+    "address": "충청북도 괴산군 감물면 충민로 694-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "미몽",
+  "district": "증평군",
+  "category": "카페·베이커리",
+  "lat": 36.8127495478,
+  "lng": 127.5862178086,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2767167_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "미몽",
+    "desc": "",
+    "address": "충청북도 증평군 증평읍 인삼로 408"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "민들레",
+  "district": "충주시",
+  "category": "카페·베이커리",
+  "lat": 36.9927339573,
+  "lng": 128.016990685,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2857516_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "민들레",
+    "desc": "",
+    "address": "충청북도 충주시 지등로 1055"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "박쏘가리",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9829888876,
+  "lng": 128.3706509315,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "박쏘가리",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 수변로 85"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "박준양스시",
+  "district": "청주시",
+  "category": "일식",
+  "lat": 36.6092101941,
+  "lng": 127.4965731789,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2859988_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "박준양스시",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 원마루로10번길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "반객",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.6220467902,
+  "lng": 127.450840815,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2857366_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "반객",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 성봉로 186"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "밥상위의 보약한첩 청풍점",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.0000553153,
+  "lng": 128.1655160371,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/3111367_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "밥상위의 보약한첩 청풍점",
+    "desc": "",
+    "address": "충청북도 제천시 청풍면 배시론로 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "방아실돼지집",
+  "district": "옥천군",
+  "category": "고기·구이",
+  "lat": 36.3886112214,
+  "lng": 127.538925449,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2860694_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "방아실돼지집",
+    "desc": "",
+    "address": "충청북도 옥천군 방아실길 9 상점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백로식당 본점",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6536101919,
+  "lng": 127.4707687112,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/2860018_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백로식당 본점",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 1순환로 418"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "백송짜글짜글",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6643156421,
+  "lng": 127.3784322605,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2858130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "백송짜글짜글",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 옥산시내1길 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "별난찜",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.9422822803,
+  "lng": 127.9127181582,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/2857571_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "별난찜",
+    "desc": "",
+    "address": "충청북도 충주시 충원대로 49-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보국가든",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6787742067,
+  "lng": 127.3288113194,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2859462_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보국가든",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 심동로 654-12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보담육풍",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7151273785,
+  "lng": 127.428979095,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2860042_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보담육풍",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 중심상업로 47 리치아노오피스텔"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보령식당",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1287773775,
+  "lng": 128.2061975365,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "보령식당",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로2길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보리곳간",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 37.026195303,
+  "lng": 128.3848845068,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2857909_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보리곳간",
+    "desc": "",
+    "address": "충청북도 단양군 사평3길 6-1 단양보리곳간"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "보은옥천영동축협 한우이야기",
+  "district": "보은군",
+  "category": "고기·구이",
+  "lat": 36.4856978866,
+  "lng": 127.7241478886,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2876535_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "보은옥천영동축협 한우이야기",
+    "desc": "",
+    "address": "충청북도 보은군 뱃들로 57 보은옥천영동축협"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "복남이네꽁당보리밥",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6162774801,
+  "lng": 127.4213686181,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2859492_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복남이네꽁당보리밥",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 가포산로 191"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "복천가든",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 37.0616655105,
+  "lng": 128.4942931151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2791742_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복천가든",
+    "desc": "",
+    "address": "충청북도 단양군 영춘면 온달로 22-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "복해가든",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.4709424667,
+  "lng": 127.791895023,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/51/2876551_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "복해가든",
+    "desc": "",
+    "address": "충청북도 보은군 개안길 15-9 음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "본정",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6344149236,
+  "lng": 127.4568982639,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "본정",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 사직대로 86"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "부부농장",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.5166097688,
+  "lng": 127.5004614921,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "부부농장",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 문의면 대청호반로 834-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "브루클린바이브 율량점",
+  "district": "청주시",
+  "category": "양식·세계요리",
+  "lat": 36.6656342538,
+  "lng": 127.4953883916,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/97/2857397_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "브루클린바이브 율량점",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 율량로190번길 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블루리프",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.632851172,
+  "lng": 127.4545012996,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "블루리프",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 내수동로 63 (복대동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "블루체어라운지카페",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6013354188,
+  "lng": 127.458721235,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2857419_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "블루체어라운지카페",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 2순환로 1618"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "비원쏘가리",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9759062123,
+  "lng": 128.3623629908,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3583288_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "비원쏘가리",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 삼봉로 179"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "빌라드도화리",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 37.1813020039,
+  "lng": 128.2125537647,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2856550_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빌라드도화리",
+    "desc": "",
+    "address": "충청북도 제천시 도화로 38-17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "빌라디쉐프 나폴리점",
+  "district": "청주시",
+  "category": "양식·세계요리",
+  "lat": 36.605721517,
+  "lng": 127.4860769938,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2860417_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "빌라디쉐프 나폴리점",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 1순환로 1080-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "사하라",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6237239272,
+  "lng": 127.4258013489,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2860449_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "사하라",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 강서로 83-8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산마루",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.0713944975,
+  "lng": 128.1743215126,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산마루",
+    "desc": "",
+    "address": "충청북도 제천시 금성면 청풍호로 909"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산아래",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.120060237,
+  "lng": 128.1270354556,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2741052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산아래",
+    "desc": "",
+    "address": "충청북도 제천시 봉양읍 앞산로 174"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산아래석갈비",
+  "district": "제천시",
+  "category": "고기·구이",
+  "lat": 37.1459306725,
+  "lng": 128.0418701379,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "산아래석갈비",
+    "desc": "",
+    "address": "충청북도 제천시 백운면 금봉로 182"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "산양골가든",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.5980155449,
+  "lng": 127.56831428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2860470_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "산양골가든",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 한계길 50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼정면옥",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.9712960006,
+  "lng": 127.9339237578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2903873_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼정면옥",
+    "desc": "",
+    "address": "충청북도 충주시 관아3길 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "삼학도수산",
+  "district": "청주시",
+  "category": "해산물·회",
+  "lat": 36.6297676693,
+  "lng": 127.4253206701,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2741366_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "삼학도수산",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 비하로 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "상당산성사슴집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6640352704,
+  "lng": 127.5416870608,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2793374_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상당산성사슴집",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 성내로 128"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "상당집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.663443683,
+  "lng": 127.5423342408,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2860538_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상당집",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 성내로118번길 1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "상주집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.632779516,
+  "lng": 127.4856512854,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "상주집",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 남사로93번길 17"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "상춘고택",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6870024428,
+  "lng": 127.4073151516,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2741132_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "상춘고택",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 옥산면 소로2길 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서문우동",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6355430794,
+  "lng": 127.4851734738,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2519386_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "서문우동",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 무심동로392번길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서울식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.988657896,
+  "lng": 128.3820969636,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2857942_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서울식당",
+    "desc": "",
+    "address": "충청북도 단양군 고수동굴길 4-10 서울식당"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "서유숙카페",
+  "district": "충주시",
+  "category": "카페·베이커리",
+  "lat": 37.1019317658,
+  "lng": 127.8268351988,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/89/2857589_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "서유숙카페",
+    "desc": "",
+    "address": "충청북도 충주시 덕은로 596"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "선광집",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3461289679,
+  "lng": 127.792537309,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/1022759_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "선광집",
+    "desc": "",
+    "address": "충청북도 옥천군 청산면 지전1길 26"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성남집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.5209206299,
+  "lng": 127.5140962632,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/80/2860580_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성남집",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 상장인차로 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성마루국밥",
+  "district": "충주시",
+  "category": "면·국물",
+  "lat": 36.9645784318,
+  "lng": 127.8428599068,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2903888_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성마루국밥",
+    "desc": "",
+    "address": "충청북도 충주시 성종두담길 315"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성안골 영양돌솥밥집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6333656089,
+  "lng": 127.4883732471,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/45/1849645_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성안골 영양돌솥밥집",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 상당로59번길 37-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성원마늘약선요리",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9809165347,
+  "lng": 128.3509749754,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/44/2741044_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성원마늘약선요리",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 삼봉로 59"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "성화옻닭",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6192861358,
+  "lng": 127.4586318584,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/99/2860599_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "성화옻닭",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 신성화로46번길 5-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소금강휴게소 (구, 소금강식당)",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.7617998124,
+  "lng": 127.8897309028,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/48/2432248_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "소금강휴게소 (구, 소금강식당)",
+    "desc": "",
+    "address": "충청북도 괴산군 칠성면 쌍곡로 242"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소나무집",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 37.0317558446,
+  "lng": 127.6382819559,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2905322_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소나무집",
+    "desc": "",
+    "address": "충청북도 음성군 차생로 111-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "소로리",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.640378694,
+  "lng": 127.4884313811,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2860621_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "소로리",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 중앙로 37 (북문로2가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "속리산옛고을",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.5304834124,
+  "lng": 127.8214685032,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "속리산옛고을",
+    "desc": "",
+    "address": "충청북도 보은군 속리산면 법주사로 250"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "속리토속음식점",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.5314555326,
+  "lng": 127.8219795416,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/1193847_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "속리토속음식점",
+    "desc": "",
+    "address": "충청북도 보은군 속리산면 법주사로 261"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송원칼국수",
+  "district": "증평군",
+  "category": "면·국물",
+  "lat": 36.7781087681,
+  "lng": 127.5686703533,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2903526_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "송원칼국수",
+    "desc": "",
+    "address": "충청북도 증평군 초중로 38 송원"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "송풍재",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.1034147318,
+  "lng": 127.9666920171,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/18/3057418_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "송풍재",
+    "desc": "",
+    "address": "충청북도 충주시 산척면 샛강영길 65"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수가성식당",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1362347945,
+  "lng": 128.2030948198,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2850524_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수가성식당",
+    "desc": "",
+    "address": "충청북도 제천시 내제로 76 (서부동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수제돈가스",
+  "district": "제천시",
+  "category": "양식·세계요리",
+  "lat": 37.1336435452,
+  "lng": 128.2094609904,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2856046_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수제돈가스",
+    "desc": "",
+    "address": "충청북도 제천시 남산로5길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "수제햄 고래부대찌개 오창본점",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7121888677,
+  "lng": 127.4312678601,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2860657_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "수제햄 고래부대찌개 오창본점",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 오창읍 중심상업2로 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "숲속의휴식",
+  "district": "단양군",
+  "category": "카페·베이커리",
+  "lat": 36.9164398258,
+  "lng": 128.309355573,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2791717_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "숲속의휴식",
+    "desc": "",
+    "address": "충청북도 단양군 단성면 대잠2길 38-21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "숲속장수촌",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.9896992415,
+  "lng": 127.923199194,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/21/2857621_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "숲속장수촌",
+    "desc": "",
+    "address": "충청북도 충주시 쇠저울1길 36 (금릉동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스시이찌방 충북혁신도시점",
+  "district": "진천군",
+  "category": "일식",
+  "lat": 36.901993868,
+  "lng": 127.5325340239,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2858190_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스시이찌방 충북혁신도시점",
+    "desc": "",
+    "address": "충청북도 진천군 시가로 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스시히어로",
+  "district": "청주시",
+  "category": "일식",
+  "lat": 36.6424995523,
+  "lng": 127.4259341529,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "스시히어로",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 대농로 33 (복대동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "스완",
+  "district": "음성군",
+  "category": "양식·세계요리",
+  "lat": 36.9713290593,
+  "lng": 127.6156329273,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/1983909_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "스완",
+    "desc": "",
+    "address": "충청북도 음성군 음성읍 음성로 823-82"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시골손두부",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1304641975,
+  "lng": 128.2544487105,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "시골손두부",
+    "desc": "",
+    "address": "충청북도 제천시 중말8길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "시골장칼국수",
+  "district": "제천시",
+  "category": "면·국물",
+  "lat": 37.1287773775,
+  "lng": 128.2061975365,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "시골장칼국수",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로2길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신라식당",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.4857671974,
+  "lng": 127.7171901757,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "신라식당",
+    "desc": "",
+    "address": "충청북도 보은군 보은읍 교사삼산길 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "신토불이약초식당",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.5315388721,
+  "lng": 127.8228572386,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/3587994_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "신토불이약초식당",
+    "desc": "",
+    "address": "충청북도 보은군 속리산면 법주사로 268"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "심사숙고",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 36.9086571978,
+  "lng": 127.5440494673,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "심사숙고",
+    "desc": "",
+    "address": "충청북도 음성군 맹동면 대하4길 6-13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아르떼 물들이다",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6710882354,
+  "lng": 127.4425763141,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2860685_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아르떼 물들이다",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 원평로10번길 132"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아리랑가든",
+  "district": "영동군",
+  "category": "한식·백반",
+  "lat": 36.162871447,
+  "lng": 127.7563177854,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2835423_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아리랑가든",
+    "desc": "",
+    "address": "충청북도 영동군 학산영동로 1039-20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아브리에쎄르",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 37.186273776,
+  "lng": 128.2190974755,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/70/2794070_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "아브리에쎄르",
+    "desc": "",
+    "address": "충청북도 제천시 송학면 광암로 35-16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "아키아키",
+  "district": "청주시",
+  "category": "일식",
+  "lat": 36.6457554117,
+  "lng": 127.4637278937,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2860708_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "아키아키",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 1순환로 528"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안림홍두깨칼국수보쌈",
+  "district": "충주시",
+  "category": "면·국물",
+  "lat": 36.9701159659,
+  "lng": 127.9548219151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2857953_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안림홍두깨칼국수보쌈",
+    "desc": "",
+    "address": "충청북도 충주시 안림로 72"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "안성식당",
+  "district": "영동군",
+  "category": "한식·백반",
+  "lat": 36.2248253968,
+  "lng": 127.9049778605,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/2903388_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "안성식당",
+    "desc": "",
+    "address": "충청북도 영동군 영동황간로 1618"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "애니멀빌리지",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6457226436,
+  "lng": 127.4949973109,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2736846_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "애니멀빌리지",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 수암로36번길 6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "양순이네",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.1104265379,
+  "lng": 127.7467338358,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2767283_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "양순이네",
+    "desc": "",
+    "address": "충청북도 충주시 앙성면 가곡로 953-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "언덕넘어",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.8410289609,
+  "lng": 128.0057988102,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/71/3587971_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "언덕넘어",
+    "desc": "",
+    "address": "충청북도 충주시 수안보면 미륵송계로 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "얼음골식당",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.8379524067,
+  "lng": 127.9020304205,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "얼음골식당",
+    "desc": "",
+    "address": "충청북도 괴산군 감물면 충민로 1085"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "에이커",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6046744323,
+  "lng": 127.4870491578,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2859572_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "에이커",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 용평로113번길 47"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "엔트라포레",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.5695699844,
+  "lng": 127.4791924959,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2767209_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엔트라포레",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 남일면 가좌신송로 190-53"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "염소맛집",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3175589391,
+  "lng": 127.5783933096,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/17/2860717_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "염소맛집",
+    "desc": "",
+    "address": "충청북도 옥천군 성왕로 1277 음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "엽돈재가든",
+  "district": "진천군",
+  "category": "한식·백반",
+  "lat": 36.8980791099,
+  "lng": 127.3049768473,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/31/2856831_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "엽돈재가든",
+    "desc": "",
+    "address": "충청북도 진천군 백곡로 184 숯판매전시장"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영남식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9885940279,
+  "lng": 128.3828191231,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영남식당",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 다리안로 117-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영상강가든펜션",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 37.0618516491,
+  "lng": 128.4968817667,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "영상강가든펜션",
+    "desc": "",
+    "address": "충청북도 단양군 영춘면 남천계곡로 41"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "영화식당",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.8474584956,
+  "lng": 127.9904277814,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/1850865_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "영화식당",
+    "desc": "",
+    "address": "충청북도 충주시 수안보면 물탕1길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옛날손짜장천안문",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.7190907865,
+  "lng": 127.4275485589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/2835492_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옛날손짜장천안문",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 양청2길 22"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오성당",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6276708846,
+  "lng": 127.4363114078,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/42/2860142_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "오성당",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 풍산로 55 (가경동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오시며가시며",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.1824292439,
+  "lng": 127.7412628225,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2857660_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오시며가시며",
+    "desc": "",
+    "address": "충청북도 충주시 중방곡길 56"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오지",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6460642663,
+  "lng": 127.4947417693,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/14/2859614_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오지",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 수암로36번길 13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "오학식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.977775326,
+  "lng": 128.356152381,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/88/3081088_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "오학식당",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 상진13길 4-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옥산해장국집",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6662680915,
+  "lng": 127.372563289,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2860167_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥산해장국집",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 청주역로 670"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옥수찐빵만두",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.7722288125,
+  "lng": 127.56449867,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2903830_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥수찐빵만두",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 충청대로 1527"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옥천묵집",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3149398769,
+  "lng": 127.5830346335,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/50/2859350_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "옥천묵집",
+    "desc": "",
+    "address": "충청북도 옥천군 향수7길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "옥천찐빵",
+  "district": "옥천군",
+  "category": "카페·베이커리",
+  "lat": 36.3010495486,
+  "lng": 127.5690945903,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2990391_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "옥천찐빵",
+    "desc": "",
+    "address": "충청북도 옥천군 금장로 46"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "와인코리아",
+  "district": "영동군",
+  "category": "양식·세계요리",
+  "lat": 36.1780321827,
+  "lng": 127.8315134589,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2795546_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "와인코리아",
+    "desc": "",
+    "address": "충청북도 영동군 영동읍 영동황간로 662"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕뚝배기감자탕",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6500192467,
+  "lng": 127.488017263,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2860138_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕뚝배기감자탕",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 중앙로 144"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "왕릉숯불갈비",
+  "district": "단양군",
+  "category": "고기·구이",
+  "lat": 36.9863496199,
+  "lng": 128.3710202449,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2857974_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "왕릉숯불갈비",
+    "desc": "",
+    "address": "충청북도 단양군 중앙2로 13 왕릉숯불갈비"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "외할머니집 본점",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 37.1172881899,
+  "lng": 127.6677768663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3077305_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "외할머니집 본점",
+    "desc": "",
+    "address": "충청북도 음성군 감곡면 가곡로 230"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용궁식당",
+  "district": "보은군",
+  "category": "한식·백반",
+  "lat": 36.478423367,
+  "lng": 127.7046276127,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/2876572_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용궁식당",
+    "desc": "",
+    "address": "충청북도 보은군 안내보은로 1273-3 일반음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용만두전골",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6644377918,
+  "lng": 127.3751214428,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/30/2860130_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용만두전골",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 청주역로 637"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용자1",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6375530474,
+  "lng": 127.434275207,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/2860119_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용자1",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 죽천로 96-19 태희빌라"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "용천막국수 본점",
+  "district": "제천시",
+  "category": "면·국물",
+  "lat": 37.1340353432,
+  "lng": 128.2188990202,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2751935_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "용천막국수 본점",
+    "desc": "",
+    "address": "충청북도 제천시 의병대로 165"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우뜸해장국 오창본점",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.7165855436,
+  "lng": 127.4289429476,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/04/2860104_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우뜸해장국 오창본점",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 중심상업로 63"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우리매운탕",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.8051990976,
+  "lng": 127.8192609922,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/1849854_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "우리매운탕",
+    "desc": "",
+    "address": "충청북도 괴산군 괴산읍 괴강로느티울길 8-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "우림칼국수 오송본점",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6403567101,
+  "lng": 127.3463830199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2860085_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "우림칼국수 오송본점",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 쌍청2길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "운정식당",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.972890045,
+  "lng": 127.9221553243,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "운정식당",
+    "desc": "",
+    "address": "충청북도 충주시 중원대로 3432-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원산냉면",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6434417396,
+  "lng": 127.4610087569,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2860067_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원산냉면",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 직지대로 611"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조동해식당",
+  "district": "영동군",
+  "category": "한식·백반",
+  "lat": 36.2251060293,
+  "lng": 127.9109967623,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/13/2903413_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조동해식당",
+    "desc": "",
+    "address": "충청북도 영동군 영동황간로 1676 음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조영덕가든",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.043032027,
+  "lng": 127.7740221932,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2857683_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조영덕가든",
+    "desc": "",
+    "address": "충청북도 충주시 감노로 1595-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "원조장뜰순대",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6652121747,
+  "lng": 127.5006657081,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/61/2860061_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "원조장뜰순대",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 율량로201번길 33-13"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "월송가든",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 36.8632751575,
+  "lng": 128.0885907578,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월송가든",
+    "desc": "",
+    "address": "충청북도 제천시 한수면 미륵송계로2길 7"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "월악산장",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 36.8623475104,
+  "lng": 128.0899017779,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/1852052_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "월악산장",
+    "desc": "",
+    "address": "충청북도 제천시 한수면 미륵송계로2길 25"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "월척 since 2019",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 36.9333570723,
+  "lng": 127.6935880986,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "월척 since 2019",
+    "desc": "",
+    "address": "충청북도 음성군 음성읍 시장로63번길 3 (태영아파트)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "위드쿠잉",
+  "district": "청주시",
+  "category": "양식·세계요리",
+  "lat": 36.6489901617,
+  "lng": 127.4085077598,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2741147_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "위드쿠잉",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 동촌로28번길 28"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "위드포레스트",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6064067517,
+  "lng": 127.4415420799,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2860038_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "위드포레스트",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 대림로 390-11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유리원",
+  "district": "음성군",
+  "category": "카페·베이커리",
+  "lat": 36.9626284684,
+  "lng": 127.6807078734,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/3445405_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유리원",
+    "desc": "",
+    "address": "충청북도 음성군 음성읍 용광로230번길 61-4"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "유진가든",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.039517496,
+  "lng": 127.8682638158,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2857711_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "유진가든",
+    "desc": "",
+    "address": "충청북도 충주시 양평길 6 유진가든"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이끼베이커리",
+  "district": "단양군",
+  "category": "카페·베이커리",
+  "lat": 37.0340862397,
+  "lng": 128.3942889899,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/68/2792468_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "이끼베이커리",
+    "desc": "",
+    "address": "충청북도 단양군 가곡면 남한강로 658"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이사프커피스탠드",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6402425906,
+  "lng": 127.4879869807,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이사프커피스탠드",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 상당로143번길 31-16 (북문로2가)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이수한우전문점",
+  "district": "영동군",
+  "category": "고기·구이",
+  "lat": 36.1778755136,
+  "lng": 127.7686079487,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2903436_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이수한우전문점",
+    "desc": "",
+    "address": "충청북도 영동군 난계로 1108"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이씨식당충주점",
+  "district": "충주시",
+  "category": "분식·주점",
+  "lat": 36.9846912278,
+  "lng": 127.909283921,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2876654_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이씨식당충주점",
+    "desc": "",
+    "address": "충청북도 충주시 능바우길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이와카페",
+  "district": "증평군",
+  "category": "카페·베이커리",
+  "lat": 36.7682684406,
+  "lng": 127.5802168136,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/12/2856212_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이와카페",
+    "desc": "",
+    "address": "충청북도 증평군 증안지길 155 무등산광장"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이월서가",
+  "district": "진천군",
+  "category": "카페·베이커리",
+  "lat": 36.9587819291,
+  "lng": 127.3873455092,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "이월서가",
+    "desc": "",
+    "address": "충청북도 진천군 진안로 583-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "이찌바텐동",
+  "district": "청주시",
+  "category": "일식",
+  "lat": 36.6160585764,
+  "lng": 127.4501910383,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2859993_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "이찌바텐동",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 장전로20번길 18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "인터식당",
+  "district": "영동군",
+  "category": "한식·백반",
+  "lat": 36.2239729044,
+  "lng": 127.9153741817,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2876590_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "인터식당",
+    "desc": "",
+    "address": "충청북도 영동군 신촌2길 4 음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일면식",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6537689132,
+  "lng": 127.4934000095,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2859969_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "일면식",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 덕벌로 43"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "일번지순대국",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.9884828418,
+  "lng": 127.9300958321,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "일번지순대국",
+    "desc": "",
+    "address": "충청북도 충주시 연수상가2길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장군집",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6200970673,
+  "lng": 127.4538183795,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/34/2859934_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장군집",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 성봉로220번길 156"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장다리식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9895630865,
+  "lng": 128.3681815164,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2022235_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장다리식당",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 삼봉로 370"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장림산방",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9213318231,
+  "lng": 128.3570650517,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/11/2858011_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장림산방",
+    "desc": "",
+    "address": "충청북도 단양군 대강면 단양로 142"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "장원갑 칼국수 청주본점",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6043800806,
+  "lng": 127.49033776,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/24/2859924_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "장원갑 칼국수 청주본점",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 용평로 100"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "재건갈비",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6197254973,
+  "lng": 127.487818118,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "재건갈비",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 청남로 2104 재건갈비"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전주밥상",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7141244048,
+  "lng": 127.5661529185,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2859908_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전주밥상",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 청암로 385"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전통꽃게장",
+  "district": "청주시",
+  "category": "해산물·회",
+  "lat": 36.6444693442,
+  "lng": 127.4579423367,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2859894_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전통꽃게장",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 주현로41번길 19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "전통황실양고기",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6013354188,
+  "lng": 127.458721235,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/82/2859882_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "전통황실양고기",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 2순환로 1618"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제이브로",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.592620612,
+  "lng": 127.5067282818,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "제이브로",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 단재로 439-25 (지북동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "제천시락국",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1282191257,
+  "lng": 128.2070946943,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/66/2868666_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "제천시락국",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로2길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "조은가제빵소(주식회사조은가)",
+  "district": "보은군",
+  "category": "카페·베이커리",
+  "lat": 36.4810510168,
+  "lng": 127.7142100169,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "조은가제빵소(주식회사조은가)",
+    "desc": "",
+    "address": "충청북도 보은군 보은읍 장신로 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "주차장식당",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.8083455046,
+  "lng": 127.7944186874,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/19/1319919_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "주차장식당",
+    "desc": "",
+    "address": "충청북도 괴산군 괴산읍 읍내로 282"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중앙탑 장수네집",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.0180976778,
+  "lng": 127.8648619571,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "중앙탑 장수네집",
+    "desc": "",
+    "address": "충청북도 충주시 중앙탑면 중앙탑길 112-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "중앙탑막국수",
+  "district": "충주시",
+  "category": "면·국물",
+  "lat": 37.0180921112,
+  "lng": 127.8642342354,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "중앙탑막국수",
+    "desc": "",
+    "address": "충청북도 충주시 중앙탑면 중앙탑길 109"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "증평 율리손두부",
+  "district": "증평군",
+  "category": "한식·백반",
+  "lat": 36.7167559757,
+  "lng": 127.6390546381,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/43/3452643_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "증평 율리손두부",
+    "desc": "",
+    "address": "충청북도 증평군 증평읍 율리휴양로 307"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지구대",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 37.1417007902,
+  "lng": 128.200864305,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2791916_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지구대",
+    "desc": "",
+    "address": "충청북도 제천시 용두대로17길 4 (하소동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "지영옥청국장",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.9704040787,
+  "lng": 127.9145005275,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/59/2793259_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "지영옥청국장",
+    "desc": "",
+    "address": "충청북도 충주시 상방9길 9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "짬뽕대장",
+  "district": "진천군",
+  "category": "중식",
+  "lat": 36.9292203171,
+  "lng": 127.4787797663,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/85/2767185_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "짬뽕대장",
+    "desc": "",
+    "address": "충청북도 진천군 이월면 신척서길 27-3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쫄쫄호떡",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6331739657,
+  "lng": 127.4884371354,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "쫄쫄호떡",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 상당로55번길 40-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "쭈미쭈미",
+  "district": "청주시",
+  "category": "양식·세계요리",
+  "lat": 36.6084265771,
+  "lng": 127.475738957,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/32/2859732_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "쭈미쭈미",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 산미로 136"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "찐한식당",
+  "district": "옥천군",
+  "category": "한식·백반",
+  "lat": 36.3443403319,
+  "lng": 127.795239895,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/62/2859362_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "찐한식당",
+    "desc": "",
+    "address": "충청북도 옥천군 지전길 14 음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "차이나북경",
+  "district": "제천시",
+  "category": "중식",
+  "lat": 37.1669397639,
+  "lng": 128.2122569891,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2850005_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "차이나북경",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로 448"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "참살이 오리전문점",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6202814161,
+  "lng": 127.5116104135,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "참살이 오리전문점",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 용암북로 124-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "참한우마을",
+  "district": "충주시",
+  "category": "고기·구이",
+  "lat": 37.0925378834,
+  "lng": 127.7984935753,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2603255_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "참한우마을",
+    "desc": "",
+    "address": "충청북도 충주시 앙성면 가곡로 1512"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청산가든",
+  "district": "진천군",
+  "category": "한식·백반",
+  "lat": 36.9503497949,
+  "lng": 127.3999918275,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청산가든",
+    "desc": "",
+    "address": "충청북도 진천군 이월면 진안로 354"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청솔식당",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.8460753305,
+  "lng": 127.9909333321,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/72/209672_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청솔식당",
+    "desc": "",
+    "address": "충청북도 충주시 수안보면 장터2길 20"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청송통닭",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6318407738,
+  "lng": 127.4878400037,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청송통닭",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 남사로 116"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청원한우마실",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.7409465857,
+  "lng": 127.4262980661,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2859690_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청원한우마실",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 성산2길 5 청원군한우협회영농조합법인"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청인",
+  "district": "충주시",
+  "category": "중식",
+  "lat": 36.9768954094,
+  "lng": 127.9368038947,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2857805_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청인",
+    "desc": "",
+    "address": "충청북도 충주시 봉현로 296 충주컨벤션센터 웨딩홀"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청주군산활어",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6513685382,
+  "lng": 127.4571533281,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/67/2859667_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주군산활어",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 덕암로30번길 38"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청주본가본점",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6490191293,
+  "lng": 127.4750601199,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/53/2859653_image3_1.png",
+  "i18n": {
+   "ko": {
+    "name": "청주본가본점",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 사운로 233"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청주숯불갈비",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6201037004,
+  "lng": 127.3587657973,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/56/1849156_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주숯불갈비",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 강내면 태성탑연로 422"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청주한우 청우",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6066405971,
+  "lng": 127.4716449295,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/38/2859638_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청주한우 청우",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 원흥로 3"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청진동해장국",
+  "district": "제천시",
+  "category": "면·국물",
+  "lat": 37.1316298029,
+  "lng": 128.2049059022,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "청진동해장국",
+    "desc": "",
+    "address": "충청북도 제천시 내제로 21"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청평가든",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.0315611356,
+  "lng": 127.7745391397,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/46/2857846_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청평가든",
+    "desc": "",
+    "address": "충청북도 충주시 솔고개로 739"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청풍떡갈비",
+  "district": "제천시",
+  "category": "고기·구이",
+  "lat": 37.0227917721,
+  "lng": 128.1752645045,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2767160_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍떡갈비",
+    "desc": "",
+    "address": "충청북도 제천시 금성면 청풍호로 1643"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청풍호청정한우",
+  "district": "제천시",
+  "category": "고기·구이",
+  "lat": 37.072650231,
+  "lng": 128.1915949255,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/40/1849740_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍호청정한우",
+    "desc": "",
+    "address": "충청북도 제천시 금성면 청풍호로 743"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "청풍황금떡갈비",
+  "district": "제천시",
+  "category": "고기·구이",
+  "lat": 37.0207586239,
+  "lng": 128.1726564641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2668201_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "청풍황금떡갈비",
+    "desc": "",
+    "address": "충청북도 제천시 청풍면 청풍호로 1682"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "촌골닭갈비 본점",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6326900131,
+  "lng": 127.450832189,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2859608_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "촌골닭갈비 본점",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 내수동로 32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "최미자원조양평해장국",
+  "district": "음성군",
+  "category": "면·국물",
+  "lat": 37.0243483765,
+  "lng": 127.4860181076,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/77/2835477_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "최미자원조양평해장국",
+    "desc": "",
+    "address": "충청북도 음성군 금일로 1050-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "최피디해물칼국수 본점",
+  "district": "청주시",
+  "category": "해산물·회",
+  "lat": 36.5864039252,
+  "lng": 127.4658237867,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2736791_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "최피디해물칼국수 본점",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 남이면 청남로 1677"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "충주농협 탄금한우타운",
+  "district": "충주시",
+  "category": "고기·구이",
+  "lat": 36.9874322975,
+  "lng": 127.8939741061,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/3588023_image3_1.jpeg",
+  "i18n": {
+   "ko": {
+    "name": "충주농협 탄금한우타운",
+    "desc": "",
+    "address": "충청북도 충주시 탄금대로 364"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "충주댐가든",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.011133915,
+  "lng": 127.9789407955,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/3062103_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "충주댐가든",
+    "desc": "",
+    "address": "충청북도 충주시 충주호수로 590"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "충청도순대",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 36.9831249722,
+  "lng": 128.3700426485,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2792590_image3_1.JPEG",
+  "i18n": {
+   "ko": {
+    "name": "충청도순대",
+    "desc": "",
+    "address": "충청북도 단양군 단양읍 도전5길 37"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "칠성반점",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.6340838194,
+  "lng": 127.4241234361,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "칠성반점",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 2순환로 1130 (비하동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카우보이그릴",
+  "district": "제천시",
+  "category": "양식·세계요리",
+  "lat": 37.0132910346,
+  "lng": 128.2261046657,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/64/3110964_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카우보이그릴",
+    "desc": "",
+    "address": "충청북도 제천시 청풍면 학현소야로 415-24"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페 벨리",
+  "district": "옥천군",
+  "category": "카페·베이커리",
+  "lat": 36.3472829563,
+  "lng": 127.5580693132,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2861016_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페 벨리",
+    "desc": "",
+    "address": "충청북도 옥천군 추소길 8-41 주택"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페1929",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 37.1173292538,
+  "lng": 128.2360174151,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/2856109_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페1929",
+    "desc": "",
+    "address": "충청북도 제천시 단양로10길 104"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페까망",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6430879139,
+  "lng": 127.4002281102,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/33/2859533_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페까망",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 고락로40번길 25 카페 까망"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페레체",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.645250477,
+  "lng": 127.4950889829,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2859516_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페레체",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 수동로5번길 32"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페샵오팔",
+  "district": "충주시",
+  "category": "카페·베이커리",
+  "lat": 36.9655715821,
+  "lng": 127.9297631842,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/65/2857865_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페샵오팔",
+    "desc": "",
+    "address": "충청북도 충주시 청운로 58-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페율",
+  "district": "음성군",
+  "category": "카페·베이커리",
+  "lat": 36.9179393138,
+  "lng": 127.5357943942,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/16/2849916_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페율",
+    "desc": "",
+    "address": "충청북도 음성군 맹동면 찬샘골길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "카페청안",
+  "district": "괴산군",
+  "category": "카페·베이커리",
+  "lat": 36.768644435,
+  "lng": 127.6375810974,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2857110_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "카페청안",
+    "desc": "",
+    "address": "충청북도 괴산군 금신로 127"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "커피단월",
+  "district": "충주시",
+  "category": "카페·베이커리",
+  "lat": 36.9425211315,
+  "lng": 127.9121820883,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/01/2857901_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "커피단월",
+    "desc": "",
+    "address": "충청북도 충주시 충원대로 55 커피단월"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "컨트리하우스",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6052695133,
+  "lng": 127.5263178434,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/81/2859481_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "컨트리하우스",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 목련로214번길 40"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "컴포트커피",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6457389666,
+  "lng": 127.4759962373,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/47/2859447_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "컴포트커피",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 직지대로753번길 36"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "큰곰집",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 36.9536788094,
+  "lng": 127.6428809743,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/49/2849949_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "큰곰집",
+    "desc": "",
+    "address": "충청북도 음성군 음성로 553"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "터줏골명가",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.9890966037,
+  "lng": 127.9270349782,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2857926_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "터줏골명가",
+    "desc": "",
+    "address": "충청북도 충주시 금제7길 14"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "토담20",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 37.0966594717,
+  "lng": 127.7898664564,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/90/2767290_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토담20",
+    "desc": "",
+    "address": "충청북도 충주시 앙성면 산전장수1길 5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "토방촌",
+  "district": "증평군",
+  "category": "한식·백반",
+  "lat": 36.7808752257,
+  "lng": 127.5747086223,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2849669_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "토방촌",
+    "desc": "",
+    "address": "충청북도 증평군 초중11길 11"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "트리브링",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.5671503507,
+  "lng": 127.4531698954,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2859428_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "트리브링",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 청남로 1388-36"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "티카페차센",
+  "district": "제천시",
+  "category": "카페·베이커리",
+  "lat": 37.1636846033,
+  "lng": 128.2133486529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2856141_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "티카페차센",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로44길 15 (모산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "팜바라기 cafe",
+  "district": "괴산군",
+  "category": "카페·베이커리",
+  "lat": 36.8401729407,
+  "lng": 127.82379293,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/3442826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "팜바라기 cafe",
+    "desc": "",
+    "address": "충청북도 괴산군 괴산읍 자연식품길 31"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풀문커피 강서점",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.6195715451,
+  "lng": 127.4212796466,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2859403_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풀문커피 강서점",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 강서로27번길 9-6"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풍차두루치기",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7164133662,
+  "lng": 127.430378934,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/73/2859373_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍차두루치기",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 중심상업2로 9-50"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "풍차쭈꾸미",
+  "district": "청주시",
+  "category": "해산물·회",
+  "lat": 36.605121626,
+  "lng": 127.4883240312,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/78/2741178_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "풍차쭈꾸미",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 용평로113번길 23"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "프란스테이션",
+  "district": "옥천군",
+  "category": "양식·세계요리",
+  "lat": 36.3613432715,
+  "lng": 127.6033926579,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/09/3547409_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "프란스테이션",
+    "desc": "",
+    "address": "충청북도 옥천군 성왕로 1873-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "프레이밍",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.644201723,
+  "lng": 127.5577083962,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2859357_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "프레이밍",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 목련로 838-9"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하늘29",
+  "district": "제천시",
+  "category": "양식·세계요리",
+  "lat": 37.152363145,
+  "lng": 128.1844626894,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/55/2849955_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하늘29",
+    "desc": "",
+    "address": "충청북도 제천시 용두대로29길 25-19"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하얀풍차",
+  "district": "옥천군",
+  "category": "카페·베이커리",
+  "lat": 36.3027299276,
+  "lng": 127.5699694662,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "하얀풍차",
+    "desc": "",
+    "address": "충청북도 옥천군 중앙로 63 제과점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "하하형제두묵골",
+  "district": "음성군",
+  "category": "한식·백반",
+  "lat": 37.1117532343,
+  "lng": 127.6960550311,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/54/2767154_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "하하형제두묵골",
+    "desc": "",
+    "address": "충청북도 음성군 감곡면 중간말길 7-10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한남불고기",
+  "district": "괴산군",
+  "category": "고기·구이",
+  "lat": 36.8001516009,
+  "lng": 127.7724736641,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/35/2857135_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한남불고기",
+    "desc": "",
+    "address": "충청북도 괴산군 모래재로 1579"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한솔가든",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.7136390825,
+  "lng": 127.6067548449,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/41/2793341_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한솔가든",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 내수읍 미원초정로 1262"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한양시래기명태조림",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6640485925,
+  "lng": 127.5102732111,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/37/2859337_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한양시래기명태조림",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 2순환로 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한옥정원 숲",
+  "district": "괴산군",
+  "category": "카페·베이커리",
+  "lat": 36.7756916124,
+  "lng": 127.8322995453,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/84/2857584_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한옥정원 숲",
+    "desc": "",
+    "address": "충청북도 괴산군 명태재로송동5길 67-35"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한옥카페봄이와",
+  "district": "진천군",
+  "category": "카페·베이커리",
+  "lat": 36.9859520023,
+  "lng": 127.4418065063,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/3458291_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한옥카페봄이와",
+    "desc": "",
+    "address": "충청북도 진천군 광혜원면 장기길 45"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "한우만",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6094978945,
+  "lng": 127.4321011751,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/28/2859328_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "한우만",
+    "desc": "",
+    "address": "충청북도 청주시 흥덕구 서부로1168번길 15"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "할머니네맛식당",
+  "district": "괴산군",
+  "category": "한식·백반",
+  "lat": 36.8090704456,
+  "lng": 127.7957407701,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/92/1319992_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "할머니네맛식당",
+    "desc": "",
+    "address": "충청북도 괴산군 괴산읍 괴강로 12"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "할머니집",
+  "district": "진천군",
+  "category": "한식·백반",
+  "lat": 36.9416676423,
+  "lng": 127.4099828364,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/95/2767195_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "할머니집",
+    "desc": "",
+    "address": "충청북도 진천군 이월면 화산동길 18"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "할머니추어탕",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6641537369,
+  "lng": 127.4881057529,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/22/2859322_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "할머니추어탕",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 1순환로 219"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "해성",
+  "district": "증평군",
+  "category": "한식·백반",
+  "lat": 36.7780976247,
+  "lng": 127.566826075,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/1022826_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "해성",
+    "desc": "",
+    "address": "충청북도 증평군 증평읍 충청대로 1603"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "향곡산방",
+  "district": "옥천군",
+  "category": "카페·베이커리",
+  "lat": 36.3060247667,
+  "lng": 127.6130738627,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/23/2860323_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "향곡산방",
+    "desc": "",
+    "address": "충청북도 옥천군 선사로 138 음식점"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "현고들깨손칼국수",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6242548663,
+  "lng": 127.4506102193,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/08/2859308_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "현고들깨손칼국수",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 성봉로220번길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "호반식당",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1764775482,
+  "lng": 128.2119289619,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/60/2856160_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "호반식당",
+    "desc": "",
+    "address": "충청북도 제천시 의림대로 558"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "홍차가게 소정",
+  "district": "옥천군",
+  "category": "카페·베이커리",
+  "lat": 36.3587240531,
+  "lng": 127.5993042058,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "홍차가게 소정",
+    "desc": "",
+    "address": "충청북도 옥천군 군북면 성왕로 1837"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황금연못",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1305685297,
+  "lng": 128.1896906333,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/05/2903505_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황금연못",
+    "desc": "",
+    "address": "충청북도 제천시 내토로 281"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황금옥",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.983666804,
+  "lng": 127.9341428284,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "황금옥",
+    "desc": "",
+    "address": "충청북도 충주시 예성로 304"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황제장어갈비",
+  "district": "청주시",
+  "category": "해산물·회",
+  "lat": 36.6031273833,
+  "lng": 127.486815888,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/03/2859303_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황제장어갈비",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 용평로93번길 57"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "황할머니갈비집 청주성안길점(본점)",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6307603844,
+  "lng": 127.4901842678,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/27/1982027_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "황할머니갈비집 청주성안길점(본점)",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 남사로140번길 30"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "111LAC",
+  "district": "청주시",
+  "category": "카페·베이커리",
+  "lat": 36.5938945671,
+  "lng": 127.6111855535,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/94/2856894_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "111LAC",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 추정2길 13-2"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게] 금수장",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.458054081,
+  "lng": 127.4286000864,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/93/2608193_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게] 금수장",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 현도면 청남로 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게] 대동관",
+  "district": "청주시",
+  "category": "중식",
+  "lat": 36.7268335174,
+  "lng": 127.5362246953,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게] 대동관",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 내수읍 내수로 731-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게] 송애집",
+  "district": "진천군",
+  "category": "한식·백반",
+  "lat": 36.8134565651,
+  "lng": 127.5178378226,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/83/2608183_image2_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게] 송애집",
+    "desc": "",
+    "address": "충청북도 진천군 초평면 초평로 1051-5"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게] 영빈관",
+  "district": "음성군",
+  "category": "중식",
+  "lat": 36.9371482554,
+  "lng": 127.6910187779,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/57/2608257_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게] 영빈관",
+    "desc": "",
+    "address": "충청북도 음성군 음성읍 읍내리"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]금강식당",
+  "district": "단양군",
+  "category": "한식·백반",
+  "lat": 37.0427647107,
+  "lng": 128.4840307001,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/91/2630891_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]금강식당",
+    "desc": "",
+    "address": "충청북도 단양군 백자1길 11 금강식당"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]남들갈비",
+  "district": "청주시",
+  "category": "고기·구이",
+  "lat": 36.6228390236,
+  "lng": 127.4875152814,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/87/2616087_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]남들갈비",
+    "desc": "",
+    "address": "충청북도 청주시 서원구 청남로2133번길 8"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]남주동해장국",
+  "district": "청주시",
+  "category": "면·국물",
+  "lat": 36.6293160171,
+  "lng": 127.485195866,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/69/2606369_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]남주동해장국",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 무심동로304번길 10"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]노송식당",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1282164622,
+  "lng": 128.2131941465,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/36/2616136_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]노송식당",
+    "desc": "",
+    "address": "충청북도 제천시 내토로43길 5 (화산동)"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]동원가든",
+  "district": "제천시",
+  "category": "한식·백반",
+  "lat": 37.1871326406,
+  "lng": 128.1041911139,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]동원가든",
+    "desc": "",
+    "address": "충청북도 제천시 봉양읍 제원로10길 55"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]리정",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6545353715,
+  "lng": 127.4866894798,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2630874_image3_1.JPG",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]리정",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 우암로 71-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]복서울해장국",
+  "district": "충주시",
+  "category": "면·국물",
+  "lat": 36.9703100247,
+  "lng": 127.9351097907,
+  "phone": "",
+  "thumb": "",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]복서울해장국",
+    "desc": "",
+    "address": "충청북도 충주시 관아1길 16"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]삼미족발",
+  "district": "청주시",
+  "category": "한식·백반",
+  "lat": 36.6489193455,
+  "lng": 127.4864757652,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/10/2616210_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]삼미족발",
+    "desc": "",
+    "address": "충청북도 청주시 청원구 향군로 35"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]수안보대장군",
+  "district": "충주시",
+  "category": "한식·백반",
+  "lat": 36.8418179503,
+  "lng": 128.0161645256,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/52/2616152_image2_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]수안보대장군",
+    "desc": "",
+    "address": "충청북도 충주시 수안보면 미륵송계로 105"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]신화당분식",
+  "district": "청주시",
+  "category": "분식·주점",
+  "lat": 36.6273497289,
+  "lng": 127.4937423756,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/26/2606426_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]신화당분식",
+    "desc": "",
+    "address": "충청북도 청주시 상당구 대성로22번길 5-1"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "[백년가게]일미해장국",
+  "district": "옥천군",
+  "category": "면·국물",
+  "lat": 36.2982444083,
+  "lng": 127.5743775287,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/86/2616386_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "[백년가게]일미해장국",
+    "desc": "",
+    "address": "충청북도 옥천군 옥천읍 금장로 105"
+   }
+  }
+ },
+ {
+  "section": "food",
+  "name_ko": "the조선식탁",
+  "district": "진천군",
+  "category": "한식·백반",
+  "lat": 36.8953612801,
+  "lng": 127.5315620751,
+  "phone": "",
+  "thumb": "http://tong.visitkorea.or.kr/cms/resource/74/2856874_image3_1.jpg",
+  "i18n": {
+   "ko": {
+    "name": "the조선식탁",
+    "desc": "",
+    "address": "충청북도 진천군 석장로 227"
+   }
+  }
+ }
+]
