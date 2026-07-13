@@ -235,6 +235,7 @@ footer a{text-decoration:underline}
     <div><h1>📍 <span id="brand">부산에 가면</span></h1><p id="subtitle"></p></div>
     <div style="display:flex;gap:7px;align-items:flex-start;flex:none">
       <button class="mlbtn" id="mlBtn" aria-label="내 목록"><svg viewBox="0 0 24 24" fill="currentColor" width="15" height="15"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg><b id="mlCount" hidden></b></button>
+      <button class="mlbtn" id="langBtn" aria-label="언어"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.9 5.7 3.9 9S14.5 18.4 12 21c-2.5-2.6-3.9-5.7-3.9-9S9.5 5.6 12 3z"/></svg></button>
       <button class="mlbtn" id="authBtn"><img id="authAv" alt="" hidden><span id="authLabel">☰</span></button>
     </div>
   </div>
@@ -290,6 +291,12 @@ footer a{text-decoration:underline}
     <div class="rhint" id="rlHint"></div>
   </div>
 </div>
+<div class="mlay" id="glay">
+  <div class="mpanel">
+    <div class="mhead"><b id="glTitle"></b><button class="mclose" id="glClose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="llbody" id="glBody"></div>
+  </div>
+</div>
 <div class="mlay" id="rsheet">
   <div class="mpanel sheet">
     <div class="mhead"><b id="rsTitle"></b><button class="mclose" id="rsClose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
@@ -322,7 +329,7 @@ footer a{text-decoration:underline}
 <script>
 const REGMETA={"busan":{"sights":212,"food":337,"usulleng":318,"festival":40,"stay":362,"shopping":55},"seoul":{"sights":705,"food":1098,"festival":98,"stay":252,"shopping":161},"incheon":{"sights":204,"food":369,"festival":15,"stay":47,"shopping":29},"gyeonggi":{"sights":1138,"food":2582,"festival":56,"stay":173,"shopping":100},"suwon":{"sights":64,"food":195,"festival":8,"stay":20,"shopping":11},"ansan":{"sights":53,"food":79,"festival":1,"stay":8,"shopping":4},"pangyo":{"sights":12,"food":24,"festival":1,"stay":2,"shopping":1},"jeongja":{"sights":10,"food":28,"festival":1,"shopping":1},"seohyeon":{"sights":15,"food":29,"festival":1,"stay":2,"shopping":2},"gangwon":{"sights":869,"food":1187,"festival":30,"stay":437,"shopping":77},"daejeon":{"sights":106,"food":201,"festival":11,"stay":14,"shopping":15},"sejong":{"sights":29,"food":65,"festival":4,"stay":4},"chungbuk":{"sights":620,"food":316,"festival":6,"stay":31,"shopping":32},"chungnam":{"sights":713,"food":439,"festival":27,"stay":76,"shopping":39},"daegu":{"sights":260,"food":205,"festival":10,"stay":37,"shopping":48},"gyeongbuk":{"sights":914,"food":458,"festival":23,"stay":214,"shopping":46},"ulsan":{"sights":133,"food":117,"festival":8,"stay":11,"shopping":9},"gyeongnam":{"sights":900,"food":647,"festival":15,"stay":99,"shopping":35},"gwangju":{"sights":99,"food":87,"festival":1,"stay":16,"shopping":5},"jeonbuk":{"sights":779,"food":328,"festival":30,"stay":165,"shopping":36},"jeonnam":{"sights":845,"food":409,"festival":5,"stay":141,"shopping":47},"jeju":{"sights":408,"food":519,"festival":12,"stay":62,"shopping":27}};
 const DB={};
-const TODAY="2026-07-13";
+const TODAY="2026-07-14";
 const SEC=[{k:"sights",i:"🏞️"},{k:"food",i:"🍜"},{k:"usulleng",i:"📮"},{k:"festival",i:"🎉"},{k:"stay",i:"🏨"},{k:"shopping",i:"🛍️"}];
 const REGIONS=[
  {k:"busan",i:"🌊",n:{ko:"부산",en:"Busan",ja:"釜山",zh:"釜山"},c:[35.16,129.07],z:11},
@@ -379,10 +386,10 @@ const CAT_I18N={
  "축제·행사":{en:"Festival & Event",ja:"祭り・イベント",zh:"庆典活动"},"기타":{en:"Others",ja:"その他",zh:"其他"},
  "국밥·탕":{en:"Gukbap & Soup",ja:"クッパ・スープ",zh:"汤饭"},"면류":{en:"Noodles",ja:"麺類",zh:"面食"},"카페·디저트":{en:"Cafe & Dessert",ja:"カフェ・デザート",zh:"咖啡甜点"},"회·해산물":{en:"Seafood & Hoe",ja:"刺身・海鮮",zh:"生鱼海鲜"},"일식·돈카츠":{en:"Japanese",ja:"和食・トンカツ",zh:"日料"},"양식·파스타":{en:"Western & Pasta",ja:"洋食・パスタ",zh:"西餐"},"분식":{en:"Snacks",ja:"粉食",zh:"小吃"},"치킨·호프":{en:"Chicken & Pub",ja:"チキン・ビール",zh:"炸鸡啤酒"}};
 const UI={
- ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",rate:"평점순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",loading:"불러오는 중…",loadErr:"데이터를 불러오지 못했어요. 네트워크 확인 후 새로고침해 주세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 2026-07-13`},
- en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",rate:"Top rated",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",loading:"Loading…",loadErr:"Failed to load data. Check your network and refresh.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated 2026-07-13`},
- ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",rate:"評価順",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",loading:"読み込み中…",loadErr:"データを読み込めませんでした。再読み込みしてください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 2026-07-13`},
- zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",rate:"评分",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",loading:"加载中…",loadErr:"数据加载失败，请刷新。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 2026-07-13`}};
+ ko:{brand:"부산에 가면",sub:(s,n)=>`${SECNAME[s].ko} ${n}곳 · 구·군과 종류로 찾아보세요`,src:`데이터 출처: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">부산관광포털 비짓부산</a> · '부산에가면'`,search:"이름·지역·키워드 검색",list:"목록",map:"지도",catLabel:"종류",guLabel:"지역",all:"전체",count:n=>`<b>${n}</b>곳`,call:"전화",mapBtn:"길찾기",detail:"상세",home:"홈페이지",sorts:{def:"기본순",rate:"평점순",view:"인기순",like:"좋아요순",name:"가나다순"},empty:"조건에 맞는 곳이 없어요.<br>검색어·필터·섹션을 바꿔보세요.",loading:"불러오는 중…",loadErr:"데이터를 불러오지 못했어요. 네트워크 확인 후 새로고침해 주세요.",hint:"핀을 누르면 정보가 나와요",ongoing:"진행중",upcoming:"예정",ended:"종료",foot:`비짓부산 공개 정보를 정리한 것으로 실제와 다를 수 있습니다. 방문 전 운영시간·휴무·행사기간을 확인하세요.<br>종류는 자동 분류 · 숙박·中文은 일부 정보가 한/영으로 표기 · 지도 © OpenStreetMap·CARTO · 갱신 2026-07-14`},
+ en:{brand:"When in Busan",sub:(s,n)=>`${n} ${SECNAME[s].en.toLowerCase()} spots · Filter by district & type`,src:`Data: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan portal</a>`,search:"Search name · area · keyword",list:"List",map:"Map",catLabel:"Type",guLabel:"Area",all:"All",count:n=>`<b>${n}</b> places`,call:"Call",mapBtn:"Directions",detail:"Details",home:"Website",sorts:{def:"Default",rate:"Top rated",view:"Popular",like:"Most liked",name:"Name A–Z"},empty:"Nothing matches.<br>Try another keyword, filter or section.",loading:"Loading…",loadErr:"Failed to load data. Check your network and refresh.",hint:"Tap a pin for details",ongoing:"Ongoing",upcoming:"Upcoming",ended:"Ended",foot:`Compiled from VisitBusan public data; details may differ. Check hours/closing/festival dates before visiting.<br>Type is auto-classified · Some stay info shown in Korean · Map © OpenStreetMap, CARTO · Updated 2026-07-14`},
+ ja:{brand:"釜山に行ったら",sub:(s,n)=>`${SECNAME[s].ja} ${n}件 · 区・郡と種類で検索`,src:`データ出典: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 公式観光ポータル</a>`,search:"名前・エリア・キーワード",list:"リスト",map:"地図",catLabel:"種類",guLabel:"エリア",all:"すべて",count:n=>`<b>${n}</b>件`,call:"電話",mapBtn:"道案内",detail:"詳細",home:"ホームページ",sorts:{def:"標準",rate:"評価順",view:"人気順",like:"いいね順",name:"名前順"},empty:"該当なし。<br>キーワード・フィルター・セクションを変更してください。",loading:"読み込み中…",loadErr:"データを読み込めませんでした。再読み込みしてください。",hint:"ピンをタップで情報表示",ongoing:"開催中",upcoming:"予定",ended:"終了",foot:`VisitBusanの公開データを整理。実際と異なる場合があります。訪問前に営業時間・定休日・開催期間をご確認ください。<br>種類は自動分類 · 宿泊・中文は一部が韓/英表記 · 地図 © OpenStreetMap・CARTO · 更新 2026-07-14`},
+ zh:{brand:"来釜山",sub:(s,n)=>`${SECNAME[s].zh} ${n}处 · 按区·郡和类型筛选`,src:`数据来源: <a href="https://www.visitbusan.net/index.do?menuCd=DOM_000000201001000000" target="_blank" rel="noopener">VisitBusan 官方旅游门户</a>`,search:"搜索名称·地区·关键词",list:"列表",map:"地图",catLabel:"类型",guLabel:"地区",all:"全部",count:n=>`<b>${n}</b>处`,call:"电话",mapBtn:"导航",detail:"详情",home:"官网",sorts:{def:"默认",rate:"评分",view:"人气",like:"点赞",name:"名称"},empty:"没有符合条件的结果。<br>请更换关键词·筛选或栏目。",loading:"加载中…",loadErr:"数据加载失败，请刷新。",hint:"点击图钉查看信息",ongoing:"进行中",upcoming:"即将",ended:"已结束",foot:`整理自VisitBusan公开数据，可能与实际不符，到访前请确认营业·休息·活动期间。<br>类型为自动分类 · 部分详情以韩/英显示 · 地图 © OpenStreetMap·CARTO · 更新 2026-07-14`}};
 
 const LOCT={
  ko:{me:"내 위치",nearest:"거리순",within:"이내",all:"전체",nearme:"내 위치 기준",sortLabel:"정렬",err:"위치 정보를 가져올 수 없어요. 브라우저 위치 권한을 확인해 주세요.",locating:"현재 위치 확인 중…",here:"현재 위치"},
@@ -700,10 +707,19 @@ function renderAuthUI(){const av=document.getElementById("authAv"),lb=document.g
   else{av.hidden=true;av.removeAttribute("src");lb.textContent="☰"}}
 function renderLL(){const a=AT();
   document.getElementById("llTitle").textContent="☰ "+ST().menu;
-  const langs=`<div class="sh">🌐 ${ST().lang}</div><div class="sgrid">${[["ko","한국어"],["en","English"],["ja","日本語"],["zh","中文"]].map(([k,n])=>`<button class="spill${state.lang===k?" on":""}" data-lang="${k}">${n}</button>`).join("")}</div>`;
-  document.getElementById("llBody").innerHTML=(fbUser
+  document.getElementById("llBody").innerHTML=fbUser
     ?`<p class="lldesc">${esc(fbUser.displayName||"")} · ${esc(fbUser.email||"")}</p><button class="lbtn out" id="btnLogout">${a.logout}</button>`
-    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`)+langs}
+    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`}
+function renderGL(){
+  document.getElementById("glTitle").textContent="🌐 "+ST().lang;
+  document.getElementById("glBody").innerHTML=`<div class="sgrid">${[["ko","한국어"],["en","English"],["ja","日本語"],["zh","中文"]].map(([k,n])=>`<button class="spill${state.lang===k?" on":""}" data-lang="${k}">${n}</button>`).join("")}</div>`}
+function glOpen(o){document.getElementById("glay").classList.toggle("show",o);if(o)renderGL()}
+document.getElementById("langBtn").addEventListener("click",()=>glOpen(true));
+document.getElementById("glClose").addEventListener("click",()=>glOpen(false));
+document.getElementById("glay").addEventListener("click",e=>{if(e.target.id==="glay")glOpen(false)});
+document.getElementById("glBody").addEventListener("click",e=>{
+  const lg=e.target.closest("[data-lang]");if(!lg)return;
+  state.lang=lg.dataset.lang;localStorage.setItem("bf_lang",state.lang);applyLang();glOpen(false)});
 function llOpen(o){document.getElementById("llay").classList.toggle("show",o);if(o)renderLL()}
 function fbLogin(prov){
   const p=prov==="apple"?new firebase.auth.OAuthProvider("apple.com"):new firebase.auth.GoogleAuthProvider();
@@ -717,8 +733,6 @@ document.getElementById("llay").addEventListener("click",e=>{if(e.target.id==="l
 document.getElementById("llBody").addEventListener("click",e=>{
   const p=e.target.closest("[data-prov]");
   if(p){fbLogin(p.dataset.prov);return}
-  const lg=e.target.closest("[data-lang]");
-  if(lg){state.lang=lg.dataset.lang;localStorage.setItem("bf_lang",state.lang);applyLang();renderLL();return}
   if(e.target.closest("#btnLogout"))fbAuth.signOut().then(()=>llOpen(false))});
 fbAuth.onAuthStateChanged(async u=>{
   fbUser=u;

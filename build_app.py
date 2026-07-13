@@ -317,6 +317,7 @@ footer a{text-decoration:underline}
     <div><h1>📍 <span id="brand">부산에 가면</span></h1><p id="subtitle"></p></div>
     <div style="display:flex;gap:7px;align-items:flex-start;flex:none">
       <button class="mlbtn" id="mlBtn" aria-label="내 목록"><svg viewBox="0 0 24 24" fill="currentColor" width="15" height="15"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg><b id="mlCount" hidden></b></button>
+      <button class="mlbtn" id="langBtn" aria-label="언어"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.9 5.7 3.9 9S14.5 18.4 12 21c-2.5-2.6-3.9-5.7-3.9-9S9.5 5.6 12 3z"/></svg></button>
       <button class="mlbtn" id="authBtn"><img id="authAv" alt="" hidden><span id="authLabel">☰</span></button>
     </div>
   </div>
@@ -370,6 +371,12 @@ footer a{text-decoration:underline}
     <div class="mhead"><b id="rlTitle"></b><button class="mclose" id="rlClose" aria-label="닫기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div id="rmap"></div>
     <div class="rhint" id="rlHint"></div>
+  </div>
+</div>
+<div class="mlay" id="glay">
+  <div class="mpanel">
+    <div class="mhead"><b id="glTitle"></b><button class="mclose" id="glClose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="llbody" id="glBody"></div>
   </div>
 </div>
 <div class="mlay" id="rsheet">
@@ -782,10 +789,19 @@ function renderAuthUI(){const av=document.getElementById("authAv"),lb=document.g
   else{av.hidden=true;av.removeAttribute("src");lb.textContent="☰"}}
 function renderLL(){const a=AT();
   document.getElementById("llTitle").textContent="☰ "+ST().menu;
-  const langs=`<div class="sh">🌐 ${ST().lang}</div><div class="sgrid">${[["ko","한국어"],["en","English"],["ja","日本語"],["zh","中文"]].map(([k,n])=>`<button class="spill${state.lang===k?" on":""}" data-lang="${k}">${n}</button>`).join("")}</div>`;
-  document.getElementById("llBody").innerHTML=(fbUser
+  document.getElementById("llBody").innerHTML=fbUser
     ?`<p class="lldesc">${esc(fbUser.displayName||"")} · ${esc(fbUser.email||"")}</p><button class="lbtn out" id="btnLogout">${a.logout}</button>`
-    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`)+langs}
+    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`}
+function renderGL(){
+  document.getElementById("glTitle").textContent="🌐 "+ST().lang;
+  document.getElementById("glBody").innerHTML=`<div class="sgrid">${[["ko","한국어"],["en","English"],["ja","日本語"],["zh","中文"]].map(([k,n])=>`<button class="spill${state.lang===k?" on":""}" data-lang="${k}">${n}</button>`).join("")}</div>`}
+function glOpen(o){document.getElementById("glay").classList.toggle("show",o);if(o)renderGL()}
+document.getElementById("langBtn").addEventListener("click",()=>glOpen(true));
+document.getElementById("glClose").addEventListener("click",()=>glOpen(false));
+document.getElementById("glay").addEventListener("click",e=>{if(e.target.id==="glay")glOpen(false)});
+document.getElementById("glBody").addEventListener("click",e=>{
+  const lg=e.target.closest("[data-lang]");if(!lg)return;
+  state.lang=lg.dataset.lang;localStorage.setItem("bf_lang",state.lang);applyLang();glOpen(false)});
 function llOpen(o){document.getElementById("llay").classList.toggle("show",o);if(o)renderLL()}
 function fbLogin(prov){
   const p=prov==="apple"?new firebase.auth.OAuthProvider("apple.com"):new firebase.auth.GoogleAuthProvider();
@@ -799,8 +815,6 @@ document.getElementById("llay").addEventListener("click",e=>{if(e.target.id==="l
 document.getElementById("llBody").addEventListener("click",e=>{
   const p=e.target.closest("[data-prov]");
   if(p){fbLogin(p.dataset.prov);return}
-  const lg=e.target.closest("[data-lang]");
-  if(lg){state.lang=lg.dataset.lang;localStorage.setItem("bf_lang",state.lang);applyLang();renderLL();return}
   if(e.target.closest("#btnLogout"))fbAuth.signOut().then(()=>llOpen(false))});
 fbAuth.onAuthStateChanged(async u=>{
   fbUser=u;
