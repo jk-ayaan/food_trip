@@ -14,7 +14,9 @@
     "desc": "",
     "address": "대구광역시 달서구 월배로83길 7 (송현동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -48,7 +50,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 가창로119길 13"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -65,7 +69,9 @@
     "desc": "",
     "address": "대구광역시 달서구 조암로 58"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -99,7 +105,9 @@
     "desc": "",
     "address": "대구광역시 북구 이곡길 35-41 (서변동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -116,7 +124,9 @@
     "desc": "",
     "address": "대구광역시 북구 옥산로 53 (노원동1가)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 131
  },
  {
   "section": "food",
@@ -133,7 +143,9 @@
     "desc": "",
     "address": "대구광역시 달성군 다사읍 강정본길 77"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -150,7 +162,9 @@
     "desc": "",
     "address": "대구광역시 수성구 고모로 188 (고모동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -167,7 +181,9 @@
     "desc": "",
     "address": "대구광역시 수성구 동원로 6 (만촌동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 102
  },
  {
   "section": "food",
@@ -184,7 +200,9 @@
     "desc": "",
     "address": "대구광역시 수성구 달구벌대로 2474-8 (범어동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -201,7 +219,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공산로 339 (송정동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -218,7 +238,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공로 525 (지묘동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -235,7 +257,9 @@
     "desc": "",
     "address": "대구광역시 수성구 유니버시아드로 318 (욱수동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -252,7 +276,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 64 (두산동)"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -262,7 +288,7 @@
   "lat": 35.8623226838,
   "lng": 128.5439563133,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAxMjdfMjUx/MDAxNzY5NDQzMjUzNTE4.VnPhPfcKDoblddp6Uan4CR-IjM6cZewmv1tjk8o1yCog.gos54qMUvcC16yNkvKOPsojhWUBEXbL7G8ar2jI8QDkg.JPEG/IMG%EF%BC%BF2614.JPG?type=w580",
   "i18n": {
    "ko": {
     "name": "구일식당",
@@ -279,14 +305,16 @@
   "lat": 35.8864789532,
   "lng": 128.5804079844,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1e69b170216ebc93495b198aafbc71bde0d183fd?original",
   "i18n": {
    "ko": {
     "name": "국수마을",
     "desc": "",
     "address": "대구광역시 북구 원대로19길 16"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -303,7 +331,9 @@
     "desc": "",
     "address": "대구광역시 중구 국채보상로 492 (동산동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -320,7 +350,9 @@
     "desc": "",
     "address": "대구광역시 군위군 효령면 간동유원지길 5"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -330,14 +362,16 @@
   "lat": 35.6434680746,
   "lng": 128.4576977178,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAyMTJfMjI3/MDAxNzcwODgyNzc2Mjgz.yZs_oxgnyzqIZzsHnVEw66xu9ePeWuKY-iICoWmN0P4g.OgJ543q_n1xxeg9s3DS1I0q86Cs2t5FiYjXReWCoq2gg.JPEG/IMG%EF%BC%BF3238.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "금산곰탕",
     "desc": "",
     "address": "대구광역시 달성군 구지면 구지동로 234"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -371,7 +405,9 @@
     "desc": "",
     "address": "대구광역시 북구 대천로7길 6-10 (읍내동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -388,7 +424,9 @@
     "desc": "",
     "address": "대구광역시 중구 이천로 205 (대봉동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -439,7 +477,9 @@
     "desc": "",
     "address": "대구광역시 수성구 월드컵로5길 17 (대흥동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -456,7 +496,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 녹문길 16-11"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -473,7 +515,9 @@
     "desc": "",
     "address": "대구광역시 동구 파계로 620"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -524,7 +568,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 40 (두산동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -558,7 +604,9 @@
     "desc": "",
     "address": "대구광역시 남구 대명남로 188 (대명동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -575,7 +623,9 @@
     "desc": "",
     "address": "대구광역시 수성구 상록로2길 45 (범어동)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -592,7 +642,9 @@
     "desc": "",
     "address": "대구광역시 달성군 현풍읍 현풍동로29길 5"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -602,14 +654,16 @@
   "lat": 35.8310378812,
   "lng": 128.5735656841,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/86292ffa984a04d335d49b70622cd796b026dd93?original",
   "i18n": {
    "ko": {
     "name": "대덕식당",
     "desc": "",
     "address": "대구광역시 남구 앞산순환로 443"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 136
  },
  {
   "section": "food",
@@ -626,7 +680,9 @@
     "desc": "",
     "address": "대구광역시 남구 대봉로 57-1"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -643,7 +699,9 @@
     "desc": "",
     "address": "대구광역시 중구 명덕로 249 (대봉동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -660,7 +718,9 @@
     "desc": "",
     "address": "대구광역시 남구 중앙대로51길 38-2 (대명동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 175
  },
  {
   "section": "food",
@@ -670,14 +730,16 @@
   "lat": 35.8689923664,
   "lng": 128.5978985971,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/58f892ceb935381f3979699ead20494ec879f659?original",
   "i18n": {
    "ko": {
     "name": "대하닭갈비",
     "desc": "",
     "address": "대구광역시 중구 동성로6길 45"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -694,7 +756,9 @@
     "desc": "",
     "address": "대구광역시 중구 북성로 104-15"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -711,7 +775,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공산로2길 88 (덕곡동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -721,14 +787,16 @@
   "lat": 35.9471036869,
   "lng": 128.6370013046,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b47a853755ce6cc1ff15672d549025ad0f1449bd?original",
   "i18n": {
    "ko": {
     "name": "더덕고을",
     "desc": "",
     "address": "대구광역시 동구 파계로 152-5"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -745,7 +813,9 @@
     "desc": "",
     "address": "대구광역시 수성구 동대구로14길 15-6"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 102
  },
  {
   "section": "food",
@@ -762,7 +832,9 @@
     "desc": "",
     "address": "대구광역시 달성군 유가읍 음동길 130-15"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -772,14 +844,16 @@
   "lat": 35.9862103755,
   "lng": 128.6374557244,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f1cd31b0d3cccc3f2a54e207090ed01da3c381d8?original",
   "i18n": {
    "ko": {
     "name": "동림식당",
     "desc": "",
     "address": "대구광역시 동구 파계로116길 49"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -796,7 +870,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공로 995 (백안동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -830,7 +906,9 @@
     "desc": "",
     "address": "대구광역시 달서구 달구벌대로 1511 (용산동)"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -847,7 +925,9 @@
     "desc": "",
     "address": "대구광역시 서구 달구벌대로375길 31 (내당동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -864,7 +944,9 @@
     "desc": "",
     "address": "대구광역시 동구 초례로 6 (숙천동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -898,7 +980,9 @@
     "desc": "",
     "address": "대구광역시 중구 달구벌대로414길 36 (남산동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 139
  },
  {
   "section": "food",
@@ -915,7 +999,9 @@
     "desc": "",
     "address": "대구광역시 수성구 희망로 204 (황금동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -932,7 +1018,9 @@
     "desc": "",
     "address": "대구광역시 수성구 고모로 188 (고모동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -949,7 +1037,9 @@
     "desc": "",
     "address": "대구광역시 수성구 수성못2길 5 (두산동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -966,7 +1056,9 @@
     "desc": "",
     "address": "대구광역시 달성군 하빈면 하빈로 363"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -983,7 +1075,9 @@
     "desc": "",
     "address": "대구광역시 달성군 논공읍 성산로 1281"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -1000,7 +1094,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로21길 11 (송정동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -1017,7 +1113,9 @@
     "desc": "",
     "address": "대구광역시 수성구 무학로 105 (두산동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -1034,7 +1132,9 @@
     "desc": "",
     "address": "대구광역시 수성구 범어천로 48 (범어동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -1051,7 +1151,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로 122 (송정동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -1068,7 +1170,9 @@
     "desc": "",
     "address": "대구광역시 수성구 국채보상로186길 81 (범어동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -1078,14 +1182,16 @@
   "lat": 35.8561742112,
   "lng": 128.5891052839,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA0MDFfMjQ1/MDAxNzc1MDE0MjkyNTUz.XxcPzKQZgVGP1y8WqGb6znouRMugQZppnEkZlQ3ahSog._pCx7o1vx3wK43jM_im14eK_c7rp5uybbG_SlF6gEesg.JPEG/SE-c96a7b4f-2afc-11f1-93d9-c965efc20491.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "물베기한정식",
     "desc": "",
     "address": "대구광역시 남구 중앙대로51길 23"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -1119,7 +1225,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공산로 222"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -1129,14 +1237,16 @@
   "lat": 35.8674841379,
   "lng": 128.5943295095,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e7826124669e8fa8bc74e2d61226f2ada2e41208?original",
   "i18n": {
    "ko": {
     "name": "미진분식",
     "desc": "",
     "address": "대구광역시 중구 동성로 6-1 (동성로3가)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -1153,7 +1263,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 19 (상동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1187,7 +1299,9 @@
     "desc": "",
     "address": "대구광역시 수성구 수성못2길 35 (두산동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1204,7 +1318,9 @@
     "desc": "",
     "address": "대구광역시 중구 달구벌대로446길 11 (대봉동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -1221,7 +1337,9 @@
     "desc": "",
     "address": "대구광역시 달서구 두류공원로28길 8"
    }
-  }
+  },
+  "rating": 1.7,
+  "rcount": 100
  },
  {
   "section": "food",
@@ -1248,14 +1366,16 @@
   "lat": 35.8710117164,
   "lng": 128.6051534576,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/67ad6a7d7612093d4c768d25f99dce9af245b534?original",
   "i18n": {
    "ko": {
     "name": "벙글벙글찜갈비",
     "desc": "",
     "address": "대구광역시 중구 동덕로36길 9-12 (동인동1가)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1272,7 +1392,9 @@
     "desc": "",
     "address": "대구광역시 달서구 미리샘길 82 (도원동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -1289,7 +1411,9 @@
     "desc": "",
     "address": "대구광역시 북구 침산남로 62 (노원동1가)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1306,7 +1430,9 @@
     "desc": "",
     "address": "대구광역시 달성군 서재본길 11"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1323,7 +1449,9 @@
     "desc": "",
     "address": "대구광역시 동구 방촌로 58"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1340,7 +1468,9 @@
     "desc": "",
     "address": "대구광역시 수성구 희망로 216 (황금동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1367,14 +1497,16 @@
   "lat": 35.8696609516,
   "lng": 128.7057779677,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/oWaiDPO6Qr_O39EGMsRoIAcC9l7mYZ7bK_lkage8HZLC5.jpeg",
   "i18n": {
    "ko": {
     "name": "부부식당",
     "desc": "",
     "address": "대구광역시 동구 율하동로24길 31"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -1391,7 +1523,9 @@
     "desc": "",
     "address": "대구광역시 동구 파계로6길 54 (지묘동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -1408,7 +1542,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공로 400-6 (봉무동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1442,7 +1578,9 @@
     "desc": "",
     "address": "대구광역시 북구 고성북로10길 41 (고성동3가)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1459,7 +1597,9 @@
     "desc": "",
     "address": "대구광역시 동구 동부로34길 10 (신천동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 201
  },
  {
   "section": "food",
@@ -1476,7 +1616,9 @@
     "desc": "",
     "address": "대구광역시 달성군 유가읍 휴양림길 416"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1493,7 +1635,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공산로185길 55 (용수동)"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1510,7 +1654,9 @@
     "desc": "",
     "address": "대구광역시 수성구 희망로 137-1 (중동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -1527,7 +1673,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 우록3길 58"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -1537,14 +1685,16 @@
   "lat": 35.8307081686,
   "lng": 128.6173340618,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/cfile/153A5A494F61A19209",
   "i18n": {
    "ko": {
     "name": "서민갈비",
     "desc": "",
     "address": "대구광역시 수성구 들안로 8-5 (두산동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 120
  },
  {
   "section": "food",
@@ -1571,14 +1721,16 @@
   "lat": 35.8671592188,
   "lng": 128.4456342911,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b322c048d09b79d2cf480ee926befec2d7359070?original",
   "i18n": {
    "ko": {
     "name": "손중헌원조논메기매운탕",
     "desc": "",
     "address": "대구광역시 달성군 다사읍 부곡2길 7-9"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1595,7 +1747,9 @@
     "desc": "",
     "address": "대구광역시 동구 동화사2길 21-10"
    }
-  }
+  },
+  "rating": 1.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -1612,7 +1766,9 @@
     "desc": "",
     "address": "대구광역시 동구 매여로 320 (상매동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -1629,7 +1785,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 44"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -1646,7 +1804,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공로30길 10"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1663,7 +1823,9 @@
     "desc": "",
     "address": "대구광역시 수성구 용학로 106-5"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -1680,7 +1842,9 @@
     "desc": "",
     "address": "대구광역시 달성군 유가읍 휴양림길 109"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1697,7 +1861,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 73 (상동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1714,7 +1880,9 @@
     "desc": "",
     "address": "대구광역시 수성구 노변로 79 (노변동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1731,7 +1899,9 @@
     "desc": "",
     "address": "대구광역시 군위군 부계면 치산효령로 1414"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1748,7 +1918,9 @@
     "desc": "",
     "address": "대구광역시 남구 현충로 214"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 123
  },
  {
   "section": "food",
@@ -1765,7 +1937,9 @@
     "desc": "",
     "address": "대구광역시 남구 앞산순환로 459 (대명동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -1782,7 +1956,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 41 (상동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1799,7 +1975,9 @@
     "desc": "",
     "address": "대구광역시 동구 대경로 1 (숙천동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1816,7 +1994,9 @@
     "desc": "",
     "address": "대구광역시 수성구 수성못6길 20 (두산동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -1833,7 +2013,9 @@
     "desc": "",
     "address": "대구광역시 남구 큰골길 35 (대명동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -1850,7 +2032,9 @@
     "desc": "",
     "address": "대구광역시 남구 앞산순환로 383-6"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -1867,7 +2051,9 @@
     "desc": "",
     "address": "대구광역시 남구 앞산순환로 559-1 (대명동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -1884,7 +2070,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 80 (두산동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -1901,7 +2089,9 @@
     "desc": "",
     "address": "대구광역시 동구 아양로 344 (입석동)"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -1918,7 +2108,9 @@
     "desc": "",
     "address": "대구광역시 달성군 논공읍 비슬로 1139"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1935,7 +2127,9 @@
     "desc": "",
     "address": "대구광역시 군위군 중앙6길 19-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1952,7 +2146,9 @@
     "desc": "",
     "address": "대구광역시 북구 구리로 183-8 (국우동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -1969,7 +2165,9 @@
     "desc": "",
     "address": "대구광역시 남구 대명남로 167"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1986,7 +2184,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 주리2길 104"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -2020,7 +2220,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 가창로93길 52"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2037,7 +2239,9 @@
     "desc": "",
     "address": "대구광역시 중구 국채보상로 696-8"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 172
  },
  {
   "section": "food",
@@ -2047,14 +2251,16 @@
   "lat": 35.8306137137,
   "lng": 128.6161897207,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/22262876344b80ac046f099c86e4b1404d45c484?original",
   "i18n": {
    "ko": {
     "name": "용지봉",
     "desc": "",
     "address": "대구광역시 수성구 들안로 9"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -2071,7 +2277,9 @@
     "desc": "",
     "address": "대구광역시 수성구 범어천로 151-4"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2088,7 +2296,9 @@
     "desc": "",
     "address": "대구광역시 군위군 도군로 2645"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -2105,7 +2315,9 @@
     "desc": "",
     "address": "대구광역시 수성구 동대구로38길 33 (황금동)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -2122,7 +2334,9 @@
     "desc": "",
     "address": "대구광역시 수성구 청수로3길 5"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -2139,7 +2353,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로 297 (수성동2가)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -2156,7 +2372,9 @@
     "desc": "",
     "address": "대구광역시 남구 앞산순환로 409 (대명동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -2173,7 +2391,9 @@
     "desc": "",
     "address": "대구광역시 수성구 만촌로 105 (만촌동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -2190,7 +2410,9 @@
     "desc": "",
     "address": "대구광역시 달성군 유가읍 테크노중앙대로1길 35"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -2200,14 +2422,16 @@
   "lat": 35.8711005902,
   "lng": 128.604884034,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c6c6e8880d0c7f37c21031bba6f5a15b9d366f27?original",
   "i18n": {
    "ko": {
     "name": "유진찜갈비",
     "desc": "",
     "address": "대구광역시 중구 동덕로36길 9-13"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2224,7 +2448,9 @@
     "desc": "",
     "address": "대구광역시 중구 명륜로 20 (남산동)"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 163
  },
  {
   "section": "food",
@@ -2241,7 +2467,9 @@
     "desc": "",
     "address": "대구광역시 수성구 들안로77길 11 (수성동4가)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -2258,7 +2486,9 @@
     "desc": "",
     "address": "대구광역시 중구 서성로13길 9 (서성로1가)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -2275,7 +2505,9 @@
     "desc": "",
     "address": "대구광역시 북구 구암로 280 (구암동)"
    }
-  }
+  },
+  "rating": 1.9,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2292,7 +2524,9 @@
     "desc": "",
     "address": "대구광역시 수성구 월드컵로5안길 17-3 (삼덕동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -2309,7 +2543,9 @@
     "desc": "",
     "address": "대구광역시 동구 효동로6길 57 (효목동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2326,7 +2562,9 @@
     "desc": "",
     "address": "대구광역시 달성군 마비정길 163"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -2343,7 +2581,9 @@
     "desc": "",
     "address": "대구광역시 동구 파계로 497 (중대동)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2360,7 +2600,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 헐티로2길 26"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -2377,7 +2619,9 @@
     "desc": "",
     "address": "대구광역시 달서구 성서공단로15길 10 (호림동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2394,7 +2638,9 @@
     "desc": "",
     "address": "대구광역시 수성구 국채보상로 912 (범어동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 152
  },
  {
   "section": "food",
@@ -2404,14 +2650,16 @@
   "lat": 35.8695145125,
   "lng": 128.5969625542,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d9cb707964822c4f0fce8f909e893661c6629ed0?original",
   "i18n": {
    "ko": {
     "name": "중앙떡볶이",
     "desc": "",
     "address": "대구광역시 중구 동성로2길 81"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 261
  },
  {
   "section": "food",
@@ -2421,14 +2669,16 @@
   "lat": 35.8461341244,
   "lng": 128.6131728884,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b6c702667ca3214a59f65a051d68d2e9e6c4025d?original",
   "i18n": {
    "ko": {
     "name": "지산골가마솥국밥",
     "desc": "",
     "address": "대구광역시 수성구 수성로 232"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -2445,7 +2695,9 @@
     "desc": "",
     "address": "대구광역시 남구 현충로 21 (대명동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2462,7 +2714,9 @@
     "desc": "",
     "address": "대구광역시 서구 달서천로83길 13"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2479,7 +2733,9 @@
     "desc": "",
     "address": "대구광역시 남구 성당로 272 (대명동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -2489,14 +2745,16 @@
   "lat": 35.8548384618,
   "lng": 128.6005265373,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d4d960e5e603f0162f36fa5dbc055f6c717a8b8f?original",
   "i18n": {
    "ko": {
     "name": "진흥반점",
     "desc": "",
     "address": "대구광역시 남구 이천로28길 43-2 (이천동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 135
  },
  {
   "section": "food",
@@ -2506,14 +2764,16 @@
   "lat": 35.905730162,
   "lng": 128.6135184197,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNDA4MjRfMjg1/MDAxNzI0NDY1NDQzODUy.KqT6uDgHwVvzgvSd_70aiH8Sfi8ipsKidbOO393xcIYg.Rm8I2edyKHDu3jni5exW5oqJpfCdHsln_SjgBN5n1pYg.JPEG/20240823%EF%BC%BF115136.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "집밥아미정",
     "desc": "",
     "address": "대구광역시 북구 유통단지로8길 80"
    }
-  }
+  },
+  "rating": 1.7,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -2530,7 +2790,9 @@
     "desc": "",
     "address": "대구광역시 동구 효동로6길 43 (효목동)"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -2547,7 +2809,9 @@
     "desc": "",
     "address": "대구광역시 달서구 앞산순환로 289"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -2564,7 +2828,9 @@
     "desc": "",
     "address": "대구광역시 수성구 만촌로8길 25"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -2598,7 +2864,9 @@
     "desc": "",
     "address": "대구광역시 남구 대봉로 65 (봉덕동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -2615,7 +2883,9 @@
     "desc": "",
     "address": "대구광역시 수성구 무학로21길 56 (두산동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2642,14 +2912,16 @@
   "lat": 35.8520429215,
   "lng": 128.5238361487,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/B415691CA0BB4704801169980B0C5C2A",
   "i18n": {
    "ko": {
     "name": "촉향원",
     "desc": "",
     "address": "대구광역시 달서구 달구벌대로291길 71-20 (장기동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 97
  },
  {
   "section": "food",
@@ -2659,14 +2931,16 @@
   "lat": 35.8887592528,
   "lng": 128.580530133,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fc8e70805db0ba7489fe4366161a427a7b639674?original",
   "i18n": {
    "ko": {
     "name": "칠성동할매콩국수",
     "desc": "",
     "address": "대구광역시 북구 침산남로 40"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -2683,7 +2957,9 @@
     "desc": "",
     "address": "대구광역시 달성군 다사읍 달구벌대로 616"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2700,7 +2976,9 @@
     "desc": "",
     "address": "대구광역시 달서구 조암남로14길 52-2 (월성동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -2717,7 +2995,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 주리1길 52-5"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -2734,7 +3014,9 @@
     "desc": "",
     "address": "대구광역시 달성군 유가읍 유가사2길 15"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -2751,7 +3033,9 @@
     "desc": "",
     "address": "대구광역시 군위군 삼국유사로 438-16"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -2768,7 +3052,9 @@
     "desc": "",
     "address": "대구광역시 북구 공항로 89"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -2785,7 +3071,9 @@
     "desc": "",
     "address": "대구광역시 군위군 부계면 한티로 1525-6"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -2802,7 +3090,9 @@
     "desc": "",
     "address": "대구광역시 남구 앞산순환로 449 (대명동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2819,7 +3109,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공로 1334"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -2836,7 +3128,9 @@
     "desc": "",
     "address": "대구광역시 달성군 유가읍 현풍로 268"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2846,14 +3140,16 @@
   "lat": 35.8676626453,
   "lng": 128.6349148183,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/FC77F5941DCF4EE3A11E7D336B699AFA",
   "i18n": {
    "ko": {
     "name": "커피명가 라핀카",
     "desc": "",
     "address": "대구광역시 수성구 국채보상로 953-1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -2870,7 +3166,9 @@
     "desc": "",
     "address": "대구광역시 달서구 월배로46길 72 (상인동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -2887,7 +3185,9 @@
     "desc": "",
     "address": "대구광역시 서구 서대구로 118 (평리동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2904,7 +3204,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로 106 (송정동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2921,7 +3223,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 우록길 24"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -2955,7 +3259,9 @@
     "desc": "",
     "address": "대구광역시 동구 동화사2길 21-7"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -2972,7 +3278,9 @@
     "desc": "",
     "address": "대구광역시 중구 달성로22길 86"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -2989,7 +3297,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로 133 (송정동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3006,7 +3316,9 @@
     "desc": "",
     "address": "대구광역시 동구 팔공산로 1169 (용수동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -3023,7 +3335,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로 98-1 (송정동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -3057,7 +3371,9 @@
     "desc": "",
     "address": "대구광역시 북구 칠곡중앙대로 329 (태전동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3074,7 +3390,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로 82 (송정동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -3091,7 +3409,9 @@
     "desc": "",
     "address": "대구광역시 수성구 수성못2길 3 (두산동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 114
  },
  {
   "section": "food",
@@ -3108,7 +3428,9 @@
     "desc": "",
     "address": "대구광역시 서구 달구벌대로375길 14-1 (내당동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 106
  },
  {
   "section": "food",
@@ -3125,7 +3447,9 @@
     "desc": "",
     "address": "대구광역시 달서구 달구벌대로 1860"
    }
-  }
+  },
+  "rating": 1.9,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -3142,7 +3466,9 @@
     "desc": "",
     "address": "대구광역시 동구 서촌로 129 (송정동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -3176,7 +3502,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 가창로155길 9"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 100
  },
  {
   "section": "food",
@@ -3210,7 +3538,9 @@
     "desc": "",
     "address": "대구광역시 군위군 부계면 한밤8길 46-55"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3227,7 +3557,9 @@
     "desc": "",
     "address": "대구광역시 중구 중앙대로 404-3 (남일동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -3278,7 +3610,9 @@
     "desc": "",
     "address": "대구광역시 중구 달구벌대로389길 70 (대신동, 협화아파트)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -3295,7 +3629,9 @@
     "desc": "",
     "address": "대구광역시 동구 파계로 583 (중대동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -3312,7 +3648,9 @@
     "desc": "",
     "address": "대구광역시 남구 대봉로 170 (이천동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -3329,7 +3667,9 @@
     "desc": "",
     "address": "대구광역시 서구 달구벌대로375길 26-1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -3346,7 +3686,9 @@
     "desc": "",
     "address": "대구광역시 남구 안지랑로5길 88 (대명동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -3363,7 +3705,9 @@
     "desc": "",
     "address": "대구광역시 달성군 가창면 가창로176길 9"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -3373,14 +3717,16 @@
   "lat": 35.9840383766,
   "lng": 128.6362170054,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a9a5484d6cd9f6722bd1e9546d0b59fb57ebb502?original",
   "i18n": {
    "ko": {
     "name": "황토시골집",
     "desc": "",
     "address": "대구광역시 동구 파계로 604 (중대동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3397,7 +3743,9 @@
     "desc": "",
     "address": "대구광역시 수성구 동대구로20길 66 (지산동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 141
  },
  {
   "section": "food",
@@ -3414,7 +3762,9 @@
     "desc": "",
     "address": "대구광역시 중구 명덕로 333"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -3424,14 +3774,16 @@
   "lat": 35.9252127729,
   "lng": 128.5434101683,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyMzA5MTRfMjg4/MDAxNjk0Njc5MTIyNTU3.mlgzai8eR1LEJZEx2NVVtlbxn6vcFGKKai2QTqCO_Csg.uQmRla75scSslLQKi8suBFs84ClzGLrCbPtqJPoqo34g.JPEG.c_chh/SE-D8A530E4-318B-42B9-8635-B951E7F544A4.jpg?type=w580",
   "i18n": {
    "ko": {
     "name": "24시교동촌콩나물해장국밥",
     "desc": "",
     "address": "대구광역시 북구 태전로 55"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 4
  },
  {
   "section": "food",

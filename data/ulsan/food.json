@@ -14,7 +14,9 @@
     "desc": "",
     "address": "울산광역시 울주군 언양읍 헌양길 96"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 56
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "울산광역시 울주군 신암해안2길 23"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -65,7 +69,9 @@
     "desc": "",
     "address": "울산광역시 울주군 서생면 간절곶해안길 246"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -82,7 +88,9 @@
     "desc": "",
     "address": "울산광역시 울주군 신암해안길 11"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -92,14 +100,16 @@
   "lat": 35.5606062683,
   "lng": 129.1176727061,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/oWaiQInM1X_y2KHXKOPrWdokechENBfkK_lkagejtTG9H.jpeg",
   "i18n": {
    "ko": {
     "name": "갈비구락부",
     "desc": "",
     "address": "울산광역시 울주군 삼남읍 남상평2길 34-12"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -109,14 +119,16 @@
   "lat": 35.5017814973,
   "lng": 129.3695884811,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/btqfU0EjMgd_GFICyoL40EVDYS1vMS9sk0_img.jpg",
   "i18n": {
    "ko": {
     "name": "고래고기원조할매집",
     "desc": "",
     "address": "울산광역시 남구 장생포고래로 135"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -133,7 +145,9 @@
     "desc": "",
     "address": "울산광역시 북구 판지1길 62 (구유동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -150,7 +164,9 @@
     "desc": "",
     "address": "울산광역시 북구 동해안로 1335"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -160,14 +176,16 @@
   "lat": 35.6301640146,
   "lng": 129.3552611034,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MDZfMjkx/MDAxNzgwNzU2NTQ5OTQ2.eHkuzOd4LIvbQFOd92AEBMYDWGK3npt0g8IfHCdFZb0g.vxkOefh3HMbHjlCtm5-hpuOZEVigJZbW2eVT2p1sbGAg.JPEG/SE-02283a1a-6bf2-4f85-8c7f-05fc000ec57b.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "꽃바위동해반점",
     "desc": "",
     "address": "울산광역시 북구 동대중앙로 43 (호계동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -177,14 +195,16 @@
   "lat": 35.5028741583,
   "lng": 129.4288110665,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/C78ED167BE1A42EC81992D81292B7CAD",
   "i18n": {
    "ko": {
     "name": "나고야 일식",
     "desc": "",
     "address": "울산광역시 동구 방어진순환도로 683"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -211,14 +231,16 @@
   "lat": 35.5705496561,
   "lng": 129.1210165802,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/da0618c58d9d6d049357f99a70e1d6932173cace?original",
   "i18n": {
    "ko": {
     "name": "나해돌솥밥",
     "desc": "",
     "address": "울산광역시 울주군 언양읍 읍성로 111"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -235,7 +257,9 @@
     "desc": "",
     "address": "울산광역시 울주군 명촌길천로 23"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 143
  },
  {
   "section": "food",
@@ -245,14 +269,16 @@
   "lat": 35.7131989141,
   "lng": 129.1976197557,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTEyMjJfMTc4/MDAxNzY2NDA2MDE0Nzcx.Y4lh-UveIVLEiDdhpV0LLVTVKj_U8xuGOJSfJxbcH14g.E1TLrJ9J5mncdHXs2UVVJhAFcWoywqIiIm1quzys3PAg.JPEG/20250607_150019.jpg?type=w386",
   "i18n": {
    "ko": {
     "name": "누렁소불고기",
     "desc": "",
     "address": "울산광역시 울주군 두동면 계명로 80"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -262,14 +288,16 @@
   "lat": 35.5564902617,
   "lng": 129.2764117349,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/96eca794901848d027984b67a1073173d3043a3c?original",
   "i18n": {
    "ko": {
     "name": "다운목살구이",
     "desc": "",
     "address": "울산광역시 중구 운곡안길 9"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -313,14 +341,16 @@
   "lat": 35.5537075265,
   "lng": 129.2915882663,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/470ed100387096795cfcc4c47e36dec4bdc8ca68?original",
   "i18n": {
    "ko": {
     "name": "대일함흥냉면",
     "desc": "",
     "address": "울산광역시 중구 명정4길 13"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -337,7 +367,9 @@
     "desc": "",
     "address": "울산광역시 울주군 상북면 소야정길 115"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -371,7 +403,9 @@
     "desc": "",
     "address": "울산광역시 울주군 언양읍 남문길 35-1"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -388,7 +422,9 @@
     "desc": "",
     "address": "울산광역시 남구 남부순환도로626번길 8 (두왕동)"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -405,7 +441,9 @@
     "desc": "",
     "address": "울산광역시 울주군 서생면 신암해안길 13"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -449,14 +487,16 @@
   "lat": 35.5439000541,
   "lng": 129.426110143,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/1D51E9A2BF0B48DAA5C36EB2FF70BFAD",
   "i18n": {
    "ko": {
     "name": "라온누리",
     "desc": "",
     "address": "울산광역시 동구 옥류로 57"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -473,7 +513,9 @@
     "desc": "",
     "address": "울산광역시 중구 종가1길 14"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -490,7 +532,9 @@
     "desc": "",
     "address": "울산광역시 북구 명촌23길 41 (진장동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -500,7 +544,7 @@
   "lat": 35.5536268036,
   "lng": 129.2822057538,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAzMDRfMzMg/MDAxNzcyNjE1MjE1ODE2.lvT3OeQKJdeifehUbOLzarwRBf-ZnTRTOO1uOsL8_nkg.uRWmK689oodFwlxisCqMYvE3sDBa-2dH6lk_pMSTho4g.JPEG/KakaoTalk_20260114_230153793_11.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "목포식당",
@@ -524,7 +568,9 @@
     "desc": "",
     "address": "울산광역시 울주군 범서읍 지지길 55"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -534,14 +580,16 @@
   "lat": 35.5589665145,
   "lng": 129.357749012,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a4ab2025a6a8d0b988fbbd460e8d46b095961856?original",
   "i18n": {
    "ko": {
     "name": "배내골참민물장어",
     "desc": "",
     "address": "울산광역시 북구 명촌3길 7-1"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -558,7 +606,9 @@
     "desc": "",
     "address": "울산광역시 울주군 서생면 간절곶해안길 83"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -592,7 +642,9 @@
     "desc": "",
     "address": "울산광역시 울주군 청량읍 상보두현길 75"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -626,7 +678,9 @@
     "desc": "",
     "address": "울산광역시 동구 해수욕장10길 74 (일산동)"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -643,7 +697,9 @@
     "desc": "",
     "address": "울산광역시 중구 손골2길 17-6 (복산동, 동덕아파트)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 123
  },
  {
   "section": "food",
@@ -677,7 +733,9 @@
     "desc": "",
     "address": "울산광역시 울주군 구량차리로 320"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -694,7 +752,9 @@
     "desc": "",
     "address": "울산광역시 울주군 두동면 두동로 1835"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -711,7 +771,9 @@
     "desc": "",
     "address": "울산광역시 남구 달삼로 57 (달동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 113
  },
  {
   "section": "food",
@@ -721,14 +783,16 @@
   "lat": 35.5618645265,
   "lng": 129.2694455246,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTExMjZfOTUg/MDAxNzY0MTYzNDEzMzc2.lw8ROU2lRlH6HwCpT-RHUP4HEowfjzfV_n4rYUtljUwg.pVI2WxOeFsy8_wOoSxNFxXx_mx39zGUdycYIrWuAICcg.JPEG/20250930%EF%BC%BF153753.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "부산횟집",
     "desc": "",
     "address": "울산광역시 중구 다운로 90-1"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -745,7 +809,9 @@
     "desc": "",
     "address": "울산광역시 북구 명촌23길 31 (진장동)"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -755,14 +821,16 @@
   "lat": 35.4995856091,
   "lng": 129.4272446293,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MDZfOCAg/MDAxNzc4MDUyMTg3MDY0.arMtjDBzvOnLiljUTtBt5GKgwUgw4F3fNM3fbenkgGQg.N3Ia2U8pSmB_FUl4Oo72o3BpFN0O_gFHOltAY0D2bxgg.JPEG/IMG%EF%BC%BF4645.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "사랑채",
     "desc": "",
     "address": "울산광역시 동구 번덕로 10"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -779,7 +847,9 @@
     "desc": "",
     "address": "울산광역시 울주군 상북면 송락골길 12"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -789,14 +859,16 @@
   "lat": 35.5397066642,
   "lng": 129.012735241,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/39670991cab8d25edb5bbcea199fc62e33430cb6?original",
   "i18n": {
    "ko": {
     "name": "산돼지마을",
     "desc": "",
     "address": "울산광역시 울주군 상북면 배내로 1116"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -813,7 +885,9 @@
     "desc": "",
     "address": "울산광역시 북구 매곡로 204 (매곡동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -830,7 +904,9 @@
     "desc": "",
     "address": "울산광역시 남구 남중로 104 (삼산동)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -847,7 +923,9 @@
     "desc": "",
     "address": "울산광역시 중구 중앙길 171-1"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -857,14 +935,16 @@
   "lat": 35.5698399335,
   "lng": 129.3387392518,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a05a01102c0a4bbdda7d4c87ee56e956ef06cc8f?original",
   "i18n": {
    "ko": {
     "name": "서도밀면",
     "desc": "",
     "address": "울산광역시 중구 평산4길 17"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -898,7 +978,9 @@
     "desc": "",
     "address": "울산광역시 중구 성안6길 23 (성안동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -915,7 +997,9 @@
     "desc": "",
     "address": "울산광역시 울주군 삼동로 267-7"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -925,14 +1009,16 @@
   "lat": 35.5814549588,
   "lng": 129.3209626975,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/0580E66113644BD4AC6F6A3608F2F293",
   "i18n": {
    "ko": {
     "name": "솔밭가든",
     "desc": "",
     "address": "울산광역시 중구 함월20길 65"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1000,7 +1086,9 @@
     "desc": "",
     "address": "울산광역시 울주군 삼남읍 등억알프스로 50"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -1034,7 +1122,9 @@
     "desc": "",
     "address": "울산광역시 동구 해수욕장10길 18 (일산동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1044,14 +1134,16 @@
   "lat": 35.4974692234,
   "lng": 129.4295222686,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTExMDNfMjU1/MDAxNzYyMTUzMjcyOTgx.SfX0XxfHxv4c-Rr93qzHyTwoJU_dYG3BU9IYnmG3SD4g.YnqRitmpjn7bT4CZlyHgPjnnJaCywfiz-FL3UvvhbI8g.JPEG/SE-6fbc310d-ae7b-11f0-9522-a513af5fa4e9.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "신사동보쌈&족발",
     "desc": "",
     "address": "울산광역시 동구 보성길 10"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -1068,7 +1160,9 @@
     "desc": "",
     "address": "울산광역시 북구 매곡로 152 (매곡동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -1078,14 +1172,16 @@
   "lat": 35.5545080314,
   "lng": 129.3231965963,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDlfNTQg/MDAxNzgzNTk1OTM2NDE1.ESNx04EYTah8RloFICz75yOvWDL2snf6HrU0VUIkejkg.TdQsSwKZt928hUBlMItxUqcA7qOlB67JYc1YySZSjKgg.JPEG/IMG%EF%BC%BF8824.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "신화곰장어",
     "desc": "",
     "address": "울산광역시 중구 젊음의거리 105"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -1112,14 +1208,16 @@
   "lat": 35.5578194645,
   "lng": 129.3600571757,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/30b37f6afcf82b47a4739d76840fd77adcccb783?original",
   "i18n": {
    "ko": {
     "name": "어전생복집",
     "desc": "",
     "address": "울산광역시 북구 명촌5길 27 (진장동)"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -1129,14 +1227,16 @@
   "lat": 35.5622757821,
   "lng": 129.1314575658,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/39a68284b71c4513b262a4e8f4ecc3449ad65d79?original",
   "i18n": {
    "ko": {
     "name": "언양1번가 주먹떡갈비",
     "desc": "",
     "address": "울산광역시 울주군 언양읍 언양로 37"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -1153,7 +1253,9 @@
     "desc": "",
     "address": "울산광역시 울주군 언양읍 웃방천5길 10"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -1163,14 +1265,16 @@
   "lat": 35.5660334775,
   "lng": 129.1199140249,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8dce034ed1995efff79b0ca7616f56f3acdbf5e0?original",
   "i18n": {
    "ko": {
     "name": "언양전통불고기",
     "desc": "",
     "address": "울산광역시 울주군 언양읍 헌양길 128"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1187,7 +1291,9 @@
     "desc": "",
     "address": "울산광역시 울주군 서생면 해맞이로 1097-2"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -1221,7 +1327,9 @@
     "desc": "",
     "address": "울산광역시 울주군 두동면 박제상로 294-108"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -1238,7 +1346,9 @@
     "desc": "",
     "address": "울산광역시 울주군 언양읍 내곡길 21"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -1248,7 +1358,7 @@
   "lat": 35.538557289,
   "lng": 129.336057035,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/76270423E3E341A5903701E6B0C88F00",
   "i18n": {
    "ko": {
     "name": "오리엔탈 무거면옥",
@@ -1272,7 +1382,9 @@
     "desc": "",
     "address": "울산광역시 북구 판지1길 16 (구유동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1289,7 +1401,9 @@
     "desc": "",
     "address": "울산광역시 남구 남중로94번길 13 (삼산동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1306,7 +1420,9 @@
     "desc": "",
     "address": "울산광역시 북구 고래로 2-1 (천곡동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -1316,14 +1432,16 @@
   "lat": 35.5635802076,
   "lng": 129.2272380508,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA0MDhfMjQ3/MDAxNzc1NjQzMTE0MjM3.IRYSB3r3_Arjf7S6p8_PY10f7nQm7qJfnbM8UHmS9W8g.0aiUS5WuXwwZrjWgYBHuQMwcVJTYv-xLH4-OgRp7fP8g.JPEG/IMG%EF%BC%BF6780.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "유승추어탕",
     "desc": "",
     "address": "울산광역시 울주군 범서읍 천상3길 10-2"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -1340,7 +1458,9 @@
     "desc": "",
     "address": "울산광역시 울주군 삼남읍 수남벚꽃길 9"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -1357,7 +1477,9 @@
     "desc": "",
     "address": "울산광역시 울주군 이전장성길 60-15"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -1374,7 +1496,9 @@
     "desc": "",
     "address": "울산광역시 남구 삼산로77번길 25"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -1401,14 +1525,16 @@
   "lat": 35.495258367,
   "lng": 129.4298778553,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/83ecb54e33bd0b985e436b4502da4df6769873ec?original",
   "i18n": {
    "ko": {
     "name": "일산정삼계탕",
     "desc": "",
     "address": "울산광역시 동구 해수욕장3길 15"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -1442,7 +1568,9 @@
     "desc": "",
     "address": "울산광역시 중구 종가26길 26 (장현동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -1459,7 +1587,9 @@
     "desc": "",
     "address": "울산광역시 울주군 구영앞길 74"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1469,14 +1599,16 @@
   "lat": 35.6011646254,
   "lng": 129.3619307869,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA0MzBfMSAg/MDAxNzc3NTI5MjYwNjMy.R8D3HAw2DuMPn1l66RvQ6OPuHG3TzNmPolhvgdTpZG8g.s860MXBvFqocqy4zScAFs3_rX4RKIhAFOaV4vjgSkMkg.JPEG/IMG%EF%BC%BF5814.JPG?type=w773",
   "i18n": {
    "ko": {
     "name": "정문식곱창구이",
     "desc": "",
     "address": "울산광역시 북구 송정14길 13"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1486,14 +1618,16 @@
   "lat": 35.7138794323,
   "lng": 129.1997001095,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MTBfMTQ2/MDAxNzc4MzcyNjc1MDE1.mEGL1R1sJKJiG7nSQsTXs1bxokGxmr0SWlDLGCqLYEEg.GD8zoWNUKPdJ57KXMrpS2TCgjGyGEMeEHomJRRD5RYkg.JPEG/900_20260508_183650.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "정원숯불구이",
     "desc": "",
     "address": "울산광역시 울주군 두동면 두동로 1840"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1503,14 +1637,16 @@
   "lat": 35.555560633,
   "lng": 129.3201301673,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/btqeLizBJTD_wljxYE3LtZuhODYyQxAVR1_img.jpg",
   "i18n": {
    "ko": {
     "name": "조포닭발",
     "desc": "",
     "address": "울산광역시 중구 중앙2길 20-1"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1537,14 +1673,16 @@
   "lat": 35.5385741276,
   "lng": 129.3452867849,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDhfMjI3/MDAxNzgzNDg3Njg1NTAy.B_1rT6gx86PUsk_LYV0PyYizmdBmYmRvwFsC2J0hQZ4g.1eLLDT-sFzzi_zRqp2RgAhqBl-OLYf_a4lZcyzm8hbMg.JPEG/SE-6ae524a3-74d8-434f-b999-59dd8c68b9da.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "차일품한정식",
     "desc": "",
     "address": "울산광역시 남구 삼산로352번길 14 (삼산동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -1561,7 +1699,9 @@
     "desc": "",
     "address": "울산광역시 남구 삼산중로 24 (달동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -1578,7 +1718,9 @@
     "desc": "",
     "address": "울산광역시 남구 정동로20번길 15 (삼산동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1595,7 +1737,9 @@
     "desc": "",
     "address": "울산광역시 북구 용바위2길 45 (당사동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -1612,7 +1756,9 @@
     "desc": "",
     "address": "울산광역시 울주군 장제1길 13-11"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1646,7 +1792,9 @@
     "desc": "",
     "address": "울산광역시 북구 아름1길 11 (어물동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1663,7 +1811,9 @@
     "desc": "",
     "address": "울산광역시 울주군 배내로 950"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -1673,14 +1823,16 @@
   "lat": 35.5549996189,
   "lng": 129.3219300265,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4c1b87cd5eb6673597f94b5b8378f733eb8857a4?original",
   "i18n": {
    "ko": {
     "name": "파란풍차",
     "desc": "",
     "address": "울산광역시 중구 중앙시장길 2-9"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -1707,14 +1859,16 @@
   "lat": 35.5744175253,
   "lng": 129.3561848229,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/553aee983866323daea4d89c7eea012408b7a2e2?original",
   "i18n": {
    "ko": {
     "name": "한가위",
     "desc": "",
     "address": "울산광역시 북구 진장유통로 43"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -1731,7 +1885,9 @@
     "desc": "",
     "address": "울산광역시 동구 동해안로 634 (주전동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1741,14 +1897,16 @@
   "lat": 35.5589628284,
   "lng": 129.4566848285,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8dc63171c4e2a9bfe0ef29b2f6eca309b40338a7?original",
   "i18n": {
    "ko": {
     "name": "해와달",
     "desc": "",
     "address": "울산광역시 동구 동해안로 589"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1782,7 +1940,9 @@
     "desc": "",
     "address": "울산광역시 남구 돋질로312번길 7 (삼산동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -1799,7 +1959,9 @@
     "desc": "",
     "address": "울산광역시 울주군 서생면 나사해안길 6"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -1816,7 +1978,9 @@
     "desc": "",
     "address": "울산광역시 북구 송정17길 3 (송정동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -1833,7 +1997,9 @@
     "desc": "",
     "address": "울산광역시 울주군 신덕하1길 9"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -1867,7 +2033,9 @@
     "desc": "",
     "address": "울산광역시 동구 동해안로 612 (주전동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1986,6 +2154,8 @@
     "desc": "",
     "address": "울산광역시 중구 내황2길 26"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 47
  }
 ]

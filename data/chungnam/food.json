@@ -14,7 +14,9 @@
     "desc": "",
     "address": "충청남도 금산군 금산로 2428 화목가든"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "충청남도 서산시 호수공원9로 47"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -48,7 +52,9 @@
     "desc": "",
     "address": "충청남도 예산군 간양길 197-26"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -82,7 +88,9 @@
     "desc": "",
     "address": "충청남도 논산시 강경읍 계백로147번길 7"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 131
  },
  {
   "section": "food",
@@ -99,7 +107,9 @@
     "desc": "",
     "address": "충청남도 논산시 계백로 1660-8"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -133,7 +143,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성성2길 52-1"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -150,7 +162,9 @@
     "desc": "",
     "address": "충청남도 홍성군 구성남로 31"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -167,7 +181,9 @@
     "desc": "",
     "address": "충청남도 아산시 염성길 122"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -184,7 +200,9 @@
     "desc": "",
     "address": "충청남도 계룡시 금암2길 11"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -201,7 +219,9 @@
     "desc": "",
     "address": "충청남도 아산시 순천향로 412-8"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -218,7 +238,9 @@
     "desc": "",
     "address": "충청남도 공주시 백미고을길 5-8 (금성동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 182
  },
  {
   "section": "food",
@@ -252,7 +274,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 두정로 177"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -269,7 +293,9 @@
     "desc": "",
     "address": "충청남도 공주시 창벽로 234-1"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -286,7 +312,9 @@
     "desc": "",
     "address": "충청남도 공주시 봉황산1길 1-2"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 191
  },
  {
   "section": "food",
@@ -303,7 +331,9 @@
     "desc": "",
     "address": "충청남도 공주시 무령로 466-3"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -320,7 +350,9 @@
     "desc": "",
     "address": "충청남도 공주시 백미고을길 5-3"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -337,7 +369,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 송덕2길 113"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -354,7 +388,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 두정중4길 1 코리아숯불바베큐"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 136
  },
  {
   "section": "food",
@@ -371,7 +407,9 @@
     "desc": "",
     "address": "충청남도 홍성군 광천읍 광천로329번길 24"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -381,14 +419,16 @@
   "lat": 36.2848870071,
   "lng": 126.910001212,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/5649DB599BBB49EBB6E2DD79B98DE28B",
   "i18n": {
    "ko": {
     "name": "구드래 한우타운",
     "desc": "",
     "address": "충청남도 부여군 부여읍 나루터로 25"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -398,7 +438,7 @@
   "lat": 36.2788622785,
   "lng": 126.8858702022,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/E4D8B993F5A74570937E006FFDF1E214",
   "i18n": {
    "ko": {
     "name": "구드래황토정",
@@ -422,7 +462,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성정10길 24 동막골"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -456,7 +498,9 @@
     "desc": "",
     "address": "충청남도 공주시 수실1길 82"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -473,7 +517,9 @@
     "desc": "",
     "address": "충청남도 예산군 삽교역로 91"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -500,14 +546,16 @@
   "lat": 36.1009516531,
   "lng": 127.4967425739,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d62971a0f56e05e27603f2fb56ca8e994e8c7006?original",
   "i18n": {
    "ko": {
     "name": "금산원조김정이삼계탕",
     "desc": "",
     "address": "충청남도 금산군 금산읍 인삼약초로 33"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -524,7 +572,9 @@
     "desc": "",
     "address": "충청남도 예산군 덕산면 수덕사안길 38"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -558,7 +608,9 @@
     "desc": "",
     "address": "충청남도 논산시 부창로 76"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -568,14 +620,16 @@
   "lat": 36.5945027456,
   "lng": 126.6629179858,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/870aeb08e6f39c5d94a8a493285a006f086e1877?original",
   "i18n": {
    "ko": {
     "name": "까쎄 토라도",
     "desc": "",
     "address": "충청남도 홍성군 홍성읍 문화로80번길 12"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -592,7 +646,9 @@
     "desc": "",
     "address": "충청남도 공주시 번영3로 58"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -602,14 +658,16 @@
   "lat": 36.4727751136,
   "lng": 127.1432141553,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTExMzBfMjEg/MDAxNzY0NDYzNTIwOTE1.lseDdIoo1MwKJNOdZXvcQlJDl7tpGUYQK-huTknU5Nwg.ep0DqKGL5dOM-EpRrC4U-XvY4BYQIwEsVURWaICblz8g.JPEG/IMG%EF%BC%BF4110.JPG?type=w773",
   "i18n": {
    "ko": {
     "name": "까치집",
     "desc": "",
     "address": "충청남도 공주시 흑수골길 62"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -619,14 +677,16 @@
   "lat": 36.7746644524,
   "lng": 127.2441996237,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/94cd496d14efd4510c62e4490cbd99eeb79d5d1c?original",
   "i18n": {
    "ko": {
     "name": "까치카페",
     "desc": "",
     "address": "충청남도 천안시 동남구 동평3길 60"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -643,7 +703,9 @@
     "desc": "",
     "address": "충청남도 아산시 배방읍 갈매길 159-39"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 151
  },
  {
   "section": "food",
@@ -660,7 +722,9 @@
     "desc": "",
     "address": "충청남도 당진시 송악읍 신복운로 173-1"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 198
  },
  {
   "section": "food",
@@ -677,7 +741,9 @@
     "desc": "",
     "address": "충청남도 홍성군 서부면 남당항로79번길 2-36"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -694,7 +760,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 노태산로 86"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -711,7 +779,9 @@
     "desc": "",
     "address": "충청남도 태안군 꽃지1길 185"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -728,7 +798,9 @@
     "desc": "",
     "address": "충청남도 태안군 조운막터길 23-5"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -745,7 +817,9 @@
     "desc": "",
     "address": "충청남도 아산시 월랑길 53-2"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -762,7 +836,9 @@
     "desc": "",
     "address": "충청남도 태안군 통샘길 87-340"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -779,7 +855,9 @@
     "desc": "",
     "address": "충청남도 서산시 지곡면 어름들2길 83"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -830,7 +908,9 @@
     "desc": "",
     "address": "충청남도 홍성군 홍성읍 아문길52번길 6"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -840,14 +920,16 @@
   "lat": 36.1804745993,
   "lng": 127.1066558184,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fb0035b7d2137d5edabc7736af359ba4b41ae834?original",
   "i18n": {
    "ko": {
     "name": "내동춘천닭갈비",
     "desc": "",
     "address": "충청남도 논산시 시민로132번길 52"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -864,7 +946,9 @@
     "desc": "",
     "address": "충청남도 계룡시 전원1길 1"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -881,7 +965,9 @@
     "desc": "",
     "address": "충청남도 홍성군 조양로246번길 80"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -898,7 +984,9 @@
     "desc": "",
     "address": "충청남도 금산군 금성면 적우실길 28"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 56
  },
  {
   "section": "food",
@@ -908,14 +996,16 @@
   "lat": 36.8472744738,
   "lng": 127.0278837934,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/bc6b00c9b1c8b7ae367fd394621b0b87a0613f65?original",
   "i18n": {
    "ko": {
     "name": "논두렁민물매운탕",
     "desc": "",
     "address": "충청남도 아산시 음봉면 음봉로 150"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -949,7 +1039,9 @@
     "desc": "",
     "address": "충청남도 부여군 삼충로 325-34"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -966,7 +1058,9 @@
     "desc": "",
     "address": "충청남도 공주시 사곡면 정안마곡사로 1198"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -983,7 +1077,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 방포항길 118"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -1000,7 +1096,9 @@
     "desc": "",
     "address": "충청남도 태안군 천수만로 134-4"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 164
  },
  {
   "section": "food",
@@ -1010,14 +1108,16 @@
   "lat": 36.8073867381,
   "lng": 127.1471741294,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/75856e91a49de50a8fcdf9f8b49d038540a38f7c?original",
   "i18n": {
    "ko": {
     "name": "달식당",
     "desc": "",
     "address": "충청남도 천안시 동남구 대흥로 215"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 105
  },
  {
   "section": "food",
@@ -1034,7 +1134,9 @@
     "desc": "",
     "address": "충청남도 당진시 백암로 246"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -1051,7 +1153,9 @@
     "desc": "",
     "address": "충청남도 공주시 번영2로 54-21"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -1068,7 +1172,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 장터로 55"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 105
  },
  {
   "section": "food",
@@ -1078,14 +1184,16 @@
   "lat": 36.8207599723,
   "lng": 127.1344332438,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/33365266b483aa9b14aeb90745414d98f8141d6d?original",
   "i18n": {
    "ko": {
     "name": "대안식당",
     "desc": "",
     "address": "충청남도 천안시 서북구 도원7길 17"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -1102,7 +1210,9 @@
     "desc": "",
     "address": "충청남도 보령시 해수욕장8길 51 (신흑동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 476
  },
  {
   "section": "food",
@@ -1119,7 +1229,9 @@
     "desc": "",
     "address": "충청남도 태안군 백사장1길 119"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 150
  },
  {
   "section": "food",
@@ -1136,7 +1248,9 @@
     "desc": "",
     "address": "충청남도 예산군 덕산면 수덕사안길 37-1"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -1153,7 +1267,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당31길 22"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -1170,7 +1286,9 @@
     "desc": "",
     "address": "충청남도 서산시 독곶해변길 116"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -1187,7 +1305,9 @@
     "desc": "",
     "address": "충청남도 태안군 중앙로 133-8"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 349
  },
  {
   "section": "food",
@@ -1204,7 +1324,9 @@
     "desc": "",
     "address": "충청남도 아산시 도고면 아산만로139번길 7"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -1221,7 +1343,9 @@
     "desc": "",
     "address": "충청남도 공주시 반포면 동학사1로 159"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -1238,7 +1362,9 @@
     "desc": "",
     "address": "충청남도 공주시 계룡대로 1370"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -1255,7 +1381,9 @@
     "desc": "",
     "address": "충청남도 홍성군 홍북읍 용봉산2길 37"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1272,7 +1400,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 왕림길 154"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1289,7 +1419,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성환중앙로 33 박치과의원"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 79
  },
  {
   "section": "food",
@@ -1306,7 +1438,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 서부대로 541 동원정"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1323,7 +1457,9 @@
     "desc": "",
     "address": "충청남도 공주시 동학사2로 46"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1340,7 +1476,9 @@
     "desc": "",
     "address": "충청남도 공주시 납다리길 22 (소학동)"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 224
  },
  {
   "section": "food",
@@ -1367,14 +1505,16 @@
   "lat": 36.8223885178,
   "lng": 127.1881700226,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDdfMjM1/MDAxNzgzNDM0NzY3MDQ4.dGBKWWgPngKu3Bm4p949ygyWIBNUnN1Sp40JDJCxY5Ag.vWEahW7IiK1dFi1k7dzTuDnv8D7SUo7G6V6eqkPNdj8g.JPEG/KakaoTalk_20260707_230838584_08.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "들꽃",
     "desc": "",
     "address": "충청남도 천안시 동남구 호서대길 110 은소반"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -1391,7 +1531,9 @@
     "desc": "",
     "address": "충청남도 공주시 반포면 계룡대로 1392"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 350
  },
  {
   "section": "food",
@@ -1408,7 +1550,9 @@
     "desc": "",
     "address": "충청남도 서산시 잠온길 86"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -1425,7 +1569,9 @@
     "desc": "",
     "address": "충청남도 논산시 탑정로 872"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -1442,7 +1588,9 @@
     "desc": "",
     "address": "충청남도 당진시 매산로 170"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 308
  },
  {
   "section": "food",
@@ -1476,7 +1624,9 @@
     "desc": "",
     "address": "충청남도 공주시 금벽로 1071"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1493,7 +1643,9 @@
     "desc": "",
     "address": "충청남도 부여군 성왕로 324"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -1510,7 +1662,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 교촌7길 46-11"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -1537,14 +1691,16 @@
   "lat": 36.4538297218,
   "lng": 127.1237997426,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/D9134AFC191546EC805C2E4B066AC6BA",
   "i18n": {
    "ko": {
     "name": "루치아의 뜰",
     "desc": "",
     "address": "충청남도 공주시 웅진로 145-8"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 90
  },
  {
   "section": "food",
@@ -1578,7 +1734,9 @@
     "desc": "",
     "address": "충청남도 보령시 성주면 성주산로 673-47"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -1588,14 +1746,16 @@
   "lat": 36.5562383636,
   "lng": 127.0197035514,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/BFC0E8973FBF4CB1B64CC279E36E49AC",
   "i18n": {
    "ko": {
     "name": "마곡사서울식당",
     "desc": "",
     "address": "충청남도 공주시 사곡면 마곡상가길 13-2"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1612,7 +1772,9 @@
     "desc": "",
     "address": "충청남도 아산시 온천대로 2230"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1629,7 +1791,9 @@
     "desc": "",
     "address": "충청남도 서천군 서면 서인로 95"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -1646,7 +1810,9 @@
     "desc": "",
     "address": "충청남도 공주시 반포면 정광터1길 98-20"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -1663,7 +1829,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성성2길 81"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -1673,7 +1841,7 @@
   "lat": 36.96685915,
   "lng": 126.3035711417,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTAxMjdfMTM2/MDAxNzM3OTU2OTU0MjM5.8OiW9VGySUabbs1dAzByN8nP_yJ4HHXDOqnkurZ_408g.wg3fOsH1G7ptKa9CbPl1wfP55_MFlgH1-UZy5Pz9Dxcg.JPEG/900%EF%BC%BF20250105%EF%BC%BF135858.jpg?type=w386",
   "i18n": {
    "ko": {
     "name": "만대회수산",
@@ -1714,7 +1882,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 은지2길 38"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1731,7 +1901,9 @@
     "desc": "",
     "address": "충청남도 계룡시 금암로 142"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -1748,7 +1920,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성환18길 24"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -1765,7 +1939,9 @@
     "desc": "",
     "address": "충청남도 아산시 영인로 54"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1782,7 +1958,9 @@
     "desc": "",
     "address": "충청남도 부여군 북포로 98"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -1799,7 +1977,9 @@
     "desc": "",
     "address": "충청남도 아산시 선문로254번길 159"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1816,7 +1996,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면대로 4269-11"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -1833,7 +2015,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당34길 3-16"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1850,7 +2034,9 @@
     "desc": "",
     "address": "충청남도 아산시 모산로 148 한멋피아노학원"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -1867,7 +2053,9 @@
     "desc": "",
     "address": "충청남도 아산시 온주길 28-8"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 229
  },
  {
   "section": "food",
@@ -1884,7 +2072,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 쌍용대로 85 몽상가인"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -1901,7 +2091,9 @@
     "desc": "",
     "address": "충청남도 부여군 뒷개로27번길 10-1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -1911,14 +2103,16 @@
   "lat": 36.5087847225,
   "lng": 126.3331027836,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/64e116be53cbfa2db1d61d0eed0251505af3a713?original",
   "i18n": {
    "ko": {
     "name": "물새집",
     "desc": "",
     "address": "충청남도 태안군 안면읍 방포1길 29-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1935,7 +2129,9 @@
     "desc": "",
     "address": "충청남도 금산군 복수면 구만길 52"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -1952,7 +2148,9 @@
     "desc": "",
     "address": "충청남도 서산시 삼길포7로 37"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1969,7 +2167,9 @@
     "desc": "",
     "address": "충청남도 홍성군 광천읍 광천로 302"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -1986,7 +2186,9 @@
     "desc": "",
     "address": "충청남도 아산시 방현서길 2"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -2003,7 +2205,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 단대로 161-1"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -2020,7 +2224,9 @@
     "desc": "",
     "address": "충청남도 태안군 정주내3길 16-5"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 79
  },
  {
   "section": "food",
@@ -2037,7 +2243,9 @@
     "desc": "",
     "address": "충청남도 논산시 시민로307번길 17 동신아파트"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2054,7 +2262,9 @@
     "desc": "",
     "address": "충청남도 태안군 용샘길 147"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -2071,7 +2281,9 @@
     "desc": "",
     "address": "충청남도 아산시 공원로16번길 16-4"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -2088,7 +2300,9 @@
     "desc": "",
     "address": "충청남도 태안군 능샘1길 45"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -2105,7 +2319,9 @@
     "desc": "",
     "address": "충청남도 태안군 만리포2길 235-30"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -2122,7 +2338,9 @@
     "desc": "",
     "address": "충청남도 계룡시 양정향한길 218-6"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -2156,7 +2374,9 @@
     "desc": "",
     "address": "충청남도 태안군 해안관광로 247-3"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2190,7 +2410,9 @@
     "desc": "",
     "address": "충청남도 서산시 홍안벌로 136 (수석동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -2200,14 +2422,16 @@
   "lat": 36.2029854933,
   "lng": 127.0825018249,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/07351197D4E548C79C1E3AED34042759",
   "i18n": {
    "ko": {
     "name": "반월소바",
     "desc": "",
     "address": "충청남도 논산시 해월로 132"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 183
  },
  {
   "section": "food",
@@ -2224,7 +2448,9 @@
     "desc": "",
     "address": "충청남도 공주시 계룡면 신원사로 502"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -2241,7 +2467,9 @@
     "desc": "",
     "address": "충청남도 보령시 대청로 143"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -2258,7 +2486,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 풍세로 702"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -2268,14 +2498,16 @@
   "lat": 36.504410265,
   "lng": 126.3354138004,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MDVfMTkx/MDAxNzgwNjE2Mjk1MTY4.I8yf1PRxED2dFk8n5PrKVwBj23fmnu2zFnMwgrrkbyIg.eS-1NHS4f_LfqNoY5tZ9cMBT5hUymM7RQpmZAjEgJdgg.JPEG/KakaoTalk_20260604_151428653_12.jpg?type=w580",
   "i18n": {
    "ko": {
     "name": "방포수산",
     "desc": "",
     "address": "충청남도 태안군 안면읍 방포항길 64"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -2292,7 +2524,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 상덕로 137"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2309,7 +2543,9 @@
     "desc": "",
     "address": "충청남도 부여군 충절로 3711"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -2319,14 +2555,16 @@
   "lat": 36.2781184511,
   "lng": 126.9165174739,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a5684d7b86767f28fc3c4852f3280272cc315240?original",
   "i18n": {
    "ko": {
     "name": "백제고을 누룽지백숙",
     "desc": "",
     "address": "충청남도 부여군 부여읍 정림로 96"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -2336,14 +2574,16 @@
   "lat": 36.3064541159,
   "lng": 126.9176971723,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/CFF9572A9E2F4A7C8B9F9075546B66CD",
   "i18n": {
    "ko": {
     "name": "백제궁 수라간",
     "desc": "",
     "address": "충청남도 부여군 규암면 백제문로 555"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2353,14 +2593,16 @@
   "lat": 36.2830373016,
   "lng": 126.9147563903,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3a445a8c9cc51cd5a34115f46fb43f41b3548a44?original",
   "i18n": {
    "ko": {
     "name": "백제의집",
     "desc": "",
     "address": "충청남도 부여군 부여읍 성왕로 248"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2377,7 +2619,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 화령길 3-52"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 121
  },
  {
   "section": "food",
@@ -2394,7 +2638,9 @@
     "desc": "",
     "address": "충청남도 공주시 백미고을길 5-13"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 328
  },
  {
   "section": "food",
@@ -2411,7 +2657,9 @@
     "desc": "",
     "address": "충청남도 당진시 삽교천3길 78"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -2428,7 +2676,9 @@
     "desc": "",
     "address": "충청남도 서천군 서면 홍원길 103"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2445,7 +2695,9 @@
     "desc": "",
     "address": "충청남도 예산군 덕산온천로 318"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -2479,7 +2731,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 아우내순대길 28 병천순대마당"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -2496,7 +2750,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 남부대로 336 (청당동)"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -2530,7 +2786,9 @@
     "desc": "",
     "address": "충청남도 공주시 중동1길 5-18"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -2547,7 +2805,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 통정1로 20-13"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2564,7 +2824,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당16길 27-2"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -2581,7 +2843,9 @@
     "desc": "",
     "address": "충청남도 논산시 탑정로 900"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -2598,7 +2862,9 @@
     "desc": "",
     "address": "충청남도 부여군 삼충로 99"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -2615,7 +2881,9 @@
     "desc": "",
     "address": "충청남도 당진시 교동길 147"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 111
  },
  {
   "section": "food",
@@ -2632,7 +2900,9 @@
     "desc": "",
     "address": "충청남도 아산시 음봉로586번길 77-20"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -2659,14 +2929,16 @@
   "lat": 36.1586797672,
   "lng": 127.1009069114,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/52F05A23D48A411284D37A3C97A8B08A",
   "i18n": {
    "ko": {
     "name": "사탕수수 족욕카페",
     "desc": "",
     "address": "충청남도 논산시 은진면 방축길 16-10"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2683,7 +2955,9 @@
     "desc": "",
     "address": "충청남도 서산시 고운로 162"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2710,14 +2984,16 @@
   "lat": 36.1541564772,
   "lng": 126.6882578634,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5eeb2f251e51540f85c97697509b4f3bb1334530?original",
   "i18n": {
    "ko": {
     "name": "삼성식당",
     "desc": "",
     "address": "충청남도 서천군 판교면 종판로 882-2"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2734,7 +3010,9 @@
     "desc": "",
     "address": "충청남도 서천군 서면 춘장대길 20-10"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -2751,7 +3029,9 @@
     "desc": "",
     "address": "충청남도 예산군 충의로 670"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2768,7 +3048,9 @@
     "desc": "",
     "address": "충청남도 공주시 금강공원길 15-2"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 91
  },
  {
   "section": "food",
@@ -2778,14 +3060,16 @@
   "lat": 36.6222135706,
   "lng": 126.3471513199,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/98261CD03A174F7EB4413E68AC4D1DF9",
   "i18n": {
    "ko": {
     "name": "생생왕꽃게",
     "desc": "",
     "address": "충청남도 태안군 남면 천수만로 365-23"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 161
  },
  {
   "section": "food",
@@ -2802,7 +3086,9 @@
     "desc": "",
     "address": "충청남도 부여군 성왕로 256"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 143
  },
  {
   "section": "food",
@@ -2812,14 +3098,16 @@
   "lat": 36.7788503061,
   "lng": 126.4645948845,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNDA4MTZfMjc3/MDAxNzIzODExNzkyMDc0.KRJf4Fuo3Xh-NXEbLf1x7GN3LekqdtSs3lc-u9mJrS0g.5iErYSQlY14Dkbuy6v3_D0OcT1jqo7jUh29UEi93yzgg.JPEG/20240816%EF%BC%BF181048.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "서령산아구",
     "desc": "",
     "address": "충청남도 서산시 율지7로 8"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -2836,7 +3124,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면대로 2969"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2853,7 +3143,9 @@
     "desc": "",
     "address": "충청남도 서산시 율지19길 47-16"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 147
  },
  {
   "section": "food",
@@ -2870,7 +3162,9 @@
     "desc": "",
     "address": "충청남도 서천군 서면 서인로 320"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -2887,7 +3181,9 @@
     "desc": "",
     "address": "충청남도 보령시 대천항로 313"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -2897,14 +3193,16 @@
   "lat": 36.8915546391,
   "lng": 126.8224816952,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e740c1f0791fb0cdfbf9359a7d546290d2b5ed73?original",
   "i18n": {
    "ko": {
     "name": "서유기짬뽕",
     "desc": "",
     "address": "충청남도 당진시 신평면 삽교천3길 60"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -2921,7 +3219,9 @@
     "desc": "",
     "address": "충청남도 아산시 시민로244번길 7-11 서천칼국수"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2938,7 +3238,9 @@
     "desc": "",
     "address": "충청남도 서천군 장서로47번길 21"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2955,7 +3257,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 문화로 30"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -2965,14 +3269,16 @@
   "lat": 36.4226184735,
   "lng": 126.5905484994,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/bea72dbcac635d73e27b6b68bf4b41d61f9dba5e?original",
   "i18n": {
    "ko": {
     "name": "석화촌",
     "desc": "",
     "address": "충청남도 보령시 주포면 밖강술길 15"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2989,7 +3295,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 백석5길 36"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -3006,7 +3314,9 @@
     "desc": "",
     "address": "충청남도 부여군 성충로미암길 8"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -3016,14 +3326,16 @@
   "lat": 36.01873945,
   "lng": 126.7365042866,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a5d532f61db01aa28d623b1e6cde51a770f25e4474c5063d5850191724d60f4a",
   "i18n": {
    "ko": {
     "name": "소문난해물칼국수",
     "desc": "",
     "address": "충청남도 서천군 장산로855번길 7"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -3033,14 +3345,16 @@
   "lat": 36.7356710597,
   "lng": 126.4126424008,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/39512E8C1E774C87A257610591B83E71",
   "i18n": {
    "ko": {
     "name": "소박한밥상",
     "desc": "",
     "address": "충청남도 서산시 인지면 애정길 150-22"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -3057,7 +3371,9 @@
     "desc": "",
     "address": "충청남도 예산군 예산읍 천변로195번길 9"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 115
  },
  {
   "section": "food",
@@ -3074,7 +3390,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 봉주로 258 소우리생고기집"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -3091,7 +3409,9 @@
     "desc": "",
     "address": "충청남도 금산군 홍골1길 142"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3108,7 +3428,9 @@
     "desc": "",
     "address": "충청남도 공주시 마티고개로 60"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -3125,7 +3447,9 @@
     "desc": "",
     "address": "충청남도 서산시 무학로 1897"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -3135,14 +3459,16 @@
   "lat": 36.513631538,
   "lng": 126.3419796329,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2d56dd755e00ab48989008df3223c9e168b9a054?original",
   "i18n": {
    "ko": {
     "name": "송정꽃게집",
     "desc": "",
     "address": "충청남도 태안군 안면읍 방포로 46"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3159,7 +3485,9 @@
     "desc": "",
     "address": "충청남도 태안군 서해로 364-16"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3176,7 +3504,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 그네들길 147"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 274
  },
  {
   "section": "food",
@@ -3193,7 +3523,9 @@
     "desc": "",
     "address": "충청남도 부여군 규암면 수북로41번길 11-50"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -3210,7 +3542,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 쌍용16길 60 (쌍용동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -3227,7 +3561,9 @@
     "desc": "",
     "address": "충청남도 서산시 팔봉2로 115"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -3261,7 +3597,9 @@
     "desc": "",
     "address": "충청남도 공주시 유구읍 문금길 413"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3278,7 +3616,9 @@
     "desc": "",
     "address": "충청남도 공주시 동학사1로 256-26"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -3295,7 +3635,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성정중1길 26-2"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 98
  },
  {
   "section": "food",
@@ -3312,7 +3654,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 백석동"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -3329,7 +3673,9 @@
     "desc": "",
     "address": "충청남도 공주시 백미고을길 10-5"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 139
  },
  {
   "section": "food",
@@ -3339,14 +3685,16 @@
   "lat": 36.2910820084,
   "lng": 127.1416358489,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/btqfukJGqRD_JxbVrox8UP2nEUYZ9iWKVK_img.jpg",
   "i18n": {
    "ko": {
     "name": "신동회관",
     "desc": "",
     "address": "충청남도 논산시 상월면 백일헌로 999"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3363,7 +3711,9 @@
     "desc": "",
     "address": "충청남도 공주시 동학사1로 139"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3380,7 +3730,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 아우내순대길 9 아우내맛나식당"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -3397,7 +3749,9 @@
     "desc": "",
     "address": "충청남도 아산시 음봉면로 257"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3407,14 +3761,16 @@
   "lat": 36.7859171596,
   "lng": 126.9999629886,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/94c5730502fb8f6147b49f03e841a99fc1d510b2?original",
   "i18n": {
    "ko": {
     "name": "신정식당",
     "desc": "",
     "address": "충청남도 아산시 시민로409번길 18"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -3431,7 +3787,9 @@
     "desc": "",
     "address": "충청남도 당진시 석문면 석문해안로 128-10"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3448,7 +3806,9 @@
     "desc": "",
     "address": "충청남도 논산시 신풍길 84-15"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -3465,7 +3825,9 @@
     "desc": "",
     "address": "충청남도 아산시 음봉로447번길 24"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3482,7 +3844,9 @@
     "desc": "",
     "address": "충청남도 아산시 음봉면 연암율금로 155"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -3499,7 +3863,9 @@
     "desc": "",
     "address": "충청남도 아산시 영인로 187-15"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -3516,7 +3882,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 봉정로 221 신세계빌딩"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -3560,14 +3928,16 @@
   "lat": 36.7586144525,
   "lng": 127.2964286993,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/0504743718a132a47237a0de22c267faed58612c?original",
   "i18n": {
    "ko": {
     "name": "아우내엄나무순대",
     "desc": "",
     "address": "충청남도 천안시 동남구 병천면 아우내순대길 1"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -3601,7 +3971,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면대로 3020"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -3618,7 +3990,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 방포1길 6"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -3635,7 +4009,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 백사장1길 24"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -3645,14 +4021,16 @@
   "lat": 36.7467846163,
   "lng": 126.3059600996,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/accd4277a145bf8aa555e1cb6ec1c00fb43e52fe?original",
   "i18n": {
    "ko": {
     "name": "안흥식당",
     "desc": "",
     "address": "충청남도 태안군 정주내2길 15"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -3669,7 +4047,9 @@
     "desc": "",
     "address": "충청남도 서산시 양열로 212"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -3686,7 +4066,9 @@
     "desc": "",
     "address": "충청남도 논산시 가야곡면 산노1길 79-12"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 81
  },
  {
   "section": "food",
@@ -3696,14 +4078,16 @@
   "lat": 36.4661782877,
   "lng": 127.1227383932,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/CA262895151341FE9857235F4912976E",
   "i18n": {
    "ko": {
     "name": "알밤에반한한우",
     "desc": "",
     "address": "충청남도 공주시 금강공원길 9 (금성동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -3720,7 +4104,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 청수10길 4-120"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3737,7 +4123,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 천안천변길 139"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3771,7 +4159,9 @@
     "desc": "",
     "address": "충청남도 아산시 온천대로 2227"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -3815,7 +4205,7 @@
   "lat": 36.6555811054,
   "lng": 126.6211951234,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/1FE4DE4744704F7D88208619AF053233",
   "i18n": {
    "ko": {
     "name": "약선공양간",
@@ -3839,7 +4229,9 @@
     "desc": "",
     "address": "충청남도 공주시 해포길 40-13"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -3856,7 +4248,9 @@
     "desc": "",
     "address": "충청남도 예산군 광시면 광시소길 11"
    }
-  }
+  },
+  "rating": 1.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -3873,7 +4267,9 @@
     "desc": "",
     "address": "충청남도 공주시 동학사1로 209-8"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -3890,7 +4286,9 @@
     "desc": "",
     "address": "충청남도 아산시 송곡남길 90"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3924,7 +4322,9 @@
     "desc": "",
     "address": "충청남도 아산시 갈산길 5"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -3941,7 +4341,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 번영로 751"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -3958,7 +4360,9 @@
     "desc": "",
     "address": "충청남도 공주시 임금봉길 88-27"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -3975,7 +4379,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 동리2길 183"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -4009,7 +4415,9 @@
     "desc": "",
     "address": "충청남도 예산군 충의로 141"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -4026,7 +4434,9 @@
     "desc": "",
     "address": "충청남도 아산시 영인면 여민루길 66"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -4036,14 +4446,16 @@
   "lat": 36.2687637933,
   "lng": 126.9065463936,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fb218bc63f64daf20ecd67b6262fa40f553adc3d?original",
   "i18n": {
    "ko": {
     "name": "연꽃이야기",
     "desc": "",
     "address": "충청남도 부여군 부여읍 성왕로 22"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -4060,7 +4472,9 @@
     "desc": "",
     "address": "충청남도 계룡시 엄사면 향적산길 91"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4070,14 +4484,16 @@
   "lat": 36.8161631941,
   "lng": 126.9726229635,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MTdfMzYg/MDAxNzgxNjU5MDA3MTE5.DitmDrHX18oYGFnjgekl6QTXo65HJVv7cDCe9XfvKWgg.ksVzVNO75L-P2C_HVvfjyYhInH5MGSTmXISZMaJGOhsg.JPEG/output%EF%BC%BF2412390626.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "염치정육점식당",
     "desc": "",
     "address": "충청남도 아산시 염성길 110"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -4094,7 +4510,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당32길 6"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -4111,7 +4529,9 @@
     "desc": "",
     "address": "충청남도 아산시 영인면 아산온천로 16-8"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -4128,7 +4548,9 @@
     "desc": "",
     "address": "충청남도 예산군 예산로164번길 21"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -4162,7 +4584,9 @@
     "desc": "",
     "address": "충청남도 당진시 서해로 7434-1 옛날우렁이식당"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 81
  },
  {
   "section": "food",
@@ -4213,7 +4637,9 @@
     "desc": "",
     "address": "충청남도 아산시 순천향로 468 (초사동)"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -4230,7 +4656,9 @@
     "desc": "",
     "address": "충청남도 아산시 신정호길 220"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -4247,7 +4675,9 @@
     "desc": "",
     "address": "충청남도 계룡시 엄사면 번영11길 25"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -4264,7 +4694,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 풍년길 58"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -4281,7 +4713,9 @@
     "desc": "",
     "address": "충청남도 태안군 근흥면 신진부두길 48"
    }
-  }
+  },
+  "rating": 1.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -4298,7 +4732,9 @@
     "desc": "",
     "address": "충청남도 공주시 밀목재길 27-14"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -4315,7 +4751,9 @@
     "desc": "",
     "address": "충청남도 서산시 온석2길 33-13"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -4325,7 +4763,7 @@
   "lat": 36.7821897929,
   "lng": 126.9989020747,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDNfMjE0/MDAxNzgzMDQ2MTc0MTQ2.Bh2kXtAaTKGAu7s0jVydF-BLulicfl1-ptqAxut2pbYg.EoWznL3hvd2cHijghfzEF5o-9Pq0R80HyZ6SpncLw8gg.JPEG/KakaoTalk_20260703_112932541.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "온양 청국장집",
@@ -4349,7 +4787,9 @@
     "desc": "",
     "address": "충청남도 당진시 석문면 왜목길 35"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -4366,7 +4806,9 @@
     "desc": "",
     "address": "충청남도 홍성군 의향로 283 골든타워"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -4376,14 +4818,16 @@
   "lat": 36.8800222905,
   "lng": 126.8027782347,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/C208D8F07B774EBBA5C648C210F9241F",
   "i18n": {
    "ko": {
     "name": "우렁이박사",
     "desc": "",
     "address": "충청남도 당진시 신평면 샛터로 7-1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 275
  },
  {
   "section": "food",
@@ -4400,7 +4844,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당33길 9"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -4417,7 +4863,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당25로 182"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4427,14 +4875,16 @@
   "lat": 36.4888291976,
   "lng": 126.5256776011,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/6d6f3d433ec1aea6fdccae1be401bbf71a77b1ec?original",
   "i18n": {
    "ko": {
     "name": "우유창고",
     "desc": "",
     "address": "충청남도 보령시 천북면 홍보로 573"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 126
  },
  {
   "section": "food",
@@ -4468,7 +4918,9 @@
     "desc": "",
     "address": "충청남도 태안군 태안읍 시장5길 18-5"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -4485,7 +4937,9 @@
     "desc": "",
     "address": "충청남도 서산시 부석면 취평2길 15-10"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 76
  },
  {
   "section": "food",
@@ -4502,7 +4956,9 @@
     "desc": "",
     "address": "충청남도 아산시 신정호길 262-8"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -4519,7 +4975,9 @@
     "desc": "",
     "address": "충청남도 공주시 원댕이길 8"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 106
  },
  {
   "section": "food",
@@ -4536,7 +4994,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 오성로 1"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -4553,7 +5013,9 @@
     "desc": "",
     "address": "충청남도 예산군 수덕사로 1163-4"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -4570,7 +5032,9 @@
     "desc": "",
     "address": "충청남도 서천군 장서로29번길 24 유정식당"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -4580,14 +5044,16 @@
   "lat": 36.1297386517,
   "lng": 127.1022658911,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/22266ab41ee002ea54349df4340952e9bd3f355d?original",
   "i18n": {
    "ko": {
     "name": "유진짬뽕앤돈까스",
     "desc": "",
     "address": "충청남도 논산시 안심로140번길 49"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -4621,7 +5087,9 @@
     "desc": "",
     "address": "충청남도 태안군 근흥로 248"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -4631,14 +5099,16 @@
   "lat": 36.0768487955,
   "lng": 126.6966674548,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/15bd6603cab0559732df42c21110b5341b680102?original",
   "i18n": {
    "ko": {
     "name": "윤주네",
     "desc": "",
     "address": "충청남도 서천군 군사길 17"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -4672,7 +5142,9 @@
     "desc": "",
     "address": "충청남도 아산시 신정로 681"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -4689,7 +5161,9 @@
     "desc": "",
     "address": "충청남도 예산군 입침중촌길 21"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -4706,7 +5180,9 @@
     "desc": "",
     "address": "충청남도 아산시 배방읍 배방로13번길 19-6"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -4716,14 +5192,16 @@
   "lat": 36.7691601379,
   "lng": 127.2782828185,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4b545ea843957cb1f5a550ce900eccf9c095a6e0?original",
   "i18n": {
    "ko": {
     "name": "이도로에커피",
     "desc": "",
     "address": "충청남도 천안시 병천면 충절로 (1544, 이도로에커피)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4740,7 +5218,9 @@
     "desc": "",
     "address": "충청남도 공주시 계룡대로 1407"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -4774,7 +5254,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 남창마을1길 32"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -4791,7 +5273,9 @@
     "desc": "",
     "address": "충청남도 태안군 이원면 원이로 1539"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -4808,7 +5292,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당29길 18 (불당동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -4825,7 +5311,9 @@
     "desc": "",
     "address": "충청남도 아산시 신현로23번길 62"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -4842,7 +5330,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당23로 73-27"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -4859,7 +5349,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 통정10로 7-8"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -4876,7 +5368,9 @@
     "desc": "",
     "address": "충청남도 아산시 인주면 아산만로 1608"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 329
  },
  {
   "section": "food",
@@ -4893,7 +5387,9 @@
     "desc": "",
     "address": "충청남도 서천군 장산로 641-7 대장금"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -4910,7 +5406,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 안면대로 2676"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 494
  },
  {
   "section": "food",
@@ -4927,7 +5425,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당28길 10"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -4944,7 +5444,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성진로 974"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -4961,7 +5463,9 @@
     "desc": "",
     "address": "충청남도 청양군 중묵운곡로 51-60"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4978,7 +5482,9 @@
     "desc": "",
     "address": "충청남도 보령시 작은오랏2길 15"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -4995,7 +5501,9 @@
     "desc": "",
     "address": "충청남도 보령시 해안로 405"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -5012,7 +5520,9 @@
     "desc": "",
     "address": "충청남도 공주시 계룡면 마방길 5-12"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -5029,7 +5539,9 @@
     "desc": "",
     "address": "충청남도 당진시 정안로 50 송둘라모터스, 장충식당"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 106
  },
  {
   "section": "food",
@@ -5063,7 +5575,9 @@
     "desc": "",
     "address": "충청남도 아산시 온양역길 124"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -5080,7 +5594,9 @@
     "desc": "",
     "address": "충청남도 금산군 제원면 금강로 286"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -5097,7 +5613,9 @@
     "desc": "",
     "address": "충청남도 공주시 금벽로 679"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 97
  },
  {
   "section": "food",
@@ -5131,7 +5649,9 @@
     "desc": "",
     "address": "충청남도 태안군 태안읍 수등길 6"
    }
-  }
+  },
+  "rating": 1.2,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -5148,7 +5668,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 유량로 107"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -5165,7 +5687,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당28길 24"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -5182,7 +5706,9 @@
     "desc": "",
     "address": "충청남도 보령시 대해로 46"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -5199,7 +5725,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당21로 67-12 퍼스트프라자"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -5216,7 +5744,9 @@
     "desc": "",
     "address": "충청남도 공주시 이인면 검바위로 712"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -5233,7 +5763,9 @@
     "desc": "",
     "address": "충청남도 공주시 단지문화마을길 10-20"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -5250,7 +5782,9 @@
     "desc": "",
     "address": "충청남도 아산시 음봉면로 227"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -5260,14 +5794,16 @@
   "lat": 36.5908922255,
   "lng": 126.6730699441,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/cff05c6b9909ab7a29c19cf2e57e1b1dece4f0cb?original",
   "i18n": {
    "ko": {
     "name": "지구에서 너뿐",
     "desc": "",
     "address": "충청남도 홍성군 홍성읍 역재3길 40"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -5284,7 +5820,9 @@
     "desc": "",
     "address": "충청남도 서산시 관아문길 19-10"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -5301,7 +5839,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 충절로 1166 무지개식당"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -5311,14 +5851,16 @@
   "lat": 36.7862772893,
   "lng": 126.1435598927,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d2b4f3414f9c1f9601eec13dfc99ab9219fd2fe8?original",
   "i18n": {
    "ko": {
     "name": "진짜전라도 횟집",
     "desc": "",
     "address": "충청남도 태안군 만리포2길 144-1"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -5335,7 +5877,9 @@
     "desc": "",
     "address": "충청남도 공주시 감영길 20"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 96
  },
  {
   "section": "food",
@@ -5369,7 +5913,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 서부대로 719"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -5386,7 +5932,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 성환1로 151"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -5403,7 +5951,9 @@
     "desc": "",
     "address": "충청남도 논산시 관촉로31번길 36-1"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -5437,7 +5987,9 @@
     "desc": "",
     "address": "충청남도 당진시 복운1길 30-1 청록수산"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -5454,7 +6006,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 입장면 성진로 1406"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -5471,7 +6025,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 공단로 64 김남희보신탕"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -5488,7 +6044,9 @@
     "desc": "",
     "address": "충청남도 태안군 군청9길 6"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -5505,7 +6063,9 @@
     "desc": "",
     "address": "충청남도 보령시 오천면 오천해안로 782-16"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -5522,7 +6082,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 병천면 충절로 1749"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 221
  },
  {
   "section": "food",
@@ -5539,7 +6101,9 @@
     "desc": "",
     "address": "충청남도 논산시 탑정로 802"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -5556,7 +6120,9 @@
     "desc": "",
     "address": "충청남도 서산시 읍성마을4길 16"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -5566,7 +6132,7 @@
   "lat": 36.7622168599,
   "lng": 127.298892267,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/cfile/202515364F6823B71B",
   "i18n": {
    "ko": {
     "name": "충남집순대",
@@ -5583,14 +6149,16 @@
   "lat": 36.4104327421,
   "lng": 126.8531029863,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/61b19d5c550f9631720057c398ab6135808be126?original",
   "i18n": {
    "ko": {
     "name": "칠갑산골",
     "desc": "",
     "address": "충청남도 청양군 대치면 장곡길 147"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -5607,7 +6175,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당28길 26"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -5617,7 +6187,7 @@
   "lat": 36.3509769359,
   "lng": 126.6045185685,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/93C10830F5A34E42AD59879880E03129",
   "i18n": {
    "ko": {
     "name": "카메식당",
@@ -5641,7 +6211,9 @@
     "desc": "",
     "address": "충청남도 아산시 순천향로 413-13"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -5658,7 +6230,9 @@
     "desc": "",
     "address": "충청남도 아산시 세교안길 14"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -5675,7 +6249,9 @@
     "desc": "",
     "address": "충청남도 금산군 태고사로 422"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -5685,14 +6261,16 @@
   "lat": 36.3479081193,
   "lng": 126.6205699836,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/97053ef1849b6efb507c244a3ab19c0abfe27b6c?original",
   "i18n": {
    "ko": {
     "name": "카페 모가",
     "desc": "",
     "address": "충청남도 보령시 한내여중길 67"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -5709,7 +6287,9 @@
     "desc": "",
     "address": "충청남도 보령시 죽성로 154"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -5726,7 +6306,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 청수12로 41-29 (삼룡동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -5743,7 +6325,9 @@
     "desc": "",
     "address": "충청남도 아산시 신정로 496-2"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -5760,7 +6344,9 @@
     "desc": "",
     "address": "충청남도 아산시 배방읍 공수길 20"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -5777,7 +6363,9 @@
     "desc": "",
     "address": "충청남도 당진시 합덕읍 합덕대덕로 502-24"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 131
  },
  {
   "section": "food",
@@ -5794,7 +6382,9 @@
     "desc": "",
     "address": "충청남도 청양군 충의로 1358-4"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -5811,7 +6401,9 @@
     "desc": "",
     "address": "충청남도 당진시 삽교천3길 89"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -5828,7 +6420,9 @@
     "desc": "",
     "address": "충청남도 서산시 간월도1길 117"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -5845,7 +6439,9 @@
     "desc": "",
     "address": "충청남도 보령시 해안로 484"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -5862,7 +6458,9 @@
     "desc": "",
     "address": "충청남도 공주시 왕흥장악로 865"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -5879,7 +6477,9 @@
     "desc": "",
     "address": "충청남도 홍성군 서부면 남당항로 860"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -5896,7 +6496,9 @@
     "desc": "",
     "address": "충청남도 아산시 둔포중앙로 233"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -5913,7 +6515,9 @@
     "desc": "",
     "address": "충청남도 당진시 남부로 453-32"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -5930,7 +6534,9 @@
     "desc": "",
     "address": "충청남도 서산시 중왕뱃마을길 14"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -5947,7 +6553,9 @@
     "desc": "",
     "address": "충청남도 서산시 관청터길 7-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -5964,7 +6572,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 충절로 986-37"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -5981,7 +6591,9 @@
     "desc": "",
     "address": "충청남도 태안군 모항항길 94"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5998,7 +6610,9 @@
     "desc": "",
     "address": "충청남도 공주시 반포면 정광터1길 164-3"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -6015,7 +6629,9 @@
     "desc": "",
     "address": "충청남도 아산시 신정로 486"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -6032,7 +6648,9 @@
     "desc": "",
     "address": "충청남도 아산시 선문로254번길 88-18"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -6049,7 +6667,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 통세골2길 41"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -6083,7 +6703,9 @@
     "desc": "",
     "address": "충청남도 예산군 예당관광로 146"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -6100,7 +6722,9 @@
     "desc": "",
     "address": "충청남도 서천군 희리산길 7"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -6110,14 +6734,16 @@
   "lat": 36.1057398562,
   "lng": 127.4888514819,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/B93000E9C71C433F90600A76BA197F35",
   "i18n": {
    "ko": {
     "name": "캐슬1477",
     "desc": "",
     "address": "충청남도 금산군 금산읍 금산로 1477"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -6151,7 +6777,9 @@
     "desc": "",
     "address": "충청남도 홍성군 남당항로213번길 96"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -6168,7 +6796,9 @@
     "desc": "",
     "address": "충청남도 홍성군 용봉산2길 41"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -6178,14 +6808,16 @@
   "lat": 36.3085747151,
   "lng": 126.5152138204,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/15BF136CEC054FE3A7501EC5673939E1",
   "i18n": {
    "ko": {
     "name": "코랄커피",
     "desc": "",
     "address": "충청남도 보령시 해수욕장4길 82"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -6219,7 +6851,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 불당21로 40 천안불당 호반써밋플레이스"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -6236,7 +6870,9 @@
     "desc": "",
     "address": "충청남도 아산시 탕정면로22번길 15-18"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -6253,7 +6889,9 @@
     "desc": "",
     "address": "충청남도 당진시 석문면 석문방조제로 1798-8"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6270,7 +6908,9 @@
     "desc": "",
     "address": "충청남도 논산시 중앙로398번길 7-7"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -6287,7 +6927,9 @@
     "desc": "",
     "address": "충청남도 서천군 서천읍 충절로 42"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -6304,7 +6946,9 @@
     "desc": "",
     "address": "충청남도 논산시 옥녀봉로35번길 9"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -6321,7 +6965,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 백사장1길 95"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -6331,14 +6977,16 @@
   "lat": 36.6581280181,
   "lng": 126.620236809,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/222C784440944771B9BDE137F6342141",
   "i18n": {
    "ko": {
     "name": "토속식당",
     "desc": "",
     "address": "충청남도 예산군 덕산면 수덕사안길 47"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -6355,7 +7003,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 망향로 1094-22"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -6372,7 +7022,9 @@
     "desc": "",
     "address": "충청남도 태안군 안면읍 등마루1길 125"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -6389,7 +7041,9 @@
     "desc": "",
     "address": "충청남도 태안군 마검포길 232-10"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -6399,14 +7053,16 @@
   "lat": 36.8090870116,
   "lng": 127.173566149,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c7eac10456fe14591a1e355a4d40d93e9b7ff6d2?original",
   "i18n": {
    "ko": {
     "name": "포니벨라",
     "desc": "",
     "address": "충청남도 천안시 동남구 유량로 130"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -6440,7 +7096,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 풍년길 43"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6491,7 +7149,9 @@
     "desc": "",
     "address": "충청남도 태안군 소원면 만리포2길 184"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -6508,7 +7168,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 노태산로 31"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 105
  },
  {
   "section": "food",
@@ -6525,7 +7187,9 @@
     "desc": "",
     "address": "충청남도 공주시 한적2길 41-11"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 248
  },
  {
   "section": "food",
@@ -6542,7 +7206,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 해솔1길 27-29"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -6569,14 +7235,16 @@
   "lat": 36.7554473869,
   "lng": 126.2990216103,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAxMjJfMjc0/MDAxNzY5MDYxOTM2NTUw.iQaHp8lrrpipQx1G_VSLPpvA9x8nBlzGEQxB-UQd1Zog.mDrhRgux9QcD5YJLv3cmQHMQLL3Dqd4wpP46BLZjUUAg.JPEG/900%EF%BC%BF20260112%EF%BC%BF124138.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "한국관",
     "desc": "",
     "address": "충청남도 태안군 태안읍 독샘로 100"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -6593,7 +7261,9 @@
     "desc": "",
     "address": "충청남도 서천군 충절로29번길 20-1 한오백년 추어탕"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6610,7 +7280,9 @@
     "desc": "",
     "address": "충청남도 청양군 나래미길 60-4"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -6620,14 +7292,16 @@
   "lat": 36.6069053134,
   "lng": 126.7331196587,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTA3MTZfMjU4/MDAxNzUyNTk1ODM5NjA0.DetZUB7_hfRnfWUknO61t618EyFCOuL4xDdwdMPAGnkg.P6HNC1eVObISu4xbsaFeQHBmtc3es92nsmSLdssN_94g.JPEG/20250415_125415.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "한올채",
     "desc": "",
     "address": "충청남도 홍성군 금마면 광금북로 419"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -6644,7 +7318,9 @@
     "desc": "",
     "address": "충청남도 아산시 탕정면로 507"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6661,7 +7337,9 @@
     "desc": "",
     "address": "충청남도 아산시 염치로 5"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -6678,7 +7356,9 @@
     "desc": "",
     "address": "충청남도 서천군 종판로901번길 12 한우마을"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -6688,14 +7368,16 @@
   "lat": 36.7743031529,
   "lng": 127.074801003,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b0574a7745a2aa599bfb9c997e5870c8248fd268?original",
   "i18n": {
    "ko": {
     "name": "한우수구레국밥타운",
     "desc": "",
     "address": "충청남도 아산시 북수로 125"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -6712,7 +7394,9 @@
     "desc": "",
     "address": "충청남도 예산군 삽교읍 삽교역로 58"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 159
  },
  {
   "section": "food",
@@ -6729,7 +7413,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 유량로 185"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -6746,7 +7432,9 @@
     "desc": "",
     "address": "충청남도 서천군 장항읍 장서로47번길 20"
    }
-  }
+  },
+  "rating": 1.9,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -6756,14 +7444,16 @@
   "lat": 36.6860798907,
   "lng": 126.7534962561,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/btqnHMfKKGN_TxwJPpMGG2NVoSUmXSpD80_img.jpg",
   "i18n": {
    "ko": {
     "name": "할머니곱창",
     "desc": "",
     "address": "충청남도 예산군 삽교읍 삽교로 221"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -6773,14 +7463,16 @@
   "lat": 36.6855558384,
   "lng": 126.8043889017,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a20849eaa642a862e0cde7d0f82455f48283805f?original",
   "i18n": {
    "ko": {
     "name": "할머니딸숯불곱창마을",
     "desc": "",
     "address": "충청남도 예산군 오가면 오가중앙로 141"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -6797,7 +7489,9 @@
     "desc": "",
     "address": "충청남도 부여군 규암면 흥수로 581-6"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6824,14 +7518,16 @@
   "lat": 36.3105300375,
   "lng": 126.5147110369,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5760720ba78d1eb850478a26af59fa5e3027b384?original",
   "i18n": {
    "ko": {
     "name": "해물상회",
     "desc": "",
     "address": "충청남도 보령시 해수욕장6길 118"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -6848,7 +7544,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 교천지산길 104"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -6865,7 +7563,9 @@
     "desc": "",
     "address": "충청남도 당진시 매산해변길 144"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 186
  },
  {
   "section": "food",
@@ -6882,7 +7582,9 @@
     "desc": "",
     "address": "충청남도 태안군 파도길 63-12"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -6899,7 +7601,9 @@
     "desc": "",
     "address": "충청남도 서산시 해미면 관터로 43"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -6909,14 +7613,16 @@
   "lat": 36.2854785973,
   "lng": 126.9094790206,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4641846a6183aaaf64b01b5b6d2c9f7fd833c480?original",
   "i18n": {
    "ko": {
     "name": "향우정",
     "desc": "",
     "address": "충청남도 부여군 부여읍 나루터로 33"
    }
-  }
+  },
+  "rating": 1.7,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -6933,7 +7639,9 @@
     "desc": "",
     "address": "충청남도 계룡시 엄사면 광석향한길 223"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -6950,7 +7658,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 태조산길 99-7"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6960,14 +7670,16 @@
   "lat": 36.7545585165,
   "lng": 126.2940998579,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/657196acefef9f5681d56e4a22be897dda8e36dc?original",
   "i18n": {
    "ko": {
     "name": "향토꽃게장",
     "desc": "",
     "address": "충청남도 태안군 태안읍 능샘1길 44"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -6984,7 +7696,9 @@
     "desc": "",
     "address": "충청남도 아산시 충무로20번길 19"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -7018,7 +7732,9 @@
     "desc": "",
     "address": "충청남도 태안군 소원면 모항항길 121-7"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 90
  },
  {
   "section": "food",
@@ -7035,7 +7751,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 사직로 22"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -7052,7 +7770,9 @@
     "desc": "",
     "address": "충청남도 예산군 신평2길 26"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -7062,14 +7782,16 @@
   "lat": 36.6107837163,
   "lng": 126.6346395475,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/02fe641143b6879f402f18b998be710d892b3114?original",
   "i18n": {
    "ko": {
     "name": "홍성한우미당",
     "desc": "",
     "address": "충청남도 홍성군 홍성읍 홍덕서로 193"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -7086,7 +7808,9 @@
     "desc": "",
     "address": "충청남도 아산시 모종남로12번길 17"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -7103,7 +7827,9 @@
     "desc": "",
     "address": "충청남도 천안시 서북구 한들2로 46-5"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -7137,7 +7863,9 @@
     "desc": "",
     "address": "충청남도 계룡시 계룡대로 486"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -7164,14 +7892,16 @@
   "lat": 36.844891819,
   "lng": 127.0506845788,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MTlfMjg2/MDAxNzgxODQ5MjUxMTQ5.c7_Ttg_1oTY7ZVtBKDjEmwkhPzcyxtNlf7Uq2eSOWG8g.aueq7CAZdSz2wdSyUamvHgtcmEdW2RSy0me6cCwFM7Ug.JPEG/output%EF%BC%BF1837185994.jpg?type=w386",
   "i18n": {
    "ko": {
     "name": "황금추어탕",
     "desc": "",
     "address": "충청남도 아산시 음봉면 음봉로 358"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -7181,14 +7911,16 @@
   "lat": 36.1564562023,
   "lng": 127.0092790538,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ca08867dffbc726847a653d85004f0cdcabfb807?original",
   "i18n": {
    "ko": {
     "name": "황산옥",
     "desc": "",
     "address": "충청남도 논산시 강경읍 금백로 34"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -7205,7 +7937,9 @@
     "desc": "",
     "address": "충청남도 논산시 노성면 읍내리 453-4"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -7222,7 +7956,9 @@
     "desc": "",
     "address": "충청남도 금산군 태고사로 444 황토집사람들"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 121
  },
  {
   "section": "food",
@@ -7239,7 +7975,9 @@
     "desc": "",
     "address": "충청남도 보령시 성주면 심원계곡로 4"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -7256,7 +7994,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 충절로 165"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -7273,7 +8013,9 @@
     "desc": "",
     "address": "충청남도 천안시 동남구 통정4로 67"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -7290,7 +8032,9 @@
     "desc": "",
     "address": "충청남도 아산시 탕정면 선문로254번길 152-15"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -7307,7 +8051,9 @@
     "desc": "",
     "address": "충청남도 예산군 관양산길 12-1"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 187
  },
  {
   "section": "food",
@@ -7324,7 +8070,9 @@
     "desc": "",
     "address": "충청남도 홍성군 의사로43번길 27-9"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 51
  },
  {
   "section": "food",

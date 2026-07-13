@@ -14,7 +14,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 단재로 940"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 도원세교로 222-6"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -48,7 +52,9 @@
     "desc": "",
     "address": "충청북도 제천시 수산면 월악로 2970"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -65,7 +71,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 삼봉로 87"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 176
  },
  {
   "section": "food",
@@ -82,7 +90,9 @@
     "desc": "",
     "address": "충청북도 충주시 살미면 용천갈마길 45"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -99,7 +109,9 @@
     "desc": "",
     "address": "충청북도 영동군 계산로2길 5-23 갑돌갈비"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -116,7 +128,9 @@
     "desc": "",
     "address": "충청북도 음성군 삼성면 금일로 1274"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -150,7 +164,9 @@
     "desc": "",
     "address": "충청북도 제천시 청전대로 91"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -160,14 +176,16 @@
   "lat": 36.4824093444,
   "lng": 127.722512015,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/781784c8d83cb9c75204d7e79b1491bcf6bc0fa0?original",
   "i18n": {
    "ko": {
     "name": "강서면옥",
     "desc": "",
     "address": "충청북도 보은군 보은읍 동편길 35"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -201,7 +219,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 모충로 16"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -218,7 +238,9 @@
     "desc": "",
     "address": "충청북도 충주시 동량면 조동1길 69"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -252,7 +274,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 고수동굴길 4-2"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 171
  },
  {
   "section": "food",
@@ -269,7 +293,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 도전6길 14"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -279,14 +305,16 @@
   "lat": 36.6329211642,
   "lng": 127.4854957395,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/46f2194ea5dfc9b94d9ac3b3051eeed92723ea8f?original",
   "i18n": {
    "ko": {
     "name": "경주집버섯찌개",
     "desc": "",
     "address": "충청북도 청주시 상당구 남사로93번길 21"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -303,7 +331,9 @@
     "desc": "",
     "address": "충청북도 옥천군 옥천읍 중앙로4길 11"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -320,7 +350,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 1순환로 866 경화반점"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -337,7 +369,9 @@
     "desc": "",
     "address": "충청북도 증평군 초중로 89 한양식품(주)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -354,7 +388,9 @@
     "desc": "",
     "address": "충청북도 제천시 의병대로15길 5"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -364,14 +400,16 @@
   "lat": 36.1710263408,
   "lng": 127.7711995718,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/place/0F14CF077F7241049CB3489054D73B84",
   "i18n": {
    "ko": {
     "name": "고자매맛카롱",
     "desc": "",
     "address": "충청북도 영동군 영동읍 학산영동로 1211"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -388,7 +426,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 단재로 557"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -422,7 +462,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 도전5길 28"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -439,7 +481,9 @@
     "desc": "",
     "address": "충청북도 충주시 충주호수로 1016-10"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -456,7 +500,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 두꺼비로94번길 4-21"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -473,7 +519,9 @@
     "desc": "",
     "address": "충청북도 음성군 감곡면 행군이길 87-65"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -483,14 +531,16 @@
   "lat": 36.3150231539,
   "lng": 127.5803737579,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/51163e046b2c4d718b775de4601693b35342758e?original",
   "i18n": {
    "ko": {
     "name": "그냥찻집",
     "desc": "",
     "address": "충청북도 옥천군 옥천읍 향수길 45"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -500,14 +550,16 @@
   "lat": 37.0226379305,
   "lng": 127.9672304053,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/84182BEA4F5C490AB04F8996588726E6",
   "i18n": {
    "ko": {
     "name": "그린가든",
     "desc": "",
     "address": "충청북도 충주시 동량면 동산로 12"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -524,7 +576,9 @@
     "desc": "",
     "address": "충청북도 제천시 수산면 옥순봉로10길 2"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -541,7 +595,9 @@
     "desc": "",
     "address": "충청북도 옥천군 옥천읍 옥천로 1491"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -575,7 +631,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 노산하석로 166 금호송어장"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -592,7 +650,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 주성1길 9-1"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -609,7 +669,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 대림로421번길 24"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -626,7 +688,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 양청6길 9"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -643,7 +707,9 @@
     "desc": "",
     "address": "충청북도 보은군 삼산로1길 25-4"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -660,7 +726,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 오창읍 중심상업로 66-9"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -677,7 +745,9 @@
     "desc": "",
     "address": "충청북도 제천시 의림대로49길 13"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -694,7 +764,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 미천고은로 73"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -711,7 +783,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 덕암로30번길 18"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -728,7 +802,9 @@
     "desc": "",
     "address": "충청북도 옥천군 비야대정로 243"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -745,7 +821,9 @@
     "desc": "",
     "address": "충청북도 증평군 벨포레길 365 한식당"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 100
  },
  {
   "section": "food",
@@ -762,7 +840,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 효촌송정1길 5-10"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -772,14 +852,16 @@
   "lat": 36.8111507721,
   "lng": 127.7962878848,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTA2MTBfMjU3/MDAxNzQ5NTMwMTc4MzQ2.1ZeLE2rkzlA6jcEPmLjyqA3z9WujEMRdLDAae8EXmxgg.IqHcgcoOzsR59TabUkZPnInhuJBHtXUwTHT_IPAJcksg.PNG/image.png?type=w966",
   "i18n": {
    "ko": {
     "name": "남촌식당",
     "desc": "",
     "address": "충청북도 괴산군 괴산읍 읍내로19길 6"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -796,7 +878,9 @@
     "desc": "",
     "address": "충청북도 제천시 의림대로48길 2-41"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -813,7 +897,9 @@
     "desc": "",
     "address": "충청북도 제천시 청풍면 배시론로 4"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -830,7 +916,9 @@
     "desc": "",
     "address": "충청북도 보은군 성족2길 41"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -847,7 +935,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 초정약수로 526-15"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -864,7 +954,9 @@
     "desc": "",
     "address": "충청북도 괴산군 동진천길 165"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -898,7 +990,9 @@
     "desc": "",
     "address": "충청북도 단양군 도전3길 2 냉천막국수"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -915,7 +1009,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 대림로 414"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -932,7 +1028,9 @@
     "desc": "",
     "address": "충청북도 음성군 가곡로 226"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -949,7 +1047,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 가덕시동길 10"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -983,7 +1083,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 백봉로 188-1"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -1000,7 +1102,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 성화로69번길 43-23"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 135
  },
  {
   "section": "food",
@@ -1017,7 +1121,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 청주역로 652"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -1034,7 +1140,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 사천로18번길 5"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -1051,7 +1159,9 @@
     "desc": "",
     "address": "충청북도 영동군 소계로 5"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -1068,7 +1178,9 @@
     "desc": "",
     "address": "충청북도 제천시  독순로6길 (5)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 195
  },
  {
   "section": "food",
@@ -1085,7 +1197,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 산남로 76 인템프라자"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1102,7 +1216,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 심동로 655"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -1119,7 +1235,9 @@
     "desc": "",
     "address": "충청북도 증평군 초중2길 4 두남자와 어머니 청국장"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -1136,7 +1254,9 @@
     "desc": "",
     "address": "충청북도 진천군 농다리로 1294"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -1153,7 +1273,9 @@
     "desc": "",
     "address": "충청북도 제천시 하소천길 176"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 150
  },
  {
   "section": "food",
@@ -1170,7 +1292,9 @@
     "desc": "",
     "address": "충청북도 음성군 대동로537번길 102"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -1221,7 +1345,9 @@
     "desc": "",
     "address": "충청북도 옥천군 문장로3길 8-5 황돈"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1255,7 +1381,9 @@
     "desc": "",
     "address": "충청북도 단양군 강변로 209-98"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -1272,7 +1400,9 @@
     "desc": "",
     "address": "충청북도 단양군 삼봉로 79 마느리막국수"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -1289,7 +1419,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 단양로 510"
    }
-  }
+  },
+  "rating": 1.8,
+  "rcount": 112
  },
  {
   "section": "food",
@@ -1299,14 +1431,16 @@
   "lat": 37.156890596,
   "lng": 128.0459139012,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c34c1e9f5a8dfe3c5b1e910a530862601fe66297?original",
   "i18n": {
    "ko": {
     "name": "마묵라운지",
     "desc": "",
     "address": "충청북도 제천시 백운면 금봉로 365"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1323,7 +1457,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 가마길 40-11"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -1340,7 +1476,9 @@
     "desc": "",
     "address": "충청북도 옥천군 성왕로 975"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1357,7 +1495,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 성화로62번길 13"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -1367,14 +1507,16 @@
   "lat": 37.160004712,
   "lng": 128.2261920506,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/17dc90fc904c4242b5a18664171ae758a5c78879?original",
   "i18n": {
    "ko": {
     "name": "명가박달재",
     "desc": "",
     "address": "충청북도 제천시 신죽하로 50"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1391,7 +1533,9 @@
     "desc": "",
     "address": "충청북도 제천시 봉양읍 주포로 3"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1418,14 +1562,16 @@
   "lat": 36.3144898863,
   "lng": 127.5806681899,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/6ead6912b36ac0857986a19e5b8efa8de77c8a45?original",
   "i18n": {
    "ko": {
     "name": "문정식당",
     "desc": "",
     "address": "충청북도 옥천군 향수3길 20 문정식당"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -1442,7 +1588,9 @@
     "desc": "",
     "address": "충청북도 괴산군 감물면 충민로 694-5"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1459,7 +1607,9 @@
     "desc": "",
     "address": "충청북도 증평군 증평읍 인삼로 408"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1476,7 +1626,9 @@
     "desc": "",
     "address": "충청북도 충주시 지등로 1055"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -1486,14 +1638,16 @@
   "lat": 36.9829888876,
   "lng": 128.3706509315,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f7cb4d6f1600be07784d64a7cdf38f60622b6a15?original",
   "i18n": {
    "ko": {
     "name": "박쏘가리",
     "desc": "",
     "address": "충청북도 단양군 단양읍 수변로 85"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1510,7 +1664,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 원마루로10번길 20"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1527,7 +1683,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 성봉로 186"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1544,7 +1702,9 @@
     "desc": "",
     "address": "충청북도 제천시 청풍면 배시론로 40"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -1561,7 +1721,9 @@
     "desc": "",
     "address": "충청북도 옥천군 방아실길 9 상점"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -1578,7 +1740,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 1순환로 418"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1595,7 +1759,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 옥산시내1길 63"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -1612,7 +1778,9 @@
     "desc": "",
     "address": "충청북도 충주시 충원대로 49-1"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1629,7 +1797,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 심동로 654-12"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -1646,7 +1816,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 중심상업로 47 리치아노오피스텔"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -1656,14 +1828,16 @@
   "lat": 37.1287773775,
   "lng": 128.2061975365,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/08d40b4aa134f9a793cbb7afd9563425362770e2?original",
   "i18n": {
    "ko": {
     "name": "보령식당",
     "desc": "",
     "address": "충청북도 제천시 의림대로2길 5"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1680,7 +1854,9 @@
     "desc": "",
     "address": "충청북도 단양군 사평3길 6-1 단양보리곳간"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 119
  },
  {
   "section": "food",
@@ -1697,7 +1873,9 @@
     "desc": "",
     "address": "충청북도 보은군 뱃들로 57 보은옥천영동축협"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -1714,7 +1892,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 가포산로 191"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -1731,7 +1911,9 @@
     "desc": "",
     "address": "충청북도 단양군 영춘면 온달로 22-4"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -1748,7 +1930,9 @@
     "desc": "",
     "address": "충청북도 보은군 개안길 15-9 음식점"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -1758,14 +1942,16 @@
   "lat": 36.6344149236,
   "lng": 127.4568982639,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fc41c7360decd86504a604a10b6814294ab4483b?original",
   "i18n": {
    "ko": {
     "name": "본정",
     "desc": "",
     "address": "충청북도 청주시 서원구 사직대로 86"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -1775,14 +1961,16 @@
   "lat": 36.5166097688,
   "lng": 127.5004614921,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8dfb025d3946bb0a9a01d83cb03726fd5634b136?original",
   "i18n": {
    "ko": {
     "name": "부부농장",
     "desc": "",
     "address": "충청북도 청주시 상당구 문의면 대청호반로 834-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -1799,7 +1987,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 율량로190번길 63"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1833,7 +2023,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 2순환로 1618"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1867,7 +2059,9 @@
     "desc": "",
     "address": "충청북도 제천시 도화로 38-17"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -1901,7 +2095,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 강서로 83-8"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -1911,14 +2107,16 @@
   "lat": 37.0713944975,
   "lng": 128.1743215126,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8ca6d59987a77a4208015d593547506e83f350e6?original",
   "i18n": {
    "ko": {
     "name": "산마루",
     "desc": "",
     "address": "충청북도 제천시 금성면 청풍호로 909"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -1935,7 +2133,9 @@
     "desc": "",
     "address": "충청북도 제천시 봉양읍 앞산로 174"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 125
  },
  {
   "section": "food",
@@ -1945,14 +2145,16 @@
   "lat": 37.1459306725,
   "lng": 128.0418701379,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/da871aad3473fd2bf2461aad71ce2222d33566c7?original",
   "i18n": {
    "ko": {
     "name": "산아래석갈비",
     "desc": "",
     "address": "충청북도 제천시 백운면 금봉로 182"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 139
  },
  {
   "section": "food",
@@ -1969,7 +2171,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 한계길 50"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -1986,7 +2190,9 @@
     "desc": "",
     "address": "충청북도 충주시 관아3길 21"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -2003,7 +2209,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 비하로 30"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -2037,7 +2245,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 성내로118번길 1"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -2047,14 +2257,16 @@
   "lat": 36.632779516,
   "lng": 127.4856512854,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/be041436a433d82e3d1b299806fdf3ef5ec132c5?original",
   "i18n": {
    "ko": {
     "name": "상주집",
     "desc": "",
     "address": "충청북도 청주시 상당구 남사로93번길 17"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2071,7 +2283,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 옥산면 소로2길 19"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2088,7 +2302,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 무심동로392번길 8"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -2105,7 +2321,9 @@
     "desc": "",
     "address": "충청북도 단양군 고수동굴길 4-10 서울식당"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -2139,7 +2357,9 @@
     "desc": "",
     "address": "충청북도 옥천군 청산면 지전1길 26"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -2156,7 +2376,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 상장인차로 25"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -2173,7 +2395,9 @@
     "desc": "",
     "address": "충청북도 충주시 성종두담길 315"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -2207,7 +2431,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 삼봉로 59"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -2224,7 +2450,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 신성화로46번길 5-2"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2258,7 +2486,9 @@
     "desc": "",
     "address": "충청북도 음성군 차생로 111-3"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2275,7 +2505,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 중앙로 37 (북문로2가)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 321
  },
  {
   "section": "food",
@@ -2285,14 +2517,16 @@
   "lat": 36.5304834124,
   "lng": 127.8214685032,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/68495f533d79017fe5f2379d352b8036273b9dae?original",
   "i18n": {
    "ko": {
     "name": "속리산옛고을",
     "desc": "",
     "address": "충청북도 보은군 속리산면 법주사로 250"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -2309,7 +2543,9 @@
     "desc": "",
     "address": "충청북도 보은군 속리산면 법주사로 261"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -2326,7 +2562,9 @@
     "desc": "",
     "address": "충청북도 증평군 초중로 38 송원"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -2343,7 +2581,9 @@
     "desc": "",
     "address": "충청북도 충주시 산척면 샛강영길 65"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -2360,7 +2600,9 @@
     "desc": "",
     "address": "충청북도 제천시 내제로 76 (서부동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2377,7 +2619,9 @@
     "desc": "",
     "address": "충청북도 제천시 남산로5길 13"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -2394,7 +2638,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 오창읍 중심상업2로 13"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -2411,7 +2657,9 @@
     "desc": "",
     "address": "충청북도 단양군 단성면 대잠2길 38-21"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -2428,7 +2676,9 @@
     "desc": "",
     "address": "충청북도 충주시 쇠저울1길 36 (금릉동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2445,7 +2695,9 @@
     "desc": "",
     "address": "충청북도 진천군 시가로 3"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2455,14 +2707,16 @@
   "lat": 36.6424995523,
   "lng": 127.4259341529,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d102a7bd9eaa7b395ddba1375a19ff812bd19fc0?original",
   "i18n": {
    "ko": {
     "name": "스시히어로",
     "desc": "",
     "address": "충청북도 청주시 흥덕구 대농로 33 (복대동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -2479,7 +2733,9 @@
     "desc": "",
     "address": "충청북도 음성군 음성읍 음성로 823-82"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -2489,14 +2745,16 @@
   "lat": 37.1304641975,
   "lng": 128.2544487105,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/36639a4cdadd576157a3dcb6c609b23326a6f3e7?original",
   "i18n": {
    "ko": {
     "name": "시골손두부",
     "desc": "",
     "address": "충청북도 제천시 중말8길 22"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -2506,14 +2764,16 @@
   "lat": 37.1287773775,
   "lng": 128.2061975365,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/05d216b0f25003f01aa57d19ef1f4e416f2a78c9?original",
   "i18n": {
    "ko": {
     "name": "시골장칼국수",
     "desc": "",
     "address": "충청북도 제천시 의림대로2길 5"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -2523,14 +2783,16 @@
   "lat": 36.4857671974,
   "lng": 127.7171901757,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1d8f17770b0a1733fdec667727d33e2cb9895d79?original",
   "i18n": {
    "ko": {
     "name": "신라식당",
     "desc": "",
     "address": "충청북도 보은군 보은읍 교사삼산길 40"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -2547,7 +2809,9 @@
     "desc": "",
     "address": "충청북도 보은군 속리산면 법주사로 268"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -2557,7 +2821,7 @@
   "lat": 36.9086571978,
   "lng": 127.5440494673,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MTlfMTky/MDAxNzgxODc4MjIyNDkz.Jh6m0VDQCIHFM4bPWQZVHy1IqfaLNgp-Wsah4g0KdUwg.ZJCLNuHASelBqtYsZsf0oq0z147t8X0eksBcX4Ru6F4g.JPEG/1%EC%8B%AC%EC%82%AC%EC%88%99%EA%B3%A0_(15).jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "심사숙고",
@@ -2598,7 +2862,9 @@
     "desc": "",
     "address": "충청북도 영동군 학산영동로 1039-20"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2615,7 +2881,9 @@
     "desc": "",
     "address": "충청북도 제천시 송학면 광암로 35-16"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -2649,7 +2917,9 @@
     "desc": "",
     "address": "충청북도 충주시 안림로 72"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2666,7 +2936,9 @@
     "desc": "",
     "address": "충청북도 영동군 영동황간로 1618"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -2683,7 +2955,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 수암로36번길 6"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2700,7 +2974,9 @@
     "desc": "",
     "address": "충청북도 충주시 앙성면 가곡로 953-11"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -2717,7 +2993,9 @@
     "desc": "",
     "address": "충청북도 충주시 수안보면 미륵송계로 9"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -2727,14 +3005,16 @@
   "lat": 36.8379524067,
   "lng": 127.9020304205,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/63072dbb4a258a1158d571a0f05a583e48a85cfd?original",
   "i18n": {
    "ko": {
     "name": "얼음골식당",
     "desc": "",
     "address": "충청북도 괴산군 감물면 충민로 1085"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2751,7 +3031,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 용평로113번길 47"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -2768,7 +3050,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 남일면 가좌신송로 190-53"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -2802,7 +3086,9 @@
     "desc": "",
     "address": "충청북도 진천군 백곡로 184 숯판매전시장"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -2812,14 +3098,16 @@
   "lat": 36.9885940279,
   "lng": 128.3828191231,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localad_thumb/t/cfc8da08e82c202e735293c75bf86dc38f3c09fa",
   "i18n": {
    "ko": {
     "name": "영남식당",
     "desc": "",
     "address": "충청북도 단양군 단양읍 다리안로 117-1"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 81
  },
  {
   "section": "food",
@@ -2853,7 +3141,9 @@
     "desc": "",
     "address": "충청북도 충주시 수안보면 물탕1길 11"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2870,7 +3160,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 양청2길 22"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2887,7 +3179,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 풍산로 55 (가경동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -2921,7 +3215,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 수암로36번길 13"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -2938,7 +3234,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 상진13길 4-1"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -2955,7 +3253,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 청주역로 670"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -2972,7 +3272,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 충청대로 1527"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2989,7 +3291,9 @@
     "desc": "",
     "address": "충청북도 옥천군 향수7길 8"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -3006,7 +3310,9 @@
     "desc": "",
     "address": "충청북도 옥천군 금장로 46"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -3023,7 +3329,9 @@
     "desc": "",
     "address": "충청북도 영동군 영동읍 영동황간로 662"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -3040,7 +3348,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 중앙로 144"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -3057,7 +3367,9 @@
     "desc": "",
     "address": "충청북도 단양군 중앙2로 13 왕릉숯불갈비"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -3091,7 +3403,9 @@
     "desc": "",
     "address": "충청북도 보은군 안내보은로 1273-3 일반음식점"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -3108,7 +3422,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 청주역로 637"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3125,7 +3441,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 죽천로 96-19 태희빌라"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -3176,7 +3494,9 @@
     "desc": "",
     "address": "충청북도 괴산군 괴산읍 괴강로느티울길 8-2"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -3193,7 +3513,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 쌍청2길 5"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -3203,14 +3525,16 @@
   "lat": 36.972890045,
   "lng": 127.9221553243,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/977af51970ccdbc6d2b15400c405f5793a8b4a9f?original",
   "i18n": {
    "ko": {
     "name": "운정식당",
     "desc": "",
     "address": "충청북도 충주시 중원대로 3432-1"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -3227,7 +3551,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 직지대로 611"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -3244,7 +3570,9 @@
     "desc": "",
     "address": "충청북도 영동군 영동황간로 1676 음식점"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -3278,7 +3606,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 율량로201번길 33-13"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -3288,14 +3618,16 @@
   "lat": 36.8632751575,
   "lng": 128.0885907578,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/one/store/20250809093021-da8f5abe-a28e-4a8c-9ad0-93acf2406a9f.jpg",
   "i18n": {
    "ko": {
     "name": "월송가든",
     "desc": "",
     "address": "충청북도 제천시 한수면 미륵송계로2길 7"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3312,7 +3644,9 @@
     "desc": "",
     "address": "충청북도 제천시 한수면 미륵송계로2길 25"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -3322,7 +3656,7 @@
   "lat": 36.9333570723,
   "lng": 127.6935880986,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://blog.kakaocdn.net/dn/Y6as4/dJMcaajKk2a/l4AakkQitrafSM3KAzJDS0/img.jpg",
   "i18n": {
    "ko": {
     "name": "월척 since 2019",
@@ -3346,7 +3680,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 동촌로28번길 28"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3363,7 +3699,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 대림로 390-11"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -3380,7 +3718,9 @@
     "desc": "",
     "address": "충청북도 음성군 음성읍 용광로230번길 61-4"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -3397,7 +3737,9 @@
     "desc": "",
     "address": "충청북도 충주시 양평길 6 유진가든"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -3424,14 +3766,16 @@
   "lat": 36.6402425906,
   "lng": 127.4879869807,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/5382ECBCF52E4992AA966C9C468E8BF2",
   "i18n": {
    "ko": {
     "name": "이사프커피스탠드",
     "desc": "",
     "address": "충청북도 청주시 상당구 상당로143번길 31-16 (북문로2가)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3448,7 +3792,9 @@
     "desc": "",
     "address": "충청북도 영동군 난계로 1108"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -3465,7 +3811,9 @@
     "desc": "",
     "address": "충청북도 충주시 능바우길 15"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -3482,7 +3830,9 @@
     "desc": "",
     "address": "충청북도 증평군 증안지길 155 무등산광장"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -3492,7 +3842,7 @@
   "lat": 36.9587819291,
   "lng": 127.3873455092,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/92CD1F9434774BA28B1DC7C418D03A84",
   "i18n": {
    "ko": {
     "name": "이월서가",
@@ -3533,7 +3883,9 @@
     "desc": "",
     "address": "충청북도 영동군 신촌2길 4 음식점"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3550,7 +3902,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 덕벌로 43"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -3560,14 +3914,16 @@
   "lat": 36.9884828418,
   "lng": 127.9300958321,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d17a8979cf2b6f57b713445d4c607079a0251ea6?original",
   "i18n": {
    "ko": {
     "name": "일번지순대국",
     "desc": "",
     "address": "충청북도 충주시 연수상가2길 9"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -3584,7 +3940,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 성봉로220번길 156"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -3601,7 +3959,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 삼봉로 370"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 256
  },
  {
   "section": "food",
@@ -3618,7 +3978,9 @@
     "desc": "",
     "address": "충청북도 단양군 대강면 단양로 142"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -3635,7 +3997,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 용평로 100"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -3645,14 +4009,16 @@
   "lat": 36.6197254973,
   "lng": 127.487818118,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAyMDhfMTUx/MDAxNzcwNTM5ODMwNjU4.j9xGcFFNuh6-ahjncPXO0wtQJNMXnvLlLoxlqStSMuUg.OU54yZyx6_rRlI_Lky7CxPpjAJkP0t-mTYuBKS52I2Ig.JPEG/SE-db6f83de-5a77-46de-9b68-3ad5442a46e3.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "재건갈비",
     "desc": "",
     "address": "충청북도 청주시 서원구 청남로 2104 재건갈비"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -3669,7 +4035,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 청암로 385"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -3686,7 +4054,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 주현로41번길 19"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -3703,7 +4073,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 2순환로 1618"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -3713,14 +4085,16 @@
   "lat": 36.592620612,
   "lng": 127.5067282818,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d9b5fae953f6ff80f7df4b38cfd2bb25562c6b26?original",
   "i18n": {
    "ko": {
     "name": "제이브로",
     "desc": "",
     "address": "충청북도 청주시 상당구 단재로 439-25 (지북동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -3737,7 +4111,9 @@
     "desc": "",
     "address": "충청북도 제천시 의림대로2길 16"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 108
  },
  {
   "section": "food",
@@ -3771,7 +4147,9 @@
     "desc": "",
     "address": "충청북도 괴산군 괴산읍 읍내로 282"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -3781,14 +4159,16 @@
   "lat": 37.0180976778,
   "lng": 127.8648619571,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/472B01D315CE490D95906949E6D1DE54",
   "i18n": {
    "ko": {
     "name": "중앙탑 장수네집",
     "desc": "",
     "address": "충청북도 충주시 중앙탑면 중앙탑길 112-5"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -3798,7 +4178,7 @@
   "lat": 37.0180921112,
   "lng": 127.8642342354,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/C4BF149AAF2F40E18BA36E4E0048533D",
   "i18n": {
    "ko": {
     "name": "중앙탑막국수",
@@ -3822,7 +4202,9 @@
     "desc": "",
     "address": "충청북도 증평군 증평읍 율리휴양로 307"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3839,7 +4221,9 @@
     "desc": "",
     "address": "충청북도 제천시 용두대로17길 4 (하소동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -3856,7 +4240,9 @@
     "desc": "",
     "address": "충청북도 충주시 상방9길 9"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -3873,7 +4259,9 @@
     "desc": "",
     "address": "충청북도 진천군 이월면 신척서길 27-3"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -3883,14 +4271,16 @@
   "lat": 36.6331739657,
   "lng": 127.4884371354,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/28010f2294d7d7c367fa7f1ec3d9822b5e8cf110?original",
   "i18n": {
    "ko": {
     "name": "쫄쫄호떡",
     "desc": "",
     "address": "충청북도 청주시 상당구 상당로55번길 40-1"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 225
  },
  {
   "section": "food",
@@ -3907,7 +4297,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 산미로 136"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -3924,7 +4316,9 @@
     "desc": "",
     "address": "충청북도 옥천군 지전길 14 음식점"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -3951,14 +4345,16 @@
   "lat": 36.6202814161,
   "lng": 127.5116104135,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/075475446A304E28B96254E4134CE163",
   "i18n": {
    "ko": {
     "name": "참살이 오리전문점",
     "desc": "",
     "address": "충청북도 청주시 상당구 용암북로 124-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -3985,14 +4381,16 @@
   "lat": 36.9503497949,
   "lng": 127.3999918275,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/548458f41c6ebf5816b7d1ab426dd479e6377056?original",
   "i18n": {
    "ko": {
     "name": "청산가든",
     "desc": "",
     "address": "충청북도 진천군 이월면 진안로 354"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -4009,7 +4407,9 @@
     "desc": "",
     "address": "충청북도 충주시 수안보면 장터2길 20"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -4019,14 +4419,16 @@
   "lat": 36.6318407738,
   "lng": 127.4878400037,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/34ee7ce42c6bd582ccd5b9368840b8fe1105a91d?original",
   "i18n": {
    "ko": {
     "name": "청송통닭",
     "desc": "",
     "address": "충청북도 청주시 상당구 남사로 116"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -4043,7 +4445,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 성산2길 5 청원군한우협회영농조합법인"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -4060,7 +4464,9 @@
     "desc": "",
     "address": "충청북도 충주시 봉현로 296 충주컨벤션센터 웨딩홀"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -4077,7 +4483,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 덕암로30번길 38"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -4111,7 +4519,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 강내면 태성탑연로 422"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -4128,7 +4538,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 원흥로 3"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -4138,14 +4550,16 @@
   "lat": 37.1316298029,
   "lng": 128.2049059022,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1cc4816da56b4e6a0e48ea54244c70c4a50177c5?original",
   "i18n": {
    "ko": {
     "name": "청진동해장국",
     "desc": "",
     "address": "충청북도 제천시 내제로 21"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4162,7 +4576,9 @@
     "desc": "",
     "address": "충청북도 충주시 솔고개로 739"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -4179,7 +4595,9 @@
     "desc": "",
     "address": "충청북도 제천시 금성면 청풍호로 1643"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -4196,7 +4614,9 @@
     "desc": "",
     "address": "충청북도 제천시 금성면 청풍호로 743"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -4213,7 +4633,9 @@
     "desc": "",
     "address": "충청북도 제천시 청풍면 청풍호로 1682"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 222
  },
  {
   "section": "food",
@@ -4230,7 +4652,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 내수동로 32"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4247,7 +4671,9 @@
     "desc": "",
     "address": "충청북도 음성군 금일로 1050-10"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -4264,7 +4690,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 남이면 청남로 1677"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -4281,7 +4709,9 @@
     "desc": "",
     "address": "충청북도 충주시 탄금대로 364"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -4298,7 +4728,9 @@
     "desc": "",
     "address": "충청북도 충주시 충주호수로 590"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4315,7 +4747,9 @@
     "desc": "",
     "address": "충청북도 단양군 단양읍 도전5길 37"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 172
  },
  {
   "section": "food",
@@ -4325,14 +4759,16 @@
   "lat": 36.6340838194,
   "lng": 127.4241234361,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/5313E7AD23914EF6A2A91FE98A24A830",
   "i18n": {
    "ko": {
     "name": "칠성반점",
     "desc": "",
     "address": "충청북도 청주시 흥덕구 2순환로 1130 (비하동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 127
  },
  {
   "section": "food",
@@ -4349,7 +4785,9 @@
     "desc": "",
     "address": "충청북도 제천시 청풍면 학현소야로 415-24"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 112
  },
  {
   "section": "food",
@@ -4366,7 +4804,9 @@
     "desc": "",
     "address": "충청북도 옥천군 추소길 8-41 주택"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -4383,7 +4823,9 @@
     "desc": "",
     "address": "충청북도 제천시 단양로10길 104"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -4400,7 +4842,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 고락로40번길 25 카페 까망"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4417,7 +4861,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 수동로5번길 32"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -4434,7 +4880,9 @@
     "desc": "",
     "address": "충청북도 충주시 청운로 58-1"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -4451,7 +4899,9 @@
     "desc": "",
     "address": "충청북도 음성군 맹동면 찬샘골길 15"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -4468,7 +4918,9 @@
     "desc": "",
     "address": "충청북도 괴산군 금신로 127"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -4485,7 +4937,9 @@
     "desc": "",
     "address": "충청북도 충주시 충원대로 55 커피단월"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -4502,7 +4956,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 목련로214번길 40"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -4519,7 +4975,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 직지대로753번길 36"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -4536,7 +4994,9 @@
     "desc": "",
     "address": "충청북도 음성군 음성로 553"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -4553,7 +5013,9 @@
     "desc": "",
     "address": "충청북도 충주시 금제7길 14"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -4570,7 +5032,9 @@
     "desc": "",
     "address": "충청북도 충주시 앙성면 산전장수1길 5"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4587,7 +5051,9 @@
     "desc": "",
     "address": "충청북도 증평군 초중11길 11"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -4604,7 +5070,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 청남로 1388-36"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 145
  },
  {
   "section": "food",
@@ -4621,7 +5089,9 @@
     "desc": "",
     "address": "충청북도 제천시 의림대로44길 15 (모산동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -4638,7 +5108,9 @@
     "desc": "",
     "address": "충청북도 괴산군 괴산읍 자연식품길 31"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -4672,7 +5144,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 중심상업2로 9-50"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -4689,7 +5163,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 용평로113번길 23"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -4706,7 +5182,9 @@
     "desc": "",
     "address": "충청북도 옥천군 성왕로 1873-10"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -4723,7 +5201,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 목련로 838-9"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -4740,7 +5220,9 @@
     "desc": "",
     "address": "충청북도 제천시 용두대로29길 25-19"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -4750,14 +5232,16 @@
   "lat": 36.3027299276,
   "lng": 127.5699694662,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MjdfMTk4/MDAxNzc5ODY2OTAxODE1.dIkGaE0vAASoj_lHa4oJweC6IrM3eGs7EYqk9eoeXr0g.7ZGZxZtSu73QWYWhRoX6ojWXQywiTPZ90qx7yT5XfUwg.JPEG/900_20260502_125229.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "하얀풍차",
     "desc": "",
     "address": "충청북도 옥천군 중앙로 63 제과점"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -4774,7 +5258,9 @@
     "desc": "",
     "address": "충청북도 음성군 감곡면 중간말길 7-10"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -4791,7 +5277,9 @@
     "desc": "",
     "address": "충청북도 괴산군 모래재로 1579"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -4808,7 +5296,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 내수읍 미원초정로 1262"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -4825,7 +5315,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 2순환로 30"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -4842,7 +5334,9 @@
     "desc": "",
     "address": "충청북도 괴산군 명태재로송동5길 67-35"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -4876,7 +5370,9 @@
     "desc": "",
     "address": "충청북도 청주시 흥덕구 서부로1168번길 15"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -4893,7 +5389,9 @@
     "desc": "",
     "address": "충청북도 괴산군 괴산읍 괴강로 12"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -4910,7 +5408,9 @@
     "desc": "",
     "address": "충청북도 진천군 이월면 화산동길 18"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -4927,7 +5427,9 @@
     "desc": "",
     "address": "충청북도 청주시 청원구 1순환로 219"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -4944,7 +5446,9 @@
     "desc": "",
     "address": "충청북도 증평군 증평읍 충청대로 1603"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -4961,7 +5465,9 @@
     "desc": "",
     "address": "충청북도 옥천군 선사로 138 음식점"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -4978,7 +5484,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 성봉로220번길 16"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -4995,7 +5503,9 @@
     "desc": "",
     "address": "충청북도 제천시 의림대로 558"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -5005,14 +5515,16 @@
   "lat": 36.3587240531,
   "lng": 127.5993042058,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1bbfcb0e9a18873c465e3743ea408782764db422?original",
   "i18n": {
    "ko": {
     "name": "홍차가게 소정",
     "desc": "",
     "address": "충청북도 옥천군 군북면 성왕로 1837"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -5039,14 +5551,16 @@
   "lat": 36.983666804,
   "lng": 127.9341428284,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/0281ef316c4effcea600c591ea437e9376ff27dc?original",
   "i18n": {
    "ko": {
     "name": "황금옥",
     "desc": "",
     "address": "충청북도 충주시 예성로 304"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -5063,7 +5577,9 @@
     "desc": "",
     "address": "충청북도 청주시 서원구 용평로93번길 57"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 414
  },
  {
   "section": "food",
@@ -5097,7 +5613,9 @@
     "desc": "",
     "address": "충청북도 청주시 상당구 추정2길 13-2"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -5369,6 +5887,8 @@
     "desc": "",
     "address": "충청북도 진천군 석장로 227"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 16
  }
 ]

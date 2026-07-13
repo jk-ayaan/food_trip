@@ -14,7 +14,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 안금로 241"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "세종특별자치시  금강변길 1249"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -48,7 +52,9 @@
     "desc": "",
     "address": "세종특별자치시 장군면 월현윗길 38-7"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -82,7 +88,9 @@
     "desc": "",
     "address": "세종특별자치시 한누리대로 194 (나성동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 160
  },
  {
   "section": "food",
@@ -92,14 +100,16 @@
   "lat": 36.4674781057,
   "lng": 127.2781827496,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/37cfd5ed25a837390ece3d9f1acda3304e90bc8d?original",
   "i18n": {
    "ko": {
     "name": "그랜드제빵소",
     "desc": "",
     "address": "세종특별자치시 금남면 용포로 119-55"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -150,7 +160,9 @@
     "desc": "",
     "address": "세종특별자치시 전동면 깊은내길 211"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -184,7 +196,9 @@
     "desc": "",
     "address": "세종특별자치시 장군면 당암길 42"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -201,7 +215,9 @@
     "desc": "",
     "address": "세종특별자치시 연서면 도신고복로 913"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -218,7 +234,9 @@
     "desc": "",
     "address": "세종특별자치시 연서면 도신고복로 585"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -228,7 +246,7 @@
   "lat": 36.4988153266,
   "lng": 127.2299584456,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA0MjlfMTA3/MDAxNzc3NDMwMDE5ODA4.BEIpq3hXcINoz0-l5I4RR9ZMOtbw4tcmJuzUCL3ETggg.cWV4R4sXaQhmcavAW0-6vk2Sg6didLT3TOEA8317aqMg.JPEG/KakaoTalk_20260429_111307134_08.jpg?type=w466",
   "i18n": {
    "ko": {
     "name": "디그레이",
@@ -252,7 +270,9 @@
     "desc": "",
     "address": "세종특별자치시 달빛1로 284"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -269,7 +289,9 @@
     "desc": "",
     "address": "세종특별자치시 조치원읍 장안로 74"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -286,7 +308,9 @@
     "desc": "",
     "address": "세종특별자치시 연서면 수문강길 232-6"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 71
  },
  {
   "section": "food",
@@ -303,7 +327,9 @@
     "desc": "",
     "address": "세종특별자치시 장군면 장기로 650-7"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -320,7 +346,9 @@
     "desc": "",
     "address": "세종특별자치시 가름로 232 (어진동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -337,7 +365,9 @@
     "desc": "",
     "address": "세종특별자치시 고운서4길 7 (고운동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -354,7 +384,9 @@
     "desc": "",
     "address": "세종특별자치시 소정면 도래말길 5"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -371,7 +403,9 @@
     "desc": "",
     "address": "세종특별자치시  허만석로 13-5"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -388,7 +422,9 @@
     "desc": "",
     "address": "세종특별자치시 마음안로 161 (고운동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -405,7 +441,9 @@
     "desc": "",
     "address": "세종특별자치시 부강면 부강외천로 103"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 310
  },
  {
   "section": "food",
@@ -415,14 +453,16 @@
   "lat": 36.6002959171,
   "lng": 127.261938922,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/6ae83c5993d0a250e2d69cace38a8ea333b9936a?original",
   "i18n": {
    "ko": {
     "name": "산장가든",
     "desc": "",
     "address": "세종특별자치시 연서면 도신고복로 1131-7"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 223
  },
  {
   "section": "food",
@@ -432,14 +472,16 @@
   "lat": 36.4870199253,
   "lng": 127.2564536116,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MDZfNDcg/MDAxNzc4MDc4NTk1Mjkz.1fEQc8nol8dljaqCNl4dN9MapbHLrdUC9N87OS7Lx2Mg.Vazkn2JZZzQZz_pkxvPMynUZPQX7LRcNvNedaG8-Utwg.JPEG/IMG%EF%BC%BF9876.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "세종 싱싱푸드 새롬점",
     "desc": "",
     "address": "세종특별자치시 새롬로 20"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -473,7 +515,9 @@
     "desc": "",
     "address": "세종특별자치시 나성남로 7-16 (나성동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -490,7 +534,9 @@
     "desc": "",
     "address": "세종특별자치시 조치원읍 대첩로 75"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -507,7 +553,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 발산1길 54-8"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -524,7 +572,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 바람재로 440"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -558,7 +608,9 @@
     "desc": "",
     "address": "세종특별자치시 마음로 272-22"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -575,7 +627,9 @@
     "desc": "",
     "address": "세종특별자치시 아름서1길 13-5 (아름동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -592,7 +646,9 @@
     "desc": "",
     "address": "세종특별자치시 한누리대로 583 (도담동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -609,7 +665,9 @@
     "desc": "",
     "address": "세종특별자치시 장군면 덕고개길 12"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -660,7 +718,9 @@
     "desc": "",
     "address": "세종특별자치시  한누리대로 288 갤러리밸류시티"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -677,7 +737,9 @@
     "desc": "",
     "address": "세종특별자치시  한누리대로 411 KT&G세종타워A"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -694,7 +756,9 @@
     "desc": "",
     "address": "세종특별자치시 연서면 도신고복로 613-2"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 147
  },
  {
   "section": "food",
@@ -711,7 +775,9 @@
     "desc": "",
     "address": "세종특별자치시 시청대로 209 (보람동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -745,7 +811,9 @@
     "desc": "",
     "address": "세종특별자치시 연서면 와룡로 606"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -762,7 +830,9 @@
     "desc": "",
     "address": "세종특별자치시 도움1로 106 (종촌동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -779,7 +849,9 @@
     "desc": "",
     "address": "세종특별자치시 부강면 청연로 125"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 101
  },
  {
   "section": "food",
@@ -796,7 +868,9 @@
     "desc": "",
     "address": "세종특별자치시  다솜로 185"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 116
  },
  {
   "section": "food",
@@ -813,7 +887,9 @@
     "desc": "",
     "address": "세종특별자치시 조치원읍 장안1길 97"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -830,7 +906,9 @@
     "desc": "",
     "address": "세종특별자치시 장군면 외암길 4"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -847,7 +925,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 호탄길 48"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -881,7 +961,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 도남2안길 13"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -898,7 +980,9 @@
     "desc": "",
     "address": "세종특별자치시  안금로 257"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -966,7 +1050,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 장재길 16"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -983,7 +1069,9 @@
     "desc": "",
     "address": "세종특별자치시 금남면 금남구즉로 60"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -1000,7 +1088,9 @@
     "desc": "",
     "address": "세종특별자치시 노을3로 19 (한솔동, 첫마을2단지)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 113
  },
  {
   "section": "food",
@@ -1017,7 +1107,9 @@
     "desc": "",
     "address": "세종특별자치시 장군면 월현윗길 173-12"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -1034,7 +1126,9 @@
     "desc": "",
     "address": "세종특별자치시 보듬7로 94 (아름동)"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -1051,7 +1145,9 @@
     "desc": "",
     "address": "세종특별자치시 고운한옥1길 3 (고운동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -1068,7 +1164,9 @@
     "desc": "",
     "address": "세종특별자치시  거제길 16"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -1085,7 +1183,9 @@
     "desc": "",
     "address": "세종특별자치시  장척로 585-20"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -1102,6 +1202,8 @@
     "desc": "",
     "address": "세종특별자치시  고운서길 7 골드프라자"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 21
  }
 ]

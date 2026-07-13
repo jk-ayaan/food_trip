@@ -7,14 +7,16 @@
   "lat": 35.2827410854,
   "lng": 127.3015424956,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/8C602D15AA8143ECB3C0D6AF9E7AD99F",
   "i18n": {
    "ko": {
     "name": "가랑드",
     "desc": "",
     "address": "전남광주통합특별시 곡성군 곡성읍 낙동원로 10"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 가우도길 2-7"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -48,7 +52,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 학동6길 1"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -65,7 +71,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 강의길 73"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -82,7 +90,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 동성로 16"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -99,7 +109,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 보은로 73"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -116,7 +128,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 굴비로 9-2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 131
  },
  {
   "section": "food",
@@ -126,7 +140,7 @@
   "lat": 34.3164042784,
   "lng": 126.7502315674,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDZfNTEg/MDAxNzgzMzQ3ODM4ODg4.bpFCUvpUJUYVG6rd-HsVidFumDYIjX3gJ1L65m5q4Ygg.aYM1q2qUXEgqN7rwUzFA1FbIXSEuxEWwoaCuaU11Sikg.JPEG/900_1783347833587.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "개성순두부전문점",
@@ -143,14 +157,16 @@
   "lat": 35.0012561968,
   "lng": 126.1397134314,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/bc06b21849b9a5543bba3b570922a73696d19791?original",
   "i18n": {
    "ko": {
     "name": "갯마을식당",
     "desc": "",
     "address": "전남광주통합특별시 신안군 증도중앙길 40-2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -167,7 +183,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 강남동로 13"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -184,7 +202,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 항만9로 126"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -218,7 +238,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 완도읍 개포로 12-1"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -252,7 +274,9 @@
     "desc": "",
     "address": "전남광주통합특별시 보성군 채동선로 294"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -269,7 +293,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 산덕연동길 14"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -286,7 +312,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 원등1길 16-7"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -303,7 +331,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 선소로 59 (학동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -320,7 +350,9 @@
     "desc": "",
     "address": "전남광주통합특별시 신안군 문준경길 165"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -330,14 +362,16 @@
   "lat": 34.8063663643,
   "lng": 126.4362141002,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MDlfMTUx/MDAxNzc4Mjg1Mjg0Nzgz.DKBmsUX_12DdAk3jkkI1WyS0VvBrz28ahHQwAnHk1psg.dgxK1yaICkVFOWHdEJ91X74-2EKNHCLp-9U5aKPgu14g.JPEG/SE-a3d2167b-61d7-4f98-a0d9-dc79378753b1.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "고흥삼계탕",
     "desc": "",
     "address": "전남광주통합특별시 목포시 복산길6번길 40"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -347,14 +381,16 @@
   "lat": 34.6126608217,
   "lng": 127.2974875283,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAyMTRfMTgy/MDAxNzcxMDY2MDAwMzMw.0EujL2XRiNwqdxQ8jefXMuVp6GGb7PmMEwTK4vOorVgg.IjoKOYNAK5DHlpzQ9LhZR2X4D4rr7cGAzijB9S4zJoUg.JPEG/SE-df8c4861-427a-4835-8ef4-635887e9a165.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "고흥한우직판장",
     "desc": "",
     "address": "전남광주통합특별시 고흥군 고흥읍 고흥로 1892-67"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -371,7 +407,9 @@
     "desc": "",
     "address": "전남광주통합특별시 곡성군 배감길 16-19"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -388,7 +426,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 어항로 23-1"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -405,7 +445,9 @@
     "desc": "",
     "address": "전남광주통합특별시 고흥군 과역면 고흥로 2959-3"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -422,7 +464,9 @@
     "desc": "",
     "address": "전남광주통합특별시 고흥군 고흥로 1896"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -439,7 +483,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 광양읍 서평로 40"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -456,7 +502,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 발섬4길 17-12 (중동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -473,7 +521,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 천태로 1020"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -490,7 +540,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 화순읍 지강로 650"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -507,7 +559,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 신월로 578-1 (신월동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 76
  },
  {
   "section": "food",
@@ -517,14 +571,16 @@
   "lat": 35.2782747162,
   "lng": 127.2895047838,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MTJfMjI0/MDAxNzgxMjU1NjY5MDAw.sid3O1toTWMy5qbJfhYFW1S6FgpRfZaB1Ytx72RstGUg.DtymFRV1mA9f_D8Dz-f5UXfPrjlaH_kohYcELT_iXygg.JPEG/KakaoTalk_20260612_053924754_14.jpg?type=w386",
   "i18n": {
    "ko": {
     "name": "궁전회관",
     "desc": "",
     "address": "전남광주통합특별시 곡성군 곡성읍 중앙로 54"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -541,7 +597,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 진도읍 철마길 3-8"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -551,14 +609,16 @@
   "lat": 34.7254443051,
   "lng": 126.5680072023,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTA0MTlfMTM0/MDAxNzQ1MDYyNjg5MTcx.oAOr6AJbZ5nA1ZUaXxU2k1BzdEB5PpW_svDkyV0btDkg.NsYtpvOCrq93qyFl6uMoTqccEw_ujwbSKBxaqCBFBzgg.JPEG/KakaoTalk_20250413_201335209_01.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "그린식당",
     "desc": "",
     "address": "전남광주통합특별시 영암군 학산면 독천로 171-1"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -575,7 +635,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영암군 고분로 1014"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -592,7 +654,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 장명4길 8 금빈회관"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -609,7 +673,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 옥암로 109"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -626,7 +692,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영암군 영암로 1588 기찬장터"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -636,14 +704,16 @@
   "lat": 34.9919495925,
   "lng": 127.3438545088,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/551fd07af1131de89dfe50733bb9d3feec0d4560?original",
   "i18n": {
    "ko": {
     "name": "길상식당",
     "desc": "",
     "address": "전남광주통합특별시 순천시 승주읍 승암교길 8"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -660,7 +730,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 추월산로 900-9"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -687,14 +759,16 @@
   "lat": 34.8088361253,
   "lng": 126.4724108438,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/EB6A6C65F3A3419A8C7269271B42CCB5",
   "i18n": {
    "ko": {
     "name": "꽃게랑 낙지랑",
     "desc": "",
     "address": "전남광주통합특별시 무안군 삼향읍 남악리"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -711,7 +785,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 봉산2로 36"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 678
  },
  {
   "section": "food",
@@ -745,7 +821,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 팔마1길 4 (연향동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 239
  },
  {
   "section": "food",
@@ -755,14 +833,16 @@
   "lat": 34.7918310285,
   "lng": 126.3836190964,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/42da23813190b904a8af2dea6f8b739059a8dd68?original",
   "i18n": {
    "ko": {
     "name": "나무포",
     "desc": "",
     "address": "전남광주통합특별시 목포시 수문로 19-1"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -779,7 +859,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 진두해안길 68"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 251
  },
  {
   "section": "food",
@@ -796,7 +878,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 하당로68번길 24"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -813,7 +897,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 하풍동길 21 오션팰리스"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 379
  },
  {
   "section": "food",
@@ -830,7 +916,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 월산면 담장로 143"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 310
  },
  {
   "section": "food",
@@ -864,7 +952,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 봉산1로 49"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -881,7 +971,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 남창로 340-22"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -898,7 +990,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 남평1로 82-10"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -915,7 +1009,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 금성관길 2 (중앙동)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -932,7 +1028,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 하멜로 78"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 574
  },
  {
   "section": "food",
@@ -949,7 +1047,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 고소5길 11"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 141
  },
  {
   "section": "food",
@@ -959,14 +1059,16 @@
   "lat": 34.774290018,
   "lng": 126.9743952234,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/70cceeb37165ece51be995b4e17e0050e802fa90?original",
   "i18n": {
    "ko": {
     "name": "녹양관",
     "desc": "",
     "address": "전남광주통합특별시 장흥군 장평중앙길 49"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -983,7 +1085,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 국가정원1호길 162-11 (풍덕동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -1027,14 +1131,16 @@
   "lat": 34.7565516418,
   "lng": 127.7024512454,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/cfile/1138CA4D4FE009EB24",
   "i18n": {
    "ko": {
     "name": "다다한정식",
     "desc": "",
     "address": "전남광주통합특별시 여수시 여문1로 89"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -1044,14 +1150,16 @@
   "lat": 34.4649800017,
   "lng": 127.4543108068,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e77e2d8dd21bca2191a61c35e6300c7502c79142?original",
   "i18n": {
    "ko": {
     "name": "다도해회관",
     "desc": "",
     "address": "전남광주통합특별시 고흥군 봉래면 나로도항길 103-18"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1061,14 +1169,16 @@
   "lat": 34.6703285741,
   "lng": 127.0865934832,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/59338e41b14ae69b00fe37a4df7b29b72a61ea25?original",
   "i18n": {
    "ko": {
     "name": "다향보성녹돈촌",
     "desc": "",
     "address": "전남광주통합특별시 보성군 회천면 남부관광로 2320"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -1085,7 +1195,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 서문길 8-21 진도청년회의소"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -1112,14 +1224,16 @@
   "lat": 35.2015559456,
   "lng": 126.9846670013,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MjRfNTIg/MDAxNzc5NTU2MTcwMzk5.ttVvKLoIpu-QV4NsY_ygOtZ8i68qYgeNKGfh07fb35Ag.hj1GZrfhEbs0YLJXIFtBSu7oGvK_7rFc04O-gtX_96gg.JPEG/900_20241115_122120.jpg?type=w386",
   "i18n": {
    "ko": {
     "name": "담소정",
     "desc": "",
     "address": "전남광주통합특별시 담양군 고서면 잣정길 133"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1136,7 +1250,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 죽향문화로 403"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1146,14 +1262,16 @@
   "lat": 34.8051413649,
   "lng": 126.4278370925,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/17af090702ba0f0a836fba0b217600045c1720d7?original",
   "i18n": {
    "ko": {
     "name": "담양숯불갈비",
     "desc": "",
     "address": "전남광주통합특별시 목포시 옥암로 65"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1170,7 +1288,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 담양읍 죽향문화로 22"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -1187,7 +1307,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 죽향대로 723 담양애꽃"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 174
  },
  {
   "section": "food",
@@ -1221,7 +1343,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 면앙정로 368"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -1238,7 +1362,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 남산남1길 34 (남산동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -1255,7 +1381,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 가사문학로 619"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -1272,7 +1400,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 시청서2길 51-8 (학동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1282,14 +1412,16 @@
   "lat": 34.9712143412,
   "lng": 127.5808758756,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2073ac3555c1bf930dc764bd7eedc1a76be6bc0b?original",
   "i18n": {
    "ko": {
     "name": "대갓집 숯불직화구이",
     "desc": "",
     "address": "전남광주통합특별시 광양시 광양읍 서천2길 27"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1299,14 +1431,16 @@
   "lat": 34.8895028368,
   "lng": 127.5091148087,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c62345539128502bd23d1ac45af75a22d20c21d8?original",
   "i18n": {
    "ko": {
     "name": "대대선창집",
     "desc": "",
     "address": "전남광주통합특별시 순천시 순천만길 542"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -1323,7 +1457,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 시청로 82"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1340,7 +1476,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 객사4길 38-11"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -1350,7 +1488,7 @@
   "lat": 34.7397957345,
   "lng": 127.7341794519,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/0E47D1FB8FF340CAB8AEAFDE5F70EEF3",
   "i18n": {
    "ko": {
     "name": "대성식당",
@@ -1374,7 +1512,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 해변공원로 59"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -1391,7 +1531,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 학동길 54 (대룡동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -1418,14 +1560,16 @@
   "lat": 35.3059774057,
   "lng": 126.9805369516,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localfiy/5BC9F1B432EF400FAF6EE31DDBAF8632",
   "i18n": {
    "ko": {
     "name": "덕인관",
     "desc": "",
     "address": "전남광주통합특별시 담양군 담양읍 죽향대로 1121"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 162
  },
  {
   "section": "food",
@@ -1435,14 +1579,16 @@
   "lat": 34.7891480189,
   "lng": 126.3849523765,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/80443d824880b7057f77ecb9a8c243c1115049e4?original",
   "i18n": {
    "ko": {
     "name": "덕인홍어집",
     "desc": "",
     "address": "전남광주통합특별시 목포시 영산로73번길 1-1"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -1469,14 +1615,16 @@
   "lat": 34.8002198615,
   "lng": 126.4378418827,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/599e2ad6ab81892f33e75e7c7c01078f2707fc9d?original",
   "i18n": {
    "ko": {
     "name": "독천골",
     "desc": "",
     "address": "전남광주통합특별시 목포시 미항로 197 (옥암동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 135
  },
  {
   "section": "food",
@@ -1527,7 +1675,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영암군 삼호읍 녹색로 1538"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -1544,7 +1694,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 번화로 67"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 115
  },
  {
   "section": "food",
@@ -1554,14 +1706,16 @@
   "lat": 34.7990770252,
   "lng": 126.6958135919,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a87d68a19bb92b12f9f254167dec37bead940762?original",
   "i18n": {
    "ko": {
     "name": "동락식당",
     "desc": "",
     "address": "전남광주통합특별시 영암군 영암읍 서문로 10"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -1578,7 +1732,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 장군산길 71"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 158
  },
  {
   "section": "food",
@@ -1612,7 +1768,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 법성면 법성포로3길 12-19"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1639,14 +1797,16 @@
   "lat": 35.0193529962,
   "lng": 126.9085005141,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/05472a68d4fb758d6a71d7b9fa567595ccd1b621?original",
   "i18n": {
    "ko": {
     "name": "둥근지붕",
     "desc": "",
     "address": "전남광주통합특별시 화순군 도곡면 지강로 260"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1663,7 +1823,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 홍농읍 계마길 61"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1680,7 +1842,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 행복1길 2"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -1697,7 +1861,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 담양읍 천변5길 20"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 151
  },
  {
   "section": "food",
@@ -1714,7 +1880,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 해양대학로 229 (죽교동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -1731,7 +1899,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 백수읍 해안로 917"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -1748,7 +1918,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 청운길 38"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1765,7 +1937,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 화순읍 큰재전원길 25"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1782,7 +1956,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 남평읍 강변1길 76"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -1792,14 +1968,16 @@
   "lat": 34.7910871316,
   "lng": 127.5688592868,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/50c95828029a9f39b4b1215744abd75c37202aeb?original",
   "i18n": {
    "ko": {
     "name": "마띠유",
     "desc": "",
     "address": "전남광주통합특별시 여수시 소라면 서부로 791"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -1816,7 +1994,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 화백길 6"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -1826,14 +2006,16 @@
   "lat": 34.6777053109,
   "lng": 126.9081506423,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c85358b2b7ec75a217bb8776072568ca8c2f2cfa?original",
   "i18n": {
    "ko": {
     "name": "만나숯불갈비",
     "desc": "",
     "address": "전남광주통합특별시 장흥군 장흥읍 물레방앗간길 4"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1850,7 +2032,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 서천1길 46"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -1867,7 +2051,9 @@
     "desc": "",
     "address": "전남광주통합특별시 곡성군 곡성읍 곡성로 822"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -1884,7 +2070,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 반석길 48-8"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -1901,7 +2089,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 깊은실길 16"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 76
  },
  {
   "section": "food",
@@ -1911,14 +2101,16 @@
   "lat": 34.7989030868,
   "lng": 126.4222460698,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f8547b414fcd023cbbb3110704aabd16997c2f9d?original",
   "i18n": {
    "ko": {
     "name": "명인집",
     "desc": "",
     "address": "전남광주통합특별시 목포시 하당로30번길 14"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -1935,7 +2127,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 완도읍 개포로 34-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -1969,7 +2163,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 강진읍 탑동길 5"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -2003,7 +2199,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 백수읍 해안로 1389"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -2020,7 +2218,9 @@
     "desc": "",
     "address": "전남광주통합특별시 보성군 태백산맥길 40"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -2037,7 +2237,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 일로읍 일로신흥길 59"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -2054,7 +2256,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 무술목길 50"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 419
  },
  {
   "section": "food",
@@ -2122,7 +2326,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 수북면 한수동로 524"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -2139,7 +2345,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 망운면 톱머리길 38"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2156,7 +2364,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 소호4길 8"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -2166,14 +2376,16 @@
   "lat": 34.4811500534,
   "lng": 126.2596485379,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e3f67c6b05e47c5002327bde55eb3bea2500f468?original",
   "i18n": {
    "ko": {
     "name": "묵은지",
     "desc": "",
     "address": "전남광주통합특별시 진도군 진도읍 남동1길 12-5"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2190,7 +2402,9 @@
     "desc": "",
     "address": "전남광주통합특별시 해남군 계곡면 오류골길 64"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2207,7 +2421,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 웅천4길 12-7"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -2224,7 +2440,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 영광읍 중앙로5길 16-10"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2241,7 +2459,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 군내11번길 15"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -2251,14 +2471,16 @@
   "lat": 35.0865774422,
   "lng": 126.498179581,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fef5b7b9bbb98ad1c071334c20387640cbd0a548?original",
   "i18n": {
    "ko": {
     "name": "미양기사식당",
     "desc": "",
     "address": "전남광주통합특별시 함평군 함평읍 함영로 1373"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -2268,14 +2490,16 @@
   "lat": 34.8002504148,
   "lng": 126.4379696482,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/08518862ef3ac773f86769a3a0c8aa4c30b5223e?original",
   "i18n": {
    "ko": {
     "name": "미항횟집",
     "desc": "",
     "address": "전남광주통합특별시 목포시 미항로 197-1"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2292,7 +2516,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 영광읍 신남로1길 54-22"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -2309,7 +2535,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 영광읍 함영로 3448"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -2326,7 +2554,9 @@
     "desc": "",
     "address": "전남광주통합특별시 해남군 송지면 땅끝마을길 52"
    }
-  }
+  },
+  "rating": 2.1,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2343,7 +2573,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 중앙5길 5 (중앙동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 114
  },
  {
   "section": "food",
@@ -2360,7 +2592,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장흥군 안양면 수문용곡로 139"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -2377,7 +2611,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 신기길 14"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -2394,7 +2630,9 @@
     "desc": "",
     "address": "전남광주통합특별시 신안군 자은면 자은서부1길 86-12"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2404,14 +2642,16 @@
   "lat": 34.9642817132,
   "lng": 127.5766042051,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e5f26316d1d8f7ee48acbe516fa1d51fada6eddf?original",
   "i18n": {
    "ko": {
     "name": "백도식당",
     "desc": "",
     "address": "전남광주통합특별시 광양시 광양읍 덕례길 68"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -2445,7 +2685,9 @@
     "desc": "",
     "address": "전남광주통합특별시 구례군 산동면 지리산온천로 260-7"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2479,7 +2721,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 상성길 279"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -2496,7 +2740,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 세남로 1330 번영회관"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2506,14 +2752,16 @@
   "lat": 34.8512291649,
   "lng": 127.3359559755,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyMzEwMjBfODQg/MDAxNjk3ODAzNzkwMzYx.YZUhg351hy9dFYwgMCx19yWfCeEqATLFkUaBPXxR28Yg.GpZqnp-15LL0b2I_jX5j9FaURmgjkzZR7MFPrQho1E8g.JPEG.nsmd0604/20231020%EF%BC%BF123138.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "벌교우렁집",
     "desc": "",
     "address": "전남광주통합특별시 보성군 벌교읍 채동선로 367"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -2530,7 +2778,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 법성면 법성포로3길 26-9"
    }
-  }
+  },
+  "rating": 1.7,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -2547,7 +2797,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 법성면 법성포로 7"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -2564,7 +2816,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 마량면 까막섬로 73"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -2581,7 +2835,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 담양읍 중앙로 92-1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2615,7 +2871,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 신재로 1678-67"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -2632,7 +2890,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 병영면 병영성로 73"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -2659,14 +2919,16 @@
   "lat": 34.6732283428,
   "lng": 127.0921706999,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8f20d9976f08ae62687946866f0dd5e54f892869?original",
   "i18n": {
    "ko": {
     "name": "보성 한우직판장",
     "desc": "",
     "address": "전남광주통합특별시 보성군 회천면 우암1길 10"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -2693,14 +2955,16 @@
   "lat": 34.3167670989,
   "lng": 126.5175186318,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/bf12a02ef21552726a5664f8a7620d53e6dcbab5?original",
   "i18n": {
    "ko": {
     "name": "본동기사식당",
     "desc": "",
     "address": "전남광주통합특별시 해남군 송지면 땅끝해안로 1796"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 108
  },
  {
   "section": "food",
@@ -2717,7 +2981,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 이순신광장로 177-1"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2734,7 +3000,9 @@
     "desc": "",
     "address": "전남광주통합특별시 구례군 구례읍 구례2길 30"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -2785,7 +3053,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 고산로 17"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -2819,7 +3089,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 역전길 61"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 155
  },
  {
   "section": "food",
@@ -2836,7 +3108,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 정보화길 50"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2853,7 +3127,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 청해진로 1565-4"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -2870,7 +3146,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 홍농읍 홍농로 487"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -2887,7 +3165,9 @@
     "desc": "",
     "address": "전남광주통합특별시 곡성군 오곡면 대황강로 1589"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2904,7 +3184,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 진도읍 쌍정2길 22"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -2921,7 +3203,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 서양로 79"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -2938,7 +3222,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 황룡면 홍길동로 388-10"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -2955,7 +3241,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 도곡면 화남길 9-38"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -2965,14 +3253,16 @@
   "lat": 34.9701588672,
   "lng": 127.5787344231,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localad_thumb/t/c5af3e392470a96f925b180c6213fe10c93cf633",
   "i18n": {
    "ko": {
     "name": "삼대광양불고기집",
     "desc": "",
     "address": "전남광주통합특별시 광양시 서천1길 52"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 252
  },
  {
   "section": "food",
@@ -2989,7 +3279,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 이순신광장로 200-3"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -3006,7 +3298,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 해변공원로 33"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -3023,7 +3317,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 신월5길 68-1 (신월동)"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -3040,7 +3336,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 해안로57번길 2"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 178
  },
  {
   "section": "food",
@@ -3050,14 +3348,16 @@
   "lat": 35.0096531046,
   "lng": 126.5167687078,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5ddfbe921e5aa2b2893cc40621325e1b2d644f0c?original",
   "i18n": {
    "ko": {
     "name": "선미식당",
     "desc": "",
     "address": "전남광주통합특별시 함평군 엄다길 62"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3125,7 +3425,9 @@
     "desc": "",
     "address": "전남광주통합특별시 구례군 토지면 섬진강대로 4276"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 102
  },
  {
   "section": "food",
@@ -3135,14 +3437,16 @@
   "lat": 34.8094518923,
   "lng": 126.4218597381,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/adcf10f1d574a04cf3cb67d3950d7afca792b072?original",
   "i18n": {
    "ko": {
     "name": "성균관",
     "desc": "",
     "address": "전남광주통합특별시 목포시 비파로 135"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -3159,7 +3463,9 @@
     "desc": "",
     "address": "전남광주통합특별시 해남군 명문길 19-1"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3176,7 +3482,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 수강로4번길 6 (영해동1가)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 106
  },
  {
   "section": "food",
@@ -3186,14 +3494,16 @@
   "lat": 34.5257067162,
   "lng": 127.135764949,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e73b0393c887acebf21634419e2b13a05f2fa086?original",
   "i18n": {
    "ko": {
     "name": "성실산장어숯불구이",
     "desc": "",
     "address": "전남광주통합특별시 고흥군 도양읍 비봉로 177"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -3210,7 +3520,9 @@
     "desc": "",
     "address": "전남광주통합특별시 신안군 지도증도로 1053-11"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3227,7 +3539,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 미항로 81 (상동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -3244,7 +3558,9 @@
     "desc": "",
     "address": "전남광주통합특별시 고흥군 홍교당촌길 7 일반음식점"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -3261,7 +3577,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 객사2길 11-24"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -3278,7 +3596,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 웅남3길 21"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -3295,7 +3615,9 @@
     "desc": "",
     "address": "전남광주통합특별시 곡성군 옥과면 리문4길 5"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -3312,7 +3634,9 @@
     "desc": "",
     "address": "전남광주통합특별시 구례군 마산면 화엄사로 255"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3329,7 +3653,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 창평면 창평현로 476"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -3346,7 +3672,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 송치안길 88"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -3363,7 +3691,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 건재로 193"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -3380,7 +3710,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장흥군 건산로 42"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -3397,7 +3729,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 병영면 병영성로 107-10"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -3407,7 +3741,7 @@
   "lat": 34.798047846,
   "lng": 126.4355254729,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/B87B8F2839114B17AD6B3BEDAF0907F3",
   "i18n": {
    "ko": {
     "name": "수일식",
@@ -3424,7 +3758,7 @@
   "lat": 34.7398179594,
   "lng": 127.7344794251,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDlfMjIg/MDAxNzgzNjAzMzE5NDAx.1HMtTPCPya0b1mQ6sEtIywNeDGxI2RoYkdp7BP9Is4Qg.ZvQ8ZO7VYcb-0bLY22Onx7ZTZoLRwTqZ8fEiIHQ5DkIg.JPEG/IMG%EF%BC%BF7014.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "순심원",
@@ -3448,7 +3782,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 해룡면 정채봉길 30"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -3465,7 +3801,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 순천만길 520"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 124
  },
  {
   "section": "food",
@@ -3475,14 +3813,16 @@
   "lat": 34.8925747225,
   "lng": 127.5095952451,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a6f8910a751883cf2477a54c6f907942a0a04365?original",
   "i18n": {
    "ko": {
     "name": "순천만가든",
     "desc": "",
     "address": "전남광주통합특별시 순천시 순천만길 576"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -3499,7 +3839,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 순천만길 496-1"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -3516,7 +3858,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 역전길 57 (조곡동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 71
  },
  {
   "section": "food",
@@ -3550,7 +3894,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 빛가람동 159-5"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -3567,7 +3913,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 돌담길 102"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -3584,7 +3932,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 성전면 송계로 829"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -3594,14 +3944,16 @@
   "lat": 34.8067385381,
   "lng": 126.435814127,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/E9AE984F2D364B50900CB41F90780676",
   "i18n": {
    "ko": {
     "name": "시골집순두부 목포본점",
     "desc": "",
     "address": "전남광주통합특별시 목포시 복산길6번길 44"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -3618,7 +3970,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 희양현로 30"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -3635,7 +3989,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 매안2길 7"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3669,7 +4025,9 @@
     "desc": "",
     "address": "전남광주통합특별시 고흥군 대신로 122"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -3679,14 +4037,16 @@
   "lat": 34.4805057743,
   "lng": 126.2654036016,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localfiy/7CADAACD5C7E4D1CB54DCA6A1D300E9C",
   "i18n": {
    "ko": {
     "name": "신호등회관",
     "desc": "",
     "address": "전남광주통합특별시 진도군 진도읍 남동1길 66"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 185
  },
  {
   "section": "food",
@@ -3696,14 +4056,16 @@
   "lat": 34.7419734064,
   "lng": 127.7421453664,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/9ee4b8c8003b91fcc736905258a24a55bcc4f527?original",
   "i18n": {
    "ko": {
     "name": "싱글벙글빵집",
     "desc": "",
     "address": "전남광주통합특별시 여수시 관문1길 13-1"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -3713,14 +4075,16 @@
   "lat": 34.680816068,
   "lng": 126.9078533702,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/0ddcbf5ff73e3abf24c4ccf6b7c3b4d8ca18f075?original",
   "i18n": {
    "ko": {
     "name": "싱싱회마을",
     "desc": "",
     "address": "전남광주통합특별시 장흥군 장흥읍 건산로 48"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3737,7 +4101,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 송강정로 212"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 256
  },
  {
   "section": "food",
@@ -3747,14 +4113,16 @@
   "lat": 34.7398485168,
   "lng": 127.7347905082,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5d55461f9121af6f4ab848f2d12858b03d87036a?original",
   "i18n": {
    "ko": {
     "name": "아구할미 서대대감",
     "desc": "",
     "address": "전남광주통합특별시 여수시 교동남2길 5"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -3771,7 +4139,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 도개안길 75"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -3788,7 +4158,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 불태3로 138-59"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -3798,14 +4170,16 @@
   "lat": 35.0528811146,
   "lng": 126.9880676556,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/F3384BE2D9A3431F83C3DADD0875B9E2",
   "i18n": {
    "ko": {
     "name": "약산흑염소가든",
     "desc": "",
     "address": "전남광주통합특별시 화순군 화순읍 상삼2길 13"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -3822,7 +4196,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 황동2길 3-5 (빛가람동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -3839,7 +4215,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 구봉2길 5"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -3866,14 +4244,16 @@
   "lat": 34.9550200348,
   "lng": 127.4834931723,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/3695B68DE82D4953AD6C9448CE68540D",
   "i18n": {
    "ko": {
     "name": "양지쌈밥",
     "desc": "",
     "address": "전남광주통합특별시 순천시 금곡길 8 (행동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -3883,14 +4263,16 @@
   "lat": 34.3237256406,
   "lng": 126.7477093914,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/27628e99c4c4c17360d841cd561c884149f680d3?original",
   "i18n": {
    "ko": {
     "name": "어가일식",
     "desc": "",
     "address": "전남광주통합특별시 완도군 완도읍 해변공원로113번길 6"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -3941,7 +4323,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 진두해안길 68"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -3958,7 +4342,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 무선8길 17 (선원동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -3975,7 +4361,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 학동서1길 12 (학동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 104
  },
  {
   "section": "food",
@@ -3992,7 +4380,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 시청서5길 7"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -4009,7 +4399,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 향일암로 378"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 116
  },
  {
   "section": "food",
@@ -4036,14 +4428,16 @@
   "lat": 35.2119917906,
   "lng": 126.3760401148,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fblogthumb.pstatic.net%2FMjAyMzA4MDZfMTYx%2FMDAxNjkxMzEyODEzOTkw.fJ8LH9kfO7q1swNInQRGUuTD623ZJbEpOTbWjOuAxOgg.VzlbfzjPQo_9DLFfaQZzFOoPpZI0AnOQMj6W1eagGUwg.JPEG.utrs%2F1020977.jpg%3Ftype%3Dw2%22&type=ff500_300",
   "i18n": {
    "ko": {
     "name": "염산골손맛집",
     "desc": "",
     "address": "전남광주통합특별시 영광군 염산면 향화로5길 12"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -4077,7 +4471,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 영광읍 대하길 35"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4094,7 +4490,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 백수읍 천마길 9"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -4128,7 +4526,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 번화로 42-1"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 191
  },
  {
   "section": "food",
@@ -4138,14 +4538,16 @@
   "lat": 34.9751107476,
   "lng": 127.7190969808,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/BD49640B3DE6486E8EAB27A30FC58B9E",
   "i18n": {
    "ko": {
     "name": "영일관",
     "desc": "",
     "address": "전남광주통합특별시 광양시 옥곡면 신금산단5길 76"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -4172,14 +4574,16 @@
   "lat": 35.243157115,
   "lng": 127.4881326082,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7556bd50f1010309980303dfe9b627581f631171?original",
   "i18n": {
    "ko": {
     "name": "예원",
     "desc": "",
     "address": "전남광주통합특별시 구례군 마산면 화엄사로 381"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -4206,14 +4610,16 @@
   "lat": 35.0300290981,
   "lng": 126.714772917,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f00f2431440456140aaa8e118e76fabd1acadcad?original",
   "i18n": {
    "ko": {
     "name": "예향한정식",
     "desc": "",
     "address": "전남광주통합특별시 나주시 나주천1길 79"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -4230,7 +4636,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 통제영3길 6"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -4247,7 +4655,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 시장길 33 재명상사"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -4281,7 +4691,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장흥군 우드랜드길 84"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -4298,7 +4710,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 죽향대로 1302-1"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -4308,14 +4722,16 @@
   "lat": 34.7394487401,
   "lng": 127.7450896172,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/80bff0facff15f9f610a91fe23c8f4b8ef802abe?original",
   "i18n": {
    "ko": {
     "name": "오성회관",
     "desc": "",
     "address": "전남광주통합특별시 여수시 이순신광장로 206"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -4349,7 +4765,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 안양산로 72"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -4366,7 +4784,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 가사문학로 1149"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -4383,7 +4803,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 대전면 추성1로 425-9"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -4400,7 +4822,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 연산길 89-11"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -4417,7 +4841,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 구대해길 65-7"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -4451,7 +4877,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 왕곡면 나주서부로 389"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -4485,7 +4913,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 보은로3길 45"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -4519,7 +4949,9 @@
     "desc": "",
     "address": "전남광주통합특별시 해남군 해남읍 행운길 7"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -4536,7 +4968,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 의신면 초평길 64"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -4553,7 +4987,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 남평읍 남평2로 50-12"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -4570,7 +5006,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 도암중앙로 81"
    }
-  }
+  },
+  "rating": 1.6,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -4580,7 +5018,7 @@
   "lat": 34.7537659675,
   "lng": 127.7096701296,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://blog.kakaocdn.net/dn/zBkbp/btsEQS3fmiD/YtHqaNjzgcfzCbxRhN5Vp0/img.jpg",
   "i18n": {
    "ko": {
     "name": "우사골설렁탕",
@@ -4604,7 +5042,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 신흥로69번길 18-1"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -4621,7 +5061,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 금곡길 11 (행동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -4638,7 +5080,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 영산로75번길 20-2 (대안동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -4655,7 +5099,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 해안로173번길 28"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -4665,14 +5111,16 @@
   "lat": 35.3006307773,
   "lng": 126.9799093652,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/314bc70d050e1589698741a133f11b732025ea61?original",
   "i18n": {
    "ko": {
     "name": "원조제일숯불갈비",
     "desc": "",
     "address": "전남광주통합특별시 담양군 담양읍 마두길 4"
    }
-  }
+  },
+  "rating": 1.6,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -4689,7 +5137,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 사동길 14-25"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -4723,7 +5173,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 강변1길 36"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -4733,7 +5185,7 @@
   "lat": 34.8080150213,
   "lng": 126.3655980772,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/3384284B763D444DA2AA52FF21F5DF24",
   "i18n": {
    "ko": {
     "name": "유성횟집",
@@ -4750,14 +5202,16 @@
   "lat": 34.8235407784,
   "lng": 127.345964126,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b858fab5b09fb2da3e81794b015bd803e8c38ce0?original",
   "i18n": {
    "ko": {
     "name": "유자골고흥한우프라자",
     "desc": "",
     "address": "전남광주통합특별시 고흥군 동강면 고흥로 4797"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -4791,7 +5245,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 지강로 514-6 진해가든"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -4808,7 +5264,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 재신길 24"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -4842,7 +5300,9 @@
     "desc": "",
     "address": "전남광주통합특별시 보성군 남부관광로 2272"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -4859,7 +5319,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 길호4길 10"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -4876,7 +5338,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 계동해안길 39-5"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -4903,14 +5367,16 @@
   "lat": 35.001106213,
   "lng": 126.1396801044,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/20889ae4d25cc7f1a1cda267d56aba4fed352719?original",
   "i18n": {
    "ko": {
     "name": "이학식당",
     "desc": "",
     "address": "전남광주통합특별시 신안군 증도면 증도중앙길 39"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -4927,7 +5393,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 문수5길 46"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -4944,7 +5412,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 진도읍 남동1길 55"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -4961,7 +5431,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 상야1길 20"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -4978,7 +5450,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 일로읍 삼일로 613"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -4995,7 +5469,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 시장길 17-12 일로장터백반"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -5012,7 +5488,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 어항단지로 21"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -5029,7 +5507,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 대석1길 27 해정"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -5046,7 +5526,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 쌍정2길 15-7"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -5063,7 +5545,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 임회면 헌복동길 14"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -5080,7 +5564,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 광양읍 서평1길 25"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5090,14 +5576,16 @@
   "lat": 35.4246559198,
   "lng": 126.9969824802,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/be9bb400bc5bf29f1bf1fb83d809f56c56f0da3f?original",
   "i18n": {
    "ko": {
     "name": "장미가든",
     "desc": "",
     "address": "전남광주통합특별시 담양군 용면 추월산로 1284"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -5148,7 +5636,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 광양읍 매천로 821-5"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -5165,7 +5655,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 삼향읍 남악5로52번길 8"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -5175,14 +5667,16 @@
   "lat": 34.3179429619,
   "lng": 126.7481872654,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNDA0MDZfNzAg/MDAxNzEyNDA5OTkyMTYw.n4FyYu6MqMg1ty8pqwRPEa8SsiXTux-JL4pYRnwVL7Qg.yjHksh1upzbBjda4_r5rMskrHePBkzhsRJYZVDI8N84g.JPEG/20240329%EF%BC%BF193231.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "전사마",
     "desc": "",
     "address": "전남광주통합특별시 완도군 완도읍 장보고대로 197"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -5209,14 +5703,16 @@
   "lat": 35.2080358053,
   "lng": 126.9867944279,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b5486e9065788cdc365e07c6b684619321dcc4be?original",
   "i18n": {
    "ko": {
     "name": "전통식당",
     "desc": "",
     "address": "전남광주통합특별시 담양군 고서면 고읍현길 38-4"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -5226,14 +5722,16 @@
   "lat": 34.8480852255,
   "lng": 127.3448441624,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/df5cfe3df41ae0475ea1d9871008250b041cea3d?original",
   "i18n": {
    "ko": {
     "name": "정가네원조꼬막회관",
     "desc": "",
     "address": "전남광주통합특별시 보성군 벌교읍 조정래길 55"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -5250,7 +5748,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장흥군 장흥읍 토요시장2길 2"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -5267,7 +5767,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 마상포길 12"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 263
  },
  {
   "section": "food",
@@ -5301,7 +5803,9 @@
     "desc": "",
     "address": "전남광주통합특별시 무안군 망운면 망운로 13"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -5335,7 +5839,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 해안로 115"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 158
  },
  {
   "section": "food",
@@ -5352,7 +5858,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영암군 세가래2길 26-17"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -5362,14 +5870,16 @@
   "lat": 35.0872876275,
   "lng": 126.4470952006,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4589f537fabff9cd4b11e2ae37e2d85ed6f1c6f0?original",
   "i18n": {
    "ko": {
     "name": "주포수산 민물장어구이",
     "desc": "",
     "address": "전남광주통합특별시 함평군 함평읍 주포로 563"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -5403,7 +5913,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 월산면 가산길 358"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -5420,7 +5932,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 객사3길 15"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -5437,7 +5951,9 @@
     "desc": "",
     "address": "전남광주통합특별시 신안군 증도중앙길 40-7"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -5454,7 +5970,9 @@
     "desc": "",
     "address": "전남광주통합특별시 구례군 구례읍 의료원길 37"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -5471,7 +5989,9 @@
     "desc": "",
     "address": "전남광주통합특별시 구례군 마산면 화엄사로 336"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -5481,14 +6001,16 @@
   "lat": 35.243157115,
   "lng": 127.4881326082,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MTRfMTAw/MDAxNzgxNDM1NzQwMTIx.3zoQyB_IURkIy5PCpxQdNqJ2TcLaQ_xdiTwpEizArgEg.3Fle0eMrPRKiU43klQuL8GB9h4UzfXiDbLo1a3UFBJog.JPEG/IMG%EF%BC%BF2362.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "지리산식당",
     "desc": "",
     "address": "전남광주통합특별시 구례군 마산면 화엄사로 381"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -5505,7 +6027,9 @@
     "desc": "",
     "address": "전남광주통합특별시 진도군 진도읍 쌍정1길 8-6"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -5522,7 +6046,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 황동2길 4-15"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -5539,7 +6065,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 돌산로 3112"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -5556,7 +6084,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광양시 옥룡면 신재로 337"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -5573,7 +6103,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 사동길 12-12"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 145
  },
  {
   "section": "food",
@@ -5590,7 +6122,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 창평면 의병로 31"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -5600,14 +6134,16 @@
   "lat": 34.5706122138,
   "lng": 126.5993165084,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/cfile/1241FC3F4F7123B627",
   "i18n": {
    "ko": {
     "name": "천일식당",
     "desc": "",
     "address": "전남광주통합특별시 해남군 해남읍 읍내길 20-8"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 146
  },
  {
   "section": "food",
@@ -5624,7 +6160,9 @@
     "desc": "",
     "address": "전남광주통합특별시 곡성군 청계동로 409"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -5641,7 +6179,9 @@
     "desc": "",
     "address": "전남광주통합특별시 보성군 사동길 52-11"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -5651,7 +6191,7 @@
   "lat": 34.6472761022,
   "lng": 126.7838817553,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/9684461672D342D4AF0F80EEEEF6B180",
   "i18n": {
    "ko": {
     "name": "청자골종가집",
@@ -5675,7 +6215,9 @@
     "desc": "",
     "address": "전남광주통합특별시 강진군 칠량면 칠량로 76-1"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -5692,7 +6234,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 황룡면 구석길 53-2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -5709,7 +6253,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 담양읍 무정로 48"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -5726,7 +6272,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 봉산남4길 23-32"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 589
  },
  {
   "section": "food",
@@ -5743,7 +6291,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 상성길 103"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -5777,7 +6327,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 낙안면 삼일로 63"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 108
  },
  {
   "section": "food",
@@ -5794,7 +6346,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 군내3번길 23-5"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -5811,7 +6365,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 객사2길 14"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -5828,7 +6384,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 무술목길 142-1"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 119
  },
  {
   "section": "food",
@@ -5845,7 +6403,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 고소3길 70"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -5862,7 +6422,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 송산2길 22-102"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -5879,7 +6441,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 고소5길 16 (고소동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -5913,7 +6477,9 @@
     "desc": "",
     "address": "전남광주통합특별시 완도군 해변공원로 59"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -5930,7 +6496,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 해양대학로 77"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -5940,14 +6508,16 @@
   "lat": 35.3304605325,
   "lng": 126.9679152267,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/D71FCABF8CF743CAA5874D65AA1E8CE5",
   "i18n": {
    "ko": {
     "name": "카페밀크레페",
     "desc": "",
     "address": "전남광주통합특별시 담양군 월산면 담장로 67"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5964,7 +6534,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 연양1길 28"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -5981,7 +6553,9 @@
     "desc": "",
     "address": "전남광주통합특별시 순천시 해룡면 와온길 107"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -5998,7 +6572,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 덕천길 37"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -6015,7 +6591,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산읍 무술목길 114"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -6049,7 +6627,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 영산로 98 (호남동)"
    }
-  }
+  },
+  "rating": 1.1,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -6066,7 +6646,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 평화로 51 (상동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 285
  },
  {
   "section": "food",
@@ -6076,14 +6658,16 @@
   "lat": 34.7393947803,
   "lng": 127.676440067,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localfiy/076C9107D2114099A222D2C6DA713FA8",
   "i18n": {
    "ko": {
     "name": "코다리하우스",
     "desc": "",
     "address": "전남광주통합특별시 여수시 웅천남6로 21"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -6100,7 +6684,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 영산로75번길 7 (무안동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 336
  },
  {
   "section": "food",
@@ -6117,7 +6703,9 @@
     "desc": "",
     "address": "전남광주통합특별시 함평군 함평읍 함평천우길 52"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 103
  },
  {
   "section": "food",
@@ -6134,7 +6722,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 마인계터로40번길 10-1"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 240
  },
  {
   "section": "food",
@@ -6144,14 +6734,16 @@
   "lat": 34.8479796796,
   "lng": 127.3447330644,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d9ed69cc67f9cf74ec558f893ec6ee0106f25531?original",
   "i18n": {
    "ko": {
     "name": "태백산맥 꼬막맛집",
     "desc": "",
     "address": "전남광주통합특별시 보성군 벌교읍 벌교천2길 58-1"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -6168,7 +6760,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 소호로 253-1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -6178,14 +6772,16 @@
   "lat": 34.7411428252,
   "lng": 127.7352932089,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ba29ffe09f72fc10c074a2091e8a572ee224c55c?original",
   "i18n": {
    "ko": {
     "name": "통만두집",
     "desc": "",
     "address": "전남광주통합특별시 여수시 통제영4길 12 (중앙동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -6202,7 +6798,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 망마로 25"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -6236,7 +6834,9 @@
     "desc": "",
     "address": "전남광주통합특별시 고흥군 과역로 951"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -6253,7 +6853,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 신기중앙길 2"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -6263,14 +6865,16 @@
   "lat": 35.0559472067,
   "lng": 126.9745159969,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8fa02b6be5815ddcbebcc4295cba09c79afeb12b?original",
   "i18n": {
    "ko": {
     "name": "포테이블",
     "desc": "",
     "address": "전남광주통합특별시 화순군 화순읍 한고을길 8-1"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -6304,7 +6908,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 법성면 법성포로3길 60"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -6321,7 +6927,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영암군 금정면 여운재로 996"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -6338,7 +6946,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 돌산로 3292-6"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -6355,7 +6965,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 구석길 71"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -6382,14 +6994,16 @@
   "lat": 34.754353843,
   "lng": 127.6548637982,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA0MjBfMzcg/MDAxNzc2NjY0MzI4Njk1.M6o1X-WG8mXA5IyXw9i5yXB4XVhb6WwZ_rBgIlhFCa4g.YeyN7i3HvlJTqSYbO29XvL_fxk1SE4KrBZtGbSN3b00g.JPEG/IMG%EF%BC%BF1545.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "하얀집 낙지전문점",
     "desc": "",
     "address": "전남광주통합특별시 여수시 장성1길 19"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -6423,7 +7037,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영광군 백수읍 천마길 10"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -6433,14 +7049,16 @@
   "lat": 35.2854337184,
   "lng": 126.8882623079,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/473e5cabe7b4f34ac018bdfdcac102d322034bc1?original",
   "i18n": {
    "ko": {
     "name": "한재골하얀집",
     "desc": "",
     "address": "전남광주통합특별시 담양군 대전면 방축동길 4"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -6457,7 +7075,9 @@
     "desc": "",
     "address": "전남광주통합특별시 해남군 읍내길 8 피낭시에"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 115
  },
  {
   "section": "food",
@@ -6491,7 +7111,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 석전2길 20"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -6508,7 +7130,9 @@
     "desc": "",
     "address": "전남광주통합특별시 목포시 미항로 83 (상동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 180
  },
  {
   "section": "food",
@@ -6525,7 +7149,9 @@
     "desc": "",
     "address": "전남광주통합특별시 보성군 장좌월곡길 166-27"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -6535,14 +7161,16 @@
   "lat": 34.7432202909,
   "lng": 127.7307130011,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/64affef186bbd9cddcaa8b1fb20fa8edd6a06090?original",
   "i18n": {
    "ko": {
     "name": "해촌산장어숯불구이",
     "desc": "",
     "address": "전남광주통합특별시 여수시 충무로 76"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -6559,7 +7187,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 신기남4길 26"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -6576,7 +7206,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 지침6길 78-9"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -6593,7 +7225,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 봉산남3길 13 (봉산동, 연립주택)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -6610,7 +7244,9 @@
     "desc": "",
     "address": "전남광주통합특별시 함평군 함평읍 시장길 96"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 98
  },
  {
   "section": "food",
@@ -6627,7 +7263,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 부처샘길 1-7"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -6644,7 +7282,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 유천길 48-13"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -6661,7 +7301,9 @@
     "desc": "",
     "address": "전남광주통합특별시 담양군 천변5길 54-4"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -6678,7 +7320,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 황룡면 강변로 521-1"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -6695,7 +7339,9 @@
     "desc": "",
     "address": "전남광주통합특별시 화순군 능주면 학포로 1877"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -6712,7 +7358,9 @@
     "desc": "",
     "address": "전남광주통합특별시 나주시 문화로 216"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -6729,7 +7377,9 @@
     "desc": "",
     "address": "전남광주통합특별시 영암군 삼호읍 용당로 34"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -6756,14 +7406,16 @@
   "lat": 34.6765914632,
   "lng": 126.9031372221,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8f087317b3274ecfa35137c0547a9e1e802ce34b?original",
   "i18n": {
    "ko": {
     "name": "3대곰탕",
     "desc": "",
     "address": "전남광주통합특별시 장흥군 장흥읍 토요시장3길 16-2"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -6814,7 +7466,9 @@
     "desc": "",
     "address": "전남광주통합특별시 장성군 영장로 1800"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -6831,7 +7485,9 @@
     "desc": "",
     "address": "전남광주통합특별시 여수시 망양로 201"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 48
  },
  {
   "section": "food",

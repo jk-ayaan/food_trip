@@ -14,7 +14,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 눌재로 434"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 상무대로 1094"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -48,7 +52,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 천변좌로 14"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -65,7 +71,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 무등로306번길 6-1"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -82,7 +90,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 임방울대로 503"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -99,7 +109,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 천변우하로 373"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -109,14 +121,16 @@
   "lat": 35.1546367535,
   "lng": 126.8505022648,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/F294E3D2EBD04F6886CD3875171C5A96",
   "i18n": {
    "ko": {
     "name": "금다연한정식",
     "desc": "",
     "address": "전남광주통합특별시 서구 상무연하로 72"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -143,14 +157,16 @@
   "lat": 35.1982483544,
   "lng": 126.8423102316,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/review_placeapp/btqgXb6RKwv_F0NvWqyWUcBry7j6dY48Tk_img.jpg",
   "i18n": {
    "ko": {
     "name": "금수저은수저",
     "desc": "",
     "address": "전남광주통합특별시 광산구 신창로166번길 24"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -167,7 +183,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 회재로 841"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -184,7 +202,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 회재로1186번길 11-1 (주월동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -201,7 +221,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 시청서편로8번길 3"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -218,7 +240,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 지호로 137-7"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -245,14 +269,16 @@
   "lat": 35.125132749,
   "lng": 126.9096088878,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/988588721bb235146a99d782438929482c528ba8?original",
   "i18n": {
    "ko": {
     "name": "남해가든",
     "desc": "",
     "address": "전남광주통합특별시 남구 봉선로133번길 23"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -269,7 +295,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 군분로 228 (농성동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -286,7 +314,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 마륵복개로 57"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -337,7 +367,9 @@
     "desc": "",
     "address": "전남광주통합특별시 북구 서방로107번길 88"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -388,7 +420,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 상무대로 718"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -405,7 +439,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 제중로 42 (양림동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -422,7 +458,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 남문로 614"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -439,7 +477,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 봉선중길 2, 1층"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -456,7 +496,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 전평길 66"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -490,7 +532,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 백서로 69"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -524,7 +568,9 @@
     "desc": "",
     "address": "전남광주통합특별시 북구 대천로 143"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -541,7 +587,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 내방로161번길 4 1층"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -558,7 +606,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 신창로138번길 31-5"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -568,14 +618,16 @@
   "lat": 35.161706816,
   "lng": 126.9343613395,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a9f91882aaa8ebacbeef15281e2e24a138a09e5f?original",
   "i18n": {
    "ko": {
     "name": "밤실마을",
     "desc": "",
     "address": "전남광주통합특별시 북구 밤실로 163-9"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 123
  },
  {
   "section": "food",
@@ -592,7 +644,9 @@
     "desc": "",
     "address": "전남광주통합특별시 북구 연양로67번길 5"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -609,7 +663,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 삼도로 748"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -626,7 +682,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 풍암순환로 150 (풍암동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -643,7 +701,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 군분로 73"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -660,7 +720,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 비아동원촌길 71"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -677,7 +739,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 지호로124번길 32"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -694,7 +758,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 동계로 11"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 314
  },
  {
   "section": "food",
@@ -745,7 +811,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 상무자유로 32"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -762,7 +830,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 임방울대로 611-25"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -796,7 +866,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 광산로19번길 20"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -806,14 +878,16 @@
   "lat": 35.1389542543,
   "lng": 126.7948298032,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/931d9de43bec047a557eaa17490f5485e00966ad?original",
   "i18n": {
    "ko": {
     "name": "송정떡갈비 1호점",
     "desc": "",
     "address": "전남광주통합특별시 광산구 광산로29번길 1"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 195
  },
  {
   "section": "food",
@@ -823,14 +897,16 @@
   "lat": 35.1559754455,
   "lng": 126.8477969146,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/765608242298649279c8f15afcd80cbeb8b1010d2c129dbe69b9b416775282e5",
   "i18n": {
    "ko": {
     "name": "송학한정식",
     "desc": "",
     "address": "전남광주통합특별시 서구 상무중앙로 101"
    }
-  }
+  },
+  "rating": 1.8,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -847,7 +923,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 임방울대로 347"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -864,7 +942,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 풍영로 95"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -874,14 +954,16 @@
   "lat": 35.147973661,
   "lng": 126.8531022016,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ef1cd50e9647a2eaaca9048a32d393131eef26e3?original",
   "i18n": {
    "ko": {
     "name": "연화식당",
     "desc": "",
     "address": "전남광주통합특별시 서구 마륵복개로 147 (치평동, 아트빌)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -915,7 +997,9 @@
     "desc": "",
     "address": "전남광주통합특별시 북구 밤실로 178"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -932,7 +1016,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 개산길 13-11"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -949,7 +1035,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 무진대로 937"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 138
  },
  {
   "section": "food",
@@ -966,7 +1054,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 문화전당로 43 3층"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -1017,7 +1107,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 구성로 174"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1027,14 +1119,16 @@
   "lat": 35.096474833,
   "lng": 126.9073209181,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MDFfOTYg/MDAxNzgyOTA5OTc1NTAz.6Lw8NCSWkRSdJZQzW9uxIm5jxC8MvgAwRlZyDdXAuCIg.0IukHK-p6AzMFoZ9fwrzc6WPfAcWoZcpGJ7dkwFCprog.JPEG/123A5454_%EB%B3%B5%EC%82%AC.jpg?type=w966",
   "i18n": {
    "ko": {
     "name": "조선옥",
     "desc": "",
     "address": "전남광주통합특별시 남구 효덕로 105"
    }
-  }
+  },
+  "rating": 1.6,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1051,7 +1145,9 @@
     "desc": "",
     "address": "전남광주통합특별시 북구 저불로31번길 4-1"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -1061,14 +1157,16 @@
   "lat": 35.1501428555,
   "lng": 126.8527799537,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/540dddb762edda433fa02df0078161a49ce0bb06?original",
   "i18n": {
    "ko": {
     "name": "종가집 설렁탕",
     "desc": "",
     "address": "전남광주통합특별시 서구 시청로20번길 10"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -1085,7 +1183,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 서문대로556번길 27"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1102,7 +1202,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 충장로안길 26"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -1119,7 +1221,9 @@
     "desc": "",
     "address": "전남광주통합특별시 북구 일곡택지로99번길 33"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1136,7 +1240,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 동계천로 167-7"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1153,7 +1259,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 풍금로 67"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -1170,7 +1278,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 마륵로 27"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -1187,7 +1297,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 수완로74번길 30-6"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 92
  },
  {
   "section": "food",
@@ -1204,7 +1316,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 풍암1로21번길 3-16 1층"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -1238,7 +1352,9 @@
     "desc": "",
     "address": "전남광주통합특별시 서구 상무누리로 15"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1248,14 +1364,16 @@
   "lat": 35.1849080549,
   "lng": 126.8339696374,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/16636479d5823b22e2f12fafdc5adc43b259c0be?original",
   "i18n": {
    "ko": {
     "name": "칠봉이짬뽕",
     "desc": "",
     "address": "전남광주통합특별시 광산구 목련로394번길 23-26"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -1272,7 +1390,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 송도로85번길 22"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1306,7 +1426,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 동산길 42"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -1350,14 +1472,16 @@
   "lat": 35.1499943952,
   "lng": 126.9429636505,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MjNfMjE3/MDAxNzgyMjIzMjk1MTI4.xLiMJm7j3jfaxo2cfRHqG5iiYhvJAEKyVFvo09D9ZtMg.QY6p55TEIbeJOStZeOVNmF0B3iD0iEovmM18Z4fzBngg.JPEG/SE-47E788EF-80DF-4CD0-B2B2-B6523FD7A0DF.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "팔도강산",
     "desc": "",
     "address": "전남광주통합특별시 동구 지호로127번길 9 (지산동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1391,7 +1515,9 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 서석로7번길 6-44"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -1418,14 +1544,16 @@
   "lat": 35.152014966,
   "lng": 126.8587349354,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/5FC45A30DA724A1FA5187BDCACE58C87",
   "i18n": {
    "ko": {
     "name": "하지메",
     "desc": "",
     "address": "전남광주통합특별시 서구 상무민주로 16"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1442,7 +1570,9 @@
     "desc": "",
     "address": "전남광주통합특별시 남구 백운로 67-2"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -1459,7 +1589,9 @@
     "desc": "",
     "address": "전남광주통합특별시 광산구 풍영로229번길 53"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1476,6 +1608,8 @@
     "desc": "",
     "address": "전남광주통합특별시 동구 중앙로160번길 16-10"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 81
  }
 ]

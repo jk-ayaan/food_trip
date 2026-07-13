@@ -14,7 +14,9 @@
     "desc": "",
     "address": "대전광역시 유성구 신성로84번길 49"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -65,7 +67,9 @@
     "desc": "",
     "address": "대전광역시 유성구 온천서로 8-13 (봉명동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -82,7 +86,9 @@
     "desc": "",
     "address": "대전광역시 서구 월평동로 5-11 (갈마동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 90
  },
  {
   "section": "food",
@@ -99,7 +105,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 대청호수로 1553"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -116,7 +124,9 @@
     "desc": "",
     "address": "대전광역시 유성구 현충원로 173"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 103
  },
  {
   "section": "food",
@@ -133,7 +143,9 @@
     "desc": "",
     "address": "대전광역시 동구 대전로779번길 41-1 (원동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 95
  },
  {
   "section": "food",
@@ -143,14 +155,16 @@
   "lat": 36.344767128,
   "lng": 127.4331638761,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8d8289010af2eaa38708056f96823c2fd8155aac?original",
   "i18n": {
    "ko": {
     "name": "경동오징어국수",
     "desc": "",
     "address": "대전광역시 동구 계족로 369"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -167,7 +181,9 @@
     "desc": "",
     "address": "대전광역시 유성구 문화원로 90 (봉명동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -184,7 +200,9 @@
     "desc": "",
     "address": "대전광역시 유성구 진잠로92번길 33"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -218,7 +236,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관들2길 8-3"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -235,7 +255,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관평1로 62 (관평동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -252,7 +274,9 @@
     "desc": "",
     "address": "대전광역시 서구 구봉산북로21번길 11 (관저동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -269,7 +293,9 @@
     "desc": "",
     "address": "대전광역시 중구 대종로505번길 29"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 493
  },
  {
   "section": "food",
@@ -286,7 +312,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 비래서로81번길 2 (비래동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -303,7 +331,9 @@
     "desc": "",
     "address": "대전광역시 유성구 온천동로65번길 35 (봉명동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -337,7 +367,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대덕대로 1091-25 (송강동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -354,7 +386,9 @@
     "desc": "",
     "address": "대전광역시 서구 만년로68번길 21"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -371,7 +405,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥남로42번길 19-35 (원신흥동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -388,7 +424,9 @@
     "desc": "",
     "address": "대전광역시 유성구 어은로52번길 1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -405,7 +443,9 @@
     "desc": "",
     "address": "대전광역시 유성구 전민로6번길 43 (전민동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -422,7 +462,9 @@
     "desc": "",
     "address": "대전광역시 유성구 지족동로 146 (지족동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 145
  },
  {
   "section": "food",
@@ -439,7 +481,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관평1로 52 (관평동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -456,7 +500,9 @@
     "desc": "",
     "address": "대전광역시 유성구 문화원로 51 (궁동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -473,7 +519,9 @@
     "desc": "",
     "address": "대전광역시 서구 둔산로 68 (둔산동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -490,7 +538,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대덕대로 544"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -507,7 +557,9 @@
     "desc": "",
     "address": "대전광역시 중구 충무로 138"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 218
  },
  {
   "section": "food",
@@ -524,7 +576,9 @@
     "desc": "",
     "address": "대전광역시 유성구 농대로 15 (궁동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 103
  },
  {
   "section": "food",
@@ -541,7 +595,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계백로421번길 29 (방동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -575,7 +631,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계룡로105번길 15 (봉명동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -592,7 +650,9 @@
     "desc": "",
     "address": "대전광역시 서구 만년남로3번길 16-8 (만년동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -609,7 +669,9 @@
     "desc": "",
     "address": "대전광역시 서구 대덕대로 370 (만년동)"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -626,7 +688,9 @@
     "desc": "",
     "address": "대전광역시 유성구 진잠로140번길 67"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -643,7 +707,9 @@
     "desc": "",
     "address": "대전광역시 서구 도산로 141"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -660,7 +726,9 @@
     "desc": "",
     "address": "대전광역시 유성구 한밭대로492번길 20 (봉명동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 128
  },
  {
   "section": "food",
@@ -694,7 +762,9 @@
     "desc": "",
     "address": "대전광역시 중구 대전천서로 419-8 (대흥동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 95
  },
  {
   "section": "food",
@@ -711,7 +781,9 @@
     "desc": "",
     "address": "대전광역시 동구 옥천로176번길 8"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -738,14 +810,16 @@
   "lat": 36.3538440138,
   "lng": 127.4413851165,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/64b3e59ec254c97be2b6dd6bf81ffbbfafa970e6?original",
   "i18n": {
    "ko": {
     "name": "대청마루 옥순네 추어칼국수",
     "desc": "",
     "address": "대전광역시 대덕구 송촌남로 21-1"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -796,7 +870,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥로40번길 81 (원신흥동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -813,7 +889,9 @@
     "desc": "",
     "address": "대전광역시 유성구 동서대로 181 (덕명동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -847,7 +925,9 @@
     "desc": "",
     "address": "대전광역시 유성구 문화원로14번길 36 (장대동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 76
  },
  {
   "section": "food",
@@ -864,7 +944,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥남로11번길 32-6 (원신흥동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -881,7 +963,9 @@
     "desc": "",
     "address": "대전광역시 동구 옥천로 136-11"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -915,7 +999,9 @@
     "desc": "",
     "address": "대전광역시 유성구 노은동로75번길 12"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -932,7 +1018,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 대청로 234"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -949,7 +1037,9 @@
     "desc": "",
     "address": "대전광역시 유성구 현충원로347번길 37-10 (구암동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -966,7 +1056,9 @@
     "desc": "",
     "address": "대전광역시 서구 신갈마로 57 (갈마동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -983,7 +1075,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관들4길 31 (관평동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1000,7 +1094,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계룡로113번길 75 (봉명동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -1017,7 +1113,9 @@
     "desc": "",
     "address": "대전광역시 유성구 엑스포로539번길 270 (탑립동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1034,7 +1132,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계룡로141번길 1"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1051,7 +1151,9 @@
     "desc": "",
     "address": "대전광역시 동구 회남로275번길 161 (신하동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1085,7 +1187,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥남로41번길 66 (원신흥동)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -1102,7 +1206,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 대덕대로1585번길 16 (석봉동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1119,7 +1225,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관용로31번길 33 (관평동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1153,7 +1261,9 @@
     "desc": "",
     "address": "대전광역시 유성구 은구비로155번안길 28 (죽동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -1187,7 +1297,9 @@
     "desc": "",
     "address": "대전광역시 유성구 테크노중앙로 155"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -1204,7 +1316,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대학로155번길 29 (궁동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -1238,7 +1352,9 @@
     "desc": "",
     "address": "대전광역시 유성구 온천북로 49 (봉명동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -1272,7 +1388,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대학로155번길 38"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -1289,7 +1407,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 계족로664번길 113 (법동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -1306,7 +1426,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥남로41번길 29 (원신흥동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -1323,7 +1445,9 @@
     "desc": "",
     "address": "대전광역시 유성구 지족북로 74 (지족동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -1340,7 +1464,9 @@
     "desc": "",
     "address": "대전광역시 동구 태전로 56-20"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -1357,7 +1483,9 @@
     "desc": "",
     "address": "대전광역시 유성구 신성로61번안길 20"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1374,7 +1502,9 @@
     "desc": "",
     "address": "대전광역시 중구 보문산로 331 (문화동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -1391,7 +1521,9 @@
     "desc": "",
     "address": "대전광역시 중구 대둔산로 377"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -1408,7 +1540,9 @@
     "desc": "",
     "address": "대전광역시 서구 원도안로257번길 48 (도안동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -1442,7 +1576,9 @@
     "desc": "",
     "address": "대전광역시 서구 계룡로553번안길 65 (탄방동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 149
  },
  {
   "section": "food",
@@ -1459,7 +1595,9 @@
     "desc": "",
     "address": "대전광역시 유성구 유성대로1184번길 11-16 (신성동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -1493,7 +1631,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥남로42번길 19-27 (원신흥동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -1510,7 +1650,9 @@
     "desc": "",
     "address": "대전광역시 유성구 반석로12번안길 56"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -1527,7 +1669,9 @@
     "desc": "",
     "address": "대전광역시 중구 보문산공원로 484"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 147
  },
  {
   "section": "food",
@@ -1537,14 +1681,16 @@
   "lat": 36.2878352913,
   "lng": 127.3070155845,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8ac6825a3c948a8b8acadc0aa6ff73264e95ef5d?original",
   "i18n": {
    "ko": {
     "name": "방동가든",
     "desc": "",
     "address": "대전광역시 유성구 성북로 58 방동가든"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -1561,7 +1707,9 @@
     "desc": "",
     "address": "대전광역시 서구 변동중로 67"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -1578,7 +1726,9 @@
     "desc": "",
     "address": "대전광역시 동구 산서로1615번길 87 (대별동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -1595,7 +1745,9 @@
     "desc": "",
     "address": "대전광역시 서구 만년로 70 (만년동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 217
  },
  {
   "section": "food",
@@ -1612,7 +1764,9 @@
     "desc": "",
     "address": "대전광역시 동구 산서로1659번길 29 (대별동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1629,7 +1783,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계룡로 15-3 (구암동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -1639,14 +1795,16 @@
   "lat": 36.3171469273,
   "lng": 127.3690897982,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTAyMjZfNzkg/MDAxNzQwNTc2OTgxMDcx.5EgYWiNN7P9UQZnW6XSPCa9txDuqIoANRP-M4xvd6Nog.F1edvSnaRxPzggPgZzff4ClndDo8YE_M5pC3U0F2UTEg.JPEG/IMG_1689.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "부부식당",
     "desc": "",
     "address": "대전광역시 서구 배재로91번길 38-3"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -1663,7 +1821,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 신탄진로804번길 31"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -1697,7 +1857,9 @@
     "desc": "",
     "address": "대전광역시 유성구 봉명서로 11-10 (봉명동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -1714,7 +1876,9 @@
     "desc": "",
     "address": "대전광역시 유성구 신성로84번길 41"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1731,7 +1895,9 @@
     "desc": "",
     "address": "대전광역시 서구 둔산로31번길 77 (둔산동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 124
  },
  {
   "section": "food",
@@ -1748,7 +1914,9 @@
     "desc": "",
     "address": "대전광역시 동구 산내로 457 (하소동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -1765,7 +1933,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관용로 33 (관평동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -1782,7 +1952,9 @@
     "desc": "",
     "address": "대전광역시 동구 대전로825번길 13 (정동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -1799,7 +1971,9 @@
     "desc": "",
     "address": "대전광역시 유성구 어은로52번길 5 (어은동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -1816,7 +1990,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 대청호수로 1875 (삼정동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -1826,14 +2002,16 @@
   "lat": 36.4243350675,
   "lng": 127.3919515091,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA3MTBfNDYg/MDAxNzgzNjcxOTY0ODI2.rG-8iI24yY-g-GX89OLa-iQd4fqa23KAuMXKFGt0ODsg.x5aT5iuiFCBEf5f5rEE9M8Yx_Y2jrQmZ3Nj9g1Xpdz0g.JPEG/IMG_6132.JPG?type=w386",
   "i18n": {
    "ko": {
     "name": "상하이양꼬치",
     "desc": "",
     "address": "대전광역시 유성구 관들2길 72-9 (관평동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -1850,7 +2028,9 @@
     "desc": "",
     "address": "대전광역시 동구 회남로 162-27"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -1884,7 +2064,9 @@
     "desc": "",
     "address": "대전광역시 서구 도안대로 37 (관저동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -1901,7 +2083,9 @@
     "desc": "",
     "address": "대전광역시 중구 대종로480번길 15"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 2610
  },
  {
   "section": "food",
@@ -1911,14 +2095,16 @@
   "lat": 36.3269802267,
   "lng": 127.4305645917,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4a9b237114186e6321fb05d42b24488062deaef8?original",
   "i18n": {
    "ko": {
     "name": "소나무집",
     "desc": "",
     "address": "대전광역시 중구 대종로460번길 59"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -1935,7 +2121,9 @@
     "desc": "",
     "address": "대전광역시 유성구 엑스포로446번길 36 (문지동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 90
  },
  {
   "section": "food",
@@ -1969,7 +2157,9 @@
     "desc": "",
     "address": "대전광역시 유성구 테크노중앙로 88-14 (관평동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1986,7 +2176,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관평1로 85 (관평동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2003,7 +2195,9 @@
     "desc": "",
     "address": "대전광역시 유성구 수통골로 89 (덕명동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2020,7 +2214,9 @@
     "desc": "",
     "address": "대전광역시 유성구 신성로84번길 18 (신성동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 306
  },
  {
   "section": "food",
@@ -2037,7 +2233,9 @@
     "desc": "",
     "address": "대전광역시 유성구 봉명서로 17-4 (봉명동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -2047,7 +2245,7 @@
   "lat": 36.3669441134,
   "lng": 127.3750379168,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/31B87455DEC6495C9CFEBA72CB09801B",
   "i18n": {
    "ko": {
     "name": "시장스시",
@@ -2071,7 +2269,9 @@
     "desc": "",
     "address": "대전광역시 동구 대전로825번길 11"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 139
  },
  {
   "section": "food",
@@ -2088,7 +2288,9 @@
     "desc": "",
     "address": "대전광역시 동구 가양로 42 (가양동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -2122,7 +2324,9 @@
     "desc": "",
     "address": "대전광역시 유성구 수통골로 85-1 (덕명동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -2156,7 +2360,9 @@
     "desc": "",
     "address": "대전광역시 유성구 문화원로 77 (봉명동, 그랑펠리체)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -2173,7 +2379,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계룡로74번길 15 (봉명동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -2190,7 +2398,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대학로 48-17 (봉명동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -2207,7 +2417,9 @@
     "desc": "",
     "address": "대전광역시 유성구 죽동로279번길 5-28 (죽동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -2224,7 +2436,9 @@
     "desc": "",
     "address": "대전광역시 유성구 현충원로 401-9 (구암동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2241,7 +2455,9 @@
     "desc": "",
     "address": "대전광역시 유성구 온천로 34 (봉명동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2275,7 +2491,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대학로 56 (봉명동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -2292,7 +2510,9 @@
     "desc": "",
     "address": "대전광역시 동구 송촌남로 19"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2309,7 +2529,9 @@
     "desc": "",
     "address": "대전광역시 동구 동서대로1695번길 4 (용전동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -2343,7 +2565,9 @@
     "desc": "",
     "address": "대전광역시 유성구 계룡로74번길 13-7 (봉명동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -2360,7 +2584,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥남로42번길 5-20 (원신흥동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -2370,14 +2596,16 @@
   "lat": 36.3498241062,
   "lng": 127.3894676458,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/21C734CD06044761AB5C10C5A63E3B55",
   "i18n": {
    "ko": {
     "name": "오백돈 대전본점",
     "desc": "",
     "address": "대전광역시 서구 둔산남로105번길 18"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 393
  },
  {
   "section": "food",
@@ -2394,7 +2622,9 @@
     "desc": "",
     "address": "대전광역시 유성구 유성대로654번길 160 (구암동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2411,7 +2641,9 @@
     "desc": "",
     "address": "대전광역시 유성구 죽동로280번길 32 (죽동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 104
  },
  {
   "section": "food",
@@ -2428,7 +2660,9 @@
     "desc": "",
     "address": "대전광역시 동구 옛신탄진로 13"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 500
  },
  {
   "section": "food",
@@ -2445,7 +2679,9 @@
     "desc": "",
     "address": "대전광역시 서구 신갈마로230번길 36 (갈마동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 56
  },
  {
   "section": "food",
@@ -2455,14 +2691,16 @@
   "lat": 36.3289262339,
   "lng": 127.3746278731,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1d3a13cb431571fe1b1f84ec3de17a0bcf0db3cd?original",
   "i18n": {
    "ko": {
     "name": "옥수숯불구이",
     "desc": "",
     "address": "대전광역시 서구 변동중로 49"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -2489,14 +2727,16 @@
   "lat": 36.3526235022,
   "lng": 127.3734523362,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/D7085B7D953640C990D4C6D88710EA09",
   "i18n": {
    "ko": {
     "name": "와타요업",
     "desc": "",
     "address": "대전광역시 서구 갈마역로25번길 9-8"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 222
  },
  {
   "section": "food",
@@ -2513,7 +2753,9 @@
     "desc": "",
     "address": "대전광역시 유성구 반석로 10"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2530,7 +2772,9 @@
     "desc": "",
     "address": "대전광역시 유성구 봉명서로 57-8 (봉명동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -2547,7 +2791,9 @@
     "desc": "",
     "address": "대전광역시 동구 선화로196번길 6"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -2557,14 +2803,16 @@
   "lat": 36.3220897084,
   "lng": 127.4636839864,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjAxMTdfMjA2/MDAxNzY4NjM4MDQ5NTg0.rdAe9DLAUoXz0-nkmyiWqfJJ3ORJiiEj2secZypKVlsg.H5Zvb3BT0mOwPAy2Old0omlftTanGOTufmJRB23swRQg.JPEG/900%EF%BC%BF20260116%EF%BC%BF105249.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "용운산성",
     "desc": "",
     "address": "대전광역시 동구 새울로 42-21"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -2581,7 +2829,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관용로37번길 69 (관평동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2598,7 +2848,9 @@
     "desc": "",
     "address": "대전광역시 동구 옥천로 419 (비룡동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -2625,14 +2877,16 @@
   "lat": 36.3749453178,
   "lng": 127.3379354641,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d4018dc820aa8d781b8d8aa271138ab2f4bd53b8?original",
   "i18n": {
    "ko": {
     "name": "유성불백",
     "desc": "",
     "address": "대전광역시 유성구 죽동로242번길 8-12 (죽동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -2666,7 +2920,9 @@
     "desc": "",
     "address": "대전광역시 유성구 신성로 69 (신성동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -2700,7 +2956,9 @@
     "desc": "",
     "address": "대전광역시 유성구 월드컵대로 32"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2717,7 +2975,9 @@
     "desc": "",
     "address": "대전광역시 서구 대덕대로 246 (둔산동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -2751,7 +3011,9 @@
     "desc": "",
     "address": "대전광역시 유성구 온천북로 49 (봉명동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -2785,7 +3047,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관들5길 77-34 (관평동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -2802,7 +3066,9 @@
     "desc": "",
     "address": "대전광역시 유성구 엑스포로539번길 24-6 (전민동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2819,7 +3085,9 @@
     "desc": "",
     "address": "대전광역시 유성구 관들3길 77-14 (관평동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2836,7 +3104,9 @@
     "desc": "",
     "address": "대전광역시 서구 월평중로4번길 80"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -2853,7 +3123,9 @@
     "desc": "",
     "address": "대전광역시 서구 둔산대로117번길 34 (만년동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 76
  },
  {
   "section": "food",
@@ -2870,7 +3142,9 @@
     "desc": "",
     "address": "대전광역시 서구 장안로 226"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2887,7 +3161,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 쌍청당로 14 (중리동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -2904,7 +3180,9 @@
     "desc": "",
     "address": "대전광역시 중구 중교로 45-5 (대흥동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 345
  },
  {
   "section": "food",
@@ -2921,7 +3199,9 @@
     "desc": "",
     "address": "대전광역시 유성구 봉명서로 27-4 (봉명동)"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -2938,7 +3218,9 @@
     "desc": "",
     "address": "대전광역시 대덕구 대덕대로1454번길 13 (목상동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -2955,7 +3237,9 @@
     "desc": "",
     "address": "대전광역시 서구 계룡로342번길 170"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2989,7 +3273,9 @@
     "desc": "",
     "address": "대전광역시 유성구 노은동로79번길 71"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -2999,14 +3285,16 @@
   "lat": 36.3553726813,
   "lng": 127.3449159251,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2e0bf9d9dfc684ef1f1172cdc0acc3c5bdab28f2?original",
   "i18n": {
    "ko": {
     "name": "청주해장국",
     "desc": "",
     "address": "대전광역시 유성구 온천로 63"
    }
-  }
+  },
+  "rating": 1.5,
+  "rcount": 209
  },
  {
   "section": "food",
@@ -3023,7 +3311,9 @@
     "desc": "",
     "address": "대전광역시 동구 철갑3길 8 (소제동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 358
  },
  {
   "section": "food",
@@ -3057,7 +3347,9 @@
     "desc": "",
     "address": "대전광역시 유성구 온천북로 7 (봉명동, 레자미 멀티홈)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -3074,7 +3366,9 @@
     "desc": "",
     "address": "대전광역시 유성구 엑스포로539번길 223 (탑립동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -3091,7 +3385,9 @@
     "desc": "",
     "address": "대전광역시 유성구 한밭대로371번길 25-3 (궁동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 107
  },
  {
   "section": "food",
@@ -3108,7 +3404,9 @@
     "desc": "",
     "address": "대전광역시 유성구 봉명로 27-27 (원신흥동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -3159,7 +3457,9 @@
     "desc": "",
     "address": "대전광역시 동구 중앙로203번길 78"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 310
  },
  {
   "section": "food",
@@ -3176,7 +3476,9 @@
     "desc": "",
     "address": "대전광역시 서구 청사서로 14 (월평동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 405
  },
  {
   "section": "food",
@@ -3210,7 +3512,9 @@
     "desc": "",
     "address": "대전광역시 동구 회남로 57-54"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -3227,7 +3531,9 @@
     "desc": "",
     "address": "대전광역시 서구 둔산로123번길 21 (둔산동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3244,7 +3550,9 @@
     "desc": "",
     "address": "대전광역시 유성구 원신흥로55번길 66-23 (원신흥동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -3261,7 +3569,9 @@
     "desc": "",
     "address": "대전광역시 유성구 대학로75번길 17 (궁동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -3278,7 +3588,9 @@
     "desc": "",
     "address": "대전광역시 동구 태전로 3 (중동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -3312,7 +3624,9 @@
     "desc": "",
     "address": "대전광역시 중구 계룡로874번길 6"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -3380,7 +3694,9 @@
     "desc": "",
     "address": "대전광역시 서구 둔산로137번길 21 (둔산동)"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3397,7 +3713,9 @@
     "desc": "",
     "address": "대전광역시 유성구 한밭대로 407-18 (궁동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 40
  },
  {
   "section": "food",

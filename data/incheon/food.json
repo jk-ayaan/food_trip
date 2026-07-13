@@ -7,14 +7,16 @@
   "lat": 37.437480655,
   "lng": 126.683390429,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/404106a169c2e05ca810d0033a8a3bd54ea75c82?original",
   "i18n": {
    "ko": {
     "name": "가마솥손두부",
     "desc": "",
     "address": "인천광역시 미추홀구 소성로326번길 4 (문학동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 어촌로 7 (만석동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -65,7 +69,9 @@
     "desc": "",
     "address": "인천광역시 검단구 대곡로368번길 25 (대곡동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -82,7 +88,9 @@
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 123 (송도동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -99,7 +107,9 @@
     "desc": "",
     "address": "인천광역시 강화군 동문안길 12-1 삼성양복점"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -116,7 +126,9 @@
     "desc": "",
     "address": "인천광역시 강화군 선원면 선원사지로 32"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -133,7 +145,9 @@
     "desc": "",
     "address": "인천광역시 강화군 양도면 강화남로 678"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -143,14 +157,16 @@
   "lat": 37.7016028506,
   "lng": 126.3768888941,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTA5MTBfMTIz/MDAxNzU3NDYyNDE0NTc3.y2AldayXVdkFUbJvmF9T6lqkvteY4q0bpCzE-cdmiHUg.d6jBEVU5UoemiMTrhK8miNEmlHmI3qsRP7nSerQLKrYg.JPEG/900%EF%BC%BF20250802%EF%BC%BF152511.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "강화어부네꽃게탕",
     "desc": "",
     "address": "인천광역시 강화군 내가면 해안서로 920"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -184,7 +200,9 @@
     "desc": "",
     "address": "인천광역시 계양구 다남로 278 (목상동)"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -201,7 +219,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 매소홀로 435 (학익동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -218,7 +238,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 송화로42번길 18 (송현동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -235,7 +257,9 @@
     "desc": "",
     "address": "인천광역시 강화군 양도면 중앙로 1124"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -269,7 +293,9 @@
     "desc": "",
     "address": "인천광역시 검단구 완정로 151 (왕길동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -286,7 +312,9 @@
     "desc": "",
     "address": "인천광역시 서해구 옥빛로7번안길 3 (청라동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -320,7 +348,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 신포로46번길 38 (내동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 108
  },
  {
   "section": "food",
@@ -337,7 +367,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도미래로 47"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -354,7 +386,9 @@
     "desc": "",
     "address": "인천광역시 영종구 은하수로 43 (중산동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 109
  },
  {
   "section": "food",
@@ -364,14 +398,16 @@
   "lat": 37.4510373781,
   "lng": 126.681423565,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2a8fbf7268e0775ee7f5950f84bbf0416d63f66d?original",
   "i18n": {
    "ko": {
     "name": "고려한방삼계탕",
     "desc": "",
     "address": "인천광역시 미추홀구 인주대로 404"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -422,7 +458,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유서로172번길 10"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 101
  },
  {
   "section": "food",
@@ -439,7 +477,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라루비로42번길 6-4 (청라동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -456,7 +496,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 영흥면 영흥로251번길 25-75"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -473,7 +515,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 전등사로 80"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -507,7 +551,9 @@
     "desc": "",
     "address": "인천광역시 영종구 운중로48번길 94 (운남동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -524,7 +570,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 차이나타운로 43"
    }
-  }
+  },
+  "rating": 1.8,
+  "rcount": 299
  },
  {
   "section": "food",
@@ -541,7 +589,9 @@
     "desc": "",
     "address": "인천광역시 연수구 비류대로150번길 13 (옥련동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -558,7 +608,9 @@
     "desc": "",
     "address": "인천광역시 검단구 검단로 789 (불로동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -609,7 +661,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안남로 816"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -626,7 +680,9 @@
     "desc": "",
     "address": "인천광역시 계양구 경명대로 942 (계산동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -643,7 +699,9 @@
     "desc": "",
     "address": "인천광역시 연수구 아트센터대로 203 (송도동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 138
  },
  {
   "section": "food",
@@ -660,7 +718,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안남로 334"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -670,14 +730,16 @@
   "lat": 37.4381562249,
   "lng": 126.7200731778,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7c39dd91a3a9ca497b4e66100274f848a5932c58?original",
   "i18n": {
    "ko": {
     "name": "꽃게담다 by 블루베리팜",
     "desc": "",
     "address": "인천광역시 남동구 찬우물로 21 (수산동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -687,14 +749,16 @@
   "lat": 37.6003291209,
   "lng": 126.4097886867,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/65f37963c6d567a0c4305b2bbd9a765433422acc?original",
   "i18n": {
    "ko": {
     "name": "꽃게와낙지",
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로2029번길 7"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -728,7 +792,9 @@
     "desc": "",
     "address": "인천광역시 남동구 남동서로 226 (논현동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 313
  },
  {
   "section": "food",
@@ -745,7 +811,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라루비로42번길 5-15 (청라동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -762,7 +830,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라루비로42번길 6-14 (청라동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -779,7 +849,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로 270 (청라동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -796,7 +868,9 @@
     "desc": "",
     "address": "인천광역시 연수구 컨벤시아대로 116 푸르지오월드마크"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -813,7 +887,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유서로 158"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -830,7 +906,9 @@
     "desc": "",
     "address": "인천광역시 검단구 서곶로 833 (당하동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -847,7 +925,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 106"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -864,7 +944,9 @@
     "desc": "",
     "address": "인천광역시 검단구 검단로379번길 31-2 (왕길동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -881,7 +963,9 @@
     "desc": "",
     "address": "인천광역시 영종구 화랑목로 50-10 (운서동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -898,7 +982,9 @@
     "desc": "",
     "address": "인천광역시 검단구 고산후로 176 (원당동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -915,7 +1001,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청량로86번길 14-6 (동춘동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -932,7 +1020,9 @@
     "desc": "",
     "address": "인천광역시 부평구 부평문화로 41 (부평동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -949,7 +1039,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 차이나타운로 55-1 (선린동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -966,7 +1058,9 @@
     "desc": "",
     "address": "인천광역시 강화군 교동면 대룡안길54번길 24"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -983,7 +1077,9 @@
     "desc": "",
     "address": "인천광역시 강화군 해안동로 112-12"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 151
  },
  {
   "section": "food",
@@ -1000,7 +1096,9 @@
     "desc": "",
     "address": "인천광역시 서해구 북항로206번길 50 (원창동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -1051,7 +1149,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로1844번길 19"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -1068,7 +1168,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로223번길 5 (청라동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -1102,7 +1204,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 독배로 473 (숭의동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -1119,7 +1223,9 @@
     "desc": "",
     "address": "인천광역시 연수구 동곡재로49번길 8"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -1136,7 +1242,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 백령면 백령로 (293, 인어궁)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -1153,7 +1261,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 마니산로 106"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -1170,7 +1280,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안동로 76"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -1187,7 +1299,9 @@
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 160 (송도동, 송도센트럴파크푸르지오)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -1221,7 +1335,9 @@
     "desc": "",
     "address": "인천광역시 강화군 삼산면 삼산남로 827"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1231,14 +1347,16 @@
   "lat": 37.5287776459,
   "lng": 126.6420444393,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/fiy_reboot/place/964FE03D6C9048758FD5DB11BE3544E4",
   "i18n": {
    "ko": {
     "name": "띤뜨",
     "desc": "",
     "address": "인천광역시 서해구 청라루비로42번길 14"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -1255,7 +1373,9 @@
     "desc": "",
     "address": "인천광역시 검단구 정서진로 651 (시천동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -1272,7 +1392,9 @@
     "desc": "",
     "address": "인천광역시 남동구 성말로32번길 6-1"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -1289,7 +1411,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라루비로42번길 5-21"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -1340,7 +1464,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도과학로28번길 8 (송도동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1357,7 +1483,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 1182"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 159
  },
  {
   "section": "food",
@@ -1374,7 +1502,9 @@
     "desc": "",
     "address": "인천광역시 강화군 양도면 가능포로 221"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -1391,7 +1521,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 보리고개로89번길 10"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -1408,7 +1540,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안동로 96-29"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1425,7 +1559,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 163 (덕교동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 204
  },
  {
   "section": "food",
@@ -1442,7 +1578,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 77 (덕교동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -1476,7 +1614,9 @@
     "desc": "",
     "address": "인천광역시 남동구 오봉동로10번길 35 (도림동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -1493,7 +1633,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라에메랄드로41번길 21 (청라동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1510,7 +1652,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로1844번길 19"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -1520,14 +1664,16 @@
   "lat": 37.4761750274,
   "lng": 126.6192868684,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2933fa1cbf87b9f7d2671f7e83dbdccdea7ef588?original",
   "i18n": {
    "ko": {
     "name": "만다복",
     "desc": "",
     "address": "인천광역시 제물포구 차이나타운로 36 만다복"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 259
  },
  {
   "section": "food",
@@ -1544,7 +1690,9 @@
     "desc": "",
     "address": "인천광역시 서해구 백범로622번길 20 (가좌동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 13
  },
  {
   "section": "food",
@@ -1561,7 +1709,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 학익소로63번길 23 (학익동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -1595,7 +1745,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상로25번길 28"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -1612,7 +1764,9 @@
     "desc": "",
     "address": "인천광역시 연수구 해돋이로 107 송도 더샵 퍼스트월드"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -1629,7 +1783,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 1147"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -1646,7 +1802,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 1970-34"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -1663,7 +1821,9 @@
     "desc": "",
     "address": "인천광역시 연수구 첨단대로 80 (송도동)"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -1697,7 +1857,9 @@
     "desc": "",
     "address": "인천광역시 부평구 주부토로172번길 28"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -1731,7 +1893,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 화수로 18 (송현동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -1748,7 +1912,9 @@
     "desc": "",
     "address": "인천광역시 검단구 완정로 172 (마전동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -1799,7 +1965,9 @@
     "desc": "",
     "address": "인천광역시 영종구 화랑목로 50-9 (운서동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -1816,7 +1984,9 @@
     "desc": "",
     "address": "인천광역시 영종구 대무의로 291 (무의동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -1833,7 +2003,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 금곡로 29 (송림동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -1850,7 +2022,9 @@
     "desc": "",
     "address": "인천광역시 강화군 삼산면 삼산남로828번길 26"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1867,7 +2041,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 참외전로13번길 15-4 (송월동2가)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 83
  },
  {
   "section": "food",
@@ -1884,7 +2060,9 @@
     "desc": "",
     "address": "인천광역시 남동구 만의골로 168 (장수동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -1901,7 +2079,9 @@
     "desc": "",
     "address": "인천광역시 연수구 컨벤시아대로 70 (송도동, 인천송도힐스테이트)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -1911,14 +2091,16 @@
   "lat": 37.4538602086,
   "lng": 126.7343297741,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/47E5D94AE29F4C438D3A3F6AC4650BDD",
   "i18n": {
    "ko": {
     "name": "미소로",
     "desc": "",
     "address": "인천광역시 남동구 백범로 109"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -1935,7 +2117,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유서로 164 (을왕동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 144
  },
  {
   "section": "food",
@@ -1952,7 +2136,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 39"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 148
  },
  {
   "section": "food",
@@ -1986,7 +2172,9 @@
     "desc": "",
     "address": "인천광역시 강화군 선원면 연동로99번길 73"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2003,7 +2191,9 @@
     "desc": "",
     "address": "인천광역시 영종구 잠진도길 46 (덕교동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -2020,7 +2210,9 @@
     "desc": "",
     "address": "인천광역시 강화군 해안남로 116"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -2037,7 +2229,9 @@
     "desc": "",
     "address": "인천광역시 연수구 능허대로 16 (옥련동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -2054,7 +2248,9 @@
     "desc": "",
     "address": "인천광역시 영종구 은하수로 10 (중산동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 152
  },
  {
   "section": "food",
@@ -2071,7 +2267,9 @@
     "desc": "",
     "address": "인천광역시 검단구 서곶로 848 (당하동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -2105,7 +2303,9 @@
     "desc": "",
     "address": "인천광역시 연수구 하모니로 124"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 95
  },
  {
   "section": "food",
@@ -2122,7 +2322,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 석정로 226"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 116
  },
  {
   "section": "food",
@@ -2156,7 +2358,9 @@
     "desc": "",
     "address": "인천광역시 계양구 벌말로573번길 3-1 (상야동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -2173,7 +2377,9 @@
     "desc": "",
     "address": "인천광역시 계양구 벌말로565번길 5 (상야동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -2190,7 +2396,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 마니산로675번길 15"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -2200,14 +2408,16 @@
   "lat": 37.63952043,
   "lng": 126.4912912496,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fe378366d390086b2f2ed8a5a5cbbb4cea8eb1a4?original",
   "i18n": {
    "ko": {
     "name": "벨팡",
     "desc": "",
     "address": "인천광역시 강화군 길상면 온수길 32"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 56
  },
  {
   "section": "food",
@@ -2224,7 +2434,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 화도진로 102-4 (화수동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -2241,7 +2453,9 @@
     "desc": "",
     "address": "인천광역시 연수구 신송로 121 (송도동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -2258,7 +2472,9 @@
     "desc": "",
     "address": "인천광역시 부평구 주부토로145번길 28 (갈산동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 121
  },
  {
   "section": "food",
@@ -2275,7 +2491,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 51-32 (덕교동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -2292,7 +2510,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 영흥면 영흥북로 23"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -2309,7 +2529,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 강화동로 113"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -2343,7 +2565,9 @@
     "desc": "",
     "address": "인천광역시 검단구 단봉로128번길 17 봄솔보리밥"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2360,7 +2584,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 강화동로 23-16"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2377,7 +2603,9 @@
     "desc": "",
     "address": "인천광역시 부평구 부흥로 387 (부개동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2387,14 +2615,16 @@
   "lat": 37.4148689312,
   "lng": 126.6572378853,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f0cd57842944c580d7e7c0fbafba7c6951df0226?original",
   "i18n": {
    "ko": {
     "name": "북경",
     "desc": "",
     "address": "인천광역시 연수구 청량로79번길 16"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -2428,7 +2658,9 @@
     "desc": "",
     "address": "인천광역시 남동구 만의골로195번길 66 (장수동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -2445,7 +2677,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 개항로 73-1 (경동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 92
  },
  {
   "section": "food",
@@ -2462,7 +2696,9 @@
     "desc": "",
     "address": "인천광역시 연수구 해돋이로151번길 4"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -2479,7 +2715,9 @@
     "desc": "",
     "address": "인천광역시 서해구 크리스탈로 100"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -2496,7 +2734,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로319번길 3-13 (청라동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 6
  },
  {
   "section": "food",
@@ -2513,7 +2753,9 @@
     "desc": "",
     "address": "인천광역시 남동구 논고개로123번길 17 (논현동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2530,7 +2772,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 수문통로 62 (송현동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -2547,7 +2791,9 @@
     "desc": "",
     "address": "인천광역시 강화군 내가면 해안서로 987"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -2557,14 +2803,16 @@
   "lat": 37.4714590355,
   "lng": 126.6264724544,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/af79604ea8bedbc198be54b97e8f13b7a7a55416?original",
   "i18n": {
    "ko": {
     "name": "산동만두 공갈빵",
     "desc": "",
     "address": "인천광역시 제물포구 우현로49번길 33"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 128
  },
  {
   "section": "food",
@@ -2581,7 +2829,9 @@
     "desc": "",
     "address": "인천광역시 남동구 선수촌공원로17번길 28 (구월동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -2598,7 +2848,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 참외전로158번길 1"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2615,7 +2867,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 금곡로81번길 22"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -2632,7 +2886,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라에메랄드로41번길 24 (청라동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -2642,14 +2898,16 @@
   "lat": 37.4779444584,
   "lng": 126.6302052678,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/9B33FC6A1E9B45AA84D24B9AA37AD8F3",
   "i18n": {
    "ko": {
     "name": "삼미소문난냉면",
     "desc": "",
     "address": "인천광역시 제물포구 화평로 10"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -2666,7 +2924,9 @@
     "desc": "",
     "address": "인천광역시 영종구 중산로29번길 50-20 (중산동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -2683,7 +2943,9 @@
     "desc": "",
     "address": "인천광역시 강화군 강화읍 강화대로430번길 2-1"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 81
  },
  {
   "section": "food",
@@ -2700,7 +2962,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로2845번길 10"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -2717,7 +2981,9 @@
     "desc": "",
     "address": "인천광역시 강화군 내가면 해안서로 917-2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -2734,7 +3000,9 @@
     "desc": "",
     "address": "인천광역시 검단구 원당대로608번안길 14 (주)오엘메이크빌딩"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 78
  },
  {
   "section": "food",
@@ -2751,7 +3019,9 @@
     "desc": "",
     "address": "인천광역시 강화군 내가면 중앙로 1238"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -2761,14 +3031,16 @@
   "lat": 37.4280937659,
   "lng": 126.4187537238,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localfiy/searchregister_419119599",
   "i18n": {
    "ko": {
     "name": "서해안조개광장 신관",
     "desc": "",
     "address": "인천광역시 영종구 마시란로 65"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 564
  },
  {
   "section": "food",
@@ -2778,14 +3050,16 @@
   "lat": 37.5011508229,
   "lng": 126.6714925209,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7cf0758c2aa8fdc2a84f75b91e9fe1f10f5ce55a?original",
   "i18n": {
    "ko": {
     "name": "석남동함흥냉면",
     "desc": "",
     "address": "인천광역시 서해구 석남로 87"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2795,14 +3069,16 @@
   "lat": 37.4455223768,
   "lng": 126.7393073307,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA1MTRfMTYy/MDAxNzc4NzQyMTc2NDE1.N53IV3ov0Ei-NRHGWzLD5S3QKg1FUePBE8Yw3lXCi4Ag.nxbuhfuRKVrz_YB7XDAB1ExN6gtPzCDIG7rr_U1v8BIg.JPEG/P20260328_201033000_28E8C2E0-4E17-4E46-ADD3-435F7CCAC56E.JPG?type=w966",
   "i18n": {
    "ko": {
     "name": "석빈가든",
     "desc": "",
     "address": "인천광역시 남동구 장승로 60"
    }
-  }
+  },
+  "rating": 2.0,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -2836,7 +3112,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 선재로34번길 79"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -2846,14 +3124,16 @@
   "lat": 37.4145134106,
   "lng": 126.6569157024,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/one/store/20250225054558-f3256394-a996-46e5-a133-a286ed9355df",
   "i18n": {
    "ko": {
     "name": "선한정식",
     "desc": "",
     "address": "인천광역시 연수구 능허대로267번길 59"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -2870,7 +3150,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 북도면 신도로 254"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -2887,7 +3169,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 독배로403번길 10"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -2904,7 +3188,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청량로 67"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -2921,7 +3207,9 @@
     "desc": "",
     "address": "인천광역시 연수구 아트센터대로 131 (송도동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -2948,14 +3236,16 @@
   "lat": 37.4222945177,
   "lng": 126.4232034765,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/6aa070003a712a5eb5eb8b9dbf49b1325dcb5822?original",
   "i18n": {
    "ko": {
     "name": "솔밭회조개구이",
     "desc": "",
     "address": "인천광역시 영종구 잠진도길 28"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -2972,7 +3262,9 @@
     "desc": "",
     "address": "인천광역시 연수구 능허대로267번길 55 (동춘동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -2989,7 +3281,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도과학로16번길 13-18 송도건원테크노큐브"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -3006,7 +3300,9 @@
     "desc": "",
     "address": "인천광역시 연수구 능허대로151번길 25"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -3016,14 +3312,16 @@
   "lat": 37.3951792551,
   "lng": 126.6404205181,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7b4d62d2afcb7af7b1d4ac02688b5806bccbd99d?original",
   "i18n": {
    "ko": {
     "name": "송도국제경양식",
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 194"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -3040,7 +3338,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도미래로 9 (송도동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -3057,7 +3357,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도미래로 30 (송도동)"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -3074,7 +3376,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청량로 68 (동춘동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3084,14 +3388,16 @@
   "lat": 37.4139107134,
   "lng": 126.6574906666,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/601ce46b2ec3a3168e76b9c7cc66bd12af363941?original",
   "i18n": {
    "ko": {
     "name": "송도주막",
     "desc": "",
     "address": "인천광역시 연수구 청량로79번길 36 (동춘동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -3108,7 +3414,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 새천년로 28 (송림동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -3125,7 +3433,9 @@
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 160 (송도동, 송도센트럴파크푸르지오)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 120
  },
  {
   "section": "food",
@@ -3142,7 +3452,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도과학로16번길 33-4 (송도동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -3159,7 +3471,9 @@
     "desc": "",
     "address": "인천광역시 강화군 강화읍 강화대로403번길 14"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 136
  },
  {
   "section": "food",
@@ -3169,7 +3483,7 @@
   "lat": 37.4202848713,
   "lng": 126.6517187934,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/CED8E83390484A92952FDC6CE68FD616",
   "i18n": {
    "ko": {
     "name": "수연생오리구이",
@@ -3193,7 +3507,9 @@
     "desc": "",
     "address": "인천광역시 계양구 정서진로 1247 귤현프라자"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3210,7 +3526,9 @@
     "desc": "",
     "address": "인천광역시 서해구 담지로8번길 14 (청라동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -3220,7 +3538,7 @@
   "lat": 37.4653935265,
   "lng": 126.6521258381,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/538D701AEA8D4606AD550EC151109D20",
   "i18n": {
    "ko": {
     "name": "숭의가든",
@@ -3244,7 +3562,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안남로 309-12"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -3278,7 +3598,9 @@
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 194 더샵 센트럴파크2"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -3295,7 +3617,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로233번길 15"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -3312,7 +3636,9 @@
     "desc": "",
     "address": "인천광역시 서해구 염곡로 472 (가정동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -3329,7 +3655,9 @@
     "desc": "",
     "address": "인천광역시 영종구 공항서로 133-1 (덕교동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 91
  },
  {
   "section": "food",
@@ -3356,14 +3684,16 @@
   "lat": 37.4519701728,
   "lng": 126.6570479845,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/df8bffdc74c4e3c38e3d96c629c1dc7894d5cfcf?original",
   "i18n": {
    "ko": {
     "name": "시골집",
     "desc": "",
     "address": "인천광역시 미추홀구 경인남길30번길 45-1"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -3380,7 +3710,9 @@
     "desc": "",
     "address": "인천광역시 서해구 서곶로 468 (검암동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3397,7 +3729,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 경인로 469 (주안동)"
    }
-  }
+  },
+  "rating": 1.8,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -3414,7 +3748,9 @@
     "desc": "",
     "address": "인천광역시 계양구 벌말로 608 (하야동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -3448,7 +3784,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 자유공원로27번길 1"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -3465,7 +3803,9 @@
     "desc": "",
     "address": "인천광역시 서해구 원적로7번길 1 (가좌동)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -3482,7 +3822,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 우현로49번길 3"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 409
  },
  {
   "section": "food",
@@ -3499,7 +3841,9 @@
     "desc": "",
     "address": "인천광역시 남동구 은봉로419번길 35 (논현동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -3516,7 +3860,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 강화동로 82"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -3533,7 +3879,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 2674"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 81
  },
  {
   "section": "food",
@@ -3550,7 +3898,9 @@
     "desc": "",
     "address": "인천광역시 연수구 솔밭로70번길 7 (동춘동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -3567,7 +3917,9 @@
     "desc": "",
     "address": "인천광역시 연수구 컨벤시아대로 69 송도 밀레니엄"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 135
  },
  {
   "section": "food",
@@ -3577,14 +3929,16 @@
   "lat": 37.4740032546,
   "lng": 126.6304525767,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNTEyMjBfMTM5/MDAxNzY2MjMzNjIwODcy.HqiAx-AmFHKX5NTj1dNyxrKu_2d8Si4tZu9BfbO58e4g.0vdjeCSvQi9hdCzOIAOLr5glE4K3sQxLuICLncAX0K0g.JPEG/06.jpg?type=w773",
   "i18n": {
    "ko": {
     "name": "아라베스크",
     "desc": "",
     "address": "인천광역시 제물포구 우현로 80 (인현동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -3601,7 +3955,9 @@
     "desc": "",
     "address": "인천광역시 영종구 오작로 6-9 (중산동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 43
  },
  {
   "section": "food",
@@ -3618,7 +3974,9 @@
     "desc": "",
     "address": "인천광역시 연수구 솔밭로 5"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 118
  },
  {
   "section": "food",
@@ -3628,14 +3986,16 @@
   "lat": 37.4783721812,
   "lng": 126.6298941724,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fda96f217e35fd5864046709b2c22eca6f62096d?original",
   "i18n": {
    "ko": {
     "name": "아저씨냉면",
     "desc": "",
     "address": "인천광역시 제물포구 화도진로91번길 27"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -3669,7 +4029,9 @@
     "desc": "",
     "address": "인천광역시 연수구 아트센터대로 107"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -3686,7 +4048,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도과학로16번길 13-18 송도건원테크노큐브"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -3703,7 +4067,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 수문통로 27 (화평동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -3713,14 +4079,16 @@
   "lat": 37.5208227523,
   "lng": 126.6271404661,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/eb116f8deb5d833ef18115bcfcce5f39197f5757?original",
   "i18n": {
    "ko": {
     "name": "양원",
     "desc": "",
     "address": "인천광역시 서해구 보석로12번안길 28 (청라동)"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -3737,7 +4105,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유서로 494 (을왕동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 1396
  },
  {
   "section": "food",
@@ -3754,7 +4124,9 @@
     "desc": "",
     "address": "인천광역시 부평구 마장로 191 (산곡동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -3771,7 +4143,9 @@
     "desc": "",
     "address": "인천광역시 계양구 계산새로65번길 13 (계산동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 100
  },
  {
   "section": "food",
@@ -3788,7 +4162,9 @@
     "desc": "",
     "address": "인천광역시 영종구 선녀바위로55번길 14 (을왕동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -3805,7 +4181,9 @@
     "desc": "",
     "address": "인천광역시 영종구 남북로142번길 2"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -3822,7 +4200,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 한나루로 420 (학익동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -3839,7 +4219,9 @@
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 232 (송도동, 더샵센트럴파크1)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -3890,7 +4272,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 연안부두로 119 (항동7가)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 666
  },
  {
   "section": "food",
@@ -3924,7 +4308,9 @@
     "desc": "",
     "address": "인천광역시 영종구 운중로48번길 9 (운남동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 34
  },
  {
   "section": "food",
@@ -3941,7 +4327,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 영흥면 영흥북로 195"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -3958,7 +4346,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 영흥면 영흥북로 3"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -3968,14 +4358,16 @@
   "lat": 37.4684375951,
   "lng": 126.6508897553,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/61b17b735da847c1b461baa49360b25fc9f521d8?original",
   "i18n": {
    "ko": {
     "name": "오목골즉석메밀우동 박문점",
     "desc": "",
     "address": "인천광역시 미추홀구 석정로 142"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 216
  },
  {
   "section": "food",
@@ -3992,7 +4384,9 @@
     "desc": "",
     "address": "인천광역시 연수구 인천타워대로 257 (송도동)"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -4009,7 +4403,9 @@
     "desc": "",
     "address": "인천광역시 연수구 비류대로 216 (옥련동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 26
  },
  {
   "section": "food",
@@ -4019,14 +4415,16 @@
   "lat": 37.522871206,
   "lng": 126.7102411576,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://postfiles.pstatic.net/MjAyNjA2MTJfNjkg/MDAxNzgxMjUwODkwNTU4.QTOwQcXJv3djzde5pLUgNmtrZ8v2PEePHi6rOjHM5HUg.L-Qpjg2xcgYj5u1n79sqfsvwHwn7a6RP-wjdY1myDJMg.JPEG/KakaoTalk_Photo_2026-06-12-16-54-15_003.jpeg?type=w966",
   "i18n": {
    "ko": {
     "name": "옥천관",
     "desc": "",
     "address": "인천광역시 부평구 안남로 447-2"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -4043,7 +4441,9 @@
     "desc": "",
     "address": "인천광역시 남동구 도림북로16번길 31 (도림동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -4060,7 +4460,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 노적산로 70 (학익동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4077,7 +4479,9 @@
     "desc": "",
     "address": "인천광역시 강화군 강화읍 북문길 55"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -4094,7 +4498,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 전등사로 93-2"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -4111,7 +4517,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 2805"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -4145,7 +4553,9 @@
     "desc": "",
     "address": "인천광역시 연수구 아트센터대로 222 아트센터 인천(콘서트홀)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -4162,7 +4572,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 제물량로 340-1 (만석동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -4179,7 +4591,9 @@
     "desc": "",
     "address": "인천광역시 강화군 마니산로 12"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -4189,14 +4603,16 @@
   "lat": 37.4140273845,
   "lng": 126.6585377902,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5befd2f5aafc47b058cc03c1c37feba84d4437fe77f6c25a21063b70fe739d15",
   "i18n": {
    "ko": {
     "name": "우판등심",
     "desc": "",
     "address": "인천광역시 연수구 청량로 61"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 75
  },
  {
   "section": "food",
@@ -4230,7 +4646,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 송학로 63 (송학동2가)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -4247,7 +4665,9 @@
     "desc": "",
     "address": "인천광역시 남동구 성말로 43 (구월동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -4264,7 +4684,9 @@
     "desc": "",
     "address": "인천광역시 영종구 화랑목로100번길 39 와이디캐슬"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -4281,7 +4703,9 @@
     "desc": "",
     "address": "인천광역시 강화군 양도면 강화남로 606-1"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -4298,7 +4722,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로 229-12"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4315,7 +4741,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청룡로30번길 2 (옥련동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -4332,7 +4760,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로329번길 19-3 (청라동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 56
  },
  {
   "section": "food",
@@ -4342,14 +4772,16 @@
   "lat": 37.4462216093,
   "lng": 126.3841369444,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/4869F71CAA744C3D98F2186CFF995983",
   "i18n": {
    "ko": {
     "name": "을왕리꾸덕집",
     "desc": "",
     "address": "인천광역시 영종구 용유서로174번길 44"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 398
  },
  {
   "section": "food",
@@ -4366,7 +4798,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유로745번길 14 (을왕동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -4383,7 +4817,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유서로274번길 13 (을왕동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -4400,7 +4836,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 토금중로 6 (용현동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -4417,7 +4855,9 @@
     "desc": "",
     "address": "인천광역시 연수구 송도국제대로 123"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 18
  },
  {
   "section": "food",
@@ -4434,7 +4874,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 인중로26번길 25 (도원동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 184
  },
  {
   "section": "food",
@@ -4444,14 +4886,16 @@
   "lat": 37.5270955245,
   "lng": 126.6994947978,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2212591552939eb229a0d9496ca67a457c6ca50c?original",
   "i18n": {
    "ko": {
     "name": "인동잔치국수",
     "desc": "",
     "address": "인천광역시 계양구 효서로 31-1"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -4468,7 +4912,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 우현로67번길 57"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -4536,7 +4982,9 @@
     "desc": "",
     "address": "인천광역시 연수구 아트센터대로 203"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 109
  },
  {
   "section": "food",
@@ -4570,7 +5018,9 @@
     "desc": "",
     "address": "인천광역시 검단구 원당대로819번길 38 (원당동)"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -4587,7 +5037,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 삼랑성길 (7, 라인빌딩)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -4597,14 +5049,16 @@
   "lat": 37.6286669204,
   "lng": 126.3775241904,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b9caed76c68707dcc1e0b6dea41aff867a82ea52?original",
   "i18n": {
    "ko": {
     "name": "장곶횟집",
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 2532"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -4621,7 +5075,9 @@
     "desc": "",
     "address": "인천광역시 계양구 장기로2번길 5 (장기동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -4638,7 +5094,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청량로46번길 30 (동춘동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -4648,14 +5106,16 @@
   "lat": 37.6098577235,
   "lng": 126.5199783387,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/6C82C6F444464FBA87DDDAF41B93D7CF",
   "i18n": {
    "ko": {
     "name": "장어마을",
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안남로 298"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -4672,7 +5132,9 @@
     "desc": "",
     "address": "인천광역시 연수구 테크노파크로111번길 10 장풍숯불장어구이"
    }
-  }
+  },
+  "rating": 1.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -4689,7 +5151,9 @@
     "desc": "",
     "address": "인천광역시 연수구 컨벤시아대로 50 푸르지오월드마크"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 176
  },
  {
   "section": "food",
@@ -4699,14 +5163,16 @@
   "lat": 37.476041874,
   "lng": 126.628605466,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/6b25d9e032a3f5525acf601d31f6be20b1d72491?original",
   "i18n": {
    "ko": {
     "name": "전동삼치",
     "desc": "",
     "address": "인천광역시 제물포구 홍예문로68번길 29"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -4723,7 +5189,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 월미문화로 27 (북성동1가)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -4740,7 +5208,9 @@
     "desc": "",
     "address": "인천광역시 남동구 예술로204번길 35 (구월동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -4774,7 +5244,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안남로 309"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -4825,7 +5297,9 @@
     "desc": "",
     "address": "인천광역시 영종구 운중로 84 (운남동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 118
  },
  {
   "section": "food",
@@ -4842,7 +5316,9 @@
     "desc": "",
     "address": "인천광역시 영종구 운남로82번길 40 (운남동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -4859,7 +5335,9 @@
     "desc": "",
     "address": "인천광역시 연수구 하모니로 144 (송도동, 송도 지웰 푸르지오시티)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 58
  },
  {
   "section": "food",
@@ -4869,14 +5347,16 @@
   "lat": 37.4140055078,
   "lng": 126.6779471321,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4195d12c56ec37fccd2fabac635d22d0c9a910c1?original",
   "i18n": {
    "ko": {
     "name": "진시황감자탕",
     "desc": "",
     "address": "인천광역시 연수구 청능대로113번길 37"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 128
  },
  {
   "section": "food",
@@ -4893,7 +5373,9 @@
     "desc": "",
     "address": "인천광역시 서해구 신진말로 37 (가좌동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -4910,7 +5392,9 @@
     "desc": "",
     "address": "인천광역시 강화군 강화읍 해안동로1366번길 9"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -4927,7 +5411,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 신포로23번길 20"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 137
  },
  {
   "section": "food",
@@ -4944,7 +5430,9 @@
     "desc": "",
     "address": "인천광역시 영종구 햇내로안길 18-7"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 79
  },
  {
   "section": "food",
@@ -4961,7 +5449,9 @@
     "desc": "",
     "address": "인천광역시 검단구 고산후로121번안길 14 (원당동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 25
  },
  {
   "section": "food",
@@ -4978,7 +5468,9 @@
     "desc": "",
     "address": "인천광역시 부평구 신트리로 36 (부평동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -4995,7 +5487,9 @@
     "desc": "",
     "address": "인천광역시 서해구 크리스탈로 78 (청라동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5012,7 +5506,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 51-8 (덕교동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -5022,14 +5518,16 @@
   "lat": 37.3923824156,
   "lng": 126.6437369606,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/53d5d1585c1f5077c59cbef98876677ce0db76ad?original",
   "i18n": {
    "ko": {
     "name": "청년쌈밥",
     "desc": "",
     "address": "인천광역시 연수구 센트럴로 160 (송도동, 송도센트럴파크푸르지오)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -5063,7 +5561,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라라임로138번길 4-7 (청라동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -5114,7 +5614,9 @@
     "desc": "",
     "address": "인천광역시 서해구 중봉대로586번길 9-23 (청라동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -5131,7 +5633,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라라임로16번길 7 (청라동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -5165,7 +5669,9 @@
     "desc": "",
     "address": "인천광역시 서해구 로봇랜드로249번길 84 (청라동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 10
  },
  {
   "section": "food",
@@ -5182,7 +5688,9 @@
     "desc": "",
     "address": "인천광역시 연수구 대암로 38"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -5199,7 +5707,9 @@
     "desc": "",
     "address": "인천광역시 미추홀구 경인로 414 (주안동)"
    }
-  }
+  },
+  "rating": 2.4,
+  "rcount": 165
  },
  {
   "section": "food",
@@ -5216,7 +5726,9 @@
     "desc": "",
     "address": "인천광역시 영종구 운서로7번길 49 (운서동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -5233,7 +5745,9 @@
     "desc": "",
     "address": "인천광역시 강화군 삼산면 삼산남로 823"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -5250,7 +5764,9 @@
     "desc": "",
     "address": "인천광역시 강화군 내가면 중앙로 1200"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 116
  },
  {
   "section": "food",
@@ -5260,14 +5776,16 @@
   "lat": 37.451329392,
   "lng": 126.7029438172,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5b427dae00eea08ec2dedbf0cf55d4bae0edc209?original",
   "i18n": {
    "ko": {
     "name": "취홍",
     "desc": "",
     "address": "인천광역시 남동구 예술로192번길 25"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5284,7 +5802,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로170번길 45-1 (덕교동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -5301,7 +5821,9 @@
     "desc": "",
     "address": "인천광역시 영종구 은하수로 1 (중산동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -5318,7 +5840,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 제물량로 137-1 (답동)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 1
  },
  {
   "section": "food",
@@ -5335,7 +5859,9 @@
     "desc": "",
     "address": "인천광역시 영종구 잠진도길 28"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -5352,7 +5878,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 2680-16"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -5386,7 +5914,9 @@
     "desc": "",
     "address": "인천광역시 강화군 해안서로 540"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 132
  },
  {
   "section": "food",
@@ -5403,7 +5933,9 @@
     "desc": "",
     "address": "인천광역시 강화군 마니산로 254-36"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -5420,7 +5952,9 @@
     "desc": "",
     "address": "인천광역시 강화군 해안남로2845번길 27 라르고빌리조트"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -5437,7 +5971,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 길상로210번길 24"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -5454,7 +5990,9 @@
     "desc": "",
     "address": "인천광역시 강화군 해안서로 556-2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -5471,7 +6009,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 영흥면 선재로 76-16"
    }
-  }
+  },
+  "rating": 2.6,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -5488,7 +6028,9 @@
     "desc": "",
     "address": "인천광역시 계양구 성안길 22"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 15
  },
  {
   "section": "food",
@@ -5505,7 +6047,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 영흥면 영흥서로418번길 47"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -5522,7 +6066,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청량로155번길 39-5"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -5539,7 +6085,9 @@
     "desc": "",
     "address": "인천광역시 검단구 정서진5로 29 (오류동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5549,14 +6097,16 @@
   "lat": 37.4739641761,
   "lng": 126.6194619135,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/343fa3f5a2337d1321cb3cf88b910d18a8b2a6a6?original",
   "i18n": {
    "ko": {
     "name": "태림봉",
     "desc": "",
     "address": "인천광역시 제물포구 차이나타운로59번길 23"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -5573,7 +6123,9 @@
     "desc": "",
     "address": "인천광역시 영종구 예단포1로 2-10 운북어촌계 어항편익시설"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -5600,14 +6152,16 @@
   "lat": 37.6084977491,
   "lng": 126.4175210862,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b8481475e6fd7efe9e079214f5fefd1d5db31ec5?original",
   "i18n": {
    "ko": {
     "name": "토가",
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 1912"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 66
  },
  {
   "section": "food",
@@ -5617,14 +6171,16 @@
   "lat": 37.6888698125,
   "lng": 126.3089232569,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c08a4643e1afd4390bc997171d035232c276c9f8?original",
   "i18n": {
    "ko": {
     "name": "토담마을",
     "desc": "",
     "address": "인천광역시 강화군 삼산면 삼산남로 910"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 39
  },
  {
   "section": "food",
@@ -5641,7 +6197,9 @@
     "desc": "",
     "address": "인천광역시 서해구 염곡로 190 (석남동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -5651,14 +6209,16 @@
   "lat": 37.5928860313,
   "lng": 126.4376446762,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/40caed8f1e943eee7e25291f44355203a413863d?original",
   "i18n": {
    "ko": {
     "name": "토크라피",
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로1691번길 43-12"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 171
  },
  {
   "section": "food",
@@ -5675,7 +6235,9 @@
     "desc": "",
     "address": "인천광역시 계양구 계산로 144 (계산동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 90
  },
  {
   "section": "food",
@@ -5702,14 +6264,16 @@
   "lat": 37.4993049122,
   "lng": 126.5762068263,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ec02da88a83eb3415bfbaa2ab5b137e8cd32954c?original",
   "i18n": {
    "ko": {
     "name": "퍼플 스왈로우",
     "desc": "",
     "address": "인천광역시 영종구 영종진로66번길 15"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -5719,14 +6283,16 @@
   "lat": 37.5195015053,
   "lng": 126.6736334806,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/78fcfde05d20493793bc5326e087e89578c76a51?original",
   "i18n": {
    "ko": {
     "name": "평양옥",
     "desc": "",
     "address": "인천광역시 서해구 석곶로 23"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -5736,14 +6302,16 @@
   "lat": 37.4545145482,
   "lng": 126.6698634116,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/44cddac327598b2541f078eeb0061c887770b1c6?original",
   "i18n": {
    "ko": {
     "name": "풍전식당",
     "desc": "",
     "address": "인천광역시 미추홀구 남주길 5"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -5760,7 +6328,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 장흥로 185-9"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -5777,7 +6347,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 1833"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -5794,7 +6366,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 온수길 17-2"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -5811,7 +6385,9 @@
     "desc": "",
     "address": "인천광역시 강화군 길상면 해안남로 628"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -5828,7 +6404,9 @@
     "desc": "",
     "address": "인천광역시 연수구 인권로 26 하늘다리 한정식"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -5845,7 +6423,9 @@
     "desc": "",
     "address": "인천광역시 서해구 원적로124번길 1 (가좌동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -5862,7 +6442,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라에메랄드로163번길 3-9 (청라동)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -5879,7 +6461,9 @@
     "desc": "",
     "address": "인천광역시 강화군 화도면 해안남로 1046"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -5896,7 +6480,9 @@
     "desc": "",
     "address": "인천광역시 연수구 청량로 235 (옥련동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 32
  },
  {
   "section": "food",
@@ -5930,7 +6516,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라에메랄드로41번길 11 (청라동)"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -5947,7 +6535,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 411 (을왕동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -5981,7 +6571,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 동산로87번길 6"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -5998,7 +6590,9 @@
     "desc": "",
     "address": "인천광역시 계양구 장제로 1362 (오류동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -6015,7 +6609,9 @@
     "desc": "",
     "address": "인천광역시 영종구 용유로21번길 69 (덕교동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 89
  },
  {
   "section": "food",
@@ -6032,7 +6628,9 @@
     "desc": "",
     "address": "인천광역시 제물포구 참외전로13번길 21 (송월동2가)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 46
  },
  {
   "section": "food",
@@ -6049,7 +6647,9 @@
     "desc": "",
     "address": "인천광역시 서해구 청라커낼로319번길 3-14 (청라동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -6066,7 +6666,9 @@
     "desc": "",
     "address": "인천광역시 계양구 안남로 511 (효성동)"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -6083,7 +6685,9 @@
     "desc": "",
     "address": "인천광역시 옹진군 덕적면 덕적북로 32"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -6100,7 +6704,9 @@
     "desc": "",
     "address": "인천광역시 강화군 양도면 중앙로874번길 1"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -6134,7 +6740,9 @@
     "desc": "",
     "address": "인천광역시 영종구 마시란로 410 (을왕동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 45
  },
  {
   "section": "food",

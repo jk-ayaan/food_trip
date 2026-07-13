@@ -14,7 +14,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 세화14길 3"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 157
  },
  {
   "section": "food",
@@ -31,7 +33,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 복지로북길 4"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 17
  },
  {
   "section": "food",
@@ -48,7 +52,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중문관광로 332 (대포동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 441
  },
  {
   "section": "food",
@@ -65,7 +71,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 가시로565번길 24"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 108
  },
  {
   "section": "food",
@@ -82,7 +90,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 10"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 440
  },
  {
   "section": "food",
@@ -99,7 +109,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 월랑로 36"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -116,7 +128,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 해맞이해안로 1296"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 319
  },
  {
   "section": "food",
@@ -133,7 +147,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 1146 (상예동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 466
  },
  {
   "section": "food",
@@ -150,7 +166,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 월산로 16"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -167,7 +185,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 상모로 257"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 136
  },
  {
   "section": "food",
@@ -184,7 +204,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 일출로 259"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 95
  },
  {
   "section": "food",
@@ -201,7 +223,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림상로 111"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -218,7 +242,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 고내로7길 45-12"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -235,7 +261,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 중산간동로 2064"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -245,14 +273,16 @@
   "lat": 33.4759667087,
   "lng": 126.5481604303,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/localfiy/0D3FB3CFE1AA4A80BA9DFCB7D268E4EF",
   "i18n": {
    "ko": {
     "name": "고서방 짬뽕",
     "desc": "",
     "address": "제주특별자치도 제주시 인다5길 11-5 (아라일동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 115
  },
  {
   "section": "food",
@@ -286,7 +316,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 879 (색달동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 5115
  },
  {
   "section": "food",
@@ -303,7 +335,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 구엄동3길 56"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -320,7 +354,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 중앙로 63-9 (이도일동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -354,7 +390,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 구좌해안로 64"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 382
  },
  {
   "section": "food",
@@ -371,7 +409,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 공천포로 89"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 268
  },
  {
   "section": "food",
@@ -405,7 +445,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 광양13길 25 (이도이동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -439,7 +481,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 신엄9길 2"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -456,7 +500,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 선교로 198-5"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 102
  },
  {
   "section": "food",
@@ -507,7 +553,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 화삼북로 38"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -541,7 +589,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 한동로 119"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -558,7 +608,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 도공로 86-1"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 2
  },
  {
   "section": "food",
@@ -575,7 +627,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 수목원길 16-14 (노형동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 112
  },
  {
   "section": "food",
@@ -609,7 +663,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 형제해안로 70"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -626,7 +682,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 성산등용로 94"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 180
  },
  {
   "section": "food",
@@ -643,7 +701,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월로 137-1"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -660,7 +720,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 수동7길 54-3"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -670,14 +732,16 @@
   "lat": 33.4984915228,
   "lng": 126.5185930442,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/cfile/2264AC5052A15EB538",
   "i18n": {
    "ko": {
     "name": "그옛맛",
     "desc": "",
     "address": "제주특별자치도 제주시 서사로24길 12"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -694,7 +758,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 행원로7길 23-16"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 153
  },
  {
   "section": "food",
@@ -711,7 +777,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 하모항구로 70"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 130
  },
  {
   "section": "food",
@@ -721,14 +789,16 @@
   "lat": 33.2543165395,
   "lng": 126.5695496912,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/29a11084f20f8dce7108f11cfa9cff73415e568c?original",
   "i18n": {
    "ko": {
     "name": "금강민물장어",
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주동로 8597"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -762,7 +832,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 금악로 18"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -779,7 +851,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 김녕로6길 2"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 113
  },
  {
   "section": "food",
@@ -847,7 +921,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 중산간서로 5642"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 127
  },
  {
   "section": "food",
@@ -864,7 +940,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 일주서로 6059"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 209
  },
  {
   "section": "food",
@@ -881,7 +959,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 유수암평화5길 33-3"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -898,7 +978,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 예래로396번길 13-33"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -915,7 +997,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 내도1길 23 (내도동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 139
  },
  {
   "section": "food",
@@ -932,7 +1016,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 신영로 60-7"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -949,7 +1035,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 인다6길 35 아라힐링"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 67
  },
  {
   "section": "food",
@@ -966,7 +1054,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 하예하동로16번길 11-1"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -983,7 +1073,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 청귤로 12 (이도이동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 176
  },
  {
   "section": "food",
@@ -1000,7 +1092,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 남조로 2343"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 202
  },
  {
   "section": "food",
@@ -1034,7 +1128,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월해안로 654"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 194
  },
  {
   "section": "food",
@@ -1051,7 +1147,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 성화로9길 10 (용담이동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 100
  },
  {
   "section": "food",
@@ -1085,7 +1183,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중산간서로 695 (회수동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 76
  },
  {
   "section": "food",
@@ -1095,14 +1195,16 @@
   "lat": 33.4937545425,
   "lng": 126.4309535489,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e4d97bcbd39d7117729226fe73e68fd49ac16bff?original",
   "i18n": {
    "ko": {
     "name": "니모메",
     "desc": "",
     "address": "제주특별자치도 제주시 일주서로 7335-8"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 105
  },
  {
   "section": "food",
@@ -1119,7 +1221,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 조함해안로 428-4"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -1136,7 +1240,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 법환로 11 (법환동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -1153,7 +1259,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 동문로 59-1"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 373
  },
  {
   "section": "food",
@@ -1187,7 +1295,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 일주서로 1322-1"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -1204,7 +1314,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 518"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 144
  },
  {
   "section": "food",
@@ -1221,7 +1333,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 중엄안1길 25"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 144
  },
  {
   "section": "food",
@@ -1238,7 +1352,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 민속해안로 584"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 236
  },
  {
   "section": "food",
@@ -1272,7 +1388,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 이어도로 41 (대포동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 183
  },
  {
   "section": "food",
@@ -1289,7 +1407,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 화순로 67"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -1299,14 +1419,16 @@
   "lat": 33.2450679043,
   "lng": 126.4156104662,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/A36D375CAA4A4742A3363B10F93B9D36",
   "i18n": {
    "ko": {
     "name": "더클리프",
     "desc": "",
     "address": "제주특별자치도 서귀포시 중문관광로 154-17"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 425
  },
  {
   "section": "food",
@@ -1323,7 +1445,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 삼달로 28-1"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 35
  },
  {
   "section": "food",
@@ -1340,7 +1464,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 조함해안로 519-10"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 639
  },
  {
   "section": "food",
@@ -1357,7 +1483,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한라대학로 85 (노형동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 172
  },
  {
   "section": "food",
@@ -1367,14 +1495,16 @@
   "lat": 33.4965335254,
   "lng": 126.5261257672,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ca3ccb50840b5cca5930308e366b22acd7948501?original",
   "i18n": {
    "ko": {
     "name": "도남오거리식당",
     "desc": "",
     "address": "제주특별자치도 제주시 도남로6길 16"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -1435,7 +1565,7 @@
   "lat": 33.4927114054,
   "lng": 126.50594983,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/939093DBAD9E4F3DB978CD996D5B2E2D",
   "i18n": {
    "ko": {
     "name": "도라지식당",
@@ -1476,7 +1606,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 비자림로 607"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1493,7 +1625,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 천덕로 440-1"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1510,7 +1644,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 북성로 59 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 350
  },
  {
   "section": "food",
@@ -1527,7 +1663,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림로 478"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 124
  },
  {
   "section": "food",
@@ -1571,14 +1709,16 @@
   "lat": 33.4343908561,
   "lng": 126.3796037976,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7604d2a09fea8b2a02cdddbc92cbfee85e95d1cc?original",
   "i18n": {
    "ko": {
     "name": "돈카츠 서황",
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 장소로 205-2"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 160
  },
  {
   "section": "food",
@@ -1605,14 +1745,16 @@
   "lat": 33.5155647604,
   "lng": 126.5266586225,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2f568d393150d65807e781fac48afc6b9010f256?original",
   "i18n": {
    "ko": {
     "name": "돔베돈",
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로15길 25"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -1646,7 +1788,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 신화역사로 581"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -1663,7 +1807,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 이어도로 189 (대포동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 107
  },
  {
   "section": "food",
@@ -1680,7 +1826,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 동복로 30-2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -1697,7 +1845,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태위로 3"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -1731,7 +1881,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 두신로 112"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -1765,7 +1917,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 섭지코지로25번길 64"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 124
  },
  {
   "section": "food",
@@ -1799,7 +1953,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 부룡수길 17"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 317
  },
  {
   "section": "food",
@@ -1816,7 +1972,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 광령평화10길 13"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 98
  },
  {
   "section": "food",
@@ -1826,14 +1984,16 @@
   "lat": 33.4882477612,
   "lng": 126.4902735165,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e004baba3083a77ad0a262a9dba8b92eaffc4aed?original",
   "i18n": {
    "ko": {
     "name": "라지마할",
     "desc": "",
     "address": "제주특별자치도 제주시 신광로 43"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 48
  },
  {
   "section": "food",
@@ -1867,7 +2027,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 우정로 17 제웅1차솔내음빌리지"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 9
  },
  {
   "section": "food",
@@ -1969,7 +2131,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 하도13길 63"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 111
  },
  {
   "section": "food",
@@ -1986,7 +2150,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 천제연로188번길 6-6 (중문동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 273
  },
  {
   "section": "food",
@@ -2003,7 +2169,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 56"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -2020,7 +2188,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 용해로 45"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -2054,7 +2224,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 평화로 2783"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 115
  },
  {
   "section": "food",
@@ -2071,7 +2243,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 칠성로길 29-1"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 104
  },
  {
   "section": "food",
@@ -2088,7 +2262,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 고내1길 33"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 125
  },
  {
   "section": "food",
@@ -2105,7 +2281,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 서성일로 16"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 126
  },
  {
   "section": "food",
@@ -2149,14 +2327,16 @@
   "lat": 33.494136452,
   "lng": 126.5187959033,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/8FEA8B7B936D40B58DCED75FEBA17890",
   "i18n": {
    "ko": {
     "name": "만세국수",
     "desc": "",
     "address": "제주특별자치도 제주시 오라로 152"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -2190,7 +2370,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 고내로 13-1"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 121
  },
  {
   "section": "food",
@@ -2207,7 +2389,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 북성로 43 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 245
  },
  {
   "section": "food",
@@ -2224,7 +2408,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 972"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -2241,7 +2427,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 해맞이해안로 460"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 84
  },
  {
   "section": "food",
@@ -2251,7 +2439,7 @@
   "lat": 33.5038711465,
   "lng": 126.4975003109,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://blog.kakaocdn.net/dn/dB1EIW/btsPRmTUuCk/qhKv8AFltKSNmf2KD87ibK/img.jpg",
   "i18n": {
    "ko": {
     "name": "먹돌 제주본점",
@@ -2275,7 +2463,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 연오로 35 (오라삼동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -2309,7 +2499,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 중산간동로 5218"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -2326,7 +2518,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태위로360번길 30-8"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 69
  },
  {
   "section": "food",
@@ -2343,7 +2537,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 종달동길 23"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 134
  },
  {
   "section": "food",
@@ -2353,14 +2549,16 @@
   "lat": 33.3544670791,
   "lng": 126.7737630658,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/95440b0e558a4d548dd1ee3671271def0fc485cf?original",
   "i18n": {
    "ko": {
     "name": "모드락572",
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 가시로 572"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -2377,7 +2575,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 하가로 180"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 131
  },
  {
   "section": "food",
@@ -2394,7 +2594,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 462"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 141
  },
  {
   "section": "food",
@@ -2411,7 +2613,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 대한로 33"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 119
  },
  {
   "section": "food",
@@ -2445,7 +2649,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태신해안로 125"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -2462,7 +2668,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 일출로 267"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -2479,7 +2687,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 번영로 2454"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 118
  },
  {
   "section": "food",
@@ -2496,7 +2706,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 해맞이해안로 2526"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 135
  },
  {
   "section": "food",
@@ -2513,7 +2725,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 녹차분재로 628"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 4
  },
  {
   "section": "food",
@@ -2530,7 +2744,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 조함해안로 356"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 195
  },
  {
   "section": "food",
@@ -2547,7 +2763,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 동광본동로 21"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -2564,7 +2782,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 고내로7길 49"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -2581,7 +2801,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 조함해안로 217-1"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 855
  },
  {
   "section": "food",
@@ -2615,7 +2837,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 신서로32번길 14 (강정동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 264
  },
  {
   "section": "food",
@@ -2632,7 +2856,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 도원남로 16"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 213
  },
  {
   "section": "food",
@@ -2649,7 +2875,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 일주서로 7831 (연동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 143
  },
  {
   "section": "food",
@@ -2666,7 +2894,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 1100로 2894-49 (노형동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 95
  },
  {
   "section": "food",
@@ -2683,7 +2913,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1464"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 94
  },
  {
   "section": "food",
@@ -2700,7 +2932,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 탑동로 15 (삼도이동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 188
  },
  {
   "section": "food",
@@ -2710,14 +2944,16 @@
   "lat": 33.5103069552,
   "lng": 126.523242372,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e0e22b4313d069ce56b91380e5ec4fe6acad1034?original",
   "i18n": {
    "ko": {
     "name": "바그다드",
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로8길 34"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -2751,7 +2987,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 판포1길 16"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 160
  },
  {
   "section": "food",
@@ -2768,7 +3006,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월해안로 722"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -2785,7 +3025,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 일주서로 7089"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 214
  },
  {
   "section": "food",
@@ -2819,7 +3061,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월해안로 552-3"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 124
  },
  {
   "section": "food",
@@ -2836,7 +3080,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 동복로 11"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 111
  },
  {
   "section": "food",
@@ -2870,7 +3116,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 448"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -2887,7 +3135,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 표선동서로264번길 22"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 118
  },
  {
   "section": "food",
@@ -2921,7 +3171,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구산로 3 (아라일동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 28
  },
  {
   "section": "food",
@@ -2938,7 +3190,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 일출로 88-19"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -2948,14 +3202,16 @@
   "lat": 33.5417447548,
   "lng": 126.6727147762,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a4a2c02d52b71d510b2024722e3b43a13f32e7fe?original",
   "i18n": {
    "ko": {
     "name": "백록집",
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 함덕로 24"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -3006,7 +3262,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 막숙포로 61 (법환동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -3023,7 +3281,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 막숙포로41번길 66 (법환동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 183
  },
  {
   "section": "food",
@@ -3040,7 +3300,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중문관광로72번길 29-9 신우성타운"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 146
  },
  {
   "section": "food",
@@ -3050,14 +3312,16 @@
   "lat": 33.4649816279,
   "lng": 126.7102243865,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5c5a6573f5d63f59bf486e92f39863aaf70477c4?original",
   "i18n": {
    "ko": {
     "name": "베카신",
     "desc": "",
     "address": "제주특별자치도 제주시 우진오름길 144"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -3074,7 +3338,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 효돈로 54 (신효동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 145
  },
  {
   "section": "food",
@@ -3108,7 +3374,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 은수길 65"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -3142,7 +3410,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 626 (회수동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 61
  },
  {
   "section": "food",
@@ -3159,7 +3429,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 봉성로 66"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 59
  },
  {
   "section": "food",
@@ -3176,7 +3448,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 영어도시로 64"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 193
  },
  {
   "section": "food",
@@ -3193,7 +3467,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대청로 33 (강정동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 135
  },
  {
   "section": "food",
@@ -3227,7 +3503,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 월드컵로 63 (법환동)"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -3244,7 +3522,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구남동2길 26"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 290
  },
  {
   "section": "food",
@@ -3261,7 +3541,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 동류암로 33"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 341
  },
  {
   "section": "food",
@@ -3278,7 +3560,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 형제해안로 30"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -3295,7 +3579,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중산간동로 4255"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -3312,7 +3598,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 가령로4길 3"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 151
  },
  {
   "section": "food",
@@ -3346,7 +3634,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 산록서로 383"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -3363,7 +3653,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림로 406"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 101
  },
  {
   "section": "food",
@@ -3380,7 +3672,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림해안로 311"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 102
  },
  {
   "section": "food",
@@ -3390,14 +3684,16 @@
   "lat": 33.5280378892,
   "lng": 126.8420753877,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/31915a14bef6ee397ddf163b7e606ac10b31c1e6?original",
   "i18n": {
    "ko": {
     "name": "비지곶식당",
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 일주동로 3002"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -3407,14 +3703,16 @@
   "lat": 33.50838254,
   "lng": 126.7200169877,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/6CEAD3D337854F40890BB440A6A4C05A",
   "i18n": {
    "ko": {
     "name": "비케이브",
     "desc": "",
     "address": "제주특별자치도 제주시 동백로 122"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 33
  },
  {
   "section": "food",
@@ -3431,7 +3729,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 중산간동로 2255"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -3465,7 +3765,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 사계남로 214"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 160
  },
  {
   "section": "food",
@@ -3482,7 +3784,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 동문로4길 12 (일도일동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 96
  },
  {
   "section": "food",
@@ -3499,7 +3803,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 최남단해안로 412"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 152
  },
  {
   "section": "food",
@@ -3516,7 +3822,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 임항로 34"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 377
  },
  {
   "section": "food",
@@ -3533,7 +3841,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 572"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -3550,7 +3860,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 삼성로 41"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 277
  },
  {
   "section": "food",
@@ -3567,7 +3879,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 삼무로3길 46-1"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 284
  },
  {
   "section": "food",
@@ -3584,7 +3898,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 색달중앙로 33"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 99
  },
  {
   "section": "food",
@@ -3601,7 +3917,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중정로 25 (서귀동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 142
  },
  {
   "section": "food",
@@ -3635,7 +3953,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 하귀9길 14"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -3662,14 +3982,16 @@
   "lat": 33.2450679043,
   "lng": 126.4156104662,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b7e732f10990bcff9f00a42c3a6a2ba82e7df324?original",
   "i18n": {
    "ko": {
     "name": "색달해녀의집",
     "desc": "",
     "address": "제주특별자치도 서귀포시 중문관광로 154-17"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -3686,7 +4008,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 호근서호로 20-14 (호근동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -3703,7 +4027,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 신양로122번길 17"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 552
  },
  {
   "section": "food",
@@ -3754,7 +4080,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 솜반천로55번길 12-8"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -3771,7 +4099,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 조천리"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -3788,7 +4118,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 선흘서2길 22"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 161
  },
  {
   "section": "food",
@@ -3805,7 +4137,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 선교로 212"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 143
  },
  {
   "section": "food",
@@ -3856,7 +4190,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 고성오조로 11"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 153
  },
  {
   "section": "food",
@@ -3907,7 +4243,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 일출로 220"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 101
  },
  {
   "section": "food",
@@ -3924,7 +4262,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 한도로 255"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 122
  },
  {
   "section": "food",
@@ -3941,7 +4281,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 성읍정의현로 74"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -3958,7 +4300,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 태평로 449 (서귀동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 127
  },
  {
   "section": "food",
@@ -3975,7 +4319,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 서광남로115번길 12"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -3992,7 +4338,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 2196"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 495
  },
  {
   "section": "food",
@@ -4009,7 +4357,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1240-3"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -4026,7 +4376,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 연동12길 37"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 130
  },
  {
   "section": "food",
@@ -4043,7 +4395,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 우도면 우도해안길 1158"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 469
  },
  {
   "section": "food",
@@ -4060,7 +4414,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 부두로 23 (서귀동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 201
  },
  {
   "section": "food",
@@ -4070,14 +4426,16 @@
   "lat": 33.4769510167,
   "lng": 126.7890922698,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2b24f472e55c1e6cc5bd8963e1431395a224e119?original",
   "i18n": {
    "ko": {
     "name": "송당나무",
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 송당5길 68-140"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -4094,7 +4452,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로 2-1"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 116
  },
  {
   "section": "food",
@@ -4111,7 +4471,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 쇠소깍로 156 (하효동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 22
  },
  {
   "section": "food",
@@ -4128,7 +4490,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태수로608번길 84"
    }
-  }
+  },
+  "rating": 4.9,
+  "rcount": 216
  },
  {
   "section": "food",
@@ -4145,7 +4509,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 동일하모로98번길 48-59"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 107
  },
  {
   "section": "food",
@@ -4162,7 +4528,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태위로 17"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -4172,14 +4540,16 @@
   "lat": 33.2453646181,
   "lng": 126.5612617215,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ba0e34286956b263ae3f8cfa9ee545b178fec8e1?original",
   "i18n": {
    "ko": {
     "name": "수희식당",
     "desc": "",
     "address": "제주특별자치도 서귀포시 태평로 377"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -4213,7 +4583,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 통물길 30"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -4230,7 +4602,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로 32-1 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -4247,7 +4621,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 사계남로216번길 24-73"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 355
  },
  {
   "section": "food",
@@ -4264,7 +4640,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 무근성3길 9 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 42
  },
  {
   "section": "food",
@@ -4281,7 +4659,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 일주동로 5023"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -4298,7 +4678,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 상고길 47"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -4315,7 +4697,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 보성구억로 223"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -4349,7 +4733,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 해안마을5길 29 (해안동)"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 154
  },
  {
   "section": "food",
@@ -4383,7 +4769,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 오복2길 23 (이도이동)"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -4400,7 +4788,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 월드컵로 8 (강정동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 122
  },
  {
   "section": "food",
@@ -4417,7 +4807,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 신양로 112"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 97
  },
  {
   "section": "food",
@@ -4434,7 +4826,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로13길 13 (일도일동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 178
  },
  {
   "section": "food",
@@ -4451,7 +4845,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월로 87-16"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -4468,7 +4864,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 하귀로25길 2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 74
  },
  {
   "section": "food",
@@ -4485,7 +4883,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월로1길 19-8"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 118
  },
  {
   "section": "food",
@@ -4502,7 +4902,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 하도9길 72"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 8
  },
  {
   "section": "food",
@@ -4519,7 +4921,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 홍중로 99 (서홍동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 150
  },
  {
   "section": "food",
@@ -4553,7 +4957,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 동문로6길 4"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 584
  },
  {
   "section": "food",
@@ -4563,14 +4969,16 @@
   "lat": 33.2543617354,
   "lng": 126.6171816748,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/328b34e2b331f236eb9357c2c664bbc51a7d6009?original",
   "i18n": {
    "ko": {
     "name": "아서원",
     "desc": "",
     "address": "제주특별자치도 서귀포시 칠십리로 699 (하효동)"
    }
-  }
+  },
+  "rating": 2.5,
+  "rcount": 144
  },
  {
   "section": "food",
@@ -4587,7 +4995,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로8길 31"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -4621,7 +5031,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 봉개동"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 30
  },
  {
   "section": "food",
@@ -4631,14 +5043,16 @@
   "lat": 33.2442786707,
   "lng": 126.5640615038,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/29d0018f84511abb50d5b36119c56ab010a541dc?original",
   "i18n": {
    "ko": {
     "name": "안거리 밖거리",
     "desc": "",
     "address": "제주특별자치도 서귀포시 솔동산로 6-1"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 121
  },
  {
   "section": "food",
@@ -4655,7 +5069,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 오일장중길 89-16 (도두일동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 363
  },
  {
   "section": "food",
@@ -4706,7 +5122,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 연명로 543"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -4757,7 +5175,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 일주서로 6111"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -4774,7 +5194,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월해안로 11"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 91
  },
  {
   "section": "food",
@@ -4808,7 +5230,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 신평로 32"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -4842,7 +5266,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 청수동8길 3"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 154
  },
  {
   "section": "food",
@@ -4859,7 +5285,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 중산간동로 3147-7"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 154
  },
  {
   "section": "food",
@@ -4876,7 +5304,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 2244"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -4886,14 +5316,16 @@
   "lat": 33.4909364471,
   "lng": 126.4962284931,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/EAA89A22BC3144DA94F580850684F4D9",
   "i18n": {
    "ko": {
     "name": "어장군",
     "desc": "",
     "address": "제주특별자치도 제주시 신대로 72"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -4927,7 +5359,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 색달로 10 (색달동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 1086
  },
  {
   "section": "food",
@@ -4944,7 +5378,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 세평항로 14"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 174
  },
  {
   "section": "food",
@@ -4961,7 +5397,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 신광로10길 29 (연동)"
    }
-  }
+  },
+  "rating": 1.9,
+  "rcount": 177
  },
  {
   "section": "food",
@@ -4978,7 +5416,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 상가로 51"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 96
  },
  {
   "section": "food",
@@ -4995,7 +5435,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 녹근로 19-15"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 37
  },
  {
   "section": "food",
@@ -5012,7 +5454,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 470"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 139
  },
  {
   "section": "food",
@@ -5029,7 +5473,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 이어도로 679 (강정동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 125
  },
  {
   "section": "food",
@@ -5046,7 +5492,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성읍민속로 130"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -5056,14 +5504,16 @@
   "lat": 33.2496475788,
   "lng": 126.5675888551,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7dd60dd608872dd4ebeeb25ec9b3651d890a29ff?original",
   "i18n": {
    "ko": {
     "name": "오는정김밥",
     "desc": "",
     "address": "제주특별자치도 서귀포시 동문동로 2"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 993
  },
  {
   "section": "food",
@@ -5080,7 +5530,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 중산간동로 4772"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 146
  },
  {
   "section": "food",
@@ -5090,14 +5542,16 @@
   "lat": 33.5421641344,
   "lng": 126.6715954192,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2873182ced826e8ca3b74d0f87a032fa609f37bc?original",
   "i18n": {
    "ko": {
     "name": "오드랑베이커리",
     "desc": "",
     "address": "제주특별자치도 제주시 조함해안로 552-3"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 681
  },
  {
   "section": "food",
@@ -5114,7 +5568,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태위로 129"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 38
  },
  {
   "section": "food",
@@ -5131,7 +5587,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 오라로 80"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 23
  },
  {
   "section": "food",
@@ -5182,7 +5640,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 해맞이해안로 1026"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -5199,7 +5659,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 상예로 248"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 86
  },
  {
   "section": "food",
@@ -5216,7 +5678,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 한도로 141-13"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 73
  },
  {
   "section": "food",
@@ -5233,7 +5697,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조공포길 36 (외도일동)"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -5267,7 +5733,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서부두남길 12"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -5284,7 +5752,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 일주동로 1437"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -5301,7 +5771,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 330"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -5311,7 +5783,7 @@
   "lat": 33.4914891794,
   "lng": 126.4972061735,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/2273A98D733B48C59C592E91E1FBA51B",
   "i18n": {
    "ko": {
     "name": "올래국수",
@@ -5328,14 +5800,16 @@
   "lat": 33.2372591895,
   "lng": 126.5128244343,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a056a0a09a23be4bf20914a302d370443ec20f89?original",
   "i18n": {
    "ko": {
     "name": "올레안뜰",
     "desc": "",
     "address": "제주특별자치도 서귀포시 법환로 24"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -5352,7 +5826,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로8길 24-1 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 84
  },
  {
   "section": "food",
@@ -5369,7 +5845,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 동일하모로 238"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 142
  },
  {
   "section": "food",
@@ -5386,7 +5864,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 중산간동로 4610"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -5403,7 +5883,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 일주서로 7345 (외도이동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 174
  },
  {
   "section": "food",
@@ -5420,7 +5902,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 수덕5길 85-7"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 60
  },
  {
   "section": "food",
@@ -5437,7 +5921,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 교래3길 23"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 225
  },
  {
   "section": "food",
@@ -5471,7 +5957,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 금악동길 38"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 183
  },
  {
   "section": "food",
@@ -5488,7 +5976,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 저지12길 103"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -5505,7 +5995,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중산간서로 726 (중문동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 91
  },
  {
   "section": "food",
@@ -5522,7 +6014,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 남원회관로 53"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -5573,7 +6067,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 태평로 406-1 (서귀동)"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 495
  },
  {
   "section": "food",
@@ -5590,7 +6086,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 속골로 13-7 (호근동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 85
  },
  {
   "section": "food",
@@ -5641,7 +6139,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월로1길 24-3"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 171
  },
  {
   "section": "food",
@@ -5651,14 +6151,16 @@
   "lat": 33.5085574275,
   "lng": 126.540738113,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3f7387c7544847d3c6eb63a29a9b3ed1e68ede73?original",
   "i18n": {
    "ko": {
     "name": "은희네해장국",
     "desc": "",
     "address": "제주특별자치도 제주시 고마로13길 8"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 329
  },
  {
   "section": "food",
@@ -5692,7 +6194,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 종달로1길 26-1"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 131
  },
  {
   "section": "food",
@@ -5709,7 +6213,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성읍정의현로22번길 14"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -5743,7 +6249,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 일주서로 7213"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 579
  },
  {
   "section": "food",
@@ -5760,7 +6268,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 64"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 91
  },
  {
   "section": "food",
@@ -5777,7 +6287,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 하례망장포로 4"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -5794,7 +6306,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 일과대수로27번길 22"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -5811,7 +6325,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 943"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -5845,7 +6361,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 오광로 128"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -5862,7 +6380,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 용화로 57-1 (용담이동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 116
  },
  {
   "section": "food",
@@ -5879,7 +6399,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 신엄안2길 54-1"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 166
  },
  {
   "section": "food",
@@ -5896,7 +6418,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 동홍동로 7 (동홍동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 141
  },
  {
   "section": "food",
@@ -5913,7 +6437,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 남조로 2185"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 112
  },
  {
   "section": "food",
@@ -5930,7 +6456,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 중앙로 63-11"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -5947,7 +6475,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 태평로92번길 8"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 1109
  },
  {
   "section": "food",
@@ -6015,7 +6545,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월로19길 31"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 401
  },
  {
   "section": "food",
@@ -6032,7 +6564,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 도령로7길 20 신광아파트"
    }
-  }
+  },
+  "rating": 1.9,
+  "rcount": 446
  },
  {
   "section": "food",
@@ -6066,7 +6600,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 아란서길 110 (아라일동)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 65
  },
  {
   "section": "food",
@@ -6100,7 +6636,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월로 106-1"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 166
  },
  {
   "section": "food",
@@ -6117,7 +6655,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 서삼중로 94"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -6134,7 +6674,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 서성일로 63"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 144
  },
  {
   "section": "food",
@@ -6185,7 +6727,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 218"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -6202,7 +6746,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 조수7길 8"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 50
  },
  {
   "section": "food",
@@ -6219,7 +6765,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 월랑로4길 6 (노형동)"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 110
  },
  {
   "section": "food",
@@ -6229,14 +6777,16 @@
   "lat": 33.3332080432,
   "lng": 126.2308467693,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/65227FFC990B4CB7A2CE0403B9D2584C",
   "i18n": {
    "ko": {
     "name": "제주돗",
     "desc": "",
     "address": "제주특별자치도 제주시 한경면 조수2길 34"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 92
  },
  {
   "section": "food",
@@ -6253,7 +6803,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 연북로 724"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 31
  },
  {
   "section": "food",
@@ -6270,7 +6822,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 일출로 255"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 171
  },
  {
   "section": "food",
@@ -6287,7 +6841,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 신양로 101"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 84
  },
  {
   "section": "food",
@@ -6304,7 +6860,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 비자림로 685"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -6338,7 +6896,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 월대1길 10 (외도이동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 41
  },
  {
   "section": "food",
@@ -6355,7 +6915,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 가령로 19 (이도이동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 324
  },
  {
   "section": "food",
@@ -6365,14 +6927,16 @@
   "lat": 33.2551612466,
   "lng": 126.4163601758,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/50A31DD1D61843848F2943427AFEB919",
   "i18n": {
    "ko": {
     "name": "제주미향",
     "desc": "",
     "address": "제주특별자치도 서귀포시 천제연로 99"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 158
  },
  {
   "section": "food",
@@ -6389,7 +6953,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 송당2길 7-1"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 14
  },
  {
   "section": "food",
@@ -6406,7 +6972,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 사계남로84번길 6"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 459
  },
  {
   "section": "food",
@@ -6423,7 +6991,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 60"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 195
  },
  {
   "section": "food",
@@ -6440,7 +7010,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 무근성7길 24 (삼도이동)"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 198
  },
  {
   "section": "food",
@@ -6457,7 +7029,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중앙로 35 (서귀동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 227
  },
  {
   "section": "food",
@@ -6474,7 +7048,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 탑동로 119 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -6542,7 +7118,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 월대3길 14-6"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 72
  },
  {
   "section": "food",
@@ -6559,7 +7137,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 대평감산로 12"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 748
  },
  {
   "section": "food",
@@ -6576,7 +7156,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 하소로 1"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -6593,7 +7175,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 진동로 3 (화북일동, 건하주택)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -6603,14 +7187,16 @@
   "lat": 33.4918621597,
   "lng": 126.8931273496,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/efedd8377bbcc303e0a1491981ddf5dd977f8749?original",
   "i18n": {
    "ko": {
     "name": "종달수다뜰",
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 용눈이오름로 8"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 211
  },
  {
   "section": "food",
@@ -6627,7 +7213,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한북로 176 (오등동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 62
  },
  {
   "section": "food",
@@ -6678,7 +7266,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 천제연로 97 (색달동)"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -6712,7 +7302,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 천제연로 192"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 784
  },
  {
   "section": "food",
@@ -6746,7 +7338,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중문관광로 194"
    }
-  }
+  },
+  "rating": 2.7,
+  "rcount": 52
  },
  {
   "section": "food",
@@ -6763,7 +7357,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일주서로 962 (색달동)"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 115
  },
  {
   "section": "food",
@@ -6780,7 +7376,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중문관광로 293 (대포동)"
    }
-  }
+  },
+  "rating": 2.9,
+  "rcount": 128
  },
  {
   "section": "food",
@@ -6814,7 +7412,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 고성오조로97번길 17"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 307
  },
  {
   "section": "food",
@@ -6831,7 +7431,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 사계남로 167"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -6848,7 +7450,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중동로48번길 3"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 186
  },
  {
   "section": "food",
@@ -6882,7 +7486,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 468-4 (용담삼동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 68
  },
  {
   "section": "food",
@@ -6899,7 +7505,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서광로 98"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 335
  },
  {
   "section": "food",
@@ -6916,7 +7524,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 진남로6길 20"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 49
  },
  {
   "section": "food",
@@ -6933,7 +7543,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한라대학로 31 (노형동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 121
  },
  {
   "section": "food",
@@ -6967,7 +7579,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중앙로41번길 4 천짓골식당"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 144
  },
  {
   "section": "food",
@@ -6984,7 +7598,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 546 (용담삼동)"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -7001,7 +7617,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 중산간동로 4628"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -7018,7 +7636,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 산방로 378"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 203
  },
  {
   "section": "food",
@@ -7035,7 +7655,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 창천중앙로24번길 16"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 223
  },
  {
   "section": "food",
@@ -7052,7 +7674,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 태위로398번길 7"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 104
  },
  {
   "section": "food",
@@ -7120,7 +7744,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 동백로 68"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 36
  },
  {
   "section": "food",
@@ -7137,7 +7763,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 환해장성로 75"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 117
  },
  {
   "section": "food",
@@ -7171,7 +7799,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 우도면 우도해안길 32-24"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -7188,7 +7818,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 세평항로 46-9"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 21
  },
  {
   "section": "food",
@@ -7205,7 +7837,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 한도로 269"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -7222,7 +7856,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 난드르로 49-17"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 178
  },
  {
   "section": "food",
@@ -7273,7 +7909,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 광성로 76"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -7290,7 +7928,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 위미해안로 86"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 133
  },
  {
   "section": "food",
@@ -7307,7 +7947,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 공천포로 91"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 112
  },
  {
   "section": "food",
@@ -7324,7 +7966,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 한동로 27"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 3
  },
  {
   "section": "food",
@@ -7341,7 +7985,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 금능5길 13"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 93
  },
  {
   "section": "food",
@@ -7358,7 +8004,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 남원읍 공천포로11번길 19"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 40
  },
  {
   "section": "food",
@@ -7375,7 +8023,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 일주서로 5857"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 96
  },
  {
   "section": "food",
@@ -7409,7 +8059,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 일주서로 7000"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 7
  },
  {
   "section": "food",
@@ -7426,7 +8078,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 면수1길 48"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 236
  },
  {
   "section": "food",
@@ -7443,7 +8097,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 하귀2길 45"
    }
-  }
+  },
+  "rating": 3.6,
+  "rcount": 64
  },
  {
   "section": "food",
@@ -7460,7 +8116,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 사계남로216번길 24-32 네덜란드엿보기전시관"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 128
  },
  {
   "section": "food",
@@ -7494,7 +8152,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 비자림로 1199"
    }
-  }
+  },
+  "rating": 3.7,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -7511,7 +8171,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 신중로13번길 3-5 (강정동)"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 80
  },
  {
   "section": "food",
@@ -7545,7 +8207,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월로1길 24-8"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -7562,7 +8226,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 상가목장길 84"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 129
  },
  {
   "section": "food",
@@ -7579,7 +8245,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 보성구억로126번길 34"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 51
  },
  {
   "section": "food",
@@ -7596,7 +8264,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 유수암평화5길 15-8"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 63
  },
  {
   "section": "food",
@@ -7613,7 +8283,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 중산간동로 670"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 84
  },
  {
   "section": "food",
@@ -7630,7 +8302,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 498-6 (용담삼동, 블루문)"
    }
-  }
+  },
+  "rating": 3.2,
+  "rcount": 45
  },
  {
   "section": "food",
@@ -7647,7 +8321,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 하귀10길 49-2"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 70
  },
  {
   "section": "food",
@@ -7664,7 +8340,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1112"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 160
  },
  {
   "section": "food",
@@ -7749,7 +8427,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 덕수회관로74번길 33"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 103
  },
  {
   "section": "food",
@@ -7783,7 +8463,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 수목원길 51 (연동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 92
  },
  {
   "section": "food",
@@ -7817,7 +8499,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 표선면 민속해안로 40"
    }
-  }
+  },
+  "rating": 2.3,
+  "rcount": 11
  },
  {
   "section": "food",
@@ -7827,14 +8511,16 @@
   "lat": 33.285511671,
   "lng": 126.3032220973,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b668a840098a1e30d3bfd2c7b5269cffc56aded3?original",
   "i18n": {
    "ko": {
     "name": "풀베개",
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 화순서서로 492-4"
    }
-  }
+  },
+  "rating": 2.2,
+  "rcount": 200
  },
  {
   "section": "food",
@@ -7844,14 +8530,16 @@
   "lat": 33.4782462172,
   "lng": 126.4982369392,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/979049dbb3d3c8dfb69dae3761cf996ed2b059b4?original",
   "i18n": {
    "ko": {
     "name": "풍천만가",
     "desc": "",
     "address": "제주특별자치도 제주시 아연로 40"
    }
-  }
+  },
+  "rating": 3.3,
+  "rcount": 29
  },
  {
   "section": "food",
@@ -7868,7 +8556,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 금능7길 22"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -7902,7 +8592,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 아연로 444-1 (오등동)"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 53
  },
  {
   "section": "food",
@@ -7936,7 +8628,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 속골로 29-10 (호근동)"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 366
  },
  {
   "section": "food",
@@ -7970,7 +8664,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 하귀동남4길 4"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 132
  },
  {
   "section": "food",
@@ -8004,7 +8700,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 일주서로 5892"
    }
-  }
+  },
+  "rating": 3.4,
+  "rcount": 56
  },
  {
   "section": "food",
@@ -8021,7 +8719,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 우도해안길 532"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 248
  },
  {
   "section": "food",
@@ -8038,7 +8738,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 중산간동로 8128-6"
    }
-  }
+  },
+  "rating": 3.1,
+  "rcount": 20
  },
  {
   "section": "food",
@@ -8055,7 +8757,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 아연로 182 (오라이동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 27
  },
  {
   "section": "food",
@@ -8072,7 +8776,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 산록남로 675"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 346
  },
  {
   "section": "food",
@@ -8089,7 +8795,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 도남로 104 (도남동, 백록아파트)"
    }
-  }
+  },
+  "rating": 5.0,
+  "rcount": 5
  },
  {
   "section": "food",
@@ -8106,7 +8814,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림해안로 141"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 12
  },
  {
   "section": "food",
@@ -8123,7 +8833,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 신북로 489"
    }
-  }
+  },
+  "rating": 4.8,
+  "rcount": 134
  },
  {
   "section": "food",
@@ -8157,7 +8869,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 2265"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 55
  },
  {
   "section": "food",
@@ -8174,7 +8888,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월해안로 591"
    }
-  }
+  },
+  "rating": 2.8,
+  "rcount": 54
  },
  {
   "section": "food",
@@ -8191,7 +8907,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서해안로 498 (용담삼동)"
    }
-  }
+  },
+  "rating": 3.0,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -8208,7 +8926,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구좌읍 동복로 33"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 154
  },
  {
   "section": "food",
@@ -8242,7 +8962,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 애월읍 애월해안로 682"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 82
  },
  {
   "section": "food",
@@ -8259,7 +8981,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 성산읍 신고로 30-1"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 198
  },
  {
   "section": "food",
@@ -8269,14 +8993,16 @@
   "lat": 33.5000525164,
   "lng": 126.5220815945,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ad483d90bea13e0a594366ea6d8acc51827fe317?original",
   "i18n": {
    "ko": {
     "name": "행복밀",
     "desc": "",
     "address": "제주특별자치도 제주시 서광로 239 (삼도일동)"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 156
  },
  {
   "section": "food",
@@ -8286,14 +9012,16 @@
   "lat": 33.2411790255,
   "lng": 126.5648726139,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d679afe3298dabf5cfd966a7f19f06eac41baff8?original",
   "i18n": {
    "ko": {
     "name": "향원복집",
     "desc": "",
     "address": "제주특별자치도 서귀포시 부두로 43"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 19
  },
  {
   "section": "food",
@@ -8327,7 +9055,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 원당북로 197-20"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 24
  },
  {
   "section": "food",
@@ -8378,7 +9108,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 협재3길 19"
    }
-  }
+  },
+  "rating": 1.7,
+  "rcount": 57
  },
  {
   "section": "food",
@@ -8395,7 +9127,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림로 475"
    }
-  }
+  },
+  "rating": 4.3,
+  "rcount": 164
  },
  {
   "section": "food",
@@ -8412,7 +9146,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 구남로 22 (이도이동)"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 88
  },
  {
   "section": "food",
@@ -8429,7 +9165,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 일출로 86"
    }
-  }
+  },
+  "rating": 3.9,
+  "rcount": 87
  },
  {
   "section": "food",
@@ -8463,7 +9201,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림로 158"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -8480,7 +9220,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 하소로 681-13"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 97
  },
  {
   "section": "food",
@@ -8497,7 +9239,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 대정읍 하모항구로 76"
    }
-  }
+  },
+  "rating": 4.2,
+  "rcount": 277
  },
  {
   "section": "food",
@@ -8531,7 +9275,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 송당2길 2"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 47
  },
  {
   "section": "food",
@@ -8582,7 +9328,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 서사로 122-1"
    }
-  }
+  },
+  "rating": 3.5,
+  "rcount": 126
  },
  {
   "section": "food",
@@ -8599,7 +9347,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 조천읍 함덕13길 7"
    }
-  }
+  },
+  "rating": 4.5,
+  "rcount": 968
  },
  {
   "section": "food",
@@ -8616,7 +9366,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 우도해안길 32-2"
    }
-  }
+  },
+  "rating": 3.8,
+  "rcount": 44
  },
  {
   "section": "food",
@@ -8633,7 +9385,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 안덕면 난드르로 49-65"
    }
-  }
+  },
+  "rating": 4.1,
+  "rcount": 191
  },
  {
   "section": "food",
@@ -8643,7 +9397,7 @@
   "lat": 33.4800372929,
   "lng": 126.473552933,
   "phone": "",
-  "thumb": "",
+  "thumb": "https://t1.kakaocdn.net/mystore/17BFB2A47A3B4E18AF62DFCE1DFDCE21",
   "i18n": {
    "ko": {
     "name": "흑돈가 제주",
@@ -8667,7 +9421,9 @@
     "desc": "",
     "address": "제주특별자치도 서귀포시 태평로482번길 50"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 107
  },
  {
   "section": "food",
@@ -8684,7 +9440,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 신북로 454"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 221
  },
  {
   "section": "food",
@@ -8718,7 +9476,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 도남로 52 (도남동)"
    }
-  }
+  },
+  "rating": 4.7,
+  "rcount": 16
  },
  {
   "section": "food",
@@ -8769,7 +9529,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 금산5길 35-1"
    }
-  }
+  },
+  "rating": 4.6,
+  "rcount": 77
  },
  {
   "section": "food",
@@ -8786,7 +9548,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 관덕로7길 39 (삼도이동)"
    }
-  }
+  },
+  "rating": 4.0,
+  "rcount": 125
  },
  {
   "section": "food",
@@ -8803,7 +9567,9 @@
     "desc": "",
     "address": "제주특별자치도 제주시 한림읍 한림로 518"
    }
-  }
+  },
+  "rating": 4.4,
+  "rcount": 49
  },
  {
   "section": "food",
