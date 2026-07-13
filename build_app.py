@@ -250,6 +250,25 @@ a{color:inherit;text-decoration:none}img{display:block}
 .rpin i{font-style:normal;font-weight:700;font-size:10px;color:#9aa6b2;margin-left:1px}
 .rpin.on{background:var(--sea);border-color:var(--sea);color:#fff}
 .rpin.on i{color:rgba(255,255,255,.75)}
+.selrow{display:flex;gap:8px;margin-top:13px;padding-bottom:15px}
+.selbtn{flex:1;display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.15);border:1.5px solid rgba(255,255,255,.32);color:#fff;border-radius:14px;padding:11px 13px;font-size:14px;font-weight:800;cursor:pointer;min-width:0;text-align:left}
+.selbtn b{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:800}
+.selbtn .si{flex:none;font-size:16px}
+.selbtn .chev{width:15px;height:15px;flex:none;opacity:.8}
+@media(max-width:600px){.selrow{flex-direction:column;gap:7px}}
+.sheet{max-height:88vh}
+.sbody{overflow:auto;padding:0 16px;flex:1}
+.sh{font-size:12px;font-weight:800;color:#9aa6b2;padding:14px 2px 2px}
+.sgrid{display:flex;flex-wrap:wrap;gap:8px;padding:8px 0}
+.spill{display:inline-flex;align-items:center;gap:5px;border:1.5px solid var(--line);background:#fff;color:var(--ink);border-radius:999px;padding:9px 14px;font-size:13.5px;font-weight:700;cursor:pointer}
+.spill .ct{font-size:11px;color:#9aa6b2;font-weight:700}
+.spill.on{background:var(--sea);border-color:var(--sea);color:#fff}
+.spill.on .ct{color:rgba(255,255,255,.75)}
+.sgrid.big .spill{padding:11px 16px;font-size:14.5px}
+.mapsel{display:flex;align-items:center;justify-content:center;gap:7px;width:100%;margin-top:10px;border:1.5px dashed var(--line);background:var(--bg);color:var(--sub);border-radius:13px;padding:11px;font-size:13.5px;font-weight:700;cursor:pointer}
+.applybtn{margin:12px 16px calc(16px + var(--safe-b));border:0;background:var(--sea);color:#fff;border-radius:14px;padding:14px;font-size:15px;font-weight:800;cursor:pointer;flex:none}
+.applybtn:active{filter:brightness(.95)}
+.sload{color:#9aa6b2;font-size:13px;font-weight:600;padding:8px 2px}
 .maphint{position:fixed;z-index:900;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--safe-b));background:rgba(15,28,42,.82);color:#fff;font-size:12px;font-weight:600;padding:7px 14px;border-radius:999px;pointer-events:none;opacity:0;transition:.3s}
 .maphint.show{opacity:1}
 .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--sub)}
@@ -298,12 +317,13 @@ footer a{text-decoration:underline}
     <div><h1>📍 <span id="brand">부산에 가면</span></h1><p id="subtitle"></p></div>
     <div style="display:flex;gap:7px;align-items:flex-start;flex:none">
       <button class="mlbtn" id="mlBtn" aria-label="내 목록"><svg viewBox="0 0 24 24" fill="currentColor" width="15" height="15"><path d="M12 21s-7.5-4.9-9.8-9.2C.7 8.9 2.2 5.4 5.4 4.6c1.9-.5 3.9.2 5.1 1.7L12 8l1.5-1.7c1.2-1.5 3.2-2.2 5.1-1.7 3.2.8 4.7 4.3 3.2 7.2C19.5 16.1 12 21 12 21z"/></svg><b id="mlCount" hidden></b></button>
-      <button class="mlbtn" id="authBtn"><img id="authAv" alt="" hidden><span id="authLabel">로그인</span></button>
-      <div class="langs" id="langs"><button data-l="ko" class="on">한</button><button data-l="en">EN</button><button data-l="ja">日</button><button data-l="zh">中</button></div>
+      <button class="mlbtn" id="authBtn"><img id="authAv" alt="" hidden><span id="authLabel">☰</span></button>
     </div>
   </div>
-  <div class="regs" id="regs" hidden></div>
-  <div class="tabs" id="tabs"></div>
+  <div class="selrow">
+    <button class="selbtn" id="selRegion"><span class="si" id="selRegionIc">🌊</span><b id="selRegionTxt"></b><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M6 9l6 6 6-6"/></svg></button>
+    <button class="selbtn" id="selType"><span class="si" id="selTypeIc">🍜</span><b id="selTypeTxt"></b><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M6 9l6 6 6-6"/></svg></button>
+  </div>
 </div></header>
 
 <div class="tools"><div class="wrap">
@@ -313,14 +333,11 @@ footer a{text-decoration:underline}
       <button data-v="list" class="on"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg><span class="vlist"></span></button>
       <button data-v="map"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2z"/><path d="M9 4v14M15 6v14"/></svg><span class="vmap"></span></button>
     </div>
-  </div>
-  <div style="display:flex;align-items:center"><div class="chips" id="cats" style="flex:1"></div>
     <div class="dd" id="dd">
       <button class="dd-btn" id="ddBtn" type="button" aria-haspopup="true" aria-expanded="false"><svg class="lic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 6h18M6 12h12M10 18h4"/></svg><span id="ddLabel"></span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></button>
       <div class="dd-panel" id="ddPanel" role="menu"></div>
     </div>
   </div>
-  <div class="chips" id="gus"></div>
 </div></div>
 
 <div class="count" id="count"></div>
@@ -353,6 +370,29 @@ footer a{text-decoration:underline}
     <div class="mhead"><b id="rlTitle"></b><button class="mclose" id="rlClose" aria-label="닫기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div id="rmap"></div>
     <div class="rhint" id="rlHint"></div>
+  </div>
+</div>
+<div class="mlay" id="rsheet">
+  <div class="mpanel sheet">
+    <div class="mhead"><b id="rsTitle"></b><button class="mclose" id="rsClose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sbody">
+      <button class="mapsel" id="rsMap"></button>
+      <div class="sgrid" id="rsRegions"></div>
+      <div class="sh" id="rsGuH"></div>
+      <div class="sgrid" id="rsGus"></div>
+    </div>
+    <button class="applybtn" id="rsApply"></button>
+  </div>
+</div>
+<div class="mlay" id="tsheet">
+  <div class="mpanel sheet">
+    <div class="mhead"><b id="tsTitle"></b><button class="mclose" id="tsClose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sbody">
+      <div class="sgrid big" id="tsSecs"></div>
+      <div class="sh" id="tsCatH"></div>
+      <div class="sgrid" id="tsCats"></div>
+    </div>
+    <button class="applybtn" id="tsApply"></button>
   </div>
 </div>
 
@@ -520,14 +560,6 @@ const TAG='<svg class="ic" width="13" height="13" viewBox="0 0 24 24" fill="none
 const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const norm=s=>(s||"").toLowerCase().replace(/\s+/g,"");
 
-function tally(key){const m=new Map();rows().forEach(r=>{const v=key==="c"?r.c:r.g;if(v)m.set(v,(m.get(v)||0)+1)});return [...m.entries()].sort((a,b)=>b[1]-a[1])}
-function buildChips(elId,key,stateKey,nameFn){
-  const el=document.getElementById(elId),label=key==="c"?U().catLabel:U().guLabel;
-  let h=`<span class="chiplabel">${label}</span><button class="chip${state[stateKey]==="전체"?" on":""}" data-v="전체">${U().all}<i class="ct">${rows().length}</i></button>`;
-  tally(key).forEach(([v,n])=>h+=`<button class="chip${state[stateKey]===v?" on":""}" data-v="${esc(v)}">${esc(nameFn(v))}<i class="ct">${n}</i></button>`);
-  el.innerHTML=h;
-  el.onclick=e=>{const b=e.target.closest(".chip");if(!b)return;state[stateKey]=b.dataset.v;[...el.children].forEach(c=>c.classList&&c.classList.toggle("on",c===b));render()};
-}
 function fstatus(r){if(!r.ps&&!r.pe)return null;if(r.pe&&r.pe<TODAY)return "ended";if(r.ps&&r.ps>TODAY)return "upcoming";return "ongoing"}
 // 평점 정렬 점수: 평가 수가 적으면 3.0 쪽으로 평활 — 리뷰 2개짜리 5.0이 상위 독식하지 않게
 function rateScore(r){return r.rt?(r.rt*r.rc+3.0*15)/(r.rc+15):-1}
@@ -611,11 +643,18 @@ function render(){const list=filtered();document.getElementById("count").innerHT
   else document.getElementById("grid").innerHTML=list.length?list.map(card).join(""):`<div class="empty"><div class="em">🔍</div><p>${U().empty}</p></div>`}
 
 function setToolsH(){document.documentElement.style.setProperty("--toolsH",(document.querySelector(".tools").offsetHeight+document.querySelector(".hero").offsetHeight)+"px")}
-function buildTabs(){const rm=REGMETA[state.region]||{};document.getElementById("tabs").innerHTML=SEC.filter(s=>rm[s.k]).map(s=>`<button class="tab${s.k===state.sec?" on":""}" data-s="${s.k}">${s.i} ${secName(s.k)}<span class="tn">${rm[s.k]}</span></button>`).join("")}
-function buildRegs(){const el=document.getElementById("regs");el.hidden=REGIONS.length<2;
-  el.innerHTML=`<button class="reg" data-r="__map__" title="${RGT().title}">🗺️</button>`+
-  REGIONS.map(r=>{const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
-    return `<button class="reg${r.k===state.region?" on":""}" data-r="${r.k}">${r.i} ${regName(r)}<span class="rn">${tot>=1000?(tot/1000).toFixed(1)+"k":tot}</span></button>`}).join("")}
+// ── 상단 선택값 표시 (지역·구군 / 유형·분류) ──
+const SHT={
+ ko:{allArea:"전체 지역",allCat:"전체",regionT:"어디로 가시나요?",typeT:"무엇을 찾으시나요?",gu:"구·군 (선택)",cat:"세부 분류 (선택)",apply:n=>`${n.toLocaleString()}곳 보기`,applying:"보기",map:"🗺️ 지도에서 고르기",menu:"메뉴",lang:"언어"},
+ en:{allArea:"All areas",allCat:"All",regionT:"Where are you going?",typeT:"What are you looking for?",gu:"District (optional)",cat:"Category (optional)",apply:n=>`See ${n.toLocaleString()} places`,applying:"See results",map:"🗺️ Pick on the map",menu:"Menu",lang:"Language"},
+ ja:{allArea:"全地域",allCat:"すべて",regionT:"どこへ行きますか？",typeT:"何をお探しですか？",gu:"区・郡（任意）",cat:"詳細分類（任意）",apply:n=>`${n.toLocaleString()}件を見る`,applying:"見る",map:"🗺️ 地図で選ぶ",menu:"メニュー",lang:"言語"},
+ zh:{allArea:"全部地区",allCat:"全部",regionT:"您要去哪里？",typeT:"您在找什么？",gu:"区·郡（可选）",cat:"细分类（可选）",apply:n=>`查看${n.toLocaleString()}处`,applying:"查看",map:"🗺️ 在地图上选择",menu:"菜单",lang:"语言"}};
+function ST(){return SHT[state.lang]}
+function updateSelectors(){const r=REG(),s=SEC.find(x=>x.k===state.sec)||SEC[1];
+  document.getElementById("selRegionIc").textContent=r.i;
+  document.getElementById("selRegionTxt").textContent=`${regName(r)} · ${state.gu==="전체"?ST().allArea:guName(state.gu)}`;
+  document.getElementById("selTypeIc").textContent=s.i;
+  document.getElementById("selTypeTxt").textContent=`${secName(state.sec)} · ${state.cat==="전체"?ST().allCat:catName(state.cat)}`}
 // ── 지도에서 지역 선택 ──
 const RGT_D={ko:{title:"지도에서 지역 선택",hint:"라벨을 누르면 그 지역으로 이동해요 · 수도권을 확대하면 수원·안산·판교·정자·서현이 나와요"},
  en:{title:"Pick a region on the map",hint:"Tap a label to switch region · zoom into the Seoul area for Suwon·Ansan·Pangyo·Jeongja·Seohyeon"},
@@ -635,28 +674,26 @@ function rlOpen(o){document.getElementById("rlay").classList.toggle("show",o);if
   REGIONS.forEach(r=>{
     const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
     const m=L.marker(r.c,{icon:L.divIcon({className:"",html:`<div class="rpin${r.k===state.region?" on":""}">${r.i} ${regName(r)}<i>${tot>=1000?(tot/1000).toFixed(1)+"k":tot}</i></div>`,iconSize:[0,0],iconAnchor:[0,0]})});
-    m.on("click",()=>{rlOpen(false);if(r.k!==state.region)switchRegion(r.k)});
+    m.on("click",()=>{rlOpen(false);rsOpen(false);if(r.k!==state.region)switchRegion(r.k);onboardNext("region")});
     (RDETAIL.has(r.k)?rdetail:rmain).addLayer(m)});
   setTimeout(()=>rmap.invalidateSize(),80)}
 document.getElementById("rlClose").addEventListener("click",()=>rlOpen(false));
 document.getElementById("rlay").addEventListener("click",e=>{if(e.target.id==="rlay")rlOpen(false)});
 function regionUI(){
   document.getElementById("subtitle").textContent=U().sub(state.sec,rows().length);
-  buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);
+  updateSelectors();
   if(mapReady)try{map.closePopup()}catch(e){}
   renderDD();render();setToolsH()}
 function switchRegion(k){state.region=k;localStorage.setItem("bf_region",k);
   const rm=REGMETA[k]||{};
   if(!rm[state.sec]){const f=SEC.find(s=>rm[s.k]);state.sec=f?f.k:"food"}
   state.cat="전체";state.gu="전체";state.q="";document.getElementById("q").value="";
-  buildRegs();
   document.getElementById("brand").textContent=brandText();
-  buildTabs();showLoading();
+  updateSelectors();showLoading();
   ensureRegion(k).then(()=>{if(state.region!==k)return;regionUI();window.scrollTo({top:0,behavior:"instant"})})
     .catch(showLoadErr)}
 function applyLang(){const u=U();document.documentElement.lang=state.lang;
   document.getElementById("brand").textContent=brandText();
-  buildRegs();
   document.getElementById("subtitle").textContent=u.sub(state.sec,rows().length);
   document.getElementById("q").placeholder=u.search;
   document.querySelector(".vlist").textContent=u.list;document.querySelector(".vmap").textContent=u.map;
@@ -668,16 +705,15 @@ function applyLang(){const u=U();document.documentElement.lang=state.lang;
   if(document.getElementById("llay").classList.contains("show"))renderLL();
   renderDD();
   document.getElementById("locate").setAttribute("aria-label",LT().me);
-  document.querySelectorAll("#langs button").forEach(b=>b.classList.toggle("on",b.dataset.l===state.lang));
-  buildTabs();
-  if(DB[state.region]){buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);render()}
+  updateSelectors();
+  if(document.getElementById("rsheet").classList.contains("show"))rsRender();
+  if(document.getElementById("tsheet").classList.contains("show"))tsRender();
+  if(DB[state.region])render();
   setToolsH()}
 
 function switchSection(sec){state.sec=sec;state.cat="전체";state.gu="전체";state.q="";document.getElementById("q").value="";
-  document.getElementById("subtitle").textContent=U().sub(sec,rows().length);
-  buildTabs();buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);
   if(mapReady)try{map.closePopup()}catch(e){}
-  render();window.scrollTo({top:0,behavior:"instant"});setToolsH()}
+  regionUI();window.scrollTo({top:0,behavior:"instant"})}
 function setView(v){state.view=v;document.querySelectorAll("#viewtog button").forEach(b=>b.classList.toggle("on",b.dataset.v===v));
   document.getElementById("grid").classList.toggle("hidden",v==="map");document.getElementById("map").classList.toggle("show",v==="map");
   document.getElementById("locate").hidden=(v!=="map");
@@ -743,12 +779,13 @@ const ALOGO='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.7 12.9c0-
 function renderAuthUI(){const av=document.getElementById("authAv"),lb=document.getElementById("authLabel");
   if(fbUser){if(fbUser.photoURL){av.src=fbUser.photoURL;av.hidden=false;lb.textContent=""}
     else{av.hidden=true;lb.textContent=(fbUser.displayName||fbUser.email||"👤").split(" ")[0]}}
-  else{av.hidden=true;av.removeAttribute("src");lb.textContent=AT().login}}
+  else{av.hidden=true;av.removeAttribute("src");lb.textContent="☰"}}
 function renderLL(){const a=AT();
-  document.getElementById("llTitle").textContent=fbUser?(fbUser.displayName||a.title):a.title;
-  document.getElementById("llBody").innerHTML=fbUser
-    ?`<p class="lldesc">${esc(fbUser.email||"")}</p><button class="lbtn out" id="btnLogout">${a.logout}</button>`
-    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`}
+  document.getElementById("llTitle").textContent="☰ "+ST().menu;
+  const langs=`<div class="sh">🌐 ${ST().lang}</div><div class="sgrid">${[["ko","한국어"],["en","English"],["ja","日本語"],["zh","中文"]].map(([k,n])=>`<button class="spill${state.lang===k?" on":""}" data-lang="${k}">${n}</button>`).join("")}</div>`;
+  document.getElementById("llBody").innerHTML=(fbUser
+    ?`<p class="lldesc">${esc(fbUser.displayName||"")} · ${esc(fbUser.email||"")}</p><button class="lbtn out" id="btnLogout">${a.logout}</button>`
+    :`<p class="lldesc">${a.desc}</p><button class="lbtn g" data-prov="google">${GLOGO}<span>${a.google}</span></button><button class="lbtn a" data-prov="apple">${ALOGO}<span>${a.apple}</span></button>`)+langs}
 function llOpen(o){document.getElementById("llay").classList.toggle("show",o);if(o)renderLL()}
 function fbLogin(prov){
   const p=prov==="apple"?new firebase.auth.OAuthProvider("apple.com"):new firebase.auth.GoogleAuthProvider();
@@ -762,6 +799,8 @@ document.getElementById("llay").addEventListener("click",e=>{if(e.target.id==="l
 document.getElementById("llBody").addEventListener("click",e=>{
   const p=e.target.closest("[data-prov]");
   if(p){fbLogin(p.dataset.prov);return}
+  const lg=e.target.closest("[data-lang]");
+  if(lg){state.lang=lg.dataset.lang;localStorage.setItem("bf_lang",state.lang);applyLang();renderLL();return}
   if(e.target.closest("#btnLogout"))fbAuth.signOut().then(()=>llOpen(false))});
 fbAuth.onAuthStateChanged(async u=>{
   fbUser=u;
@@ -793,25 +832,99 @@ document.getElementById("mlist").addEventListener("click",e=>{
     const parts=rest.split("|");
     mlOpen(false);switchRegion(reg);
     ensureRegion(reg).then(()=>{
-      if(REGMETA[reg][parts[0]]){state.sec=parts[0];buildTabs()}
+      if(REGMETA[reg][parts[0]])state.sec=parts[0];
       state.mine="all";state.q=parts[1]||"";document.getElementById("q").value=state.q;
       regionUI()}).catch(()=>{});
     return;
   }
   mlOpen(false);
-  if(state.region!==ent.reg){state.region=ent.reg;localStorage.setItem("bf_region",ent.reg);buildRegs();document.getElementById("brand").textContent=brandText()}
+  if(state.region!==ent.reg){state.region=ent.reg;localStorage.setItem("bf_region",ent.reg);document.getElementById("brand").textContent=brandText()}
   if(state.sec!==ent.sec)switchSection(ent.sec);
-  else{state.cat="전체";state.gu="전체";buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName)}
+  else{state.cat="전체";state.gu="전체"}
   state.mine="all";state.q=tr(ent.r.n);document.getElementById("q").value=state.q;
-  renderDD();render();window.scrollTo({top:0,behavior:"instant"});
+  updateSelectors();renderDD();render();window.scrollTo({top:0,behavior:"instant"});
 });
 document.getElementById("locate").addEventListener("click",()=>{if(state.sort==="def")state.sort="dist";renderDD();locate()});
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
-document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
-document.getElementById("regs").addEventListener("click",e=>{const b=e.target.closest(".reg");if(!b)return;
-  if(b.dataset.r==="__map__"){rlOpen(true);return}
-  if(b.dataset.r!==state.region)switchRegion(b.dataset.r)});
-document.getElementById("langs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.lang=b.dataset.l;localStorage.setItem("bf_lang",state.lang);applyLang()});
+// ── 지역 선택 시트 ──
+let rsSel={region:"busan",gu:"전체"};
+function rsSec(){const rm=REGMETA[rsSel.region]||{};return rm[state.sec]?state.sec:(SEC.find(s=>rm[s.k])||{k:"food"}).k}
+function rsRenderGus(){
+  const el=document.getElementById("rsGus");
+  if(!DB[rsSel.region]){el.innerHTML=`<div class="sload">${U().loading}</div>`;return}
+  const list=DB[rsSel.region][rsSec()]||[];
+  const m=new Map();list.forEach(r=>{if(r.g)m.set(r.g,(m.get(r.g)||0)+1)});
+  let h=`<button class="spill${rsSel.gu==="전체"?" on":""}" data-g="전체">${ST().allArea}<span class="ct">${list.length}</span></button>`;
+  [...m.entries()].sort((a,b)=>b[1]-a[1]).forEach(([g,n])=>h+=`<button class="spill${rsSel.gu===g?" on":""}" data-g="${esc(g)}">${esc(guName(g))}<span class="ct">${n}</span></button>`);
+  el.innerHTML=h}
+function rsUpdateApply(){
+  const b=document.getElementById("rsApply");
+  if(!DB[rsSel.region]){b.textContent=ST().applying;return}
+  const list=DB[rsSel.region][rsSec()]||[];
+  b.textContent=ST().apply(rsSel.gu==="전체"?list.length:list.filter(r=>r.g===rsSel.gu).length)}
+function rsRender(){
+  document.getElementById("rsTitle").textContent="📍 "+ST().regionT;
+  document.getElementById("rsMap").textContent=ST().map;
+  document.getElementById("rsGuH").textContent=ST().gu;
+  document.getElementById("rsRegions").innerHTML=REGIONS.map(r=>{
+    const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
+    return `<button class="spill${r.k===rsSel.region?" on":""}" data-k="${r.k}">${r.i} ${regName(r)}<span class="ct">${tot>=1000?(tot/1000).toFixed(1)+"k":tot}</span></button>`}).join("");
+  rsRenderGus();rsUpdateApply()}
+function rsOpen(o){document.getElementById("rsheet").classList.toggle("show",o);if(!o)return;
+  rsSel={region:state.region,gu:state.gu};rsRender();
+  ensureRegion(rsSel.region).then(()=>{rsRenderGus();rsUpdateApply()}).catch(()=>{})}
+document.getElementById("rsRegions").addEventListener("click",e=>{const b=e.target.closest("[data-k]");if(!b)return;
+  rsSel.region=b.dataset.k;rsSel.gu="전체";rsRender();
+  ensureRegion(rsSel.region).then(()=>{rsRenderGus();rsUpdateApply()}).catch(()=>{})});
+document.getElementById("rsGus").addEventListener("click",e=>{const b=e.target.closest("[data-g]");if(!b)return;
+  rsSel.gu=b.dataset.g;rsRenderGus();rsUpdateApply()});
+document.getElementById("rsMap").addEventListener("click",()=>rlOpen(true));
+document.getElementById("rsApply").addEventListener("click",()=>{
+  rsOpen(false);
+  if(rsSel.region!==state.region){
+    const gu=rsSel.gu;switchRegion(rsSel.region);
+    if(gu!=="전체")ensureRegion(rsSel.region).then(()=>{if(state.region===rsSel.region){state.gu=gu;regionUI()}}).catch(()=>{});
+  }else{state.gu=rsSel.gu;regionUI();window.scrollTo({top:0,behavior:"instant"})}
+  onboardNext("region")});
+document.getElementById("rsClose").addEventListener("click",()=>{rsOpen(false);endOnboard()});
+document.getElementById("rsheet").addEventListener("click",e=>{if(e.target.id==="rsheet"){rsOpen(false);endOnboard()}});
+// ── 유형 선택 시트 ──
+let tsSel={sec:"food",cat:"전체"};
+function tsRender(){
+  const rm=REGMETA[state.region]||{};
+  document.getElementById("tsTitle").textContent="🍽️ "+ST().typeT;
+  document.getElementById("tsCatH").textContent=ST().cat;
+  document.getElementById("tsSecs").innerHTML=SEC.filter(s=>rm[s.k]).map(s=>`<button class="spill${s.k===tsSel.sec?" on":""}" data-k="${s.k}">${s.i} ${secName(s.k)}<span class="ct">${rm[s.k]}</span></button>`).join("");
+  const list=(DB[state.region]||{})[tsSel.sec]||[];
+  const m=new Map();list.forEach(r=>{if(r.c)m.set(r.c,(m.get(r.c)||0)+1)});
+  let h=`<button class="spill${tsSel.cat==="전체"?" on":""}" data-c="전체">${ST().allCat}<span class="ct">${list.length}</span></button>`;
+  [...m.entries()].sort((a,b)=>b[1]-a[1]).forEach(([c,n])=>h+=`<button class="spill${tsSel.cat===c?" on":""}" data-c="${esc(c)}">${esc(catName(c))}<span class="ct">${n}</span></button>`);
+  document.getElementById("tsCats").innerHTML=h;
+  document.getElementById("tsApply").textContent=ST().apply(tsSel.cat==="전체"?list.length:(m.get(tsSel.cat)||0))}
+function tsOpen(o){document.getElementById("tsheet").classList.toggle("show",o);if(!o)return;
+  tsSel={sec:state.sec,cat:state.cat};tsRender()}
+document.getElementById("tsSecs").addEventListener("click",e=>{const b=e.target.closest("[data-k]");if(!b)return;
+  tsSel.sec=b.dataset.k;tsSel.cat="전체";tsRender()});
+document.getElementById("tsCats").addEventListener("click",e=>{const b=e.target.closest("[data-c]");if(!b)return;
+  tsSel.cat=b.dataset.c;tsRender()});
+document.getElementById("tsApply").addEventListener("click",()=>{
+  tsOpen(false);
+  const secChanged=state.sec!==tsSel.sec;
+  state.sec=tsSel.sec;state.cat=tsSel.cat;
+  if(secChanged&&state.gu!=="전체"&&!((DB[state.region]||{})[state.sec]||[]).some(r=>r.g===state.gu))state.gu="전체";
+  regionUI();window.scrollTo({top:0,behavior:"instant"});
+  onboardNext("type")});
+document.getElementById("tsClose").addEventListener("click",()=>{tsOpen(false);endOnboard()});
+document.getElementById("tsheet").addEventListener("click",e=>{if(e.target.id==="tsheet"){tsOpen(false);endOnboard()}});
+document.getElementById("selRegion").addEventListener("click",()=>rsOpen(true));
+document.getElementById("selType").addEventListener("click",()=>tsOpen(true));
+// ── 첫 방문 2단계 온보딩 ──
+let onboard=localStorage.getItem("bf_seen")?0:1;
+function endOnboard(){if(onboard){onboard=0;localStorage.setItem("bf_seen","1")}}
+function onboardNext(step){
+  if(!onboard)return;
+  if(step==="region"){onboard=2;setTimeout(()=>tsOpen(true),250)}
+  else if(step==="type")endOnboard()}
 const topBtn=document.getElementById("top");addEventListener("scroll",()=>topBtn.classList.toggle("show",state.view==="list"&&scrollY>600),{passive:true});
 topBtn.addEventListener("click",()=>scrollTo({top:0,behavior:"smooth"}));addEventListener("resize",setToolsH);
 
@@ -837,7 +950,7 @@ function visitorCounter(){
 }
 applyLang();
 showLoading();
-ensureRegion(state.region).then(()=>regionUI()).catch(showLoadErr);
+ensureRegion(state.region).then(()=>{regionUI();if(onboard===1)rsOpen(true)}).catch(showLoadErr);
 visitorCounter();
 </script>
 </body>
