@@ -154,6 +154,13 @@ a{color:inherit;text-decoration:none}img{display:block}
 .lbtn.a{background:#000;color:#fff;border-color:#000}
 .lbtn.out{color:#d2453b;border-color:#f0cdc9}
 .lbtn svg,.lbtn img{width:18px;height:18px}
+.rpanel{max-width:580px}
+#rmap{height:min(62vh,540px);width:100%;background:#dfe6ee}
+.rhint{font-size:11.5px;color:var(--sub);font-weight:600;text-align:center;padding:10px 14px calc(14px + var(--safe-b))}
+.rpin{transform:translate(-50%,-50%);display:inline-flex;align-items:center;gap:4px;background:#fff;border:1.5px solid var(--line);border-radius:999px;padding:5px 10px;font-size:12px;font-weight:800;color:var(--ink);box-shadow:0 3px 10px rgba(20,40,70,.22);white-space:nowrap;cursor:pointer}
+.rpin i{font-style:normal;font-weight:700;font-size:10px;color:#9aa6b2;margin-left:1px}
+.rpin.on{background:var(--sea);border-color:var(--sea);color:#fff}
+.rpin.on i{color:rgba(255,255,255,.75)}
 .maphint{position:fixed;z-index:900;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--safe-b));background:rgba(15,28,42,.82);color:#fff;font-size:12px;font-weight:600;padding:7px 14px;border-radius:999px;pointer-events:none;opacity:0;transition:.3s}
 .maphint.show{opacity:1}
 .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--sub)}
@@ -250,6 +257,13 @@ footer a{text-decoration:underline}
   <div class="mpanel">
     <div class="mhead"><b id="llTitle"></b><button class="mclose" id="llClose" aria-label="닫기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="llbody" id="llBody"></div>
+  </div>
+</div>
+<div class="mlay" id="rlay">
+  <div class="mpanel rpanel">
+    <div class="mhead"><b id="rlTitle"></b><button class="mclose" id="rlClose" aria-label="닫기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" width="18" height="18"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div id="rmap"></div>
+    <div class="rhint" id="rlHint"></div>
   </div>
 </div>
 
@@ -510,8 +524,33 @@ function render(){const list=filtered();document.getElementById("count").innerHT
 function setToolsH(){document.documentElement.style.setProperty("--toolsH",(document.querySelector(".tools").offsetHeight+document.querySelector(".hero").offsetHeight)+"px")}
 function buildTabs(){const rm=REGMETA[state.region]||{};document.getElementById("tabs").innerHTML=SEC.filter(s=>rm[s.k]).map(s=>`<button class="tab${s.k===state.sec?" on":""}" data-s="${s.k}">${s.i} ${secName(s.k)}<span class="tn">${rm[s.k]}</span></button>`).join("")}
 function buildRegs(){const el=document.getElementById("regs");el.hidden=REGIONS.length<2;
-  el.innerHTML=REGIONS.map(r=>{const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
+  el.innerHTML=`<button class="reg" data-r="__map__" title="${RGT().title}">🗺️</button>`+
+  REGIONS.map(r=>{const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
     return `<button class="reg${r.k===state.region?" on":""}" data-r="${r.k}">${r.i} ${regName(r)}<span class="rn">${tot>=1000?(tot/1000).toFixed(1)+"k":tot}</span></button>`}).join("")}
+// ── 지도에서 지역 선택 ──
+const RGT_D={ko:{title:"지도에서 지역 선택",hint:"라벨을 누르면 그 지역으로 이동해요 · 수도권을 확대하면 수원·안산·판교·정자·서현이 나와요"},
+ en:{title:"Pick a region on the map",hint:"Tap a label to switch region · zoom into the Seoul area for Suwon·Ansan·Pangyo·Jeongja·Seohyeon"},
+ ja:{title:"地図で地域を選択",hint:"ラベルをタップで移動 · 首都圏を拡大すると水原・安山・板橋・亭子・書峴が表示"},
+ zh:{title:"在地图上选择地区",hint:"点击标签切换地区 · 放大首都圈可见水原·安山·板桥·亭子·书岘"}};
+function RGT(){return RGT_D[state.lang]}
+let rmap=null,rmain=null,rdetail=null;
+const RDETAIL=new Set(["suwon","ansan","pangyo","jeongja","seohyeon"]);
+function rlOpen(o){document.getElementById("rlay").classList.toggle("show",o);if(!o)return;
+  document.getElementById("rlTitle").textContent="🗺️ "+RGT().title;
+  document.getElementById("rlHint").textContent=RGT().hint;
+  if(!rmap){rmap=L.map("rmap",{zoomControl:true,attributionControl:false}).setView([36.1,127.9],7);
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",{subdomains:"abcd",maxZoom:15}).addTo(rmap);
+    rmain=L.layerGroup().addTo(rmap);rdetail=L.layerGroup();
+    rmap.on("zoomend",()=>{if(rmap.getZoom()>=9)rmap.addLayer(rdetail);else rmap.removeLayer(rdetail)})}
+  rmain.clearLayers();rdetail.clearLayers();
+  REGIONS.forEach(r=>{
+    const tot=Object.values(REGMETA[r.k]).reduce((a,n)=>a+n,0);
+    const m=L.marker(r.c,{icon:L.divIcon({className:"",html:`<div class="rpin${r.k===state.region?" on":""}">${r.i} ${regName(r)}<i>${tot>=1000?(tot/1000).toFixed(1)+"k":tot}</i></div>`,iconSize:[0,0],iconAnchor:[0,0]})});
+    m.on("click",()=>{rlOpen(false);if(r.k!==state.region)switchRegion(r.k)});
+    (RDETAIL.has(r.k)?rdetail:rmain).addLayer(m)});
+  setTimeout(()=>rmap.invalidateSize(),80)}
+document.getElementById("rlClose").addEventListener("click",()=>rlOpen(false));
+document.getElementById("rlay").addEventListener("click",e=>{if(e.target.id==="rlay")rlOpen(false)});
 function regionUI(){
   document.getElementById("subtitle").textContent=U().sub(state.sec,rows().length);
   buildChips("cats","c","cat",catName);buildChips("gus","g","gu",guName);
@@ -680,7 +719,9 @@ document.getElementById("mlist").addEventListener("click",e=>{
 document.getElementById("locate").addEventListener("click",()=>{if(state.sort==="def")state.sort="dist";renderDD();locate()});
 document.getElementById("viewtog").addEventListener("click",e=>{const b=e.target.closest("button");if(b)setView(b.dataset.v)});
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b&&b.dataset.s!==state.sec)switchSection(b.dataset.s)});
-document.getElementById("regs").addEventListener("click",e=>{const b=e.target.closest(".reg");if(b&&b.dataset.r!==state.region)switchRegion(b.dataset.r)});
+document.getElementById("regs").addEventListener("click",e=>{const b=e.target.closest(".reg");if(!b)return;
+  if(b.dataset.r==="__map__"){rlOpen(true);return}
+  if(b.dataset.r!==state.region)switchRegion(b.dataset.r)});
 document.getElementById("langs").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.lang=b.dataset.l;localStorage.setItem("bf_lang",state.lang);applyLang()});
 const topBtn=document.getElementById("top");addEventListener("scroll",()=>topBtn.classList.toggle("show",state.view==="list"&&scrollY>600),{passive:true});
 topBtn.addEventListener("click",()=>scrollTo({top:0,behavior:"smooth"}));addEventListener("resize",setToolsH);
